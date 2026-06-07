@@ -1,73 +1,38 @@
-# Consent, Then Conversions — daily automated feed
+# Consent, Then Conversions
 
-This folder contains 4 files:
+A single-page dashboard that keeps you up to date on privacy-first digital
+analytics — GA4, GTM, server-side tagging, Consent Mode, ITP/Safari privacy,
+Apple Ads attribution, BigQuery, Looker Studio, and more.
+
+Instead of you checking a dozen blogs and release-note pages every morning, the
+site pulls the latest posts from all those sources into one clean, searchable
+feed. It refreshes itself once a day, automatically.
+
+## What's in this folder
 
 ```
-index.html                              ← the site (Pages serves this as the home page)
-build_signals.py                        ← script that fetches the RSS feeds and builds signals.json
-signals.json                            ← the fetched data (Actions refreshes it daily)
-.github/workflows/daily-signals.yml     ← the automation that runs once a day
+index.html        the website itself — this is what people see
+build_signals.py  a small script that goes out and collects the latest posts
+signals.json      the collected posts, saved as a data file
+.github/...yml     the schedule that re-runs the script every day
 ```
 
-On load, the site reads `signals.json` first (fast, no proxy). If that file isn't
-there, it falls back to the old browser-proxy method, and worst case it shows the
-built-in archive.
+## How it works (the short version)
 
----
+- A daily job (GitHub Actions) runs the script, which fetches the newest posts
+  from every source and saves them into `signals.json`.
+- When someone opens the site, it just reads that file — fast, and always shows
+  the latest. If anything goes wrong, it still shows a built-in archive so the
+  page is never empty.
 
-## Setup (one-time, ~5 minutes)
+You don't touch anything day to day. Set it up once, and it stays current on
+its own.
 
-> You do **not** need a new repo. Use the same repo that already has `index.html`.
-> Just replace `index.html` and add the other 3 files.
+## Good to know
 
-### 1. Add the files to your repo
-1. Open your repo on github.com.
-2. **Add file → Upload files** → drag in `index.html` (overwrite the old one when
-   asked), `build_signals.py`, and `signals.json`.
-3. The `.github` folder won't drag-drop easily, so add it manually:
-   **Add file → Create new file**, and type this as the file name (the slashes
-   create the folders automatically):
-   `.github/workflows/daily-signals.yml`
-   Then paste the contents of `daily-signals.yml` into it.
-4. **Commit changes**.
-
-### 2. Enable GitHub Pages (skip if already on)
-1. In the repo: **Settings → Pages**.
-2. **Source: Deploy from a branch**, **Branch: main**, folder **/ (root)** → **Save**.
-3. After 1–2 minutes the site is live at:
-   `https://YOURUSERNAME.github.io/your-repo/`
-
-### 3. Turn on the automation
-1. In the repo: **Settings → Actions → General**.
-2. At the bottom, **Workflow permissions** → choose **Read and write permissions**
-   → **Save**. (Required so Actions can write `signals.json` back to the repo.)
-3. Go to the **Actions** tab → pick **Build daily signals** on the left → click
-   **Run workflow** to trigger the first fetch manually.
-4. After ~1 minute `signals.json` is updated. Refresh the site — the top should
-   read "Daily feed · N sources".
-
-From then on it runs automatically every day at 06:00 UTC (~09:00 Turkey time).
-You don't have to do anything.
-
----
-
-## FAQ
-
-**Change the time.** Edit the `cron: "0 6 * * *"` line in `daily-signals.yml`.
-Use `crontab.guru` to build the schedule. For twice a day, add a second line:
-`cron: "0 6 * * *"` and `cron: "0 18 * * *"`.
-
-**Add/remove a source.** Keep the same list in two places:
-`FEEDS` in `build_signals.py` and `const FEEDS` in `index.html`. Add/remove the
-same `{cat, name, url}` entry in both.
-
-**If a source returns 403/errors.** The script skips that source, fetches the
-rest, and the site keeps working. If every source fails, the previous
-`signals.json` is preserved (no empty file is written).
-
-**Test locally.** Run `python build_signals.py` to generate `signals.json`, then
-serve the folder with `python -m http.server` and open `localhost:8000`
-(opening the file directly via `file://` may block `signals.json` from loading).
-
-**Cost.** On a public repo, GitHub Pages and Actions are free. A once-a-day job
-stays far under the monthly minutes quota.
+- **It's free.** On a public repo, both the website hosting and the daily job
+  cost nothing.
+- **Adding or removing a source** means editing the source list in two places:
+  `build_signals.py` and `index.html`. (Ask if you want a hand with this.)
+- **If one source goes down**, the script just skips it and keeps the rest — the
+  site keeps working.
