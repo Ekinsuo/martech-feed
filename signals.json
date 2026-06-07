@@ -1,0 +1,88 @@
+{
+  "generated_at": "2026-06-07T19:49:07.252171+00:00",
+  "ok_sources": 1,
+  "fail_sources": 11,
+  "count": 8,
+  "signals": [
+    {
+      "id": "live-sGTM Pantheon (GitHub commits)-0",
+      "cat": "pantheon",
+      "date": "2025-11-03",
+      "title": "Merge pull request #36 from nimrod4278/main",
+      "summary": "Merge pull request #36 from nimrod4278/main new solution to allow value based bidding of dynamic values",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/44de3ffcdce2911ac36accb35dfa5aff89b30613",
+      "live": true
+    },
+    {
+      "id": "live-sGTM Pantheon (GitHub commits)-1",
+      "cat": "pantheon",
+      "date": "2025-10-26",
+      "title": "fix broken link",
+      "summary": "fix broken link",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/b041a11506885986019a72ab392a1bb1e211ed73",
+      "live": true
+    },
+    {
+      "id": "live-sGTM Pantheon (GitHub commits)-2",
+      "cat": "pantheon",
+      "date": "2025-10-26",
+      "title": "Fix: Address reviewer comments",
+      "summary": "Fix: Address reviewer comments",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/1dabebe81bbd38efbf73c55cacb44f5481ed12a2",
+      "live": true
+    },
+    {
+      "id": "live-sGTM Pantheon (GitHub commits)-3",
+      "cat": "pantheon",
+      "date": "2025-10-23",
+      "title": "new solution to allow value bidding of dynamic values",
+      "summary": "new solution to allow value bidding of dynamic values",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/86f24c7d9561fb2e54a9223aaea741107975d04b",
+      "live": true
+    },
+    {
+      "id": "live-sGTM Pantheon (GitHub commits)-4",
+      "cat": "pantheon",
+      "date": "2025-09-03",
+      "title": "Merge pull request #35 from google-marketing-solutions/jamessexton-io…",
+      "summary": "Merge pull request #35 from google-marketing-solutions/jamessexton-io-patch-2 Fix table issues in README.md",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/ea819e2478695627620ef99b3a7035e2ea5f65f5",
+      "live": true
+    },
+    {
+      "id": "live-sGTM Pantheon (GitHub commits)-5",
+      "cat": "pantheon",
+      "date": "2025-08-28",
+      "title": "Fix table issues in README.md",
+      "summary": "Fix table issues in README.md",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/c2d297814581f1bbd74aa40a4a855719cc3d0764",
+      "live": true
+    },
+    {
+      "id": "live-sGTM Pantheon (GitHub commits)-6",
+      "cat": "pantheon",
+      "date": "2025-06-09",
+      "title": "Merge pull request #33 from google-marketing-solutions/update_reademe…",
+      "summary": "Merge pull request #33 from google-marketing-solutions/update_reademe_for_theia_and_zeus Update README.md to include theia and zues",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/9e8cbbd49f4625dc8d070db08addcb67f1ed02d2",
+      "live": true
+    },
+    {
+      "id": "live-sGTM Pantheon (GitHub commits)-7",
+      "cat": "pantheon",
+      "date": "2025-06-09",
+      "title": "Update README.md",
+      "summary": "Update README.md",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/435d5ea01b471181551b1d580bebe8a5043db450",
+      "live": true
+    }
+  ]
+}

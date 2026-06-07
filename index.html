@@ -151,6 +151,7 @@
 
   footer{border-top:1px solid var(--line);padding:26px 0 50px;margin-top:30px}
   .foot-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;font-size:12.5px;color:var(--muted);line-height:1.6}
+  .foot-note{font-size:12px;color:var(--dim);letter-spacing:.3px}
   .foot-grid h5{font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:1.5px;text-transform:capitalize;color:var(--text);margin-bottom:8px}
   .foot-grid code{font-family:'IBM Plex Mono',monospace;background:var(--elev);padding:1px 5px;border-radius:4px;font-size:11px;color:var(--accent)}
 
@@ -243,20 +244,7 @@
 
 <footer>
   <div class="wrap">
-    <div class="foot-grid">
-      <div>
-        <h5>How this page works</h5>
-        On load it shows current developments from the archive, then tries to fetch official Google Cloud / blog RSS feeds live (via a CORS proxy). If the fetch fails, the archive and direct links remain. Single file — deploys anywhere.
-      </div>
-      <div>
-        <h5>Real daily automation (Phase 2)</h5>
-        To keep it always fresh: <code>GitHub Pages</code> + a daily <code>GitHub Actions</code> job fetches the feeds and produces <code>signals.json</code>, which the page reads. Since GA4/GTM have no clean RSS, their "What's new" pages are scraped. I can set this up for you if you want.
-      </div>
-      <div>
-        <h5>Notes</h5>
-        <b>Pantheon</b> clarified: sGTM Pantheon (google-marketing-solutions/gps-sgtm-pantheon) — its GitHub commit feed is tracked live. The 25 solutions from the March 2025 MarTech catalog are <b>pinned</b> on the right. Read/star state is temporary in this version (resets when you close the page); persistence is added when we publish.
-      </div>
-    </div>
+    <div class="foot-note">Single file · privacy-first digital analytics briefing. Sources open in their original pages.</div>
   </div>
 </footer>
 
@@ -672,6 +660,28 @@ function parseFeed(xmlText, feed){
 }
 async function fetchLive(){
   const btn=document.getElementById('refresh'); btn.classList.add('spin');
+  // 1) Önce GitHub Actions'ın günde bir ürettiği signals.json'ı dene (hızlı, proxy'siz)
+  try{
+    setStatus('idle','Loading daily signals…');
+    const r=await fetch('signals.json?'+Date.now(),{cache:'no-store'});
+    if(r.ok){
+      const data=await r.json();
+      const fresh=(data.signals||[]).map((s,i)=>({...s, id:s.id||('live-'+i), live:true}));
+      if(fresh.length){
+        const seedItems=signals.filter(s=>!s.live);
+        const seen=new Set(seedItems.map(s=>s.title.toLowerCase().slice(0,50)));
+        signals=[...fresh.filter(s=>{const k=s.title.toLowerCase().slice(0,50); if(seen.has(k))return false; seen.add(k); return true;}), ...seedItems];
+        btn.classList.remove('spin');
+        const when=data.generated_at ? new Date(data.generated_at).toLocaleString('en-GB') : '';
+        setStatus('live',`Daily feed · ${data.ok_sources||fresh.length} sources`);
+        document.getElementById('updated-status').textContent=when?('· built: '+when):'';
+        render();
+        return;
+      }
+    }
+  }catch(e){ /* signals.json yok → proxy'ye düş */ }
+
+  // 2) signals.json yoksa, tarayıcıdan proxy ile canlı çekmeyi dene (fallback)
   setStatus('idle','Fetching live sources…');
   let ok=0, fail=0, fresh=[];
   await Promise.all(FEEDS.map(async f=>{
@@ -684,7 +694,6 @@ async function fetchLive(){
       if(items.length){ ok++; fresh.push(...items); } else fail++;
     }catch(e){ fail++; }
   }));
-  // mevcut canlı kayıtları temizle, başlığa göre tekilleştir
   const seedItems=signals.filter(s=>!s.live);
   const seen=new Set(seedItems.map(s=>s.title.toLowerCase().slice(0,50)));
   const merged=[...fresh.filter(s=>{const k=s.title.toLowerCase().slice(0,50); if(seen.has(k))return false; seen.add(k); return true;}), ...seedItems];
