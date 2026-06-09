@@ -1,9 +1,559 @@
 {
-  "generated_at": "2026-06-07T19:49:07.252171+00:00",
-  "ok_sources": 1,
-  "fail_sources": 11,
-  "count": 8,
+  "generated_at": "2026-06-09T06:53:40.442242+00:00",
+  "ok_sources": 9,
+  "fail_sources": 3,
+  "count": 71,
   "signals": [
+    {
+      "id": "live-BigQuery Release Notes-0",
+      "cat": "bigquery",
+      "date": "2026-06-08",
+      "title": "June 08, 2026",
+      "summary": "Feature You can analyze data lineage with Gemini Cloud Assist in BigQuery . This feature is in Preview . Feature You can now use Gemini Cloud Assist to schedule queries . This feature is in Preview . Feature You can use the Google-developed",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_08_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-06-08",
+      "title": "Stop treating search and video as separate teams",
+      "summary": "The strongest campaigns connect creative, media, search, and measurement into a single demand generation strategy. The post Stop treating search and video as separate teams appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/stop-treating-search-and-video-as-separate-teams/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-06-08",
+      "title": "Marketing on LinkedIn: What you need to know",
+      "summary": "Your guide to LinkedIn's tools, strategies and best practices. Updated with information about the new reach analytics metric. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/linkedin-the-marketers-guide/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-06-08",
+      "title": "How AI is turning lead scoring into a decision engine",
+      "summary": "Predictive models and real-time signals are replacing static scoring, helping sales focus on leads most likely to convert. The post How AI is turning lead scoring into a decision engine appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-ai-is-turning-lead-scoring-into-a-decision-engine/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-06-08",
+      "title": "Employee advocacy is a growth engine for technical B2B",
+      "summary": "Buyers trust practitioners more than corporate messaging. Employee advocacy helps technical B2B brands build authority and visibility. The post Employee advocacy is a growth engine for technical B2B appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/employee-advocacy-is-a-growth-engine-for-technical-b2b/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-06-08",
+      "title": "Release Notes for Safari Technology Preview 245",
+      "summary": "Safari Technology Preview Release 245 is now available for download for macOS Tahoe and macOS Sequoia.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/17970/release-notes-for-safari-technology-preview-245/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "cat": "privacy",
+      "date": "2026-06-08",
+      "title": "Web Technology Sessions at WWDC26",
+      "summary": "Welcome to WWDC26.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/17974/web-technology-sessions-at-wwdc26/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "cat": "privacy",
+      "date": "2026-06-08",
+      "title": "News from WWDC26: WebKit in Safari 27 beta",
+      "summary": "Safari 27 beta is here.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-06-08",
+      "title": "Find out what's new for Apple developers",
+      "summary": "Discover the latest advancements on all Apple platforms and create even more unique, intelligent experiences in your apps and games with major enhancements across languages, frameworks, tools, and services. The latest SDKs bring incredible ",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=8rgqj83s",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-1",
+      "cat": "apple",
+      "date": "2026-06-08",
+      "title": "Introducing Time Allowances",
+      "summary": "New Time Allowances in iOS 27, iPadOS 27, and macOS 27, or later, give parents more flexible ways to manage the time their kids spend in apps across categories, including Entertainment, Games, and Social Media. Time Allowances are developed",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=0d2gpmml",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-2",
+      "cat": "apple",
+      "date": "2026-06-08",
+      "title": "Updated Apple Developer Program License Agreement and App Review Guidelines now available",
+      "summary": "The Apple Developer Program License Agreement and App Review Guidelines have been revised to support new features, updated policies, and to provide clarification. Please review the changes below and sign in to your account to accept the upd",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=a233fmpw",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-06-06",
+      "title": "How to Deploy a Firebase Website as an App on Your iPhone",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/how-to-deploy-a-firebase-website-as-an-app-on-your-iphone-5b8c0cdf1cb4?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-06-05",
+      "title": "Brands want to be in and out of the closet for Pride Month",
+      "summary": "Many brands ditched public Pride support while quietly continuing to market to LGBTQ+ consumers. The post Brands want to be in and out of the closet for Pride Month appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/brands-want-to-be-in-and-out-of-the-closet-for-pride-month/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-06-05",
+      "title": "Why platform certification doesn’t equal martech transformation",
+      "summary": "The biggest risk in martech implementation may be confusing product expertise with operational competence. The post Why platform certification doesn’t equal martech transformation appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-platform-certification-doesnt-equal-martech-transformation/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-06-05",
+      "title": "Marketing measurement is breaking under its own complexity",
+      "summary": "More tools, more channels, and more data have left many marketers struggling to connect activity to outcomes. The post Marketing measurement is breaking under its own complexity appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketing-measurement-is-breaking-under-its-own-complexity/",
+      "live": true
+    },
+    {
+      "id": "live-Looker Release Notes-0",
+      "cat": "looker",
+      "date": "2026-06-04",
+      "title": "June 04, 2026",
+      "summary": "Deployment dates Announcement Looker 26.10 is expected to include the following changes, features, and fixes: Expected Looker (original) deployment start: Sunday, June 7, 2026 Expected Looker (original) final deployment and download availab",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#June_04_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-06-04",
+      "title": "AI agents can’t help if they can’t see your marketing data by Optmyzr",
+      "summary": "MCP solves the infrastructure problem that kept AI agents stuck at the analysis stage. But raw access to a live ad account is a liability without the guardrails a platform like Optmyzr provides. The post AI agents can t help if they can t s",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-agents-cant-help-if-they-cant-see-your-marketing-data/",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery Release Notes-1",
+      "cat": "bigquery",
+      "date": "2026-06-03",
+      "title": "June 03, 2026",
+      "summary": "Feature BigQuery fluid scaling , which provides per-second billing with no minimum duration for autoscaling reservations, is generally available (GA).",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_03_2026",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-3",
+      "cat": "apple",
+      "date": "2026-06-03",
+      "title": "Update for Apps Distributed in Texas",
+      "summary": "Due to a recent court ruling lifting an injunction on Texas law SB 2420, new Apple Accounts in Texas are now subject to the law, which introduced age assurance requirements for app marketplaces and developers. As previously announced , this",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=sg176nne",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-4",
+      "cat": "apple",
+      "date": "2026-06-03",
+      "title": "Apple Developer Centers are expanding to Berlin",
+      "summary": "Apple Developer Centers are dedicated spaces designed for in-person developer sessions, labs, workshops, and appointments across a wide range of Apple technologies and platforms. With locations in Cupertino, Shanghai, Bengaluru, and Singapo",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=f0jfy9py",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery Release Notes-2",
+      "cat": "bigquery",
+      "date": "2026-06-02",
+      "title": "June 02, 2026",
+      "summary": "Feature Remote functions now support a custom path in the endpoint URL. You can reuse a single Cloud Run service for multiple BigQuery remote functions by specifying different path suffixes on the same endpoint. This feature is generally av",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_02_2026",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-5",
+      "cat": "apple",
+      "date": "2026-06-02",
+      "title": "Introducing the 2026 Apple Design Award winners",
+      "summary": "Join us in celebrating these extraordinary apps and games. Meet the 2026 Apple Design Award winners",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=vbvsocwh",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery Release Notes-3",
+      "cat": "bigquery",
+      "date": "2026-06-01",
+      "title": "June 01, 2026",
+      "summary": "Change The Facebook Ads connector for the BigQuery Data Transfer Service now supports data transfers from the following Facebook Ads reports: AdInsightsMMM Ads AdCreatives AdSets Campaigns AdImages AdLabels Businesses CustomAudiences",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_01_2026",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-6",
+      "cat": "apple",
+      "date": "2026-06-01",
+      "title": "All systems glow",
+      "summary": "WWDC26 is just one week away. Get ready for five days of technology, creativity, and community — all online and free. Learn more",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=q7tgn1rr",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-05-28",
+      "title": "Data Manager API now supports sending events to Google Marketing Platform destinations and IP ingestion for Google Ads Customer Match",
+      "summary": "Google Marketing Platform event ingestion The Data Manager API has introduced support for sending offline conversion events to Google Marketing Platform products, including Campaign Manager 360, Search Ads 360, and Display & Video 360. The ",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/3456438001929556349",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-1",
+      "cat": "gads",
+      "date": "2026-05-28",
+      "title": "The “What” and “Why” on Meridian: Ads DevCast E6",
+      "summary": "Measuring the true impact of your marketing spend is complex, especially when you look across channels and mediums. In Episode 6 of Google’s Ads DevCast, \"The 'What' and 'Why' on Meridian,\" we sit down with Product Manager Katie Munro and D",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/7354819567269921332",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery Release Notes-4",
+      "cat": "bigquery",
+      "date": "2026-05-27",
+      "title": "May 27, 2026",
+      "summary": "Change An updated version of the Simba ODBC driver for BigQuery is now available.",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_27_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-2",
+      "cat": "gads",
+      "date": "2026-05-27",
+      "title": "Display & Video 360 API will start supporting Demand Gen resources on June 10, 2026",
+      "summary": "Today we’re announcing the upcoming rollout of Demand Gen resource support to all Display & Video 360 API users starting on June 10, 2026 . This feature will be rolled out to Display & Video 360 partners over two weeks. By June 24, the feat",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/5512938120006226965",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-3",
+      "cat": "gads",
+      "date": "2026-05-27",
+      "title": "Standardizing Reach Metrics with Total Co-view in the Google Ads API",
+      "summary": "Starting on June 2nd, 2026, the Google Ads API will transition reach metrics to a \"Total Co-view\" definition. This update aligns Google Ads reporting with offline media and third-party measurement standards, ensuring consistency across all ",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4159277691010699365",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-1",
+      "cat": "sgtm",
+      "date": "2026-05-27",
+      "title": "How to Secure Gemini API Keys in Google Cloud & Firebase",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/how-to-secure-gemini-api-keys-in-google-cloud-firebase-e99b6deb45e0?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery Release Notes-5",
+      "cat": "bigquery",
+      "date": "2026-05-26",
+      "title": "May 26, 2026",
+      "summary": "Feature The Data Science Agent (DSA) for Colab Enterprise and BigQuery is now generally available (GA).",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_26_2026",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-7",
+      "cat": "apple",
+      "date": "2026-05-26",
+      "title": "Get ready with the latest beta releases",
+      "summary": "The beta versions of iOS 26.6, iPadOS 26.6, macOS 26.6, tvOS 26.6, visionOS 26.6, and watchOS 26.6 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 26.5",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=tu7pk9oy",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-2",
+      "cat": "sgtm",
+      "date": "2026-05-25",
+      "title": "Automate Server-Side Google Tag Manager Updates on Cloud Run",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/automate-server-side-google-tag-manager-updates-on-cloud-run-5d40dfe792d1?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-4",
+      "cat": "gads",
+      "date": "2026-05-21",
+      "title": "Ads DevCast: Google Marketing Live 2026 bonus episode",
+      "summary": "We're excited to bring you a special bonus episode of Google’s Ads DevCast! We’re going over a few of the bigger announcements and updates from Google Marketing Live (GML) 2026 that directly affect our developers and technical users, across",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6509990699047384326",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "cat": "privacy",
+      "date": "2026-05-21",
+      "title": "Release Notes for Safari Technology Preview 244",
+      "summary": "Safari Technology Preview Release 244 is now available for download for macOS Tahoe and macOS Sequoia.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/17962/release-notes-for-safari-technology-preview-244/",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery Release Notes-6",
+      "cat": "bigquery",
+      "date": "2026-05-20",
+      "title": "May 20, 2026",
+      "summary": "Announcement BigQuery can re-execute instructions (queries) to try to proactively detect performance, correctness, or functional regressions. These re-executions will have no side effects and will happen with no additional cost or resource ",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_20_2026",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-3",
+      "cat": "sgtm",
+      "date": "2026-05-20",
+      "title": "Updating Google Tag Manager Server Side Tagging Servers",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/updating-google-tag-manager-server-side-tagging-servers-4e2440f69c7d?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery Release Notes-7",
+      "cat": "bigquery",
+      "date": "2026-05-18",
+      "title": "May 18, 2026",
+      "summary": "Feature You can group reservations together to prioritize idle slot sharing within the group. Reservations within a reservation group share idle slots with each other before making them available to other reservations in the project, giving",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_18_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-5",
+      "cat": "gads",
+      "date": "2026-05-15",
+      "title": "Changes to Offline Click Conversion Import Support in the Google Ads API",
+      "summary": "Starting on June 15, 2026, the Google Ads API will no longer accept new adopters of offline conversion imports, including enhanced conversions for leads. As with our previous announcements for session attributes and IP address , and Custome",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4657497051592448101",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-6",
+      "cat": "gads",
+      "date": "2026-05-14",
+      "title": "Announcing expanded experiment functionality in Google Ads API v24.1",
+      "summary": "We are excited to announce a significant expansion of the Google Ads A/B experiments feature set in the v24.1 release , launched yesterday, May 13, 2026. We know API functionality is critical for advertisers who manage large sophisticated a",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/5923734712827904753",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-7",
+      "cat": "gads",
+      "date": "2026-05-13",
+      "title": "Announcing v24.1 of the Google Ads API",
+      "summary": "Today, we’re announcing the v24.1 release of the Google Ads API . To use the new v24.1 features, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us fo",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/2086742490010516624",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "cat": "privacy",
+      "date": "2026-05-11",
+      "title": "WebKit Features for Safari 26.5",
+      "summary": "Safari 26.5 is here, delivering the :open pseudo-class, the element-scoped keyword for random(), color-interpolation for SVG gradients, the ToggleEvent.source property for popovers, and the Origin API.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/17938/webkit-features-for-safari-26-5/",
+      "live": true
+    },
+    {
+      "id": "live-Looker Release Notes-2",
+      "cat": "looker",
+      "date": "2026-05-08",
+      "title": "May 08, 2026",
+      "summary": "Looker (Google Cloud core) only changes Announcement Dataplex Universal Catalog is now called Knowledge Catalog. The API, client library, CLI, and Identity and Access Management (IAM) names remain unchanged. For more information, see Knowle",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#May_08_2026",
+      "live": true
+    },
+    {
+      "id": "live-Looker Release Notes-3",
+      "cat": "looker",
+      "date": "2026-05-07",
+      "title": "May 07, 2026",
+      "summary": "Deployment dates Announcement Looker 26.8 is expected to include the following changes, features, and fixes: Expected Looker (original) deployment start: Sunday, May 10, 2026 Expected Looker (original) final deployment and download availabl",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#May_07_2026",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "cat": "privacy",
+      "date": "2026-05-07",
+      "title": "Release Notes for Safari Technology Preview 243",
+      "summary": "Safari Technology Preview Release 243 is now available for download for macOS Tahoe and macOS Sequoia.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/17953/release-notes-for-safari-technology-preview-243/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "cat": "privacy",
+      "date": "2026-04-23",
+      "title": "Release Notes for Safari Technology Preview 242",
+      "summary": "Safari Technology Preview Release 242 is now available for download for macOS Tahoe and macOS Sequoia.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/17934/release-notes-for-safari-technology-preview-242/",
+      "live": true
+    },
+    {
+      "id": "live-Looker Release Notes-4",
+      "cat": "looker",
+      "date": "2026-04-20",
+      "title": "April 20, 2026",
+      "summary": "Looker (Google Cloud core) and Looker (original) changes Feature Now available in preview, the Looker VS Code Extension brings LookML development to local desktop IDEs like Visual Studio Code, Claude Code, and Cursor. The extension supports",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#April_20_2026",
+      "live": true
+    },
+    {
+      "id": "live-Looker Release Notes-5",
+      "cat": "looker",
+      "date": "2026-04-15",
+      "title": "April 15, 2026",
+      "summary": "Deployment dates Breaking Migrate your Teams webhook to \"Workflows\" Microsoft is retiring the legacy Office 365 Connectors in favor of Power Automate Workflows. Connectors will stop working by the end of April 2026. To ensure that your Look",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#April_15_2026",
+      "live": true
+    },
+    {
+      "id": "live-Looker Release Notes-6",
+      "cat": "looker",
+      "date": "2026-04-09",
+      "title": "April 09, 2026",
+      "summary": "Looker (original) only changes Announcement Starting with the Looker 26.8 release, which will release in May 2026, the following changes will occur: Looker (original) admins will no longer be able to access or manage the API credentials of ",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#April_09_2026",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-7",
+      "cat": "privacy",
+      "date": "2026-04-08",
+      "title": "Release Notes for Safari Technology Preview 241",
+      "summary": "Safari Technology Preview Release 241 is now available for download for macOS Tahoe and macOS Sequoia.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/17917/release-notes-for-safari-technology-preview-241/",
+      "live": true
+    },
+    {
+      "id": "live-Looker Release Notes-7",
+      "cat": "looker",
+      "date": "2026-04-07",
+      "title": "April 07, 2026",
+      "summary": "Deployment dates Feature The Table Visualization Improvements preview feature is now available and is disabled by default. When this preview feature is enabled, you can use the following features for table visualizations : Pagination Show/H",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#April_07_2026",
+      "live": true
+    },
+    {
+      "id": "live-Simo Ahava-0",
+      "cat": "general",
+      "date": "2026-03-13",
+      "title": "Add IPv6 Support To Your Server-side GTM Load Balancer",
+      "summary": "UPDATED 20 March 2026 : Shortly after publishing this article, Google Cloud changed how Load Balancer frontend certificate management works. Instead of directly mapping a frontend to a certificate, GCP now wants you to use a certificate map",
+      "src": "Simo Ahava",
+      "url": "https://www.simoahava.com/analytics/ipv6-support-google-cloud-load-balancer-sgtm/",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-4",
+      "cat": "sgtm",
+      "date": "2026-02-16",
+      "title": "Deploying Websites Using Firebase",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/deploying-websites-using-firebase-c7c4744a0a22?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-5",
+      "cat": "sgtm",
+      "date": "2026-02-06",
+      "title": "A Year In Books — 2025",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/a-year-in-books-2025-d4cbfaeb5148?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Simo Ahava-1",
+      "cat": "general",
+      "date": "2025-12-04",
+      "title": "Run Server-side Google Tag Manager On Localhost",
+      "summary": "Server-side Google Tag Manager is essentially a server application (running on Node.js ), which Google has helpfully composed into a Docker image . Docker , on the other hand, is an environment for creating, sharing, and running application",
+      "src": "Simo Ahava",
+      "url": "https://www.simoahava.com/analytics/run-server-side-google-tag-manager-localhost/",
+      "live": true
+    },
     {
       "id": "live-sGTM Pantheon (GitHub commits)-0",
       "cat": "pantheon",
@@ -55,6 +605,16 @@
       "live": true
     },
     {
+      "id": "live-Simo Ahava-2",
+      "cat": "general",
+      "date": "2025-08-29",
+      "title": "#GTMTips: How To Load Google Scripts From A Server Container",
+      "summary": "On June 30, 2025 , Google announced that they are consolidating how Google&rsquo;s script libraries for the web (e.g. gtm.js and gtag.js ) are loaded when using a server-side Google Tag Manager container. Before, you had the Web Container C",
+      "src": "Simo Ahava",
+      "url": "https://www.simoahava.com/gtmtips/new-way-load-google-scripts-server-container/",
+      "live": true
+    },
+    {
       "id": "live-sGTM Pantheon (GitHub commits)-5",
       "cat": "pantheon",
       "date": "2025-08-28",
@@ -62,6 +622,26 @@
       "summary": "Fix table issues in README.md",
       "src": "sGTM Pantheon (GitHub commits)",
       "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/c2d297814581f1bbd74aa40a4a855719cc3d0764",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-6",
+      "cat": "sgtm",
+      "date": "2025-07-23",
+      "title": "Calcio In Italia — Travelling from the UK to Italy to watch football: A Guide",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/calcio-in-italia-travelling-from-the-uk-to-italy-to-watch-football-a-guide-5b61968eab96?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Simo Ahava-3",
+      "cat": "general",
+      "date": "2025-06-18",
+      "title": "Common Mistakes When Working With Click Identifiers",
+      "summary": "This is a guest post by Jude Nwachukwu Onyejekwe . He is a prolific content creator, and he curates the DumbData portal, which is full of great, free resources for measurement enthusiasts. In this article, he shares some useful learnings fo",
+      "src": "Simo Ahava",
+      "url": "https://www.simoahava.com/analytics/common-mistakes-click-identifiers/",
       "live": true
     },
     {
@@ -82,6 +662,56 @@
       "summary": "Update README.md",
       "src": "sGTM Pantheon (GitHub commits)",
       "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/435d5ea01b471181551b1d580bebe8a5043db450",
+      "live": true
+    },
+    {
+      "id": "live-Simo Ahava-4",
+      "cat": "general",
+      "date": "2025-05-07",
+      "title": "Basic Consent Mode: The Guide",
+      "summary": "Google&rsquo;s Consent Mode is a way to control how tags react to the user&rsquo;s consent for different tracking purposes. It is specifically designed to work with Google&rsquo;s tags , but especially through Google Tag Manager, you can us",
+      "src": "Simo Ahava",
+      "url": "https://www.simoahava.com/analytics/basic-consent-mode-the-guide/",
+      "live": true
+    },
+    {
+      "id": "live-Simo Ahava-5",
+      "cat": "general",
+      "date": "2025-03-12",
+      "title": "Clarification On GTM Auto-Loading Google Tag For Ads And Floodlight Events",
+      "summary": "Google Tag Manager users received an email on March 11th, where Google announced a very cryptic update to Google Tag Manager: As is typical with Google&rsquo;s email communications, the email raised more questions than it answered. Even tho",
+      "src": "Simo Ahava",
+      "url": "https://www.simoahava.com/analytics/clarification-on-google-tag-manager-google-tag-update/",
+      "live": true
+    },
+    {
+      "id": "live-Simo Ahava-6",
+      "cat": "general",
+      "date": "2025-02-11",
+      "title": "#GTMTips: SGTM Fetches GA4 Configurations Automatically",
+      "summary": "One of the most popular use cases for server-side Google Tag Manager , often shared on this blog, too, is to split an incoming stream into multiple different endpoints . Since the demise of customTask for Universal Analytics (Rest In Peace!",
+      "src": "Simo Ahava",
+      "url": "https://www.simoahava.com/gtmtips/sgtm-fetches-ga4-configuration-automatically/",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-7",
+      "cat": "sgtm",
+      "date": "2025-01-07",
+      "title": "A Year In Books — 2024",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/a-year-in-books-2024-7bd496f5c5ba?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Simo Ahava-7",
+      "cat": "general",
+      "date": "2024-11-26",
+      "title": "#GTMTips: Quickly Duplicate Tags In Google Tag Manager",
+      "summary": "There are many reasons why you might want to duplicate your tags (or triggers, or variables, or templates) in Google Tag Manager. One prime example is server-side tagging , where it&rsquo;s sensible to first build and validate your tracking",
+      "src": "Simo Ahava",
+      "url": "https://www.simoahava.com/gtmtips/quickly-duplicate-tags-google-tag-manager/",
       "live": true
     }
   ]
