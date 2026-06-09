@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Consent, Then Conversions · Privacy-First Digital Analytics</title>
+<title>Daily Digital Analytics Update · Privacy-First</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -12,6 +12,7 @@
     --bg:#fff5f9; --surface:#ffffff; --elev:#fdeef4; --line:rgba(150,40,90,.13);
     --line-2:rgba(150,40,90,.24); --text:#3a1526; --muted:#8a4d68; --dim:#b487a0;
     --accent:#d6336c; --accent-soft:rgba(214,51,108,.12);
+    --accent2:#f08c3c; --accent2-soft:rgba(240,140,60,.14);
     --ga4:#f9ab00; --gtm:#4f8ef7; --bigquery:#6aa6ff; --looker:#b06cf0; --lookerstudio:#1fb6a8;
     --sgtm:#46c46e; --hardal:#e3b341; --stape:#ff7a59; --consent:#ec6a9c; --privacy:#ef5f6b;
     --patheon:#9aa0ad; --general:#8aa6c0;
@@ -50,6 +51,7 @@
 
   /* ---- HEADER ---- */
   header{border-bottom:1px solid var(--line);padding:26px 0 22px;background:rgba(255,245,249,.85);backdrop-filter:blur(8px);position:sticky;top:0;z-index:30}
+  header::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:2px;background:linear-gradient(90deg,var(--accent),var(--accent2),transparent)}
   .top{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;flex-wrap:wrap}
   .brand{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
   .logo-mark{width:13px;height:13px;border-radius:50%;background:var(--accent);box-shadow:0 0 14px var(--accent);animation:pulse 2.4s infinite}
@@ -129,7 +131,7 @@
   .act{background:transparent;border:1px solid var(--line);border-radius:7px;width:30px;height:28px;display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--muted);transition:.15s}
   .act:hover{color:var(--text);border-color:var(--text)}
   .act.on{color:var(--accent);border-color:var(--accent)}
-  .live-badge{font-family:'IBM Plex Mono',monospace;font-size:8.5px;letter-spacing:1px;color:var(--sgtm);border:1px solid color-mix(in srgb,var(--sgtm) 40%,transparent);background:color-mix(in srgb,var(--sgtm) 12%,transparent);padding:2px 6px;border-radius:4px}
+  .live-badge{font-family:'IBM Plex Mono',monospace;font-size:8.5px;letter-spacing:1px;color:var(--accent2);border:1px solid color-mix(in srgb,var(--accent2) 45%,transparent);background:var(--accent2-soft);padding:2px 6px;border-radius:4px}
   .empty{text-align:center;padding:60px 20px;color:var(--dim);font-family:'IBM Plex Mono',monospace;font-size:13px}
 
   /* ---- SIDEBAR ---- */
@@ -147,6 +149,17 @@
   .src.pin{padding-top:5px;padding-bottom:5px;font-size:12.5px}
   .src.star .nm{color:var(--pantheon);font-weight:600}
   .note{padding:12px 16px;font-size:11.5px;color:var(--muted);line-height:1.5;border-top:1px solid var(--line)}
+  .scan-head{display:flex;justify-content:space-between;align-items:center;padding:0 16px 8px;font-size:11.5px;color:var(--muted)}
+  .scan-tally{font-weight:700;color:var(--accent);font-family:'IBM Plex Mono',monospace}
+  .scan-list{padding:0 10px 4px;display:flex;flex-direction:column;gap:1px}
+  .scan-row{display:flex;align-items:center;gap:8px;padding:5px 6px;border-radius:7px;font-size:12px}
+  .scan-row:hover{background:var(--accent-soft)}
+  .scan-row .mk{width:14px;text-align:center;font-weight:700}
+  .scan-row.ok .mk{color:#1f9d57}
+  .scan-row.no .mk{color:var(--dim)}
+  .scan-row .nm{flex:1;color:var(--text)}
+  .scan-row.no .nm{color:var(--muted)}
+  .scan-row .ct{font-size:10.5px;color:var(--dim);font-family:'IBM Plex Mono',monospace}
   .note b{color:var(--accent)}
 
   footer{border-top:1px solid var(--line);padding:26px 0 50px;margin-top:30px}
@@ -195,8 +208,8 @@
       <div>
         <div class="brand">
           <span class="logo-mark"></span>
-          <h1>Consent, Then Conversions</h1>
-          <span class="sub">Privacy-First Digital Analytics · Daily Briefing</span>
+          <h1>Daily Digital Analytics Update</h1>
+          <span class="sub">Daily Briefing</span>
         </div>
         <p class="tagline"><span class="t1">Imagine a world with no third-party cookies,</span> <span class="t2">60% consent denial,</span> <span class="t3">and ITP eating your pixels alive —</span> <span class="t4">and we still close attribution at 95%.</span> <span class="t5">Privacy-first, server-side,</span> <span class="t6">suspiciously accurate.</span></p>
       </div>
@@ -256,6 +269,15 @@
         <div class="note">March 2025 catalog · <a href="https://services.google.com/fh/files/misc/google_martech_github.pdf" target="_blank" rel="noopener" style="color:var(--accent)">PDF ↗</a> · <a href="https://github.com/google-marketing-solutions" target="_blank" rel="noopener" style="color:var(--accent)">org ↗</a></div>
       </div>
       <div class="panel">
+        <h4>Scan Status</h4>
+        <div class="scan-head">
+          <span id="scan-when">Last scan: —</span>
+          <span id="scan-tally" class="scan-tally">—</span>
+        </div>
+        <div id="scan-list" class="scan-list"></div>
+        <div class="note" style="border-top:none;padding-top:8px">✓ fetched live · ○ archive only / not reachable. Auto-refreshed daily.</div>
+      </div>
+      <div class="panel">
         <h4>Tracked Sources</h4>
         <div id="sources"></div>
         <div class="note"><b>Live fetch:</b> sources marked ✦ auto-update from official RSS every time you open the page. The rest are tracked from the local archive + direct links.</div>
@@ -299,9 +321,39 @@
 <script>
 /* ============ MÜZİK OYNATICI ============ */
 (function(){
-  const PLAYLIST = [
-    {title:'Rumba: Kalplere Vur Bir Zımba', artist:'Zeki Müren', id:'J9mqbKSqTlc'},
-  ];
+  // O günün doğum günlü sanatçısı + popüler şarkısı. Anahtar: "MM-DD".
+  // Tarih eşleşmezse FALLBACK (Rumba) çalar. Yeni gün eklemek için satır ekle.
+  const BIRTHDAYS = {
+    '01-08': {artist:'David Bowie',        title:'Heroes',                  id:'lXgkuM2NhYI'},
+    '01-08b':{artist:'Elvis Presley',      title:'Suspicious Minds',        id:'AY2Yn5KZQGE'},
+    '01-19': {artist:'Janis Joplin',       title:'Piece of My Heart',       id:'sX5SZdGz_qc'},
+    '02-06': {artist:'Bob Marley',         title:'Three Little Birds',      id:'zaGUr6wzyT8'},
+    '02-18': {artist:'Yoko Ono',           title:'Walking on Thin Ice',     id:'8j5sBZ4dWeM'},
+    '03-25': {artist:'Aretha Franklin',    title:'Respect',                 id:'6FOUqQt3Kg0'},
+    '04-04': {artist:'Muddy Waters',       title:'Hoochie Coochie Man',     id:'eP4ZmM-yljc'},
+    '05-13': {artist:'Stevie Wonder',      title:'Superstition',            id:'0CFuCYNx-1g'},
+    '05-21': {artist:'Notorious B.I.G.',   title:'Juicy',                   id:'_JZom_gVfuw'},
+    '06-07': {artist:'Prince',             title:'Kiss',                    id:'a6rGdCWjVcE'},
+    '06-09': {artist:'Jackie Wilson',      title:'(Your Love Keeps Lifting Me) Higher and Higher', id:'mD1Oub3sBSw'},
+    '06-18': {artist:'Paul McCartney',     title:'Band on the Run',         id:'EnBfPVD9_W0'},
+    '07-07': {artist:'Ringo Starr',        title:'It Don\u2019t Come Easy',      id:'3lEgJYjJUWg'},
+    '07-26': {artist:'Mick Jagger',        title:'(I Can\u2019t Get No) Satisfaction', id:'nrIPxlFzDi0'},
+    '08-29': {artist:'Michael Jackson',    title:'Billie Jean',             id:'Zi_XLOBDo_Y'},
+    '09-23': {artist:'Ray Charles',        title:'Hit the Road Jack',       id:'Q8Tiz6INF7I'},
+    '10-09': {artist:'John Lennon',        title:'Imagine',                 id:'YkgkThdzX-8'},
+    '11-22': {artist:'Zeki M\u00fcren',         title:'Rumba: Kalplere Vur Bir Z\u0131mba', id:'J9mqbKSqTlc'},
+    '12-08': {artist:'Jim Morrison',       title:'Light My Fire',           id:'mbz_y4Qw8Sk'},
+    '12-25': {artist:'Annie Lennox',       title:'Sweet Dreams',            id:'qeMFqkcPYcg'},
+  };
+  const FALLBACK = {title:'Rumba: Kalplere Vur Bir Z\u0131mba', artist:'Zeki M\u00fcren', id:'J9mqbKSqTlc'};
+
+  function todaysTrack(){
+    const d = new Date();
+    const key = String(d.getMonth()+1).padStart(2,'0') + '-' + String(d.getDate()).padStart(2,'0');
+    return BIRTHDAYS[key] || FALLBACK;
+  }
+
+  const PLAYLIST = [ todaysTrack() ];
 
   const el = {
     panel: document.getElementById('player'),
@@ -329,7 +381,10 @@
     const t = PLAYLIST[idx];
     el.iframe.src = srcFor(t, autoplay);
     el.title.textContent = t.title;
-    el.now.textContent = `${t.artist} — ${t.title}`;
+    const isBday = t.id !== FALLBACK.id || (new Date().getMonth()===10 && new Date().getDate()===22);
+    el.now.innerHTML = isBday
+      ? `🎂 Born today: <b>${t.artist}</b> — ${t.title}`
+      : `${t.artist} — ${t.title}`;
     el.open.href = `https://www.youtube.com/watch?v=${t.id}`;
     playing = !!autoplay;
     el.play.innerHTML = playing ? '⏸ Pause' : '▶ Play';
@@ -383,12 +438,15 @@
       ${Array.from({length:12},(_,i)=>{const a=i*30*Math.PI/180;return `<circle cx="${50+Math.cos(a)*7}" cy="${50+Math.sin(a)*7}" r="1.4" fill="rgba(150,70,30,.4)"/>`;}).join('')}
     </svg>`;
   }
-  // ışıltılı güneş
-  function sunSVG(size){
+  // ışıltılı güneş (sarı ya da şeftali tonu)
+  function sunSVG(size, warm){
+    const ray = warm ? '#f6a560' : '#ffd43b';
+    const core = warm ? '#ffc285' : '#ffe066';
+    const ring = warm ? '#f08c3c' : '#ffd43b';
     let rays='';
-    for(let i=0;i<12;i++){const a=i*30;rays+=`<rect x="48.5" y="2" width="3" height="16" rx="1.5" fill="#ffd43b" transform="rotate(${a} 50 50)"/>`;}
+    for(let i=0;i<12;i++){const a=i*30;rays+=`<rect x="48.5" y="2" width="3" height="16" rx="1.5" fill="${ray}" transform="rotate(${a} 50 50)"/>`;}
     return `<svg class="d sun" width="${size}" height="${size}" viewBox="0 0 100 100" style="overflow:visible">
-      ${rays}<circle cx="50" cy="50" r="22" fill="#ffe066"/><circle cx="50" cy="50" r="22" fill="none" stroke="#ffd43b" stroke-width="2"/>
+      ${rays}<circle cx="50" cy="50" r="22" fill="${core}"/><circle cx="50" cy="50" r="22" fill="none" stroke="${ring}" stroke-width="2"/>
     </svg>`;
   }
   // ikonik yuvarlak Lennon gözlüğü
@@ -424,11 +482,12 @@
     });
   }
   // güneşler
-  for(let i=0;i<3;i++){
-    place(sunSVG(rnd(60,100)),{
-      left:[8,82,46][i]+'%', top:[6,14,70][i]+'%',
-      opacity:rnd(.30,.5).toFixed(2),
-      animationDuration:rnd(30,55)+'s'
+  const sunPos = [[8,6],[82,14],[46,70],[20,40],[68,52],[92,80],[34,22]];
+  for(let i=0;i<sunPos.length;i++){
+    place(sunSVG(rnd(48,96), i%3===0),{
+      left:sunPos[i][0]+'%', top:sunPos[i][1]+'%',
+      opacity:rnd(.26,.5).toFixed(2),
+      animationDuration:rnd(30,60)+'s'
     });
   }
   // Lennon gözlükleri
@@ -528,7 +587,9 @@ const SEED = [
 
 /* ============ CANLI RSS KAYNAKLARI (proxy ile çekilir) ============ */
 const FEEDS = [
+  {cat:'general', name:'Google Cloud — All release notes', url:'https://cloud.google.com/feeds/gcp-release-notes.xml'},
   {cat:'bigquery', name:'BigQuery Release Notes', url:'https://cloud.google.com/feeds/bigquery-release-notes.xml'},
+  {cat:'bigquery', name:'BigQuery ML Revision History', url:'https://cloud.google.com/feeds/bigquery-ml-revision-history.xml'},
   {cat:'looker', name:'Looker Release Notes', url:'https://cloud.google.com/feeds/looker-release-notes.xml'},
   {cat:'lookerstudio', name:'Looker Studio Release Notes', url:'https://cloud.google.com/feeds/looker-studio-release-notes.xml'},
   {cat:'general', name:'Simo Ahava', url:'https://www.simoahava.com/index.xml'},
@@ -718,7 +779,7 @@ function renderBriefing(){
     `The agenda centers on <b>server-side tagging</b>, <b>Consent Mode v2</b> and <b>cookieless first-party</b> measurement.`;
   const stats=[['total signals',total],['last 7 days',week],['unread',unread]];
   document.getElementById('stat-grid').innerHTML = stats.map(([l,n],i)=>
-    `<div class="stat"><div class="n mono" style="color:${[ 'var(--accent)','var(--sgtm)','var(--gtm)'][i]}">${n}</div><div class="l">${l}</div></div>`).join('');
+    `<div class="stat"><div class="n mono" style="color:${[ 'var(--accent)','var(--accent2)','var(--sgtm)'][i]}">${n}</div><div class="l">${l}</div></div>`).join('');
 }
 
 function renderSources(){
@@ -752,6 +813,28 @@ function render(){ renderChips(); renderFeed(); renderBriefing();
 function setStatus(state,msg){
   const m={live:'live',idle:'idle',err:'err'}[state]||'idle';
   document.getElementById('feed-status').innerHTML=`<span class="dot ${m}"></span>${msg}`;
+}
+function renderScan(data, when){
+  const wEl=document.getElementById('scan-when');
+  const tEl=document.getElementById('scan-tally');
+  const lEl=document.getElementById('scan-list');
+  if(!wEl) return;
+  wEl.textContent = when ? ('Last scan: '+when) : 'Last scan: —';
+  const srcs = data && data.sources ? data.sources : null;
+  if(srcs && srcs.length){
+    const ok = srcs.filter(s=>s.ok).length;
+    tEl.textContent = `${ok}/${srcs.length}`;
+    lEl.innerHTML = srcs.map(s=>
+      `<div class="scan-row ${s.ok?'ok':'no'}">
+         <span class="mk">${s.ok?'✓':'○'}</span>
+         <span class="nm">${s.name}</span>
+         <span class="ct">${s.ok?(s.items+'×'):'—'}</span>
+       </div>`).join('');
+  } else {
+    // sources alanı yoksa (eski signals.json) en azından sayıyı göster
+    if(data){ tEl.textContent = `${data.ok_sources||0}/${(data.ok_sources||0)+(data.fail_sources||0)}`; }
+    lEl.innerHTML = '<div class="note" style="border-top:none">Per-source detail appears after the next daily scan.</div>';
+  }
 }
 function parseFeed(xmlText, feed){
   const out=[];
@@ -789,7 +872,8 @@ async function fetchLive(){
         btn.classList.remove('spin');
         const when=data.generated_at ? new Date(data.generated_at).toLocaleString('en-GB') : '';
         setStatus('live',`Daily feed · ${data.ok_sources||fresh.length} sources`);
-        document.getElementById('updated-status').textContent=when?('· built: '+when):'';
+        document.getElementById('updated-status').textContent=when?('· updated: '+when):'';
+        renderScan(data, when);
         render();
         return;
       }
