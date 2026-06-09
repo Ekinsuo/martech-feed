@@ -1,17 +1,133 @@
 {
-  "generated_at": "2026-06-09T08:28:48.573570+00:00",
-  "ok_sources": 9,
+  "generated_at": "2026-06-09T10:25:15.565041+00:00",
+  "ok_sources": 15,
   "fail_sources": 3,
-  "count": 71,
+  "count": 104,
+  "sources": [
+    {
+      "name": "Google Cloud — All release notes",
+      "cat": "general",
+      "ok": true,
+      "items": 12
+    },
+    {
+      "name": "BigQuery Release Notes",
+      "cat": "bigquery",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "name": "BigQuery ML Revision History",
+      "cat": "bigquery",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "name": "Looker Release Notes",
+      "cat": "looker",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "name": "Looker Studio Release Notes",
+      "cat": "lookerstudio",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "Simo Ahava",
+      "cat": "general",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "name": "Analytics Mania",
+      "cat": "general",
+      "ok": false,
+      "items": 0,
+      "error": "no items"
+    },
+    {
+      "name": "Google Ads Developer Blog",
+      "cat": "gads",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "name": "Tim Hutton",
+      "cat": "sgtm",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "name": "ceaksan.com",
+      "cat": "general",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "sGTM Pantheon (GitHub commits)",
+      "cat": "pantheon",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "name": "MarTech.org",
+      "cat": "general",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "name": "WebKit Blog (ITP / Safari)",
+      "cat": "privacy",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "name": "Apple Developer News",
+      "cat": "apple",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "name": "EDPB — GDPR news",
+      "cat": "privacy",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "name": "GTM / Tag Gateway — Release notes",
+      "cat": "gtm",
+      "ok": true,
+      "items": 6,
+      "scraped": true
+    },
+    {
+      "name": "GA4 — What's new",
+      "cat": "ga4",
+      "ok": true,
+      "items": 7,
+      "scraped": true
+    },
+    {
+      "name": "sGTM — Release notes",
+      "cat": "sgtm",
+      "ok": true,
+      "items": 1,
+      "scraped": true
+    }
+  ],
   "signals": [
     {
-      "id": "live-BigQuery Release Notes-0",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
       "date": "2026-06-08",
       "title": "June 08, 2026",
-      "summary": "Feature You can analyze data lineage with Gemini Cloud Assist in BigQuery . This feature is in Preview . Feature You can now use Gemini Cloud Assist to schedule queries . This feature is in Preview . Feature You can use the Google-developed",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_08_2026",
+      "summary": "App Hub Feature App Hub support for resources from Memorystore is now generally available ( GA ). BigQuery Feature You can analyze data lineage with Gemini Cloud Assist in BigQuery . This feature is in Preview . Feature You can now use Gemi",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_08_2026",
       "live": true
     },
     {
@@ -115,6 +231,16 @@
       "live": true
     },
     {
+      "id": "scrape-GA4 — What's new-7",
+      "cat": "ga4",
+      "date": "2026-06-08",
+      "title": "New Google Business Profile integration You can now centrally…",
+      "summary": "report on your local business, website, and app metrics Link your Google Analytics properties with Google Business Profiles (GBP) directly within the Admin panel. This integration enables the seamless import of high-value first-party GBP da",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
       "date": "2026-06-06",
@@ -155,13 +281,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-0",
-      "cat": "looker",
+      "id": "live-Google Cloud — All release notes-4",
+      "cat": "general",
       "date": "2026-06-04",
       "title": "June 04, 2026",
-      "summary": "Deployment dates Announcement Looker 26.10 is expected to include the following changes, features, and fixes: Expected Looker (original) deployment start: Sunday, June 7, 2026 Expected Looker (original) final deployment and download availab",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#June_04_2026",
+      "summary": "Anthos Config Management Change Addressed multiple Common Vulnerabilities and Exposures (CVEs) by updating dependencies. Cloud Trace Feature To view the instrumentation scope or the schema associated with a span, open the Details view for t",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_04_2026",
       "live": true
     },
     {
@@ -175,13 +301,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-1",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-5",
+      "cat": "general",
       "date": "2026-06-03",
       "title": "June 03, 2026",
-      "summary": "Feature BigQuery fluid scaling , which provides per-second billing with no minimum duration for autoscaling reservations, is generally available (GA).",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_03_2026",
+      "summary": "App Engine standard environment Go Feature App Engine supports Direct VPC egress in Preview . Direct VPC egress lets your workloads access VPC network resources as a simpler, more cost-effective alternative to Serverless VPC Access connecto",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_03_2026",
       "live": true
     },
     {
@@ -205,13 +331,23 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-2",
-      "cat": "bigquery",
+      "id": "scrape-GTM / Tag Gateway — Release notes-0",
+      "cat": "gtm",
+      "date": "2026-06-03",
+      "title": "Google tag gateway for advertisers using Amazon CloudFront is…",
+      "summary": "now available This release introduces a new option to configure Google tag gateway for advertisers using Amazon CloudFront as your content delivery network (CDN) via Tag Assistant This setup is facilitated by a guided workflow in Tag Assist",
+      "src": "GTM / Tag Gateway — Release notes",
+      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-6",
+      "cat": "general",
       "date": "2026-06-02",
       "title": "June 02, 2026",
-      "summary": "Feature Remote functions now support a custom path in the endpoint URL. You can reuse a single Cloud Run service for multiple BigQuery remote functions by specifying different path suffixes on the same endpoint. This feature is generally av",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_02_2026",
+      "summary": "AlloyDB for PostgreSQL Feature You can now configure a cooldown period to determine when autoscaling occurs for your read pool instances. For more information, see Scale an instance . Apigee X Announcement On June 2nd, 2026, we released an ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_02_2026",
       "live": true
     },
     {
@@ -225,13 +361,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-3",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-7",
+      "cat": "general",
       "date": "2026-06-01",
       "title": "June 01, 2026",
-      "summary": "Change The Facebook Ads connector for the BigQuery Data Transfer Service now supports data transfers from the following Facebook Ads reports: AdInsightsMMM Ads AdCreatives AdSets Campaigns AdImages AdLabels Businesses CustomAudiences",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_01_2026",
+      "summary": "Agent Assist Feature Agent Assist offers summarization with custom sections 6.0 in GA. The 6.0 version is powered by gemini-3.5-flash and available in all Agent Assist regions . Change Agent Assist offers summarization autoevaluation with m",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_01_2026",
       "live": true
     },
     {
@@ -242,6 +378,26 @@
       "summary": "WWDC26 is just one week away. Get ready for five days of technology, creativity, and community — all online and free. Learn more",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=q7tgn1rr",
+      "live": true
+    },
+    {
+      "id": "scrape-GTM / Tag Gateway — Release notes-1",
+      "cat": "gtm",
+      "date": "2026-06-01",
+      "title": "Google tag gateway for advertisers via Google Cloud Platform…",
+      "summary": "is now available This release marks the general availability of the Google tag gateway for advertisers integration with Google Cloud Platform (GCP) This integration allows you to leverage Google Cloud Platform’s Global external Application ",
+      "src": "GTM / Tag Gateway — Release notes",
+      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-11",
+      "cat": "general",
+      "date": "2026-05-28",
+      "title": "May 28, 2026",
+      "summary": "Backup and DR Feature You can now view the Google Cloud Backup and DR Service protection summary at the organization and folder levels. To learn more about protection summary, see Find unprotected resources using protection summary . Bigtab",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#May_28_2026",
       "live": true
     },
     {
@@ -265,13 +421,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-4",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-12",
+      "cat": "general",
       "date": "2026-05-27",
       "title": "May 27, 2026",
-      "summary": "Change An updated version of the Simba ODBC driver for BigQuery is now available.",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_27_2026",
+      "summary": "App Engine standard environment Go Feature Enable only needed legacy bundled services using the app_engine_bundled_services field for improved security and maintainability of your applications ( Preview ). App Engine standard environment Ja",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#May_27_2026",
       "live": true
     },
     {
@@ -305,13 +461,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-5",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-13",
+      "cat": "general",
       "date": "2026-05-26",
       "title": "May 26, 2026",
-      "summary": "Feature The Data Science Agent (DSA) for Colab Enterprise and BigQuery is now generally available (GA).",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_26_2026",
+      "summary": "BigQuery Feature The Data Science Agent (DSA) for Colab Enterprise and BigQuery is now generally available (GA). Cloud CDN Feature For global external Application Load Balancers , you can configure Cloud CDN cache policies at various levels",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#May_26_2026",
       "live": true
     },
     {
@@ -322,6 +478,16 @@
       "summary": "The beta versions of iOS 26.6, iPadOS 26.6, macOS 26.6, tvOS 26.6, visionOS 26.6, and watchOS 26.6 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 26.5",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=tu7pk9oy",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-14",
+      "cat": "general",
+      "date": "2026-05-25",
+      "title": "May 25, 2026",
+      "summary": "Google Kubernetes Engine Feature To monitor the efficiency of the GKE training JobSet, the following two GKE system metrics are available in Preview: kubernetes.io/jobset/scheduling_goodput : the fraction of time that all the resources requ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#May_25_2026",
       "live": true
     },
     {
@@ -355,13 +521,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-6",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-19",
+      "cat": "general",
       "date": "2026-05-20",
       "title": "May 20, 2026",
-      "summary": "Announcement BigQuery can re-execute instructions (queries) to try to proactively detect performance, correctness, or functional regressions. These re-executions will have no side effects and will happen with no additional cost or resource ",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_20_2026",
+      "summary": "Apigee X Security On May 20, 2026, we published a security bulletin for Apigee. A vulnerability was found in Apigee ( CVE-2026-2264 ) where the IntegrationRegion parameter in the SetIntegrationRequest policy lacks validation, allowing for S",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#May_20_2026",
       "live": true
     },
     {
@@ -375,13 +541,23 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-20",
+      "cat": "general",
+      "date": "2026-05-19",
+      "title": "May 19, 2026",
+      "summary": "Anti Money Laundering AI Announcement Improvements to backtest API and recall metrics are now available with engine version v004.011 . This includes support for Performance Targeting by number of parties required above threshold and a simpl",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#May_19_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-21",
+      "cat": "general",
       "date": "2026-05-18",
       "title": "May 18, 2026",
-      "summary": "Feature You can group reservations together to prioritize idle slot sharing within the group. Reservations within a reservation group share idle slots with each other before making them available to other reservations in the project, giving",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_18_2026",
+      "summary": "BigQuery Feature You can group reservations together to prioritize idle slot sharing within the group. Reservations within a reservation group share idle slots with each other before making them available to other reservations in the projec",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#May_18_2026",
       "live": true
     },
     {
@@ -405,6 +581,16 @@
       "live": true
     },
     {
+      "id": "scrape-GTM / Tag Gateway — Release notes-2",
+      "cat": "gtm",
+      "date": "2026-05-14",
+      "title": "Google tag gateway for advertisers integrations with Akamai and…",
+      "summary": "Fastly are now available This release introduces a streamlined integration to configure Google tag gateway for advertisers using Akamai or Fastly as your content delivery network (CDN) You can now authorize Google to automatically detect yo",
+      "src": "GTM / Tag Gateway — Release notes",
+      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
+      "live": true
+    },
+    {
       "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-05-13",
@@ -412,6 +598,16 @@
       "summary": "Today, we’re announcing the v24.1 release of the Google Ads API . To use the new v24.1 features, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us fo",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/2086742490010516624",
+      "live": true
+    },
+    {
+      "id": "scrape-GA4 — What's new-8",
+      "cat": "ga4",
+      "date": "2026-05-13",
+      "title": "New AI Assistant traffic measurement Google Analytics now provides…",
+      "summary": "a dedicated way to measure and analyze traffic originating from popular AI assistants You can now identify how users are discovering your site through chatbots like ChatGPT, Gemini, and Claude via a new AI Assistant channel in your Default ",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
     },
     {
@@ -455,6 +651,76 @@
       "live": true
     },
     {
+      "id": "scrape-GA4 — What's new-9",
+      "cat": "ga4",
+      "date": "2026-05-07",
+      "title": "Data Manager API support for Google Analytics server-to-server events…",
+      "summary": "Data Manager API provides you with an alternative to Measurement Protocol (MP) for sending recommended and custom events directly to your Google Analytics property You can send events to both your Google Analytics web and app data streams, ",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-05-05",
+      "title": "Europe Day 2026: let’s celebrate together",
+      "summary": "Brussels, 5 May – On 9 May each year, Europeans celebrate the anniversary of the Schuman Declaration, the key moment which led to the creation of the EU as we know it today. To mark this special occasion, the European institutions will open",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/europe-day-2026-lets-celebrate-together_en",
+      "live": true
+    },
+    {
+      "id": "scrape-GA4 — What's new-10",
+      "cat": "ga4",
+      "date": "2026-05-04",
+      "title": "Conversion support in the Data API This feature may…",
+      "summary": "not be available to your Google Analytics property The Google Analytics team is actively working to expand this feature to more properties. Please reach out to your support team if you have questions about the eligibility of your property. ",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+      "live": true
+    },
+    {
+      "id": "scrape-GTM / Tag Gateway — Release notes-3",
+      "cat": "gtm",
+      "date": "2026-05-01",
+      "title": "Improved conversion tracking and attribution for Google Ads-linked Google…",
+      "summary": "Analytics properties This release introduces improved conversion tracking and attribution for Google Ads-linked Google Analytics properties for server-side Tag Manager customers These improvements are achieved via parallel browser signals w",
+      "src": "GTM / Tag Gateway — Release notes",
+      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
+      "live": true
+    },
+    {
+      "id": "scrape-GA4 — What's new-11",
+      "cat": "ga4",
+      "date": "2026-04-29",
+      "title": "Configure your Google Analytics settings using Task Assistant To…",
+      "summary": "help you get the most out of your Google Analytics property, we are introducing Task Assistant Task Assistant provides tailored recommendations to help you optimize your configuration and improve data collection,. Available from the left na",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+      "live": true
+    },
+    {
+      "id": "scrape-sGTM — Release notes-0",
+      "cat": "sgtm",
+      "date": "2026-04-28",
+      "title": ") Updated base image version for security updates",
+      "summary": "4.2.0 (",
+      "src": "sGTM — Release notes",
+      "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-1",
+      "cat": "privacy",
+      "date": "2026-04-27",
+      "title": "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
+      "summary": "Brussels, 27 April – Today marks the 10th anniversary of the GDPR’s adoption, the first comprehensive data protection framework spanning an entire continent, establishing clear rights for individuals and obligations for organisations across",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/marking-10-years-gdpr-evolution-european-data-protection-landscape_en",
+      "live": true
+    },
+    {
       "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-04-23",
@@ -462,6 +728,16 @@
       "summary": "Safari Technology Preview Release 242 is now available for download for macOS Tahoe and macOS Sequoia.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/17934/release-notes-for-safari-technology-preview-242/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-2",
+      "cat": "privacy",
+      "date": "2026-04-23",
+      "title": "Stakeholder event on competition and data protection",
+      "summary": "Brussels, 23 April – The EDPB is organising a remote stakeholder event in the context of its joint work with the European Commission on upcoming guidelines on the interplay between competition and data protection . The event is an opportuni",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection_en",
       "live": true
     },
     {
@@ -475,6 +751,16 @@
       "live": true
     },
     {
+      "id": "live-EDPB — GDPR news-3",
+      "cat": "privacy",
+      "date": "2026-04-16",
+      "title": "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers",
+      "summary": "Brussels, 16 April – During its latest plenary, the EDPB has adopted Guidelines on processing of personal data for scientific research purposes . In addition, the Board has created a team to speed up the finalisation of the guidelines on an",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/edpb-brings-clarity-data-processing-scientific-research-speeds-finalisation_en",
+      "live": true
+    },
+    {
       "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-04-15",
@@ -485,6 +771,16 @@
       "live": true
     },
     {
+      "id": "live-EDPB — GDPR news-4",
+      "cat": "privacy",
+      "date": "2026-04-14",
+      "title": "Enhancing compliance and consistency: EDPB adopts DPIA template",
+      "summary": "Brussels, 14 April - In line with the EDPB’s Helsinki Statement to make GDPR compliance easier and strengthen consistency across Europe, the EDPB has adopted a template for Data Protection Impact Assessments (DPIA) . The template will help ",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/enhancing-compliance-and-consistency-edpb-adopts-dpia-template_en",
+      "live": true
+    },
+    {
       "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-04-09",
@@ -492,6 +788,16 @@
       "summary": "Looker (original) only changes Announcement Starting with the Looker 26.8 release, which will release in May 2026, the following changes will occur: Looker (original) admins will no longer be able to access or manage the API credentials of ",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#April_09_2026",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-5",
+      "cat": "privacy",
+      "date": "2026-04-09",
+      "title": "EDPB annual report 2025: supporting stakeholders through guidance and dialogue",
+      "summary": "Brussels, 09 April - The European Data Protection Board (EDPB) has published its 2025 Annual Report . The report provides an overview of the EDPB work carried out in 2025 and reflects on important milestones, such as the adoption of the Hel",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/edpb-annual-report-2025-supporting-stakeholders-through-guidance-and-dialogue_en",
       "live": true
     },
     {
@@ -515,6 +821,26 @@
       "live": true
     },
     {
+      "id": "live-EDPB — GDPR news-6",
+      "cat": "privacy",
+      "date": "2026-03-24",
+      "title": "EDPB conference on cross-regulatory cooperation: what we learned",
+      "summary": "Brussels, 23 March - On 17 March 2026, the EDPB conference “Cross-regulatory interplay and cooperation in the EU: a data protection perspective” took place in Brussels. The event showcased high-level discussions, featuring contributions fro",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-7",
+      "cat": "privacy",
+      "date": "2026-03-19",
+      "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
+      "summary": "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on a",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
+      "live": true
+    },
+    {
       "id": "live-Simo Ahava-0",
       "cat": "general",
       "date": "2026-03-13",
@@ -535,6 +861,16 @@
       "live": true
     },
     {
+      "id": "scrape-GA4 — What's new-12",
+      "cat": "ga4",
+      "date": "2026-02-10",
+      "title": "Generated insights on the Home page We’ve added Generated…",
+      "summary": "insights to your Home page This feature summarizes the top three data changes since your last visit, including key configuration updates, anomalies, and seasonality trends.This helps you quickly catch up on what’s happening in your property",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-02-06",
@@ -542,6 +878,36 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/a-year-in-books-2025-d4cbfaeb5148?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "scrape-GTM / Tag Gateway — Release notes-4",
+      "cat": "gtm",
+      "date": "2026-02-04",
+      "title": "Improved website event data collection in Google Ads Google…",
+      "summary": "Ads will help advertisers measure more effectively and gain deeper insights with less manual configuration, by automatically collecting a broader range of event data from their websites Advertisers may notice additional network requests to ",
+      "src": "GTM / Tag Gateway — Release notes",
+      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
+      "live": true
+    },
+    {
+      "id": "scrape-GTM / Tag Gateway — Release notes-5",
+      "cat": "gtm",
+      "date": "2026-01-29",
+      "title": "Google tag gateway for advertisers via Akamai is now…",
+      "summary": "available This release introduces a new option to configure Google tag gateway for advertisers using Akamai as your content delivery network (CDN) This integration gives you greater control over your data, improving the accuracy of your Goo",
+      "src": "GTM / Tag Gateway — Release notes",
+      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
+      "live": true
+    },
+    {
+      "id": "scrape-GA4 — What's new-13",
+      "cat": "ga4",
+      "date": "2026-01-16",
+      "title": "Cross-channel budgeting (Beta) This feature may not be available…",
+      "summary": "to your Google Analytics property The Google Analytics team is actively working to expand this feature to more properties. Please reach out to your support team if you have questions about the eligibility of your property. The Google Analyt",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
     },
     {
@@ -712,6 +1078,86 @@
       "summary": "There are many reasons why you might want to duplicate your tags (or triggers, or variables, or templates) in Google Tag Manager. One prime example is server-side tagging , where it&rsquo;s sensible to first build and validate your tracking",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/gtmtips/quickly-duplicate-tags-google-tag-manager/",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-0",
+      "cat": "bigquery",
+      "date": "2023-03-28",
+      "title": "March 28, 2023",
+      "summary": "Feature You can now use the tf_version training option to specify the Tensorflow (TF) version during model training. By default, tf_version is set as 1.15 . If you want to use TF2 with Keras API, you can add tf_version = 2.8.0 when creating",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#March_28_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-1",
+      "cat": "bigquery",
+      "date": "2023-03-20",
+      "title": "March 20, 2023",
+      "summary": "Feature The following AutoML Tables model features are now generally available : Availability in additional regions . CMEK support in available regions except multi-regions US and EU. OPTIMIZATION_OBJECTIVE now accepts two additional option",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#March_20_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-2",
+      "cat": "bigquery",
+      "date": "2023-02-27",
+      "title": "February 27, 2023",
+      "summary": "Changed The multivariate time-series forecasting model ARIMA_PLUS_XREG is now available to on-demand users.",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#February_27_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-3",
+      "cat": "bigquery",
+      "date": "2023-01-19",
+      "title": "January 19, 2023",
+      "summary": "Feature More than 20 BigQuery ML components for Vertex AI Managed Pipelines are now generally available . These components benefit AI/ML users for the following: Building pipelines using the KFP SDK and TFX SDK Linking and tracking metadata",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_19_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-4",
+      "cat": "bigquery",
+      "date": "2023-01-17",
+      "title": "January 17, 2023",
+      "summary": "Feature BigQuery ML support for multivariate time-series forecasting with the ARIMA_PLUS_XREG model is now available in preview . This feature lets you perform time-series forecasting with extra feature columns. For more information, see th",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_17_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-5",
+      "cat": "bigquery",
+      "date": "2023-01-04",
+      "title": "January 04, 2023",
+      "summary": "Feature BigQuery ML support for image analytics with vision models is available in preview . Customers can import vision models to perform inference modeling with images to detect objects, perform optical character recognition (OCR), and mo",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_04_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-6",
+      "cat": "bigquery",
+      "date": "2023-01-03",
+      "title": "January 03, 2023",
+      "summary": "Feature BigQuery ML integration with Vertex AI Model Registry is now generally available . With this integration, you can now use the following capabilities: Register and monitor BigQuery ML models with Vertex AI Model Registry Deploy BigQu",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_03_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-7",
+      "cat": "bigquery",
+      "date": "2022-09-15",
+      "title": "September 15, 2022",
+      "summary": "Changed BigQuery ML is now available in the Madrid (europe-southwest1) , Milan (europe-west8) , and Paris (europe-southwest1) regions. The Madrid and Paris regions have the lowest carbon impact .",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#September_15_2022",
       "live": true
     }
   ]
