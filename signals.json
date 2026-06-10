@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T06:54:48.306217+00:00",
+  "generated_at": "2026-06-10T16:46:27.331044+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -121,6 +121,96 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-06-10",
+      "title": "World Cup Sweepstake Generator",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/world-cup-sweepstake-generator-e4649cd00b20?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-06-10",
+      "title": "How events are helping marketers cut through the noise",
+      "summary": "The noise on digital channels is driving marketers and their customers back to in-person events. The post How events are helping marketers cut through the noise appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-events-are-helping-marketers-cut-through-the-noise/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-06-10",
+      "title": "Marketing needs AI outcomes, not more AI pilots",
+      "summary": "Learn how to identify high-value AI opportunities, prepare teams for adoption, and measure the outcomes that matter to the business. The post Marketing needs AI outcomes, not more AI pilots appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketing-needs-ai-outcomes-not-more-ai-pilots/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-06-10",
+      "title": "Your AI portfolio isn’t an AI strategy",
+      "summary": "Learn the four questions that reveal whether your AI efforts are creating lasting value or simply generating activity. The post Your AI portfolio isn t an AI strategy appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-ai-portfolio-isnt-an-ai-strategy/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-06-10",
+      "title": "Gartner finds CMOs spending more on digital and acquisition",
+      "summary": "CMOs are spending more on digital media and acquisition as consumers grow more skeptical of AI-generated content and its value. The post Gartner finds CMOs spending more on digital and acquisition appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/gartner-finds-cmos-spending-more-on-digital-and-acquisition/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-06-10",
+      "title": "The martech categories hit hardest by AI agents",
+      "summary": "The SaaStr API report card reveals which platforms are agent-ready — and which are at risk of being replaced The post The martech categories hit hardest by AI agents appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-martech-categories-hit-hardest-by-ai-agents/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-06-10",
+      "title": "AI skills: The next layer of marketing automation by Optmyzr",
+      "summary": "Learn how to install, deploy, and brand AI skills to turn generic chatbots into your agency’s custom, scalable operating system. The post AI skills: The next layer of marketing automation appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-skills-the-next-layer-of-marketing-automation/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-06-10",
+      "title": "Introducing the Field Guide to Grid Lanes",
+      "summary": "This week, we launched the Field Guide to Grid Lanes at gridlanes.webkit.org.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18098/introducing-the-field-guide-to-grid-lanes/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-06-10",
+      "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
+      "summary": "Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a common data breach notification template . ",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/edpb-meets-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification_en",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-06-09",
@@ -131,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-06-09",
       "title": "OpenAI tests multi-advertiser ad placements in ChatGPT",
@@ -141,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-06-09",
       "title": "Marketing on LinkedIn: What you need to know",
@@ -151,17 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-06-09",
-      "title": "How to refresh your brand without losing your audience",
-      "summary": "Evolve your brand’s look and messaging while keeping the familiarity and trust your audience expects. The post How to refresh your brand without losing your audience appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-refresh-your-brand-without-losing-your-audience/",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-06-09",
       "title": "Discover MapKit JS 6: Rebuilt for Today’s Web Developer",
@@ -181,37 +261,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-06-08",
-      "title": "Stop treating search and video as separate teams",
-      "summary": "The strongest campaigns connect creative, media, search, and measurement into a single demand generation strategy. The post Stop treating search and video as separate teams appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/stop-treating-search-and-video-as-separate-teams/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-06-08",
-      "title": "How AI is turning lead scoring into a decision engine",
-      "summary": "Predictive models and real-time signals are replacing static scoring, helping sales focus on leads most likely to convert. The post How AI is turning lead scoring into a decision engine appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-ai-is-turning-lead-scoring-into-a-decision-engine/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-06-08",
-      "title": "Employee advocacy is a growth engine for technical B2B",
-      "summary": "Buyers trust practitioners more than corporate messaging. Employee advocacy helps technical B2B brands build authority and visibility. The post Employee advocacy is a growth engine for technical B2B appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/employee-advocacy-is-a-growth-engine-for-technical-b2b/",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-06-08",
       "title": "Release Notes for Safari Technology Preview 245",
@@ -221,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-06-08",
       "title": "Web Technology Sessions at WWDC26",
@@ -231,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-06-08",
       "title": "News from WWDC26: WebKit in Safari 27 beta",
@@ -281,33 +331,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-06-06",
       "title": "How to Deploy a Firebase Website as an App on Your iPhone",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/how-to-deploy-a-firebase-website-as-an-app-on-your-iphone-5b8c0cdf1cb4?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-06-05",
-      "title": "Brands want to be in and out of the closet for Pride Month",
-      "summary": "Many brands ditched public Pride support while quietly continuing to market to LGBTQ+ consumers. The post Brands want to be in and out of the closet for Pride Month appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/brands-want-to-be-in-and-out-of-the-closet-for-pride-month/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-05",
-      "title": "Why platform certification doesn’t equal martech transformation",
-      "summary": "The biggest risk in martech implementation may be confusing product expertise with operational competence. The post Why platform certification doesn’t equal martech transformation appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-platform-certification-doesnt-equal-martech-transformation/",
       "live": true
     },
     {
@@ -471,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-05-27",
       "title": "How to Secure Gemini API Keys in Google Cloud & Firebase",
@@ -511,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-05-25",
       "title": "Automate Server-Side Google Tag Manager Updates on Cloud Run",
@@ -531,7 +561,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-05-21",
       "title": "Release Notes for Safari Technology Preview 244",
@@ -551,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-05-20",
       "title": "Updating Google Tag Manager Server Side Tagging Servers",
@@ -631,7 +661,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-05-11",
       "title": "WebKit Features for Safari 26.5",
@@ -661,7 +691,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-05-07",
       "title": "Release Notes for Safari Technology Preview 243",
@@ -681,7 +711,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-05-05",
       "title": "Europe Day 2026: let’s celebrate together",
@@ -731,7 +761,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
+      "id": "live-EDPB — GDPR news-2",
       "cat": "privacy",
       "date": "2026-04-27",
       "title": "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
@@ -741,17 +771,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-04-23",
-      "title": "Release Notes for Safari Technology Preview 242",
-      "summary": "Safari Technology Preview Release 242 is now available for download for macOS Tahoe and macOS Sequoia.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/17934/release-notes-for-safari-technology-preview-242/",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-2",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-04-23",
       "title": "Stakeholder event on competition and data protection",
@@ -771,7 +791,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-04-16",
       "title": "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers",
@@ -791,7 +811,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-04-14",
       "title": "Enhancing compliance and consistency: EDPB adopts DPIA template",
@@ -811,7 +831,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-04-09",
       "title": "EDPB annual report 2025: supporting stakeholders through guidance and dialogue",
@@ -831,23 +851,13 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
+      "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-03-24",
       "title": "EDPB conference on cross-regulatory cooperation: what we learned",
       "summary": "Brussels, 23 March - On 17 March 2026, the EDPB conference “Cross-regulatory interplay and cooperation in the EU: a data protection perspective” took place in Brussels. The event showcased high-level discussions, featuring contributions fro",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-03-19",
-      "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
-      "summary": "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on a",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
       "live": true
     },
     {
@@ -861,7 +871,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-02-16",
       "title": "Deploying Websites Using Firebase",
@@ -881,7 +891,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-02-06",
       "title": "A Year In Books — 2025",
@@ -1001,7 +1011,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2025-07-23",
       "title": "Calcio In Italia — Travelling from the UK to Italy to watch football: A Guide",
@@ -1068,16 +1078,6 @@
       "summary": "One of the most popular use cases for server-side Google Tag Manager , often shared on this blog, too, is to split an incoming stream into multiple different endpoints . Since the demise of customTask for Universal Analytics (Rest In Peace!",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/gtmtips/sgtm-fetches-ga4-configuration-automatically/",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2025-01-07",
-      "title": "A Year In Books — 2024",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/a-year-in-books-2024-7bd496f5c5ba?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
