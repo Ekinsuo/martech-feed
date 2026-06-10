@@ -2,10 +2,9 @@ name: Build daily signals
 
 on:
   schedule:
-    # Her gün 06:00 UTC'de çalışır (Türkiye saatiyle ~09:00).
-    # Saati değiştirmek istersen cron'u düzenle: https://crontab.guru
-    - cron: "0 6 * * *"
-  workflow_dispatch:   # "Run workflow" düğmesiyle elle de tetiklenebilir
+    - cron: "17 4 * * *"
+    - cron: "23 13 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write       # signals.json'ı repo'ya geri yazabilmek için gerekli
