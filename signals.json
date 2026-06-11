@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-10T16:46:27.331044+00:00",
+  "generated_at": "2026-06-11T08:54:43.638675+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 105,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
@@ -121,6 +121,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-06-10",
+      "title": "June 10, 2026",
+      "summary": "Agent Assist Change Agent Assist offers Proactive generative knowledge assist V2 in GA. This version supports rich search context, multiple suggested queries, and granular control over triggering events. BigQuery Feature BigQuery continuous",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_10_2026",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
       "date": "2026-06-10",
@@ -211,11 +221,11 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-06-09",
       "title": "June 09, 2026",
-      "summary": "Cloud SDK Change 572.0.0 (2026-06-09) Google Cloud CLI Updated macOS Python Virtualenv for the gcloud CLI to 3.14.5 with pyOpenSSL 26.0.0 and cryptography 46.0.7. AI Fixed gcloud ai endpoints deploy-model to honor --machine-type for Gemini ",
+      "summary": "Cloud Domains Feature Organization Policy Service custom constraints are generally available for Cloud Domains. For more information, see Use custom organization policies . Cloud SDK Change 572.0.0 (2026-06-09) Google Cloud CLI Updated macO",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_09_2026",
       "live": true
@@ -251,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-06-08",
       "title": "June 08, 2026",
@@ -341,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-06-04",
       "title": "June 04, 2026",
@@ -351,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-06-03",
       "title": "June 03, 2026",
@@ -391,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-06-02",
       "title": "June 02, 2026",
@@ -411,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-06-01",
       "title": "June 01, 2026",
@@ -441,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-05-28",
       "title": "May 28, 2026",
@@ -471,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-05-27",
       "title": "May 27, 2026",
@@ -511,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-05-26",
       "title": "May 26, 2026",
@@ -531,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-05-25",
       "title": "May 25, 2026",
@@ -571,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
+      "id": "live-Google Cloud — All release notes-21",
       "cat": "general",
       "date": "2026-05-20",
       "title": "May 20, 2026",
@@ -588,26 +598,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/updating-google-tag-manager-server-side-tagging-servers-4e2440f69c7d?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-21",
-      "cat": "general",
-      "date": "2026-05-19",
-      "title": "May 19, 2026",
-      "summary": "Anti Money Laundering AI Announcement Improvements to backtest API and recall metrics are now available with engine version v004.011 . This includes support for Performance Targeting by number of parties required above threshold and a simpl",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#May_19_2026",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
-      "date": "2026-05-18",
-      "title": "May 18, 2026",
-      "summary": "Feature You can group reservations together to prioritize idle slot sharing within the group. Reservations within a reservation group share idle slots with each other before making them available to other reservations in the project, giving",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_18_2026",
       "live": true
     },
     {
