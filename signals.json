@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T08:54:43.638675+00:00",
+  "generated_at": "2026-06-11T17:04:21.509584+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -121,7 +121,37 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-06-11",
+      "title": "Signal orchestration reveals which accounts are ready to buy",
+      "summary": "Combine intent, engagement, firmographic, and buying committee signals to identify readiness and trigger more effective engagement. The post Signal orchestration reveals which accounts are ready to buy appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/signal-orchestration-reveals-which-accounts-are-ready-to-buy/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-06-11",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "A German court says Google can be liable for false claims in AI Overviews, a decision that could reshape legal risks for AI search platforms. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-06-11",
+      "title": "WWDC26 survey",
+      "summary": "Share your thoughts on this year’s conference. Take the survey",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=15wishue",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-06-10",
       "title": "June 10, 2026",
@@ -141,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-06-10",
       "title": "How events are helping marketers cut through the noise",
@@ -151,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-06-10",
       "title": "Marketing needs AI outcomes, not more AI pilots",
@@ -161,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-06-10",
       "title": "Your AI portfolio isn’t an AI strategy",
@@ -171,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-06-10",
       "title": "Gartner finds CMOs spending more on digital and acquisition",
@@ -181,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-06-10",
       "title": "The martech categories hit hardest by AI agents",
@@ -191,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-06-10",
       "title": "AI skills: The next layer of marketing automation by Optmyzr",
@@ -221,33 +251,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-06-09",
       "title": "June 09, 2026",
       "summary": "Cloud Domains Feature Organization Policy Service custom constraints are generally available for Cloud Domains. For more information, see Use custom organization policies . Cloud SDK Change 572.0.0 (2026-06-09) Google Cloud CLI Updated macO",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_09_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-06-09",
-      "title": "OpenAI tests multi-advertiser ad placements in ChatGPT",
-      "summary": "OpenAI is testing multi-advertiser placements in ChatGPT while adding new targeting and campaign tools that expand its ad platform. The post OpenAI tests multi-advertiser ad placements in ChatGPT appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/openai-tests-multi-advertiser-ad-placements-in-chatgpt/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-09",
-      "title": "Marketing on LinkedIn: What you need to know",
-      "summary": "Your guide to LinkedIn's tools, strategies and best practices. Updated with information about the new reach analytics metric. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/linkedin-the-marketers-guide/",
       "live": true
     },
     {
@@ -261,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-06-08",
       "title": "June 08, 2026",
@@ -301,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Find out what's new for Apple developers",
@@ -311,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Introducing Time Allowances",
@@ -321,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Updated Apple Developer Program License Agreement and App Review Guidelines now available",
@@ -351,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-06-04",
       "title": "June 04, 2026",
@@ -361,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-06-03",
       "title": "June 03, 2026",
@@ -371,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-06-03",
       "title": "Update for Apps Distributed in Texas",
@@ -381,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-06-03",
       "title": "Apple Developer Centers are expanding to Berlin",
@@ -401,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-06-02",
       "title": "June 02, 2026",
@@ -411,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-06-02",
       "title": "Introducing the 2026 Apple Design Award winners",
@@ -421,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-06-01",
       "title": "June 01, 2026",
@@ -431,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-06-01",
       "title": "All systems glow",
@@ -451,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-05-28",
       "title": "May 28, 2026",
@@ -481,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-05-27",
       "title": "May 27, 2026",
@@ -521,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-05-26",
       "title": "May 26, 2026",
@@ -531,17 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-05-26",
-      "title": "Get ready with the latest beta releases",
-      "summary": "The beta versions of iOS 26.6, iPadOS 26.6, macOS 26.6, tvOS 26.6, visionOS 26.6, and watchOS 26.6 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 26.5",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=tu7pk9oy",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-05-25",
       "title": "May 25, 2026",
@@ -581,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-21",
+      "id": "live-Google Cloud — All release notes-22",
       "cat": "general",
       "date": "2026-05-20",
       "title": "May 20, 2026",
