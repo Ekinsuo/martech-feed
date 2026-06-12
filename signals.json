@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-11T17:04:21.509584+00:00",
+  "generated_at": "2026-06-12T08:41:44.384679+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 104,
+  "count": 105,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -108,7 +108,7 @@
       "name": "GA4 — What's new",
       "cat": "ga4",
       "ok": true,
-      "items": 7,
+      "items": 8,
       "scraped": true
     },
     {
@@ -120,6 +120,36 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-06-12",
+      "title": "Introducing Layer Lens: Search Your GTM & GA4 Data in Real Time",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/introducing-layer-lens-search-your-gtm-ga4-data-in-real-time-af99478e3aa0?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-06-12",
+      "title": "Coordinated Supervision Committee extends scope to include Eurodac",
+      "summary": "Brussels, 12 June – As of today, coordinated supervision of the European Union’s asylum and migration database (Eurodac) will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/coordinated-supervision-committee-extends-scope-include-eurodac_en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-06-11",
+      "title": "June 11, 2026",
+      "summary": "BigQuery Feature You can monitor performance, analyze capacity, and optimize costs with Gemini Cloud Assist in BigQuery . This feature is in Preview . Feature Support for the AI.KEY_DRIVERS function is restored. You can use the AI.KEY_DRIVE",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_11_2026",
+      "live": true
+    },
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
@@ -144,10 +174,30 @@
       "id": "live-Apple Developer News-0",
       "cat": "apple",
       "date": "2026-06-11",
+      "title": "Deprecation of the ImageCreator class",
+      "summary": "As we continue to refine our approach to image generation, the ImageCreator class is being discontinued and will no longer work in iOS 27, iPadOS 27, macOS 27, and visionOS 27 or later. When we introduced the Image Playground framework, we ",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=dz9wvq0r",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-1",
+      "cat": "apple",
+      "date": "2026-06-11",
       "title": "WWDC26 survey",
       "summary": "Share your thoughts on this year’s conference. Take the survey",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=15wishue",
+      "live": true
+    },
+    {
+      "id": "scrape-GA4 — What's new-8",
+      "cat": "ga4",
+      "date": "2026-06-11",
+      "title": "New Source Group field with update to Source Platform…",
+      "summary": "values for improved source analysis Source grouping is a new dimension concept that consolidates source values for common online platforms - Facebook, Instagram, and TikTok A single value for a given source is vital for performance and attr",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
     },
     {
@@ -161,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-06-10",
       "title": "World Cup Sweepstake Generator",
@@ -241,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-06-10",
       "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
@@ -311,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Find out what's new for Apple developers",
@@ -321,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Introducing Time Allowances",
@@ -331,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Updated Apple Developer Program License Agreement and App Review Guidelines now available",
@@ -341,7 +391,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-7",
+      "id": "scrape-GA4 — What's new-9",
       "cat": "ga4",
       "date": "2026-06-08",
       "title": "New Google Business Profile integration You can now centrally…",
@@ -351,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-06-06",
       "title": "How to Deploy a Firebase Website as an App on Your iPhone",
@@ -381,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-06-03",
       "title": "Update for Apps Distributed in Texas",
@@ -391,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-06-03",
       "title": "Apple Developer Centers are expanding to Berlin",
@@ -421,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-06-02",
       "title": "Introducing the 2026 Apple Design Award winners",
@@ -438,16 +488,6 @@
       "summary": "Agent Assist Feature Agent Assist offers summarization with custom sections 6.0 in GA. The 6.0 version is powered by gemini-3.5-flash and available in all Agent Assist regions . Change Agent Assist offers summarization autoevaluation with m",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_01_2026",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-06-01",
-      "title": "All systems glow",
-      "summary": "WWDC26 is just one week away. Get ready for five days of technology, creativity, and community — all online and free. Learn more",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=q7tgn1rr",
       "live": true
     },
     {
@@ -521,7 +561,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-05-27",
       "title": "How to Secure Gemini API Keys in Google Cloud & Firebase",
@@ -551,7 +591,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-05-25",
       "title": "Automate Server-Side Google Tag Manager Updates on Cloud Run",
@@ -581,17 +621,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-22",
-      "cat": "general",
-      "date": "2026-05-20",
-      "title": "May 20, 2026",
-      "summary": "Apigee X Security On May 20, 2026, we published a security bulletin for Apigee. A vulnerability was found in Apigee ( CVE-2026-2264 ) where the IntegrationRegion parameter in the SetIntegrationRequest policy lacks validation, allowing for S",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#May_20_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-05-20",
       "title": "Updating Google Tag Manager Server Side Tagging Servers",
@@ -641,7 +671,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-8",
+      "id": "scrape-GA4 — What's new-10",
       "cat": "ga4",
       "date": "2026-05-13",
       "title": "New AI Assistant traffic measurement Google Analytics now provides…",
@@ -691,7 +721,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-9",
+      "id": "scrape-GA4 — What's new-11",
       "cat": "ga4",
       "date": "2026-05-07",
       "title": "Data Manager API support for Google Analytics server-to-server events…",
@@ -701,7 +731,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
+      "id": "live-EDPB — GDPR news-2",
       "cat": "privacy",
       "date": "2026-05-05",
       "title": "Europe Day 2026: let’s celebrate together",
@@ -711,7 +741,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-10",
+      "id": "scrape-GA4 — What's new-12",
       "cat": "ga4",
       "date": "2026-05-04",
       "title": "Conversion support in the Data API This feature may…",
@@ -731,7 +761,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-11",
+      "id": "scrape-GA4 — What's new-13",
       "cat": "ga4",
       "date": "2026-04-29",
       "title": "Configure your Google Analytics settings using Task Assistant To…",
@@ -751,7 +781,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-2",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-04-27",
       "title": "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
@@ -761,7 +791,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-04-23",
       "title": "Stakeholder event on competition and data protection",
@@ -781,7 +811,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-04-16",
       "title": "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers",
@@ -801,7 +831,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-04-14",
       "title": "Enhancing compliance and consistency: EDPB adopts DPIA template",
@@ -821,7 +851,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
+      "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-04-09",
       "title": "EDPB annual report 2025: supporting stakeholders through guidance and dialogue",
@@ -841,16 +871,6 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-03-24",
-      "title": "EDPB conference on cross-regulatory cooperation: what we learned",
-      "summary": "Brussels, 23 March - On 17 March 2026, the EDPB conference “Cross-regulatory interplay and cooperation in the EU: a data protection perspective” took place in Brussels. The event showcased high-level discussions, featuring contributions fro",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
-      "live": true
-    },
-    {
       "id": "live-Simo Ahava-0",
       "cat": "general",
       "date": "2026-03-13",
@@ -861,7 +881,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-02-16",
       "title": "Deploying Websites Using Firebase",
@@ -871,7 +891,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-12",
+      "id": "scrape-GA4 — What's new-14",
       "cat": "ga4",
       "date": "2026-02-10",
       "title": "Generated insights on the Home page We’ve added Generated…",
@@ -881,7 +901,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-02-06",
       "title": "A Year In Books — 2025",
@@ -911,7 +931,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-13",
+      "id": "scrape-GA4 — What's new-15",
       "cat": "ga4",
       "date": "2026-01-16",
       "title": "Cross-channel budgeting (Beta) This feature may not be available…",
@@ -998,16 +1018,6 @@
       "summary": "Fix table issues in README.md",
       "src": "sGTM Pantheon (GitHub commits)",
       "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/c2d297814581f1bbd74aa40a4a855719cc3d0764",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2025-07-23",
-      "title": "Calcio In Italia — Travelling from the UK to Italy to watch football: A Guide",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/calcio-in-italia-travelling-from-the-uk-to-italy-to-watch-football-a-guide-5b61968eab96?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
