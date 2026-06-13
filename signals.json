@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-12T16:29:51.468579+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 97,
+  "generated_at": "2026-06-13T07:55:54.460191+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 105,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -94,9 +94,8 @@
     {
       "name": "EDPB — GDPR news",
       "cat": "privacy",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "GTM / Tag Gateway — Release notes",
@@ -121,6 +120,16 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-06-12",
+      "title": "June 12, 2026",
+      "summary": "BigQuery Feature BigQuery AI functions can use ObjectRef values directly as input, without calling the OBJ.GET_ACCESS_URL function. This feature is generally available (GA). Cloud Service Mesh Security The following images are now rolling o",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_12_2026",
+      "live": true
+    },
     {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
@@ -149,6 +158,16 @@
       "summary": "New research shows buyers are ready for AI-powered experiences, while many organizations still struggle to deliver them. The post Consumers are ready for AI, but many brands are not appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/consumers-are-ready-for-ai-but-many-brands-are-not/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-06-12",
+      "title": "Coordinated Supervision Committee extends scope to include Eurodac",
+      "summary": "Brussels, 12 June – As of today, coordinated supervision of the European Union’s asylum and migration database (Eurodac) will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/coordinated-supervision-committee-extends-scope-include-eurodac_en",
       "live": true
     },
     {
@@ -279,6 +298,16 @@
       "summary": "This week, we launched the Field Guide to Grid Lanes at gridlanes.webkit.org.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18098/introducing-the-field-guide-to-grid-lanes/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-1",
+      "cat": "privacy",
+      "date": "2026-06-10",
+      "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
+      "summary": "Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a common data breach notification template . ",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/edpb-meets-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification_en",
       "live": true
     },
     {
@@ -562,16 +591,6 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
-      "cat": "general",
-      "date": "2026-05-25",
-      "title": "May 25, 2026",
-      "summary": "Google Kubernetes Engine Feature To monitor the efficiency of the GKE training JobSet, the following two GKE system metrics are available in Preview: kubernetes.io/jobset/scheduling_goodput : the fraction of time that all the resources requ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#May_25_2026",
-      "live": true
-    },
-    {
       "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-05-25",
@@ -712,6 +731,16 @@
       "live": true
     },
     {
+      "id": "live-EDPB — GDPR news-2",
+      "cat": "privacy",
+      "date": "2026-05-05",
+      "title": "Europe Day 2026: let’s celebrate together",
+      "summary": "Brussels, 5 May – On 9 May each year, Europeans celebrate the anniversary of the Schuman Declaration, the key moment which led to the creation of the EU as we know it today. To mark this special occasion, the European institutions will open",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/europe-day-2026-lets-celebrate-together_en",
+      "live": true
+    },
+    {
       "id": "scrape-GA4 — What's new-12",
       "cat": "ga4",
       "date": "2026-05-04",
@@ -752,6 +781,26 @@
       "live": true
     },
     {
+      "id": "live-EDPB — GDPR news-3",
+      "cat": "privacy",
+      "date": "2026-04-27",
+      "title": "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
+      "summary": "Brussels, 27 April – Today marks the 10th anniversary of the GDPR’s adoption, the first comprehensive data protection framework spanning an entire continent, establishing clear rights for individuals and obligations for organisations across",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/marking-10-years-gdpr-evolution-european-data-protection-landscape_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-4",
+      "cat": "privacy",
+      "date": "2026-04-23",
+      "title": "Stakeholder event on competition and data protection",
+      "summary": "Brussels, 23 April – The EDPB is organising a remote stakeholder event in the context of its joint work with the European Commission on upcoming guidelines on the interplay between competition and data protection . The event is an opportuni",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection_en",
+      "live": true
+    },
+    {
       "id": "live-Looker Release Notes-4",
       "cat": "looker",
       "date": "2026-04-20",
@@ -759,6 +808,16 @@
       "summary": "Looker (Google Cloud core) and Looker (original) changes Feature Now available in preview, the Looker VS Code Extension brings LookML development to local desktop IDEs like Visual Studio Code, Claude Code, and Cursor. The extension supports",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#April_20_2026",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-5",
+      "cat": "privacy",
+      "date": "2026-04-16",
+      "title": "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers",
+      "summary": "Brussels, 16 April – During its latest plenary, the EDPB has adopted Guidelines on processing of personal data for scientific research purposes . In addition, the Board has created a team to speed up the finalisation of the guidelines on an",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/edpb-brings-clarity-data-processing-scientific-research-speeds-finalisation_en",
       "live": true
     },
     {
@@ -772,6 +831,16 @@
       "live": true
     },
     {
+      "id": "live-EDPB — GDPR news-6",
+      "cat": "privacy",
+      "date": "2026-04-14",
+      "title": "Enhancing compliance and consistency: EDPB adopts DPIA template",
+      "summary": "Brussels, 14 April - In line with the EDPB’s Helsinki Statement to make GDPR compliance easier and strengthen consistency across Europe, the EDPB has adopted a template for Data Protection Impact Assessments (DPIA) . The template will help ",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/enhancing-compliance-and-consistency-edpb-adopts-dpia-template_en",
+      "live": true
+    },
+    {
       "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-04-09",
@@ -779,6 +848,16 @@
       "summary": "Looker (original) only changes Announcement Starting with the Looker 26.8 release, which will release in May 2026, the following changes will occur: Looker (original) admins will no longer be able to access or manage the API credentials of ",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#April_09_2026",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-7",
+      "cat": "privacy",
+      "date": "2026-04-09",
+      "title": "EDPB annual report 2025: supporting stakeholders through guidance and dialogue",
+      "summary": "Brussels, 09 April - The European Data Protection Board (EDPB) has published its 2025 Annual Report . The report provides an overview of the EDPB work carried out in 2025 and reflects on important milestones, such as the adoption of the Hel",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/news/2026/edpb-annual-report-2025-supporting-stakeholders-through-guidance-and-dialogue_en",
       "live": true
     },
     {
