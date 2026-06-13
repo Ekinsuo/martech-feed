@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T07:55:54.460191+00:00",
+  "generated_at": "2026-06-13T15:15:16.800818+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -125,7 +125,7 @@
       "cat": "general",
       "date": "2026-06-12",
       "title": "June 12, 2026",
-      "summary": "BigQuery Feature BigQuery AI functions can use ObjectRef values directly as input, without calling the OBJ.GET_ACCESS_URL function. This feature is generally available (GA). Cloud Service Mesh Security The following images are now rolling o",
+      "summary": "BigQuery Feature BigQuery AI functions can use ObjectRef values directly as input, without calling the OBJ.GET_ACCESS_URL function. This feature is generally available (GA). Cloud SQL for PostgreSQL Feature You can now create and query para",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_12_2026",
       "live": true
