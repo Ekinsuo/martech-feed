@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T08:21:22.087043+00:00",
+  "generated_at": "2026-06-14T15:22:37.955162+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -121,11 +121,11 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-06-12",
       "title": "June 12, 2026",
-      "summary": "BigQuery Feature BigQuery AI functions can use ObjectRef values directly as input, without calling the OBJ.GET_ACCESS_URL function. This feature is generally available (GA). Cloud SQL for PostgreSQL Feature You can now create and query para",
+      "summary": "BigQuery Feature BigQuery AI functions can use ObjectRef values directly as input, without calling the OBJ.GET_ACCESS_URL function. This feature is generally available (GA). Cloud Monitoring Change All agent.googleapis.com/processes metrics",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_12_2026",
       "live": true
@@ -171,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-06-11",
       "title": "June 11, 2026",
@@ -231,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-06-10",
       "title": "June 10, 2026",
@@ -311,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-06-09",
       "title": "June 09, 2026",
@@ -331,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-06-08",
       "title": "June 08, 2026",
@@ -421,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-06-04",
       "title": "June 04, 2026",
@@ -431,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-06-03",
       "title": "June 03, 2026",
@@ -471,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-06-02",
       "title": "June 02, 2026",
@@ -491,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-06-01",
       "title": "June 01, 2026",
@@ -511,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-05-28",
       "title": "May 28, 2026",
@@ -541,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-05-27",
       "title": "May 27, 2026",
@@ -581,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-05-26",
       "title": "May 26, 2026",
