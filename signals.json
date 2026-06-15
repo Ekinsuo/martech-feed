@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T10:32:40.589051+00:00",
+  "generated_at": "2026-06-15T18:05:38.165230+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -121,7 +121,67 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-06-15",
+      "title": "June 15, 2026",
+      "summary": "AlloyDB for PostgreSQL Feature The Database Insights remote Model Context Protocol (MCP) server now supports the following advanced query insights tools for AlloyDB for PostgreSQL: get_advanced_aggregated_query_stats get_advanced_aggregated",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_15_2026",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-06-15",
+      "title": "Building a Firebase Analytics Error Tracking Dashboard",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/building-a-firebase-analytics-error-tracking-dashboard-4e481ae3e9ce?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-06-15",
+      "title": "Salesforce acquires Fin, formerly known as Intercom",
+      "summary": "Last month, Intercom became Fin. Now, it’s part of the Salesforce shopping spree for agentic AI platforms. The post Salesforce acquires Fin, formerly known as Intercom appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/salesforce-acquires-fin-formerly-known-as-intercom/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-06-15",
+      "title": "Why marketers need both MMM & MTA in 2026",
+      "summary": "As tracking breaks down, combining top-down modeling with tactical attribution is becoming essential for budget decisions. The post Why marketers need both MMM & MTA in 2026 appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-marketers-need-both-mmm-mta-in-2026/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-06-15",
+      "title": "When AI is choosing, how is brand loyalty earned?",
+      "summary": "Brand loyalty is becoming less about points and perks and more about the signals AI systems use to evaluate trust and relevance. The post When AI is choosing, how is brand loyalty earned? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/when-ai-is-choosing-how-is-brand-loyalty-earned/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-06-15",
+      "title": "How CMOs can create clarity in an AI-excess enterprise",
+      "summary": "Customer feedback, AI insights, and market signals compete for attention. The challenge is knowing what deserves action. The post How CMOs can create clarity in an AI-excess enterprise appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-cmos-can-create-clarity-in-an-ai-excess-enterprise/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-06-12",
       "title": "June 12, 2026",
@@ -131,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-06-12",
       "title": "Introducing Layer Lens: Search Your GTM & GA4 Data in Real Time",
@@ -141,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-06-12",
       "title": "Bulk email restrictions from Google, Yahoo, and Microsoft: What you need to know",
@@ -151,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-06-12",
       "title": "Consumers are ready for AI, but many brands are not",
@@ -171,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-06-11",
       "title": "June 11, 2026",
@@ -191,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-06-11",
       "title": "Signal orchestration reveals which accounts are ready to buy",
@@ -201,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-06-11",
       "title": "The latest AI-powered martech news and releases",
@@ -212,16 +272,6 @@
     },
     {
       "id": "live-Apple Developer News-0",
-      "cat": "apple",
-      "date": "2026-06-11",
-      "title": "Deprecation of the ImageCreator class",
-      "summary": "As we continue to refine our approach to image generation, the ImageCreator class is being discontinued and will no longer work in iOS 27, iPadOS 27, macOS 27, and visionOS 27 or later. When we introduced the Image Playground framework, we ",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=dz9wvq0r",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-06-11",
       "title": "WWDC26 survey",
@@ -241,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-06-10",
       "title": "June 10, 2026",
@@ -271,53 +321,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-06-10",
       "title": "World Cup Sweepstake Generator",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/world-cup-sweepstake-generator-e4649cd00b20?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-06-10",
-      "title": "How events are helping marketers cut through the noise",
-      "summary": "The noise on digital channels is driving marketers and their customers back to in-person events. The post How events are helping marketers cut through the noise appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-events-are-helping-marketers-cut-through-the-noise/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-06-10",
-      "title": "Marketing needs AI outcomes, not more AI pilots",
-      "summary": "Learn how to identify high-value AI opportunities, prepare teams for adoption, and measure the outcomes that matter to the business. The post Marketing needs AI outcomes, not more AI pilots appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketing-needs-ai-outcomes-not-more-ai-pilots/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-06-10",
-      "title": "Your AI portfolio isn’t an AI strategy",
-      "summary": "Learn the four questions that reveal whether your AI efforts are creating lasting value or simply generating activity. The post Your AI portfolio isn t an AI strategy appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-ai-portfolio-isnt-an-ai-strategy/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-10",
-      "title": "Gartner finds CMOs spending more on digital and acquisition",
-      "summary": "CMOs are spending more on digital media and acquisition as consumers grow more skeptical of AI-generated content and its value. The post Gartner finds CMOs spending more on digital and acquisition appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/gartner-finds-cmos-spending-more-on-digital-and-acquisition/",
       "live": true
     },
     {
@@ -341,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-06-09",
       "title": "June 09, 2026",
@@ -361,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-06-08",
       "title": "June 08, 2026",
@@ -411,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Find out what's new for Apple developers",
@@ -421,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Introducing Time Allowances",
@@ -431,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Updated Apple Developer Program License Agreement and App Review Guidelines now available",
@@ -451,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-06-06",
       "title": "How to Deploy a Firebase Website as an App on Your iPhone",
@@ -461,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-06-04",
       "title": "June 04, 2026",
@@ -471,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-06-03",
       "title": "June 03, 2026",
@@ -481,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-06-03",
       "title": "Update for Apps Distributed in Texas",
@@ -491,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-06-03",
       "title": "Apple Developer Centers are expanding to Berlin",
@@ -511,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-06-02",
       "title": "June 02, 2026",
@@ -531,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-7",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-06-02",
       "title": "Introducing the 2026 Apple Design Award winners",
@@ -541,13 +551,23 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-06-01",
       "title": "June 01, 2026",
       "summary": "Agent Assist Feature Agent Assist offers summarization with custom sections 6.0 in GA. The 6.0 version is powered by gemini-3.5-flash and available in all Agent Assist regions . Change Agent Assist offers summarization autoevaluation with m",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_01_2026",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-7",
+      "cat": "apple",
+      "date": "2026-06-01",
+      "title": "All systems glow",
+      "summary": "WWDC26 is just one week away. Get ready for five days of technology, creativity, and community — all online and free. Learn more",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=q7tgn1rr",
       "live": true
     },
     {
@@ -561,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-05-28",
       "title": "May 28, 2026",
@@ -591,7 +611,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-05-27",
       "title": "May 27, 2026",
@@ -611,7 +631,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-05-27",
       "title": "How to Secure Gemini API Keys in Google Cloud & Firebase",
@@ -621,17 +641,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
-      "cat": "general",
-      "date": "2026-05-26",
-      "title": "May 26, 2026",
-      "summary": "BigQuery Feature The Data Science Agent (DSA) for Colab Enterprise and BigQuery is now generally available (GA). Cloud CDN Feature For global external Application Load Balancers , you can configure Cloud CDN cache policies at various levels",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#May_26_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-05-25",
       "title": "Automate Server-Side Google Tag Manager Updates on Cloud Run",
@@ -651,7 +661,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-05-20",
       "title": "Updating Google Tag Manager Server Side Tagging Servers",
@@ -881,7 +891,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-02-16",
       "title": "Deploying Websites Using Firebase",
@@ -898,16 +908,6 @@
       "summary": "insights to your Home page This feature summarizes the top three data changes since your last visit, including key configuration updates, anomalies, and seasonality trends.This helps you quickly catch up on what’s happening in your property",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-02-06",
-      "title": "A Year In Books — 2025",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/a-year-in-books-2025-d4cbfaeb5148?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
