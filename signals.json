@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T15:22:37.955162+00:00",
+  "generated_at": "2026-06-15T10:32:40.589051+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -181,6 +181,16 @@
       "live": true
     },
     {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-06-11",
+      "title": "Dynamic Search Ads (DSA) Automigration Delayed to February 2027 and Campaign Creation Restored",
+      "summary": "What is changing? Google is extending the timeline for the transition of Dynamic Search Ads (DSA) to AI Max for Search campaigns and restoring campaign creation functionality. Automigration Delayed: The automatic upgrade of DSA campaigns to",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/589421592080885626",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-06-11",
@@ -238,6 +248,26 @@
       "summary": "Agent Assist Change Agent Assist offers Proactive generative knowledge assist V2 in GA. This version supports rich search context, multiple suggested queries, and granular control over triggering events. BigQuery Feature BigQuery continuous",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_10_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-1",
+      "cat": "gads",
+      "date": "2026-06-10",
+      "title": "Introducing the Google Ads API Developer Assistant v3.0.0",
+      "summary": "We are pleased to announce the release of v3.0.0 of the Google Ads API Developer Assistant . This major release marks a significant milestone in the evolution of the Assistant, focusing on architectural modernization, improved reliability, ",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/8725267558618735394",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-2",
+      "cat": "gads",
+      "date": "2026-06-10",
+      "title": "June 2026 update to the Display & Video 360 API",
+      "summary": "Today we’re launching the June 2026 update to the Display & Video 360 API. This update includes the following: Support for Structured Data Files v10 . Introduction of new AudioContentType , Exchange , and GeoRegionType values. Support for Y",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/8575603801217859350",
       "live": true
     },
     {
@@ -338,6 +368,16 @@
       "summary": "Apigee X Announcement On June 8th, 2026, we released an updated version of Apigee (1-17-0-apigee-9). Note: Rollouts of this release began today and may take four or more business days to be completed across all Google Cloud zones. Your inst",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_08_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-3",
+      "cat": "gads",
+      "date": "2026-06-08",
+      "title": "Toggle on the Google Mobile Ads Next-Gen SDK in your Unity apps",
+      "summary": "We are thrilled to announce the Google Mobile Ads (GMA) Next-Gen SDK for Android is now officially available for Unity developers. Upgrading to GMA Next-Gen SDK for Android offers the following benefits: Faster performance : Up to 27% faste",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4942044377403677246",
       "live": true
     },
     {
@@ -481,6 +521,16 @@
       "live": true
     },
     {
+      "id": "live-Google Ads Developer Blog-4",
+      "cat": "gads",
+      "date": "2026-06-02",
+      "title": "Launching Structured Data Files v10",
+      "summary": "Today we’re announcing the general availability of Structured Data Files v10 . All users can now use v10 when downloading and uploading SDFs in the Display & Video 360 interface. SDF v10 includes the following changes to file formats: Suppo",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/3280622372761739628",
+      "live": true
+    },
+    {
       "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-06-02",
@@ -521,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-05-28",
       "title": "Data Manager API now supports sending events to Google Marketing Platform destinations and IP ingestion for Google Ads Customer Match",
@@ -531,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-05-28",
       "title": "The “What” and “Why” on Meridian: Ads DevCast E6",
@@ -551,23 +601,13 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-05-27",
       "title": "Display & Video 360 API will start supporting Demand Gen resources on June 10, 2026",
       "summary": "Today we’re announcing the upcoming rollout of Demand Gen resource support to all Display & Video 360 API users starting on June 10, 2026 . This feature will be rolled out to Display & Video 360 partners over two weeks. By June 24, the feat",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/5512938120006226965",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-3",
-      "cat": "gads",
-      "date": "2026-05-27",
-      "title": "Standardizing Reach Metrics with Total Co-view in the Google Ads API",
-      "summary": "Starting on June 2nd, 2026, the Google Ads API will transition reach metrics to a \"Total Co-view\" definition. This update aligns Google Ads reporting with offline media and third-party measurement standards, ensuring consistency across all ",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4159277691010699365",
       "live": true
     },
     {
@@ -601,16 +641,6 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
-      "cat": "gads",
-      "date": "2026-05-21",
-      "title": "Ads DevCast: Google Marketing Live 2026 bonus episode",
-      "summary": "We're excited to bring you a special bonus episode of Google’s Ads DevCast! We’re going over a few of the bigger announcements and updates from Google Marketing Live (GML) 2026 that directly affect our developers and technical users, across",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6509990699047384326",
-      "live": true
-    },
-    {
       "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-05-21",
@@ -631,26 +661,6 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
-      "cat": "gads",
-      "date": "2026-05-15",
-      "title": "Changes to Offline Click Conversion Import Support in the Google Ads API",
-      "summary": "Starting on June 15, 2026, the Google Ads API will no longer accept new adopters of offline conversion imports, including enhanced conversions for leads. As with our previous announcements for session attributes and IP address , and Custome",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4657497051592448101",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-6",
-      "cat": "gads",
-      "date": "2026-05-14",
-      "title": "Announcing expanded experiment functionality in Google Ads API v24.1",
-      "summary": "We are excited to announce a significant expansion of the Google Ads A/B experiments feature set in the v24.1 release , launched yesterday, May 13, 2026. We know API functionality is critical for advertisers who manage large sophisticated a",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/5923734712827904753",
-      "live": true
-    },
-    {
       "id": "scrape-GTM / Tag Gateway — Release notes-2",
       "cat": "gtm",
       "date": "2026-05-14",
@@ -658,16 +668,6 @@
       "summary": "Fastly are now available This release introduces a streamlined integration to configure Google tag gateway for advertisers using Akamai or Fastly as your content delivery network (CDN) You can now authorize Google to automatically detect yo",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-05-13",
-      "title": "Announcing v24.1 of the Google Ads API",
-      "summary": "Today, we’re announcing the v24.1 release of the Google Ads API . To use the new v24.1 features, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us fo",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/2086742490010516624",
       "live": true
     },
     {
