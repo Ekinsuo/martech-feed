@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-15T18:05:38.165230+00:00",
+  "generated_at": "2026-06-16T09:35:05.315421+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 105,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -108,7 +108,7 @@
       "name": "GA4 — What's new",
       "cat": "ga4",
       "ok": true,
-      "items": 8,
+      "items": 7,
       "scraped": true
     },
     {
@@ -125,7 +125,7 @@
       "cat": "general",
       "date": "2026-06-15",
       "title": "June 15, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature The Database Insights remote Model Context Protocol (MCP) server now supports the following advanced query insights tools for AlloyDB for PostgreSQL: get_advanced_aggregated_query_stats get_advanced_aggregated",
+      "summary": "AI Hypercomputer Feature Preview : Before you create Spot VMs, you can view the real-time availability, estimated uptime, historical preemption rate, and pricing for a specific machine type and location. This information helps you maximize ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_15_2026",
       "live": true
@@ -178,6 +178,26 @@
       "summary": "Customer feedback, AI insights, and market signals compete for attention. The challenge is knowing what deserves action. The post How CMOs can create clarity in an AI-excess enterprise appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/how-cmos-can-create-clarity-in-an-ai-excess-enterprise/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-06-15",
+      "title": "The golden rule of Customizable Select",
+      "summary": "Customizable select is coming to Safari 27.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18117/the-golden-rule-of-customizable-select/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-06-15",
+      "title": "New domain for Sign in with Apple and iCloud+ Hide My Email",
+      "summary": "Later this summer, Apple will unify the email domains used by Sign in with Apple and iCloud+ Hide My Email under a single, shared domain: private.icloud.com . New addresses generated for both features will be issued on the new domain. For e",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=sus6t6ab",
       "live": true
     },
     {
@@ -271,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-06-11",
       "title": "WWDC26 survey",
@@ -331,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-06-10",
       "title": "Introducing the Field Guide to Grid Lanes",
@@ -361,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-06-09",
       "title": "Discover MapKit JS 6: Rebuilt for Today’s Web Developer",
@@ -391,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-06-08",
       "title": "Release Notes for Safari Technology Preview 245",
@@ -401,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-06-08",
       "title": "Web Technology Sessions at WWDC26",
@@ -411,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-06-08",
       "title": "News from WWDC26: WebKit in Safari 27 beta",
@@ -421,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Find out what's new for Apple developers",
@@ -431,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Introducing Time Allowances",
@@ -441,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Updated Apple Developer Program License Agreement and App Review Guidelines now available",
@@ -491,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-06-03",
       "title": "Update for Apps Distributed in Texas",
@@ -501,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-06-03",
       "title": "Apple Developer Centers are expanding to Berlin",
@@ -541,7 +561,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-06-02",
       "title": "Introducing the 2026 Apple Design Award winners",
@@ -558,16 +578,6 @@
       "summary": "Agent Assist Feature Agent Assist offers summarization with custom sections 6.0 in GA. The 6.0 version is powered by gemini-3.5-flash and available in all Agent Assist regions . Change Agent Assist offers summarization autoevaluation with m",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_01_2026",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-06-01",
-      "title": "All systems glow",
-      "summary": "WWDC26 is just one week away. Get ready for five days of technology, creativity, and community — all online and free. Learn more",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=q7tgn1rr",
       "live": true
     },
     {
@@ -651,7 +661,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-05-21",
       "title": "Release Notes for Safari Technology Preview 244",
@@ -691,7 +701,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-05-11",
       "title": "WebKit Features for Safari 26.5",
@@ -718,16 +728,6 @@
       "summary": "Deployment dates Announcement Looker 26.8 is expected to include the following changes, features, and fixes: Expected Looker (original) deployment start: Sunday, May 10, 2026 Expected Looker (original) final deployment and download availabl",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#May_07_2026",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-05-07",
-      "title": "Release Notes for Safari Technology Preview 243",
-      "summary": "Safari Technology Preview Release 243 is now available for download for macOS Tahoe and macOS Sequoia.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/17953/release-notes-for-safari-technology-preview-243/",
       "live": true
     },
     {
@@ -928,16 +928,6 @@
       "summary": "available This release introduces a new option to configure Google tag gateway for advertisers using Akamai as your content delivery network (CDN) This integration gives you greater control over your data, improving the accuracy of your Goo",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-15",
-      "cat": "ga4",
-      "date": "2026-01-16",
-      "title": "Cross-channel budgeting (Beta) This feature may not be available…",
-      "summary": "to your Google Analytics property The Google Analytics team is actively working to expand this feature to more properties. Please reach out to your support team if you have questions about the eligibility of your property. The Google Analyt",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
     },
     {
