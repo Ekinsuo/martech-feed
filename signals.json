@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T09:35:05.315421+00:00",
+  "generated_at": "2026-06-16T18:12:19.672870+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -121,7 +121,37 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-06-16",
+      "title": "Databricks unveils CustomerLake, its agentic CDP",
+      "summary": "After weeks of speculation, Databricks entered the martech space with an agentic CDP built for an agentic era of marketing and shopping. The post Databricks unveils CustomerLake, its agentic CDP appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/databricks-unveils-customerlake-its-agentic-cdp/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-06-16",
+      "title": "3 direct mail lessons for evaluating agentic commerce",
+      "summary": "Before committing to new platforms, identify what your brand will still own, measure, and control when agentic commerce changes. The post 3 direct mail lessons for evaluating agentic commerce appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/3-direct-mail-lessons-for-evaluating-agentic-commerce/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-06-16",
+      "title": "Better prompts won’t fix your workslop problem",
+      "summary": "Training, guardrails, and prompt libraries can help reduce AI workslop. The bigger problem is how AI knowledge moves through your organization. The post Better prompts won t fix your workslop problem appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/better-prompts-wont-fix-your-workslop-problem/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-06-15",
       "title": "June 15, 2026",
@@ -141,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-06-15",
       "title": "Salesforce acquires Fin, formerly known as Intercom",
@@ -151,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-06-15",
       "title": "Why marketers need both MMM & MTA in 2026",
@@ -161,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-06-15",
       "title": "When AI is choosing, how is brand loyalty earned?",
@@ -171,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-06-15",
       "title": "How CMOs can create clarity in an AI-excess enterprise",
@@ -201,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-06-12",
       "title": "June 12, 2026",
@@ -221,23 +251,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-06-12",
       "title": "Bulk email restrictions from Google, Yahoo, and Microsoft: What you need to know",
       "summary": "Updated with news of DMARC upgrades and new deliverability analysis in Google Postmaster Tools. The post Bulk email restrictions from Google, Yahoo, and Microsoft: What you need to know appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/new-rules-for-bulk-email-senders-from-google-yahoo-what-you-need-to-know/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-06-12",
-      "title": "Consumers are ready for AI, but many brands are not",
-      "summary": "New research shows buyers are ready for AI-powered experiences, while many organizations still struggle to deliver them. The post Consumers are ready for AI, but many brands are not appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/consumers-are-ready-for-ai-but-many-brands-are-not/",
       "live": true
     },
     {
@@ -251,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-06-11",
       "title": "June 11, 2026",
@@ -268,26 +288,6 @@
       "summary": "What is changing? Google is extending the timeline for the transition of Dynamic Search Ads (DSA) to AI Max for Search campaigns and restoring campaign creation functionality. Automigration Delayed: The automatic upgrade of DSA campaigns to",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/589421592080885626",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-06-11",
-      "title": "Signal orchestration reveals which accounts are ready to buy",
-      "summary": "Combine intent, engagement, firmographic, and buying committee signals to identify readiness and trigger more effective engagement. The post Signal orchestration reveals which accounts are ready to buy appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/signal-orchestration-reveals-which-accounts-are-ready-to-buy/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-11",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "A German court says Google can be liable for false claims in AI Overviews, a decision that could reshape legal risks for AI search platforms. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
       "live": true
     },
     {
@@ -311,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-06-10",
       "title": "June 10, 2026",
@@ -371,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-06-09",
       "title": "June 09, 2026",
@@ -391,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-06-08",
       "title": "June 08, 2026",
@@ -491,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-06-04",
       "title": "June 04, 2026",
@@ -501,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-06-03",
       "title": "June 03, 2026",
@@ -541,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-06-02",
       "title": "June 02, 2026",
@@ -571,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-06-01",
       "title": "June 01, 2026",
@@ -591,7 +591,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-05-28",
       "title": "May 28, 2026",
@@ -621,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
+      "id": "live-Google Cloud — All release notes-20",
       "cat": "general",
       "date": "2026-05-27",
       "title": "May 27, 2026",
