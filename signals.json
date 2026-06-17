@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T09:11:52.404748+00:00",
+  "generated_at": "2026-06-17T16:45:16.573541+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -121,17 +121,47 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-06-17",
+      "title": "Managing your marketing content in the age of AI",
+      "summary": "Erica Gunn, CMO of Canto, joins us to discuss how AI is both a problem and a solution for marketers drowning in content. The post Managing your marketing content in the age of AI appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/managing-your-marketing-content-in-the-age-of-ai/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-06-17",
+      "title": "Adobe brings GEO to CX Enterprise with Adobe Brand Visibility",
+      "summary": "Adobe used its acquisition of Semrush to build a GEO tool with AI agents that recommend and implement optimizations to help LLM visibility. The post Adobe brings GEO to CX Enterprise with Adobe Brand Visibility appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/adobe-brings-geo-to-cx-enterprise-with-adobe-brand-visibility/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-06-17",
+      "title": "The hidden fragility of performance marketing",
+      "summary": "The pursuit of measurable efficiency can leave brands vulnerable when competitors, platforms, or AI reshape customer discovery. The post The hidden fragility of performance marketing appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-hidden-fragility-of-performance-marketing/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-06-16",
       "title": "June 16, 2026",
-      "summary": "BigQuery Announcement Table Explorer behavior is moving to the Reference panel. This transition will occur in July 2026 or later. For more information, see Table Explorer . Cloud SDK Breaking 573.0.0 (2026-06-16) Breaking Changes (Anthos Mu",
+      "summary": "AlloyDB for PostgreSQL Feature AlloyDB integration with Knowledge Catalog is now generally available ( GA ). This integration provides a unified metadata view to simplify data governance and analysis. It includes near real-time synchronizat",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_16_2026",
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-06-16",
       "title": "Databricks unveils CustomerLake, its agentic CDP",
@@ -141,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-06-16",
       "title": "3 direct mail lessons for evaluating agentic commerce",
@@ -151,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-06-16",
       "title": "Better prompts won’t fix your workslop problem",
@@ -161,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-06-15",
       "title": "June 15, 2026",
@@ -181,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-06-15",
       "title": "Salesforce acquires Fin, formerly known as Intercom",
@@ -191,33 +221,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-06-15",
       "title": "Why marketers need both MMM & MTA in 2026",
       "summary": "As tracking breaks down, combining top-down modeling with tactical attribution is becoming essential for budget decisions. The post Why marketers need both MMM & MTA in 2026 appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/why-marketers-need-both-mmm-mta-in-2026/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-06-15",
-      "title": "When AI is choosing, how is brand loyalty earned?",
-      "summary": "Brand loyalty is becoming less about points and perks and more about the signals AI systems use to evaluate trust and relevance. The post When AI is choosing, how is brand loyalty earned? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/when-ai-is-choosing-how-is-brand-loyalty-earned/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-06-15",
-      "title": "How CMOs can create clarity in an AI-excess enterprise",
-      "summary": "Customer feedback, AI insights, and market signals compete for attention. The challenge is knowing what deserves action. The post How CMOs can create clarity in an AI-excess enterprise appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-cmos-can-create-clarity-in-an-ai-excess-enterprise/",
       "live": true
     },
     {
@@ -241,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-06-12",
       "title": "June 12, 2026",
@@ -261,16 +271,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-12",
-      "title": "Bulk email restrictions from Google, Yahoo, and Microsoft: What you need to know",
-      "summary": "Updated with news of DMARC upgrades and new deliverability analysis in Google Postmaster Tools. The post Bulk email restrictions from Google, Yahoo, and Microsoft: What you need to know appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/new-rules-for-bulk-email-senders-from-google-yahoo-what-you-need-to-know/",
-      "live": true
-    },
-    {
       "id": "live-EDPB — GDPR news-0",
       "cat": "privacy",
       "date": "2026-06-12",
@@ -281,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-06-11",
       "title": "June 11, 2026",
@@ -321,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-06-10",
       "title": "June 10, 2026",
@@ -381,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-06-09",
       "title": "June 09, 2026",
@@ -401,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-06-08",
       "title": "June 08, 2026",
@@ -501,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-06-04",
       "title": "June 04, 2026",
@@ -511,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-06-03",
       "title": "June 03, 2026",
@@ -551,7 +551,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-06-02",
       "title": "June 02, 2026",
@@ -581,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-06-01",
       "title": "June 01, 2026",
@@ -601,7 +601,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
+      "id": "live-Google Cloud — All release notes-20",
       "cat": "general",
       "date": "2026-05-28",
       "title": "May 28, 2026",
