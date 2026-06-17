@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-16T18:12:19.672870+00:00",
+  "generated_at": "2026-06-17T09:11:52.404748+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 104,
+  "count": 105,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "name": "Looker Studio Release Notes",
@@ -120,6 +120,16 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-06-16",
+      "title": "June 16, 2026",
+      "summary": "BigQuery Announcement Table Explorer behavior is moving to the Reference panel. This transition will occur in July 2026 or later. For more information, see Table Explorer . Cloud SDK Breaking 573.0.0 (2026-06-16) Breaking Changes (Anthos Mu",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_16_2026",
+      "live": true
+    },
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
@@ -621,13 +631,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
+      "id": "live-Looker Release Notes-1",
+      "cat": "looker",
       "date": "2026-05-27",
       "title": "May 27, 2026",
-      "summary": "App Engine standard environment Go Feature Enable only needed legacy bundled services using the app_engine_bundled_services field for improved security and maintainability of your applications ( Preview ). App Engine standard environment Ja",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#May_27_2026",
+      "summary": "Deployment dates Announcement The following features will begin rolling out as part of Looker 26.8. Feature The Looker Continuous Integration (CI) feature is now generally available. Feature Conversational Analytics now supports the ability",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#May_27_2026",
       "live": true
     },
     {
