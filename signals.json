@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T16:45:16.573541+00:00",
+  "generated_at": "2026-06-18T08:55:55.785802+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -121,7 +121,27 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-06-17",
+      "title": "June 17, 2026",
+      "summary": "BigQuery Feature You can enable autonomous embedding generation on new or existing tables that you make with the CREATE TABLE or ALTER TABLE statements. When you do this, BigQuery maintains a column of embeddings on the table based on a sou",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_17_2026",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-06-17",
+      "title": "BlueConic acquires Blueshift as CDPs move from data to action",
+      "summary": "AI agents that execute on the next best action are all the rage in CDP circles these days. The post BlueConic acquires Blueshift as CDPs move from data to action appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/blueconic-acquires-blueshift-as-cdps-move-from-data-to-action/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
       "cat": "general",
       "date": "2026-06-17",
       "title": "Managing your marketing content in the age of AI",
@@ -131,7 +151,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-06-17",
       "title": "Adobe brings GEO to CX Enterprise with Adobe Brand Visibility",
@@ -141,13 +161,23 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-06-17",
       "title": "The hidden fragility of performance marketing",
       "summary": "The pursuit of measurable efficiency can leave brands vulnerable when competitors, platforms, or AI reshape customer discovery. The post The hidden fragility of performance marketing appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/the-hidden-fragility-of-performance-marketing/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-06-17",
+      "title": "Release Notes for Safari Technology Preview 246",
+      "summary": "Safari Technology Preview Release 246 is now available for download for macOS Golden Gate and macOS Tahoe.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18128/release-notes-for-safari-technology-preview-246/",
       "live": true
     },
     {
@@ -161,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-06-16",
       "title": "Databricks unveils CustomerLake, its agentic CDP",
@@ -171,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-06-16",
       "title": "3 direct mail lessons for evaluating agentic commerce",
@@ -181,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-06-16",
       "title": "Better prompts won’t fix your workslop problem",
@@ -211,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-06-15",
       "title": "Salesforce acquires Fin, formerly known as Intercom",
@@ -221,17 +251,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-15",
-      "title": "Why marketers need both MMM & MTA in 2026",
-      "summary": "As tracking breaks down, combining top-down modeling with tactical attribution is becoming essential for budget decisions. The post Why marketers need both MMM & MTA in 2026 appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-marketers-need-both-mmm-mta-in-2026/",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-06-15",
       "title": "The golden rule of Customizable Select",
@@ -361,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-06-10",
       "title": "Introducing the Field Guide to Grid Lanes",
@@ -391,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-06-09",
       "title": "Discover MapKit JS 6: Rebuilt for Today’s Web Developer",
@@ -421,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-06-08",
       "title": "Release Notes for Safari Technology Preview 245",
@@ -431,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-06-08",
       "title": "Web Technology Sessions at WWDC26",
@@ -441,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-06-08",
       "title": "News from WWDC26: WebKit in Safari 27 beta",
@@ -601,16 +621,6 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
-      "date": "2026-05-28",
-      "title": "May 28, 2026",
-      "summary": "Backup and DR Feature You can now view the Google Cloud Backup and DR Service protection summary at the organization and folder levels. To learn more about protection summary, see Find unprotected resources using protection summary . Bigtab",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#May_28_2026",
-      "live": true
-    },
-    {
       "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-05-28",
@@ -671,7 +681,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-05-21",
       "title": "Release Notes for Safari Technology Preview 244",
@@ -708,16 +718,6 @@
       "summary": "a dedicated way to measure and analyze traffic originating from popular AI assistants You can now identify how users are discovering your site through chatbots like ChatGPT, Gemini, and Claude via a new AI Assistant channel in your Default ",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-05-11",
-      "title": "WebKit Features for Safari 26.5",
-      "summary": "Safari 26.5 is here, delivering the :open pseudo-class, the element-scoped keyword for random(), color-interpolation for SVG gradients, the ToggleEvent.source property for popovers, and the Origin API.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/17938/webkit-features-for-safari-26-5/",
       "live": true
     },
     {
