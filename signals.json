@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-18T08:55:55.785802+00:00",
+  "generated_at": "2026-06-18T16:44:26.459023+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 105,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -89,7 +89,7 @@
       "name": "Apple Developer News",
       "cat": "apple",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "name": "EDPB — GDPR news",
@@ -121,6 +121,46 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-06-18",
+      "title": "How to sustain creative testing without adding headcount",
+      "summary": "Build a repeatable system for creative experimentation using pre-vetted freelancers, modular briefs, and automated workflows. The post How to sustain creative testing without adding headcount appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-sustain-creative-testing-without-adding-headcount/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-06-18",
+      "title": "What customers tell friends that marketers miss",
+      "summary": "The strongest marketing messages address the frustrations and motivations customers rarely share directly. Here's how AI can help uncover them. The post What customers tell friends that marketers miss appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/what-customers-tell-friends-that-marketers-miss/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-06-18",
+      "title": "Updated Apple Developer Program License Agreement now available",
+      "summary": "Attachment 12 of the Apple Developer Program License Agreement has been revised to specify terms for iOS apps in Brazil, including alternative distribution, alternative payments and out-of-app offers, and the Core Technology Commission. Ple",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=umq9wxmm",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-1",
+      "cat": "apple",
+      "date": "2026-06-18",
+      "title": "Changes to iOS in Brazil",
+      "summary": "As part of a recent agreement with Brazil’s competition regulator CADE (Conselho Administrativo de Defesa Econômica), Apple is introducing changes to iOS that create new options for developers' apps in Brazil. Beginning with iOS 26.5, devel",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=dhwadr2x",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-06-17",
@@ -131,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-06-17",
       "title": "BlueConic acquires Blueshift as CDPs move from data to action",
@@ -141,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-06-17",
       "title": "Managing your marketing content in the age of AI",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-06-17",
       "title": "Adobe brings GEO to CX Enterprise with Adobe Brand Visibility",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-06-17",
       "title": "The hidden fragility of performance marketing",
@@ -191,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-06-16",
       "title": "Databricks unveils CustomerLake, its agentic CDP",
@@ -201,23 +241,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-06-16",
       "title": "3 direct mail lessons for evaluating agentic commerce",
       "summary": "Before committing to new platforms, identify what your brand will still own, measure, and control when agentic commerce changes. The post 3 direct mail lessons for evaluating agentic commerce appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/3-direct-mail-lessons-for-evaluating-agentic-commerce/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-06-16",
-      "title": "Better prompts won’t fix your workslop problem",
-      "summary": "Training, guardrails, and prompt libraries can help reduce AI workslop. The bigger problem is how AI knowledge moves through your organization. The post Better prompts won t fix your workslop problem appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/better-prompts-wont-fix-your-workslop-problem/",
       "live": true
     },
     {
@@ -241,16 +271,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-15",
-      "title": "Salesforce acquires Fin, formerly known as Intercom",
-      "summary": "Last month, Intercom became Fin. Now, it’s part of the Salesforce shopping spree for agentic AI platforms. The post Salesforce acquires Fin, formerly known as Intercom appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/salesforce-acquires-fin-formerly-known-as-intercom/",
-      "live": true
-    },
-    {
       "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-06-15",
@@ -261,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-06-15",
       "title": "New domain for Sign in with Apple and iCloud+ Hide My Email",
@@ -321,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-06-11",
       "title": "WWDC26 survey",
@@ -471,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Find out what's new for Apple developers",
@@ -481,23 +501,13 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Introducing Time Allowances",
       "summary": "New Time Allowances in iOS 27, iPadOS 27, and macOS 27, or later, give parents more flexible ways to manage the time their kids spend in apps across categories, including Entertainment, Games, and Social Media. Time Allowances are developed",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=0d2gpmml",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-4",
-      "cat": "apple",
-      "date": "2026-06-08",
-      "title": "Updated Apple Developer Program License Agreement and App Review Guidelines now available",
-      "summary": "The Apple Developer Program License Agreement and App Review Guidelines have been revised to support new features, updated policies, and to provide clarification. Please review the changes below and sign in to your account to accept the upd",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=a233fmpw",
       "live": true
     },
     {
@@ -541,23 +551,13 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-06-03",
       "title": "Update for Apps Distributed in Texas",
       "summary": "Due to a recent court ruling lifting an injunction on Texas law SB 2420, new Apple Accounts in Texas are now subject to the law, which introduced age assurance requirements for app marketplaces and developers. As previously announced , this",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=sg176nne",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-6",
-      "cat": "apple",
-      "date": "2026-06-03",
-      "title": "Apple Developer Centers are expanding to Berlin",
-      "summary": "Apple Developer Centers are dedicated spaces designed for in-person developer sessions, labs, workshops, and appointments across a wide range of Apple technologies and platforms. With locations in Cupertino, Shanghai, Bengaluru, and Singapo",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=f0jfy9py",
       "live": true
     },
     {
@@ -588,16 +588,6 @@
       "summary": "Today we’re announcing the general availability of Structured Data Files v10 . All users can now use v10 when downloading and uploading SDFs in the Display & Video 360 interface. SDF v10 includes the following changes to file formats: Suppo",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/3280622372761739628",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-06-02",
-      "title": "Introducing the 2026 Apple Design Award winners",
-      "summary": "Join us in celebrating these extraordinary apps and games. Meet the 2026 Apple Design Award winners",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=vbvsocwh",
       "live": true
     },
     {
