@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T09:14:47.945970+00:00",
+  "generated_at": "2026-06-19T16:16:04.758372+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -123,6 +123,16 @@
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
+      "date": "2026-06-19",
+      "title": "The real martech problem is not technology",
+      "summary": "A new survey suggests operational bottlenecks, not software limitations, are preventing marketers from acting on insights. The post The real martech problem is not technology appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-real-martech-problem-is-not-technology/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
       "date": "2026-06-18",
       "title": "How to sustain creative testing without adding headcount",
       "summary": "Build a repeatable system for creative experimentation using pre-vetted freelancers, modular briefs, and automated workflows. The post How to sustain creative testing without adding headcount appeared first on MarTech .",
@@ -131,7 +141,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-06-18",
       "title": "What customers tell friends that marketers miss",
@@ -171,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-06-17",
       "title": "BlueConic acquires Blueshift as CDPs move from data to action",
@@ -181,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-06-17",
       "title": "Managing your marketing content in the age of AI",
@@ -191,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-06-17",
       "title": "Adobe brings GEO to CX Enterprise with Adobe Brand Visibility",
@@ -201,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-06-17",
       "title": "The hidden fragility of performance marketing",
@@ -231,23 +241,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-06-16",
       "title": "Databricks unveils CustomerLake, its agentic CDP",
       "summary": "After weeks of speculation, Databricks entered the martech space with an agentic CDP built for an agentic era of marketing and shopping. The post Databricks unveils CustomerLake, its agentic CDP appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/databricks-unveils-customerlake-its-agentic-cdp/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-16",
-      "title": "3 direct mail lessons for evaluating agentic commerce",
-      "summary": "Before committing to new platforms, identify what your brand will still own, measure, and control when agentic commerce changes. The post 3 direct mail lessons for evaluating agentic commerce appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/3-direct-mail-lessons-for-evaluating-agentic-commerce/",
       "live": true
     },
     {
