@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-22T10:14:29.614366+00:00",
+  "generated_at": "2026-06-22T17:58:24.420748+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 104,
+  "count": 105,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -101,7 +101,7 @@
       "name": "GTM / Tag Gateway — Release notes",
       "cat": "gtm",
       "ok": true,
-      "items": 6,
+      "items": 7,
       "scraped": true
     },
     {
@@ -121,6 +121,46 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-06-22",
+      "title": "Automation doesn’t eliminate vague objectives",
+      "summary": "Your AI tools may be doing exactly what you asked. That doesn't mean they're doing what the business needs. The post Automation doesn t eliminate vague objectives appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/automation-doesnt-eliminate-vague-objectives/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-06-22",
+      "title": "Ready or not, welcome to the era of the agentic CDP",
+      "summary": "Trying to navigating the shifts in the CDP market can feel dizzying. Here's what we learned from last week's agentic CDP news. The post Ready or not, welcome to the era of the agentic CDP appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ready-or-not-welcome-to-the-era-of-the-agentic-cdp/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-06-22",
+      "title": "How to blend AI chatbots with high-touch sales",
+      "summary": "Learn how to balance AI chatbot efficiency with the high-touch needs of enterprise sales to engage VIP prospects without losing the human touch. The post How to blend AI chatbots with high-touch sales appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-blend-ai-chatbots-with-high-touch-sales/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-06-22",
+      "title": "Build your AI skills with a useful home project",
+      "summary": "Don't wait for your company to figure out AI. Use personal projects to gain practical experience and uncover skills you can apply at work. The post Build your AI skills with a useful home project appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/build-your-ai-skills-with-a-useful-home-project/",
+      "live": true
+    },
+    {
       "id": "live-EDPB — GDPR news-0",
       "cat": "privacy",
       "date": "2026-06-22",
@@ -131,7 +171,17 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "scrape-GTM / Tag Gateway — Release notes-0",
+      "cat": "gtm",
+      "date": "2026-06-22",
+      "title": "Improved measurement of server-to-server conversions This release recovers…",
+      "summary": "that were previously undercounted in server-to-server setups due to a lack of browser cookie context Server-side data is intelligently joined with parallel browser signals, such as cookies, when a GCLID is present so that Floodlight can mor",
+      "src": "GTM / Tag Gateway — Release notes",
+      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-06-19",
       "title": "The real martech problem is not technology",
@@ -141,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-06-18",
       "title": "How to sustain creative testing without adding headcount",
@@ -151,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-06-18",
       "title": "What customers tell friends that marketers miss",
@@ -181,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-06-17",
       "title": "June 17, 2026",
@@ -191,43 +241,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-06-17",
       "title": "BlueConic acquires Blueshift as CDPs move from data to action",
       "summary": "AI agents that execute on the next best action are all the rage in CDP circles these days. The post BlueConic acquires Blueshift as CDPs move from data to action appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/blueconic-acquires-blueshift-as-cdps-move-from-data-to-action/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-06-17",
-      "title": "Managing your marketing content in the age of AI",
-      "summary": "Erica Gunn, CMO of Canto, joins us to discuss how AI is both a problem and a solution for marketers drowning in content. The post Managing your marketing content in the age of AI appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/managing-your-marketing-content-in-the-age-of-ai/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-06-17",
-      "title": "Adobe brings GEO to CX Enterprise with Adobe Brand Visibility",
-      "summary": "Adobe used its acquisition of Semrush to build a GEO tool with AI agents that recommend and implement optimizations to help LLM visibility. The post Adobe brings GEO to CX Enterprise with Adobe Brand Visibility appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/adobe-brings-geo-to-cx-enterprise-with-adobe-brand-visibility/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-06-17",
-      "title": "The hidden fragility of performance marketing",
-      "summary": "The pursuit of measurable efficiency can leave brands vulnerable when competitors, platforms, or AI reshape customer discovery. The post The hidden fragility of performance marketing appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-hidden-fragility-of-performance-marketing/",
       "live": true
     },
     {
@@ -241,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-06-16",
       "title": "June 16, 2026",
@@ -251,17 +271,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-16",
-      "title": "Databricks unveils CustomerLake, its agentic CDP",
-      "summary": "After weeks of speculation, Databricks entered the martech space with an agentic CDP built for an agentic era of marketing and shopping. The post Databricks unveils CustomerLake, its agentic CDP appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/databricks-unveils-customerlake-its-agentic-cdp/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-06-15",
       "title": "June 15, 2026",
@@ -301,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-06-12",
       "title": "June 12, 2026",
@@ -331,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-06-11",
       "title": "June 11, 2026",
@@ -371,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-06-10",
       "title": "June 10, 2026",
@@ -431,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-06-09",
       "title": "June 09, 2026",
@@ -451,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-06-08",
       "title": "June 08, 2026",
@@ -541,7 +551,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-06-04",
       "title": "June 04, 2026",
@@ -601,7 +611,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-06-03",
       "title": "June 03, 2026",
@@ -621,7 +631,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-0",
+      "id": "scrape-GTM / Tag Gateway — Release notes-1",
       "cat": "gtm",
       "date": "2026-06-03",
       "title": "Google tag gateway for advertisers using Amazon CloudFront is…",
@@ -631,7 +641,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
+      "id": "live-Google Cloud — All release notes-20",
       "cat": "general",
       "date": "2026-06-02",
       "title": "June 02, 2026",
@@ -651,7 +661,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
+      "id": "live-Google Cloud — All release notes-21",
       "cat": "general",
       "date": "2026-06-01",
       "title": "June 01, 2026",
@@ -661,7 +671,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-1",
+      "id": "scrape-GTM / Tag Gateway — Release notes-2",
       "cat": "gtm",
       "date": "2026-06-01",
       "title": "Google tag gateway for advertisers via Google Cloud Platform…",
@@ -751,7 +761,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-2",
+      "id": "scrape-GTM / Tag Gateway — Release notes-3",
       "cat": "gtm",
       "date": "2026-05-14",
       "title": "Google tag gateway for advertisers integrations with Akamai and…",
@@ -811,7 +821,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-3",
+      "id": "scrape-GTM / Tag Gateway — Release notes-4",
       "cat": "gtm",
       "date": "2026-05-01",
       "title": "Improved conversion tracking and attribution for Google Ads-linked Google…",
@@ -911,7 +921,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-4",
+      "id": "scrape-GTM / Tag Gateway — Release notes-5",
       "cat": "gtm",
       "date": "2026-02-04",
       "title": "Improved website event data collection in Google Ads Google…",
@@ -921,7 +931,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-5",
+      "id": "scrape-GTM / Tag Gateway — Release notes-6",
       "cat": "gtm",
       "date": "2026-01-29",
       "title": "Google tag gateway for advertisers via Akamai is now…",
