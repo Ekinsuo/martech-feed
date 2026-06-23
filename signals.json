@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T07:57:43.890501+00:00",
+  "generated_at": "2026-06-23T16:08:02.955191+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -123,6 +123,46 @@
     {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
+      "date": "2026-06-23",
+      "title": "June 23, 2026",
+      "summary": "AI Hypercomputer Feature Preview : You can use Gemini in the Google Cloud console as an AI-powered interface to evaluate hardware options, estimate deployment costs, and view recommended configurations for your clusters. Prompting Gemini he",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_23_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-06-23",
+      "title": "The real AI opportunity is creating new value",
+      "summary": "Cost savings are only the beginning. Learn how organizations move from AI-driven efficiency to entirely new sources of growth. The post The real AI opportunity is creating new value appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-real-ai-opportunity-is-creating-new-value/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-06-23",
+      "title": "GEO is following the same path as early SEO",
+      "summary": "SEO's history offers clues about which GEO tactics may endure, which may disappear, and why sustainable approaches matter most. The post GEO is following the same path as early SEO appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/geo-is-following-the-same-path-as-early-seo/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-06-23",
+      "title": "Advertisers may finally see who really touches their bid requests",
+      "summary": "IAB Tech Lab's proposed SupplyChain v1.1 update could give advertisers a clearer view of every company that touches a programmatic bid request. The post Advertisers may finally see who really touches their bid requests appeared first on Mar",
+      "src": "MarTech.org",
+      "url": "https://martech.org/advertisers-may-finally-see-who-really-touches-their-bid-requests/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
+      "cat": "general",
       "date": "2026-06-22",
       "title": "June 22, 2026",
       "summary": "Apigee X Announcement On June 22nd, 2026, we released an updated version of Apigee (1-17-0-apigee-10). Note: Rollouts of this release began today and may take four or more business days to be completed across all Google Cloud zones. Your in",
@@ -131,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-06-22",
       "title": "Automation doesn’t eliminate vague objectives",
@@ -141,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-06-22",
       "title": "Ready or not, welcome to the era of the agentic CDP",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-06-22",
       "title": "How to blend AI chatbots with high-touch sales",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-06-22",
       "title": "Build your AI skills with a useful home project",
@@ -191,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-06-19",
       "title": "The real martech problem is not technology",
@@ -201,23 +241,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-06-18",
-      "title": "How to sustain creative testing without adding headcount",
-      "summary": "Build a repeatable system for creative experimentation using pre-vetted freelancers, modular briefs, and automated workflows. The post How to sustain creative testing without adding headcount appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-sustain-creative-testing-without-adding-headcount/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-06-18",
-      "title": "What customers tell friends that marketers miss",
-      "summary": "The strongest marketing messages address the frustrations and motivations customers rarely share directly. Here's how AI can help uncover them. The post What customers tell friends that marketers miss appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/what-customers-tell-friends-that-marketers-miss/",
+      "title": "June 18, 2026",
+      "summary": "API Gateway Change Update to the API Gateway runtime architecture The API Gateway runtime architecture is being updated to improve its integration with Google Cloud Platform and its services. This update does not affect existing API Gateway",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_18_2026",
       "live": true
     },
     {
@@ -241,23 +271,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-06-17",
       "title": "June 17, 2026",
       "summary": "BigQuery Feature You can enable autonomous embedding generation on new or existing tables that you make with the CREATE TABLE or ALTER TABLE statements. When you do this, BigQuery maintains a column of embeddings on the table based on a sou",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_17_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-17",
-      "title": "BlueConic acquires Blueshift as CDPs move from data to action",
-      "summary": "AI agents that execute on the next best action are all the rage in CDP circles these days. The post BlueConic acquires Blueshift as CDPs move from data to action appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/blueconic-acquires-blueshift-as-cdps-move-from-data-to-action/",
       "live": true
     },
     {
@@ -271,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-06-16",
       "title": "June 16, 2026",
@@ -281,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-06-15",
       "title": "June 15, 2026",
@@ -321,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-06-12",
       "title": "June 12, 2026",
@@ -351,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-06-11",
       "title": "June 11, 2026",
@@ -391,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-06-10",
       "title": "June 10, 2026",
@@ -451,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-06-09",
       "title": "June 09, 2026",
@@ -471,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-06-08",
       "title": "June 08, 2026",
@@ -561,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-06-04",
       "title": "June 04, 2026",
@@ -621,16 +641,6 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
-      "cat": "general",
-      "date": "2026-06-03",
-      "title": "June 03, 2026",
-      "summary": "App Engine standard environment Go Feature App Engine supports Direct VPC egress in Preview . Direct VPC egress lets your workloads access VPC network resources as a simpler, more cost-effective alternative to Serverless VPC Access connecto",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_03_2026",
-      "live": true
-    },
-    {
       "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-06-03",
@@ -648,16 +658,6 @@
       "summary": "now available This release introduces a new option to configure Google tag gateway for advertisers using Amazon CloudFront as your content delivery network (CDN) via Tag Assistant This setup is facilitated by a guided workflow in Tag Assist",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
-      "date": "2026-06-02",
-      "title": "June 02, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature You can now configure a cooldown period to determine when autoscaling occurs for your read pool instances. For more information, see Scale an instance . Apigee X Announcement On June 2nd, 2026, we released an ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_02_2026",
       "live": true
     },
     {
