@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T16:08:02.955191+00:00",
+  "generated_at": "2026-06-24T07:52:59.562674+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -161,11 +161,21 @@
       "live": true
     },
     {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-06-23",
+      "title": "Design kits for iOS, iPadOS, and macOS 27 are here",
+      "summary": "Apple design kits for Figma and Sketch are now available for iOS, iPadOS, and macOS 27. These include: Updates to Liquid Glass Expanded component and state support Naming changes to better align with code Improved resizing The addition of D",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=e2lxw9l1",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-06-22",
       "title": "June 22, 2026",
-      "summary": "Apigee X Announcement On June 22nd, 2026, we released an updated version of Apigee (1-17-0-apigee-10). Note: Rollouts of this release began today and may take four or more business days to be completed across all Google Cloud zones. Your in",
+      "summary": "AI Hypercomputer Feature Preview : RoCE VPC networks for VM instances support assigning alias IP ranges to MRDMA vNICs. For more information about these features, see the following: RDMA network profiles Alias IP ranges Apigee X Announcemen",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_22_2026",
       "live": true
@@ -251,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-06-18",
       "title": "Updated Apple Developer Program License Agreement now available",
@@ -261,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-06-18",
       "title": "Changes to iOS in Brazil",
@@ -331,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-06-15",
       "title": "New domain for Sign in with Apple and iCloud+ Hide My Email",
@@ -391,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-06-11",
       "title": "WWDC26 survey",
@@ -541,7 +551,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Find out what's new for Apple developers",
@@ -551,7 +561,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Introducing Time Allowances",
@@ -638,16 +648,6 @@
       "summary": "Background information Date of final decision: 10 July 2025 National case Controller: Magna PT S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 9 (Proce",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/italian-sa-fines-a-company-for-post-sick-leave-questionnaires_en",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-06-03",
-      "title": "Update for Apps Distributed in Texas",
-      "summary": "Due to a recent court ruling lifting an injunction on Texas law SB 2420, new Apple Accounts in Texas are now subject to the law, which introduced age assurance requirements for app marketplaces and developers. As previously announced , this",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=sg176nne",
       "live": true
     },
     {
