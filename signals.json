@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T07:52:59.562674+00:00",
+  "generated_at": "2026-06-24T15:39:59.642137+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -121,6 +121,56 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-06-24",
+      "title": "How Publicis Sapient transformed its marketing organization",
+      "summary": "You've heard AI can transform how your marketing team works, now hear from someone whose team actually did it. The post How Publicis Sapient transformed its marketing organization appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-publicis-sapient-transformed-its-marketing-organization/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-06-24",
+      "title": "How to build trust when buyers question everything",
+      "summary": "Firsthand expertise, original research, and transparent thinking carry more weight than polished messaging. Here's why. The post How to build trust when buyers question everything appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-build-trust-when-buyers-question-everything/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-06-24",
+      "title": "Why trust belongs at the center of your data strategy",
+      "summary": "More customer data once looked like a competitive advantage. AI is exposing the risks of data built on inference, opacity, and extraction. The post Why trust belongs at the center of your data strategy appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-trust-belongs-at-the-center-of-your-data-strategy/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-06-24",
+      "title": "Marketing on LinkedIn: What you need to know",
+      "summary": "Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new Creator Marketplace and AI training program for marketers. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/linkedin-the-marketers-guide/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-06-24",
+      "title": "Supporting GDPR consistency: EDPB launches dedicated form",
+      "summary": "Brussels, 24 June – The EDPB has launched a dedicated contact form for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments set out in the EDPB Helsinki State",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-06-23",
@@ -131,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-06-23",
       "title": "The real AI opportunity is creating new value",
@@ -141,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-06-23",
       "title": "GEO is following the same path as early SEO",
@@ -151,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-06-23",
       "title": "Advertisers may finally see who really touches their bid requests",
@@ -181,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-06-22",
       "title": "Automation doesn’t eliminate vague objectives",
@@ -191,37 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-06-22",
-      "title": "Ready or not, welcome to the era of the agentic CDP",
-      "summary": "Trying to navigating the shifts in the CDP market can feel dizzying. Here's what we learned from last week's agentic CDP news. The post Ready or not, welcome to the era of the agentic CDP appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ready-or-not-welcome-to-the-era-of-the-agentic-cdp/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-06-22",
-      "title": "How to blend AI chatbots with high-touch sales",
-      "summary": "Learn how to balance AI chatbot efficiency with the high-touch needs of enterprise sales to engage VIP prospects without losing the human touch. The post How to blend AI chatbots with high-touch sales appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-blend-ai-chatbots-with-high-touch-sales/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-06-22",
-      "title": "Build your AI skills with a useful home project",
-      "summary": "Don't wait for your company to figure out AI. Use personal projects to gain practical experience and uncover skills you can apply at work. The post Build your AI skills with a useful home project appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/build-your-ai-skills-with-a-useful-home-project/",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-06-22",
       "title": "EDPB gets a new look: discover the new website and brand identity",
@@ -238,16 +258,6 @@
       "summary": "that were previously undercounted in server-to-server setups due to a lack of browser cookie context Server-side data is intelligently joined with parallel browser signals, such as cookies, when a GCLID is present so that Floodlight can mor",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-19",
-      "title": "The real martech problem is not technology",
-      "summary": "A new survey suggests operational bottlenecks, not software limitations, are preventing marketers from acting on insights. The post The real martech problem is not technology appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-real-martech-problem-is-not-technology/",
       "live": true
     },
     {
@@ -371,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
+      "id": "live-EDPB — GDPR news-2",
       "cat": "privacy",
       "date": "2026-06-12",
       "title": "Coordinated Supervision Committee extends scope to include Eurodac",
@@ -471,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-2",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-06-10",
       "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
@@ -601,7 +611,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-06-04",
       "title": "The Italian SA imposed a 40 000 EUR fine on a company for violating the confidentiality of a employee's email account after the end of his employment",
@@ -611,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-06-04",
       "title": "The Italian SA fined Poste Vita for data breach",
@@ -621,7 +631,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-06-04",
       "title": "Imposition of fine on a telecommunications company for violations of data subject’s rights",
@@ -631,23 +641,13 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
+      "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-06-04",
       "title": "The Italian Supervisory Authority fined a company 120 000 EUR for tracking five employees who drove company cars",
       "summary": "Background information Date of final decision: 27 November 2025 National case Controller: Pioneer Hi-Bred Italia Sementi s.r.l. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of pro",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/the-italian-supervisory-authority-fined-a-company-120-000-eur-for-tracking-five-employees-who_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-06-04",
-      "title": "Italian SA fines a company for post-sick leave questionnaires",
-      "summary": "Background information Date of final decision: 10 July 2025 National case Controller: Magna PT S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 9 (Proce",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/italian-sa-fines-a-company-for-post-sick-leave-questionnaires_en",
       "live": true
     },
     {
