@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-24T15:39:59.642137+00:00",
+  "generated_at": "2026-06-25T07:54:02.748538+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 104,
+  "count": 105,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,6 +121,26 @@
   ],
   "signals": [
     {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-06-25",
+      "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
+      "summary": "Brussels, 25 June - The EDPB has published an update of the One-Stop-Shop (OSS) case digest on right to object and right to erasure . This project has been developed in the framework of the of the Support Pool of Experts programme, which ai",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-06-24",
+      "title": "June 24, 2026",
+      "summary": "Apigee X Announcement Apigee Emulator Apigee Emulator v2.0.1 On June 24, 2026, we released Apigee Emulator version 2.0.1. This is a security-only hotfix release on top of v2.0.0 that addresses 10 security vulnerabilities in the Netty networ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_24_2026",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-06-24",
@@ -161,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-06-24",
       "title": "Supporting GDPR consistency: EDPB launches dedicated form",
@@ -171,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-06-23",
       "title": "June 23, 2026",
@@ -221,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-06-22",
       "title": "June 22, 2026",
@@ -241,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
+      "id": "live-EDPB — GDPR news-2",
       "cat": "privacy",
       "date": "2026-06-22",
       "title": "EDPB gets a new look: discover the new website and brand identity",
@@ -261,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-06-18",
       "title": "June 18, 2026",
@@ -291,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-06-17",
       "title": "June 17, 2026",
@@ -311,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-06-16",
       "title": "June 16, 2026",
@@ -321,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-06-15",
       "title": "June 15, 2026",
@@ -361,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-06-12",
       "title": "June 12, 2026",
@@ -381,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-2",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-06-12",
       "title": "Coordinated Supervision Committee extends scope to include Eurodac",
@@ -391,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-06-11",
       "title": "June 11, 2026",
@@ -431,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-06-10",
       "title": "June 10, 2026",
@@ -481,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-06-10",
       "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
@@ -491,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-06-09",
       "title": "June 09, 2026",
@@ -511,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-06-08",
       "title": "June 08, 2026",
@@ -601,17 +621,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
-      "cat": "general",
+      "id": "live-Looker Release Notes-1",
+      "cat": "looker",
       "date": "2026-06-04",
       "title": "June 04, 2026",
-      "summary": "Anthos Config Management Change Addressed multiple Common Vulnerabilities and Exposures (CVEs) by updating dependencies. Cloud Trace Feature To view the instrumentation scope or the schema associated with a span, open the Details view for t",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_04_2026",
+      "summary": "Deployment dates Announcement Looker 26.10 is expected to include the following changes, features, and fixes: Expected Looker (original) deployment start: Sunday, June 7, 2026 Expected Looker (original) final deployment and download availab",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#June_04_2026",
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-06-04",
       "title": "The Italian SA imposed a 40 000 EUR fine on a company for violating the confidentiality of a employee's email account after the end of his employment",
@@ -621,7 +641,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-06-04",
       "title": "The Italian SA fined Poste Vita for data breach",
@@ -631,23 +651,13 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
+      "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-06-04",
       "title": "Imposition of fine on a telecommunications company for violations of data subject’s rights",
       "summary": "Background information Date of final decision: 11 February 2026 National case Controller: Vodafone-Panafon S.A Hellenic Telecommunications Company Legal Reference: Article 12: Transparent information, communication and modalities for the ex",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/imposition-of-fine-on-a-telecommunications-company-for-violations-of-data-subjects-rights_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-06-04",
-      "title": "The Italian Supervisory Authority fined a company 120 000 EUR for tracking five employees who drove company cars",
-      "summary": "Background information Date of final decision: 27 November 2025 National case Controller: Pioneer Hi-Bred Italia Sementi s.r.l. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of pro",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/the-italian-supervisory-authority-fined-a-company-120-000-eur-for-tracking-five-employees-who_en",
       "live": true
     },
     {
