@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T07:54:02.748538+00:00",
+  "generated_at": "2026-06-25T15:57:24.070082+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -121,6 +121,46 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-06-25",
+      "title": "The marketing variable no dashboard can measure",
+      "summary": "New research suggests your CMO's personal life may shape marketing strategy as much as customer data, with implications for every marketing team. The post The marketing variable no dashboard can measure appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-marketing-variable-no-dashboard-can-measure/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-06-25",
+      "title": "When AI runs the workflows, what happens to MOps?",
+      "summary": "As AI automates workflows, scoring, and orchestration, MOps shifts from system management to business impact. The post When AI runs the workflows, what happens to MOps? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/when-ai-runs-the-workflows-what-happens-to-mops/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-06-25",
+      "title": "The email newsletter is back and winning the inbox",
+      "summary": "The newsletter resurgence reflects a broader shift in consumer behavior toward curated content, trusted voices, and meaningful engagement. The post The email newsletter is back and winning the inbox appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-email-newsletter-is-back-and-winning-the-inbox/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-06-25",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Zeta and Palantir are partnering to connect customer and operational data, bringing real-time AI decision-making to enterprise marketing. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
       "id": "live-EDPB — GDPR news-0",
       "cat": "privacy",
       "date": "2026-06-25",
@@ -141,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-06-24",
       "title": "How Publicis Sapient transformed its marketing organization",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-06-24",
       "title": "How to build trust when buyers question everything",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-06-24",
       "title": "Why trust belongs at the center of your data strategy",
@@ -171,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-06-24",
       "title": "Marketing on LinkedIn: What you need to know",
@@ -201,36 +241,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-06-23",
-      "title": "The real AI opportunity is creating new value",
-      "summary": "Cost savings are only the beginning. Learn how organizations move from AI-driven efficiency to entirely new sources of growth. The post The real AI opportunity is creating new value appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-real-ai-opportunity-is-creating-new-value/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-06-23",
-      "title": "GEO is following the same path as early SEO",
-      "summary": "SEO's history offers clues about which GEO tactics may endure, which may disappear, and why sustainable approaches matter most. The post GEO is following the same path as early SEO appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/geo-is-following-the-same-path-as-early-seo/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-06-23",
-      "title": "Advertisers may finally see who really touches their bid requests",
-      "summary": "IAB Tech Lab's proposed SupplyChain v1.1 update could give advertisers a clearer view of every company that touches a programmatic bid request. The post Advertisers may finally see who really touches their bid requests appeared first on Mar",
-      "src": "MarTech.org",
-      "url": "https://martech.org/advertisers-may-finally-see-who-really-touches-their-bid-requests/",
-      "live": true
-    },
-    {
       "id": "live-Apple Developer News-0",
       "cat": "apple",
       "date": "2026-06-23",
@@ -248,16 +258,6 @@
       "summary": "AI Hypercomputer Feature Preview : RoCE VPC networks for VM instances support assigning alias IP ranges to MRDMA vNICs. For more information about these features, see the following: RDMA network profiles Alias IP ranges Apigee X Announcemen",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_22_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-22",
-      "title": "Automation doesn’t eliminate vague objectives",
-      "summary": "Your AI tools may be doing exactly what you asked. That doesn't mean they're doing what the business needs. The post Automation doesn t eliminate vague objectives appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/automation-doesnt-eliminate-vague-objectives/",
       "live": true
     },
     {
