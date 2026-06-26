@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T08:02:28.444620+00:00",
+  "generated_at": "2026-06-26T15:34:04.067782+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -121,6 +121,36 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-06-26",
+      "title": "Why your top ranking no longer means you’re winning",
+      "summary": "AI and personalization are replacing one-size-fits-all rankings with unique customer journeys, forcing marketers to rethink how they measure visibility. The post Why your top ranking no longer means you re winning appeared first on MarTech ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-your-top-ranking-no-longer-means-youre-winning/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-06-26",
+      "title": "Why AI is making DAM more important than ever",
+      "summary": "Rules-based automation is reaching its limits, making DAM a critical source of context for AI-powered content workflows. The post Why AI is making DAM more important than ever appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-ai-is-making-dam-more-important-than-ever/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-06-26",
+      "title": "What future marketers understand about customer decision-making",
+      "summary": "AI is changing how people evaluate information. The next generation of marketers may already understand what matters most. The post What future marketers understand about customer decision-making appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/what-future-marketers-understand-about-customer-decision-making/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-06-25",
@@ -131,7 +161,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-06-25",
       "title": "The marketing variable no dashboard can measure",
@@ -141,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-06-25",
       "title": "When AI runs the workflows, what happens to MOps?",
@@ -151,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-06-25",
       "title": "The email newsletter is back and winning the inbox",
@@ -161,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-06-25",
       "title": "The latest AI-powered martech news and releases",
@@ -191,43 +221,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-06-24",
       "title": "How Publicis Sapient transformed its marketing organization",
       "summary": "You've heard AI can transform how your marketing team works, now hear from someone whose team actually did it. The post How Publicis Sapient transformed its marketing organization appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/how-publicis-sapient-transformed-its-marketing-organization/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-06-24",
-      "title": "How to build trust when buyers question everything",
-      "summary": "Firsthand expertise, original research, and transparent thinking carry more weight than polished messaging. Here's why. The post How to build trust when buyers question everything appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-build-trust-when-buyers-question-everything/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-06-24",
-      "title": "Why trust belongs at the center of your data strategy",
-      "summary": "More customer data once looked like a competitive advantage. AI is exposing the risks of data built on inference, opacity, and extraction. The post Why trust belongs at the center of your data strategy appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-trust-belongs-at-the-center-of-your-data-strategy/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-24",
-      "title": "Marketing on LinkedIn: What you need to know",
-      "summary": "Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new Creator Marketplace and AI training program for marketers. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/linkedin-the-marketers-guide/",
       "live": true
     },
     {
