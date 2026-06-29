@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-28T14:59:11.146843+00:00",
+  "generated_at": "2026-06-29T09:06:23.707080+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 105,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -101,7 +101,7 @@
       "name": "GTM / Tag Gateway — Release notes",
       "cat": "gtm",
       "ok": true,
-      "items": 7,
+      "items": 6,
       "scraped": true
     },
     {
@@ -121,7 +121,27 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Simo Ahava-0",
+      "cat": "general",
+      "date": "2026-06-29",
+      "title": "Google Tag Manager UI Updates",
+      "summary": "In preparation for the upcoming major integration between Google Tag and Google Tag Manager , Google has rolled out some user interface changes to your GTM containers. The changes simplify the UI quite a bit, with the biggest changes landin",
+      "src": "Simo Ahava",
+      "url": "https://www.simoahava.com/analytics/google-tag-manager-ui-updates/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-06-28",
+      "title": "June 28, 2026",
+      "summary": "Google SecOps Change Google SecOps has updated the list of supported default parsers . Parsers are updated gradually, so it might take one to four days before you see the changes reflected in your region. The following supported default par",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_28_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-06-26",
       "title": "June 26, 2026",
@@ -181,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-06-25",
       "title": "June 25, 2026",
@@ -261,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-06-24",
       "title": "June 24, 2026",
@@ -311,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-06-23",
       "title": "June 23, 2026",
@@ -341,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-06-22",
       "title": "June 22, 2026",
@@ -371,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-06-18",
       "title": "June 18, 2026",
@@ -401,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-06-17",
       "title": "June 17, 2026",
@@ -421,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-06-16",
       "title": "June 16, 2026",
@@ -441,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-06-15",
       "title": "June 15, 2026",
@@ -481,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-06-12",
       "title": "June 12, 2026",
@@ -511,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-06-11",
       "title": "June 11, 2026",
@@ -538,16 +558,6 @@
       "summary": "values for improved source analysis Source grouping is a new dimension concept that consolidates source values for common online platforms - Facebook, Instagram, and TikTok A single value for a given source is vital for performance and attr",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-17",
-      "cat": "general",
-      "date": "2026-06-10",
-      "title": "June 10, 2026",
-      "summary": "Agent Assist Change Agent Assist offers Proactive generative knowledge assist V2 in GA. This version supports rich search context, multiple suggested queries, and granular control over triggering events. BigQuery Feature BigQuery continuous",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_10_2026",
       "live": true
     },
     {
@@ -891,7 +901,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-0",
+      "id": "live-Simo Ahava-1",
       "cat": "general",
       "date": "2026-03-13",
       "title": "Add IPv6 Support To Your Server-side GTM Load Balancer",
@@ -931,17 +941,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-6",
-      "cat": "gtm",
-      "date": "2026-01-29",
-      "title": "Google tag gateway for advertisers via Akamai is now…",
-      "summary": "available This release introduces a new option to configure Google tag gateway for advertisers using Akamai as your content delivery network (CDN) This integration gives you greater control over your data, improving the accuracy of your Goo",
-      "src": "GTM / Tag Gateway — Release notes",
-      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Simo Ahava-1",
+      "id": "live-Simo Ahava-2",
       "cat": "general",
       "date": "2025-12-04",
       "title": "Run Server-side Google Tag Manager On Localhost",
@@ -1001,7 +1001,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-2",
+      "id": "live-Simo Ahava-3",
       "cat": "general",
       "date": "2025-08-29",
       "title": "#GTMTips: How To Load Google Scripts From A Server Container",
@@ -1021,7 +1021,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-3",
+      "id": "live-Simo Ahava-4",
       "cat": "general",
       "date": "2025-06-18",
       "title": "Common Mistakes When Working With Click Identifiers",
@@ -1051,7 +1051,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-4",
+      "id": "live-Simo Ahava-5",
       "cat": "general",
       "date": "2025-05-07",
       "title": "Basic Consent Mode: The Guide",
@@ -1061,7 +1061,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-5",
+      "id": "live-Simo Ahava-6",
       "cat": "general",
       "date": "2025-03-12",
       "title": "Clarification On GTM Auto-Loading Google Tag For Ads And Floodlight Events",
@@ -1071,23 +1071,13 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-6",
+      "id": "live-Simo Ahava-7",
       "cat": "general",
       "date": "2025-02-11",
       "title": "#GTMTips: SGTM Fetches GA4 Configurations Automatically",
       "summary": "One of the most popular use cases for server-side Google Tag Manager , often shared on this blog, too, is to split an incoming stream into multiple different endpoints . Since the demise of customTask for Universal Analytics (Rest In Peace!",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/gtmtips/sgtm-fetches-ga4-configuration-automatically/",
-      "live": true
-    },
-    {
-      "id": "live-Simo Ahava-7",
-      "cat": "general",
-      "date": "2024-11-26",
-      "title": "#GTMTips: Quickly Duplicate Tags In Google Tag Manager",
-      "summary": "There are many reasons why you might want to duplicate your tags (or triggers, or variables, or templates) in Google Tag Manager. One prime example is server-side tagging , where it&rsquo;s sensible to first build and validate your tracking",
-      "src": "Simo Ahava",
-      "url": "https://www.simoahava.com/gtmtips/quickly-duplicate-tags-google-tag-manager/",
       "live": true
     },
     {
