@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T08:01:00.289124+00:00",
+  "generated_at": "2026-06-30T15:44:33.895241+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -121,6 +121,46 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-06-30",
+      "title": "AI is making creative the new targeting",
+      "summary": "As Google, Meta, and TikTok automate audience targeting, your headlines, images, and videos are becoming the strongest signals for who sees your ads. The post AI is making creative the new targeting appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-is-making-creative-the-new-targeting/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-06-30",
+      "title": "Bad data is teaching AI to waste your ad budget",
+      "summary": "In automated advertising, inaccurate conversion data doesn't just skew reports, it trains bidding algorithms to optimize for the wrong customers. The post Bad data is teaching AI to waste your ad budget appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/bad-data-is-teaching-ai-to-waste-your-ad-budget/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-06-30",
+      "title": "AI made email marketing easier. It needs us to make it better.",
+      "summary": "AI can write email campaigns in seconds, but it can't replace the strategy, judgement, and customer understanding that make them worth sending. The post AI made email marketing easier. It needs us to make it better. appeared first on MarTec",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-made-email-marketing-easier-it-needs-us-to-make-it-better/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-06-30",
+      "title": "Why marketers need to push back against AI",
+      "summary": "Studies show that relying too heavily on AI can erode critical thinking, making human judgment more valuable than ever. The post Why marketers need to push back against AI appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-marketers-need-to-push-back-against-ai/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-06-29",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-06-29",
       "title": "Where synthetic data fits into customer research",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-06-29",
       "title": "Agentic AI is rewriting martech economics and infrastructure",
@@ -171,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-06-29",
       "title": "The most valuable AI skill takes 10 minutes a week",
@@ -181,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-06-29",
       "title": "When best-of-breed stacks become too complex to manage",
@@ -221,36 +261,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-06-26",
-      "title": "Why your top ranking no longer means you’re winning",
-      "summary": "AI and personalization are replacing one-size-fits-all rankings with unique customer journeys, forcing marketers to rethink how they measure visibility. The post Why your top ranking no longer means you re winning appeared first on MarTech ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-your-top-ranking-no-longer-means-youre-winning/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-06-26",
-      "title": "Why AI is making DAM more important than ever",
-      "summary": "Rules-based automation is reaching its limits, making DAM a critical source of context for AI-powered content workflows. The post Why AI is making DAM more important than ever appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-ai-is-making-dam-more-important-than-ever/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-06-26",
-      "title": "What future marketers understand about customer decision-making",
-      "summary": "AI is changing how people evaluate information. The next generation of marketers may already understand what matters most. The post What future marketers understand about customer decision-making appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/what-future-marketers-understand-about-customer-decision-making/",
-      "live": true
-    },
-    {
       "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-06-25",
@@ -278,16 +288,6 @@
       "summary": "As part of improving security for Google Ads accounts, the Google Ads API will start requiring multi-party approvals when performing sensitive API actions. This is part of a broader change in Google Ads that requires multi-party approvals t",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6319952324811985173",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-25",
-      "title": "The marketing variable no dashboard can measure",
-      "summary": "New research suggests your CMO's personal life may shape marketing strategy as much as customer data, with implications for every marketing team. The post The marketing variable no dashboard can measure appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-marketing-variable-no-dashboard-can-measure/",
       "live": true
     },
     {
