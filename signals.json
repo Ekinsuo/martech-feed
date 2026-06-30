@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-29T16:43:55.174355+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 96,
+  "generated_at": "2026-06-30T08:01:00.289124+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -94,9 +94,8 @@
     {
       "name": "EDPB — GDPR news",
       "cat": "privacy",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "GTM / Tag Gateway — Release notes",
@@ -122,6 +121,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-06-29",
+      "title": "June 29, 2026",
+      "summary": "BigQuery Change Effective March 9, 2026 , new users are required to have a Cloud Billing account to use the BigQuery Migration Service . This change applies to users starting new projects using BigQuery Migration Service features, such as S",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_29_2026",
+      "live": true
+    },
+    {
       "id": "live-Simo Ahava-0",
       "cat": "general",
       "date": "2026-06-29",
@@ -129,6 +138,16 @@
       "summary": "In preparation for the upcoming major integration between Google Tag and Google Tag Manager , Google has rolled out some user interface changes to your GTM containers. The changes simplify the UI quite a bit, with the biggest changes landin",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/analytics/google-tag-manager-ui-updates/",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-06-29",
+      "title": "Deprecating Structured Data Files v9, v9.1, and v9.2",
+      "summary": "Today we’re announcing the deprecation of Structured Data Files v9 , v9.1 , and v9.2 . These three versions will all sunset on January 28, 2027 . Migrate to v10 or higher before the sunset date to avoid any interruption of service. Follow t",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1623995231499628635",
       "live": true
     },
     {
@@ -172,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-06-28",
       "title": "June 28, 2026",
@@ -182,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-06-26",
       "title": "July 2026 changes for Display & Video 360 API and Structured Data Files",
@@ -192,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-06-26",
       "title": "Unlocking Data Strength with Data Manager API: Ads DevCast E7",
@@ -232,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-06-25",
       "title": "June 25, 2026",
@@ -242,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-06-25",
       "title": "Google Ads API v21 sunset reminder",
@@ -252,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-06-25",
       "title": "Multi-party approvals in the Google Ads API",
@@ -272,7 +291,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-06-25",
+      "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
+      "summary": "Brussels, 25 June - The EDPB has published an update of the One-Stop-Shop (OSS) case digest on right to object and right to erasure . This project has been developed in the framework of the of the Support Pool of Experts programme, which ai",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-06-24",
       "title": "June 24, 2026",
@@ -282,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-06-24",
       "title": "Announcing v24.2 of the Google Ads API",
@@ -292,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-06-24",
       "title": "More autonomy, less context: Introducing Agent Skills for Google Advertising and Measurement",
@@ -302,7 +331,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-EDPB — GDPR news-1",
+      "cat": "privacy",
+      "date": "2026-06-24",
+      "title": "Supporting GDPR consistency: EDPB launches dedicated form",
+      "summary": "Brussels, 24 June – The EDPB has launched a dedicated contact form for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments set out in the EDPB Helsinki State",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-06-23",
       "title": "June 23, 2026",
@@ -312,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-06-23",
       "title": "Changes to Support for Smart Campaigns in the Google Ads API",
@@ -332,13 +371,23 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-06-22",
       "title": "June 22, 2026",
       "summary": "AI Hypercomputer Feature Preview : RoCE VPC networks for VM instances support assigning alias IP ranges to MRDMA vNICs. For more information about these features, see the following: RDMA network profiles Alias IP ranges Apigee X Announcemen",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_22_2026",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-2",
+      "cat": "privacy",
+      "date": "2026-06-22",
+      "title": "EDPB gets a new look: discover the new website and brand identity",
+      "summary": "Brussels, 22 June - Since its establishment in 2018, the core mission of the EDPB has been to uphold and safeguard the right to data protection. Over the years, the EDPB has played a key role in ensuring the consistent application of the GD",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-gets-a-new-look-discover-the-new-website-and-brand-identity_en",
       "live": true
     },
     {
@@ -352,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-06-18",
       "title": "June 18, 2026",
@@ -382,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-06-17",
       "title": "June 17, 2026",
@@ -402,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-06-16",
       "title": "June 16, 2026",
@@ -412,17 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-06-16",
-      "title": "Updates to Smart Bidding Strategy Naming and Organization in Google Ads",
-      "summary": "Starting in June 2026, Google Ads is updating how bidding strategies are labeled to offer greater clarity between volume-focused and target-focused goals. As part of this update, we are decoupling Target CPA and Target ROAS from Maximize co",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6163920570446024116",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-06-15",
       "title": "June 15, 2026",
@@ -462,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-06-12",
       "title": "June 12, 2026",
@@ -482,7 +521,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-EDPB — GDPR news-3",
+      "cat": "privacy",
+      "date": "2026-06-12",
+      "title": "Coordinated Supervision Committee extends scope to include Eurodac",
+      "summary": "Brussels, 12 June – As of today, coordinated supervision of the European Union’s asylum and migration database (Eurodac) will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/coordinated-supervision-committee-extends-scope-to-include-eurodac_en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-06-11",
       "title": "June 11, 2026",
@@ -512,16 +561,6 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
-      "cat": "general",
-      "date": "2026-06-10",
-      "title": "June 10, 2026",
-      "summary": "Agent Assist Change Agent Assist offers Proactive generative knowledge assist V2 in GA. This version supports rich search context, multiple suggested queries, and granular control over triggering events. BigQuery Feature BigQuery continuous",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_10_2026",
-      "live": true
-    },
-    {
       "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-06-10",
@@ -539,6 +578,16 @@
       "summary": "This week, we launched the Field Guide to Grid Lanes at gridlanes.webkit.org.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18098/introducing-the-field-guide-to-grid-lanes/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-4",
+      "cat": "privacy",
+      "date": "2026-06-10",
+      "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
+      "summary": "Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a common data breach notification template . ",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-meets-with-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification-template_en",
       "live": true
     },
     {
@@ -629,6 +678,36 @@
       "summary": "Deployment dates Announcement Looker 26.10 is expected to include the following changes, features, and fixes: Expected Looker (original) deployment start: Sunday, June 7, 2026 Expected Looker (original) final deployment and download availab",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#June_04_2026",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-5",
+      "cat": "privacy",
+      "date": "2026-06-04",
+      "title": "The Italian SA imposed a 40 000 EUR fine on a company for violating the confidentiality of a employee's email account after the end of his employment",
+      "summary": "Background information Date of final decision: 18 December 2025 National case Controller: LTL S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and ",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/the-italian-sa-imposed-a-40-000-eur-fine-on-a-company-for-violating-the-confidentiality-of-a_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-6",
+      "cat": "privacy",
+      "date": "2026-06-04",
+      "title": "The Italian SA fined Poste Vita for data breach",
+      "summary": "Background information Date of final decision: 10 July 2025 National case Controller: Poste Vita s.p.a. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 33 (Notification of a personal data breach t",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/the-italian-sa-fined-poste-vita-for-data-breach_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-7",
+      "cat": "privacy",
+      "date": "2026-06-04",
+      "title": "Imposition of fine on a telecommunications company for violations of data subject’s rights",
+      "summary": "Background information Date of final decision: 11 February 2026 National case Controller: Vodafone-Panafon S.A Hellenic Telecommunications Company Legal Reference: Article 12: Transparent information, communication and modalities for the ex",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/imposition-of-fine-on-a-telecommunications-company-for-violations-of-data-subjects-rights_en",
       "live": true
     },
     {
