@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T08:20:54.118098+00:00",
+  "generated_at": "2026-07-01T15:59:48.148231+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -121,17 +121,77 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-01",
+      "title": "HubSpot’s Warmly deal points to the next generation of CRM",
+      "summary": "HubSpot's acquisition shows CRM platforms are evolving from customer databases into AI systems that identify buying intent and take action. The post HubSpot s Warmly deal points to the next generation of CRM appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/hubspots-warmly-deal-points-to-the-next-generation-of-crm/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-01",
+      "title": "U.S. state data privacy laws: What you need to know",
+      "summary": "Updated with information on new privacy laws in Louisiana and Vermont. The post U.S. state data privacy laws: What you need to know appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-marketers-guide-to-state-data-privacy-laws/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-01",
+      "title": "Practical advice for scaling start-up marketing",
+      "summary": "Don't take your start-up marketing advice from LinkedIn. We're talking to someone who's been there and done that. The post Practical advice for scaling start-up marketing appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/practical-advice-for-scaling-start-up-marketing/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-07-01",
+      "title": "What Meta’s broad targeting teaches us about optimization signals",
+      "summary": "The event you optimize for increasingly determines who algorithms find, how they allocate spend, and the business outcomes your campaigns produce. The post What Meta s broad targeting teaches us about optimization signals appeared first on ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/what-metas-broad-targeting-teaches-us-about-optimization-signals/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-07-01",
+      "title": "The rip-and-replace pitch is out of step with today’s buyers",
+      "summary": "The default martech sales motion asks you to tear out your stack and bet 18 months on a rebuild. Buyers increasingly prefer a different path. The post The rip-and-replace pitch is out of step with today s buyers appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-rip-and-replace-pitch-is-out-of-step-with-todays-buyers/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-07-01",
+      "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
+      "summary": "Brussels/Frankfurt, 1 July – The EDPB and the Anti-Money Laundering Authority (AMLA) are working together to bring greater clarity to a question of growing importance for industry and authorities alike: how to share information to fight fin",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-06-30",
       "title": "June 30, 2026",
-      "summary": "BigQuery Feature You can specify an optional principal property on BigQuery reservation assignments to route queries to specific reservations based on the identity of the user, service account, or third-party identity executing the job. Clo",
+      "summary": "Agent Platform Workbench Feature Python 3.12 base containers for Agent Platform Workbench custom containers You can build custom containers for Agent Platform Workbench instances using Python 3.12 base containers, in addition to the default",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_30_2026",
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-06-30",
       "title": "AI is making creative the new targeting",
@@ -141,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-06-30",
       "title": "Bad data is teaching AI to waste your ad budget",
@@ -151,23 +211,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-06-30",
       "title": "AI made email marketing easier. It needs us to make it better.",
       "summary": "AI can write email campaigns in seconds, but it can't replace the strategy, judgement, and customer understanding that make them worth sending. The post AI made email marketing easier. It needs us to make it better. appeared first on MarTec",
       "src": "MarTech.org",
       "url": "https://martech.org/ai-made-email-marketing-easier-it-needs-us-to-make-it-better/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-06-30",
-      "title": "Why marketers need to push back against AI",
-      "summary": "Studies show that relying too heavily on AI can erode critical thinking, making human judgment more valuable than ever. The post Why marketers need to push back against AI appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-marketers-need-to-push-back-against-ai/",
       "live": true
     },
     {
@@ -198,46 +248,6 @@
       "summary": "Today we’re announcing the deprecation of Structured Data Files v9 , v9.1 , and v9.2 . These three versions will all sunset on January 28, 2027 . Migrate to v10 or higher before the sunset date to avoid any interruption of service. Follow t",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1623995231499628635",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-06-29",
-      "title": "Where synthetic data fits into customer research",
-      "summary": "Validate AI-generated insights, establish governance, and prioritize real-world research where it delivers the greatest value. The post Where synthetic data fits into customer research appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/where-synthetic-data-fits-into-customer-research/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-06-29",
-      "title": "Agentic AI is rewriting martech economics and infrastructure",
-      "summary": "A single afternoon of tool-calling can eat a $20 monthly subscription. The fix isn't using fewer tools, it's changing where your data lives. The post Agentic AI is rewriting martech economics and infrastructure appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/agentic-ai-is-rewriting-martech-economics-and-infrastructure/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-06-29",
-      "title": "The most valuable AI skill takes 10 minutes a week",
-      "summary": "Mastering one AI platform matters less than regularly testing what's new and recognizing when the technology changes. The post The most valuable AI skill takes 10 minutes a week appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-most-valuable-ai-skill-takes-10-minutes-a-week/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-29",
-      "title": "When best-of-breed stacks become too complex to manage",
-      "summary": "Custom integrations can unlock flexibility, but growing maintenance costs and data issues can quickly outweigh the benefits. The post When best-of-breed stacks become too complex to manage appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/when-best-of-breed-stacks-become-too-complex-to-manage/",
       "live": true
     },
     {
@@ -301,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-06-25",
       "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
@@ -341,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
+      "id": "live-EDPB — GDPR news-2",
       "cat": "privacy",
       "date": "2026-06-24",
       "title": "Supporting GDPR consistency: EDPB launches dedicated form",
@@ -391,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-2",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-06-22",
       "title": "EDPB gets a new look: discover the new website and brand identity",
@@ -531,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-06-12",
       "title": "Coordinated Supervision Committee extends scope to include Eurodac",
@@ -581,7 +591,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-06-10",
       "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
@@ -681,7 +691,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-06-04",
       "title": "The Italian SA imposed a 40 000 EUR fine on a company for violating the confidentiality of a employee's email account after the end of his employment",
@@ -691,23 +701,13 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
+      "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-06-04",
       "title": "The Italian SA fined Poste Vita for data breach",
       "summary": "Background information Date of final decision: 10 July 2025 National case Controller: Poste Vita s.p.a. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 33 (Notification of a personal data breach t",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/the-italian-sa-fined-poste-vita-for-data-breach_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-06-04",
-      "title": "Imposition of fine on a telecommunications company for violations of data subject’s rights",
-      "summary": "Background information Date of final decision: 11 February 2026 National case Controller: Vodafone-Panafon S.A Hellenic Telecommunications Company Legal Reference: Article 12: Transparent information, communication and modalities for the ex",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/imposition-of-fine-on-a-telecommunications-company-for-violations-of-data-subjects-rights_en",
       "live": true
     },
     {
