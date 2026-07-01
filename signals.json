@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T15:44:33.895241+00:00",
+  "generated_at": "2026-07-01T08:20:54.118098+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -121,6 +121,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-06-30",
+      "title": "June 30, 2026",
+      "summary": "BigQuery Feature You can specify an optional principal property on BigQuery reservation assignments to route queries to specific reservations based on the identity of the user, service account, or third-party identity executing the job. Clo",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_30_2026",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-06-30",
@@ -161,11 +171,11 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-06-29",
       "title": "June 29, 2026",
-      "summary": "BigQuery Change Effective March 9, 2026 , new users are required to have a Cloud Billing account to use the BigQuery Migration Service . This change applies to users starting new projects using BigQuery Migration Service features, such as S",
+      "summary": "App Engine flexible environment .NET Feature Support for deploying your existing apps in the flexible environment to Cloud Run using the gcloud beta app migrate-to-run command is in Preview . For more information, see Deploy an App Engine a",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_29_2026",
       "live": true
@@ -231,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-06-28",
       "title": "June 28, 2026",
@@ -261,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-06-25",
       "title": "June 25, 2026",
@@ -301,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-06-24",
       "title": "June 24, 2026",
@@ -341,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-06-23",
       "title": "June 23, 2026",
@@ -371,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-06-22",
       "title": "June 22, 2026",
@@ -401,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-06-18",
       "title": "June 18, 2026",
@@ -431,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-06-17",
       "title": "June 17, 2026",
@@ -451,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-06-16",
       "title": "June 16, 2026",
@@ -461,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-06-15",
       "title": "June 15, 2026",
@@ -501,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-06-12",
       "title": "June 12, 2026",
@@ -528,16 +538,6 @@
       "summary": "Brussels, 12 June – As of today, coordinated supervision of the European Union’s asylum and migration database (Eurodac) will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/coordinated-supervision-committee-extends-scope-to-include-eurodac_en",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-18",
-      "cat": "general",
-      "date": "2026-06-11",
-      "title": "June 11, 2026",
-      "summary": "BigQuery Feature You can monitor performance, analyze capacity, and optimize costs with Gemini Cloud Assist in BigQuery . This feature is in Preview . Feature Support for the AI.KEY_DRIVERS function is restored. You can use the AI.KEY_DRIVE",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_11_2026",
       "live": true
     },
     {
@@ -735,7 +735,7 @@
       "cat": "looker",
       "date": "2026-05-27",
       "title": "May 27, 2026",
-      "summary": "Deployment dates Announcement The following features will begin rolling out as part of Looker 26.8. Feature The Looker Continuous Integration (CI) feature is now generally available. Feature Conversational Analytics now supports the ability",
+      "summary": "Deployment dates Announcement The following features will begin rolling out as part of Looker 26.8. Feature The Looker Continuous Integration (CI) feature is now generally available. Feature You can now include Gemini-powered insights in yo",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#May_27_2026",
       "live": true
