@@ -1,20 +1,21 @@
 {
-  "generated_at": "2026-07-01T15:59:48.148231+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 104,
+  "generated_at": "2026-07-02T07:43:42.027280+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 99,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
       "cat": "general",
-      "ok": true,
-      "items": 12
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 0
+      "items": 8
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +27,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,6 +122,16 @@
   ],
   "signals": [
     {
+      "id": "live-BigQuery Release Notes-0",
+      "cat": "bigquery",
+      "date": "2026-07-01",
+      "title": "July 01, 2026",
+      "summary": "Feature You can now use pre-trained TimesFM models in BigQuery ML directly from Connected Sheets . These models let you create forecasts and detect anomalies in your data by using the AI.FORECAST and AI.DETECT_ANOMALIES functions. This feat",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_01_2026",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-07-01",
@@ -171,6 +182,26 @@
       "live": true
     },
     {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-07-01",
+      "title": "Introducing the Safari MCP server for web developers",
+      "summary": "In Safari Technology Preview 247, we’re introducing the Safari MCP server — a Model Context Protocol server for web developers that makes your web development and debugging workflow faster and more powerful.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "cat": "privacy",
+      "date": "2026-07-01",
+      "title": "Release Notes for Safari Technology Preview 247",
+      "summary": "Safari Technology Preview Release 247 is now available for download for macOS Golden Gate and macOS Tahoe.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18133/release-notes-for-safari-technology-preview-247/",
+      "live": true
+    },
+    {
       "id": "live-EDPB — GDPR news-0",
       "cat": "privacy",
       "date": "2026-07-01",
@@ -181,13 +212,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-1",
+      "cat": "bigquery",
       "date": "2026-06-30",
       "title": "June 30, 2026",
-      "summary": "Agent Platform Workbench Feature Python 3.12 base containers for Agent Platform Workbench custom containers You can build custom containers for Agent Platform Workbench instances using Python 3.12 base containers, in addition to the default",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_30_2026",
+      "summary": "Feature You can specify an optional principal property on BigQuery reservation assignments to route queries to specific reservations based on the identity of the user, service account, or third-party identity executing the job.",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_30_2026",
       "live": true
     },
     {
@@ -221,13 +252,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-2",
+      "cat": "bigquery",
       "date": "2026-06-29",
       "title": "June 29, 2026",
-      "summary": "App Engine flexible environment .NET Feature Support for deploying your existing apps in the flexible environment to Cloud Run using the gcloud beta app migrate-to-run command is in Preview . For more information, see Deploy an App Engine a",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_29_2026",
+      "summary": "Change Effective March 9, 2026 , new users are required to have a Cloud Billing account to use the BigQuery Migration Service . This change applies to users starting new projects using BigQuery Migration Service features, such as SQL transl",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_29_2026",
       "live": true
     },
     {
@@ -251,16 +282,6 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
-      "cat": "general",
-      "date": "2026-06-28",
-      "title": "June 28, 2026",
-      "summary": "Google SecOps Change Google SecOps has updated the list of supported default parsers . Parsers are updated gradually, so it might take one to four days before you see the changes reflected in your region. The following supported default par",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_28_2026",
-      "live": true
-    },
-    {
       "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-06-26",
@@ -281,13 +302,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-3",
+      "cat": "bigquery",
       "date": "2026-06-25",
       "title": "June 25, 2026",
-      "summary": "Application Integration Security Security bulletins page See the new security bulletins page for Application Integration. Use it to stay informed about related security updates, vulnerabilities, and remediations. For more information, see S",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_25_2026",
+      "summary": "Change An updated version of the Simba ODBC driver for BigQuery is now available. Feature You can now use the VECTOR_SEARCH function to combine a semantic search with a lexical (keyword) search. This is known as a hybrid search. For tables ",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_25_2026",
       "live": true
     },
     {
@@ -321,16 +342,6 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
-      "cat": "general",
-      "date": "2026-06-24",
-      "title": "June 24, 2026",
-      "summary": "Apigee X Announcement Apigee Emulator Apigee Emulator v2.0.1 On June 24, 2026, we released Apigee Emulator version 2.0.1. This is a security-only hotfix release on top of v2.0.0 that addresses 10 security vulnerabilities in the Netty networ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_24_2026",
-      "live": true
-    },
-    {
       "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-06-24",
@@ -361,13 +372,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-4",
+      "cat": "bigquery",
       "date": "2026-06-23",
       "title": "June 23, 2026",
-      "summary": "AI Hypercomputer Feature Preview : You can use Gemini in the Google Cloud console as an AI-powered interface to evaluate hardware options, estimate deployment costs, and view recommended configurations for your clusters. Prompting Gemini he",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_23_2026",
+      "summary": "Feature You can now configure your BigQuery pipelines to automatically trigger executions based on updates to specific BigQuery tables. For more information, see Trigger-based scheduling . This feature is in Preview . Feature Conversational",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_23_2026",
       "live": true
     },
     {
@@ -391,13 +402,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-5",
+      "cat": "bigquery",
       "date": "2026-06-22",
       "title": "June 22, 2026",
-      "summary": "AI Hypercomputer Feature Preview : RoCE VPC networks for VM instances support assigning alias IP ranges to MRDMA vNICs. For more information about these features, see the following: RDMA network profiles Alias IP ranges Apigee X Announcemen",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_22_2026",
+      "summary": "Feature You can use the BigQuery Data Transfer Service to transfer metadata from the following data sources into Knowledge Catalog: Oracle MySQL This feature is in Preview .",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_22_2026",
       "live": true
     },
     {
@@ -421,16 +432,6 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
-      "cat": "general",
-      "date": "2026-06-18",
-      "title": "June 18, 2026",
-      "summary": "API Gateway Change Update to the API Gateway runtime architecture The API Gateway runtime architecture is being updated to improve its integration with Google Cloud Platform and its services. This update does not affect existing API Gateway",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_18_2026",
-      "live": true
-    },
-    {
       "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-06-18",
@@ -451,17 +452,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-6",
+      "cat": "bigquery",
       "date": "2026-06-17",
       "title": "June 17, 2026",
-      "summary": "Agent Assist Feature Agent Assist offers the following UI module integrations with Agent Assist for Salesforce : Chat Voice with Twilio Flex Voice with Nice CXone Voice with Genesys CX Cloud BigQuery Feature You can enable autonomous embedd",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_17_2026",
+      "summary": "Feature You can enable autonomous embedding generation on new or existing tables that you make with the CREATE TABLE or ALTER TABLE statements. When you do this, BigQuery maintains a column of embeddings on the table based on a source colum",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_17_2026",
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-06-17",
       "title": "Release Notes for Safari Technology Preview 246",
@@ -471,23 +472,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-7",
+      "cat": "bigquery",
       "date": "2026-06-16",
       "title": "June 16, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature AlloyDB integration with Knowledge Catalog is now generally available ( GA ). This integration provides a unified metadata view to simplify data governance and analysis. It includes near real-time synchronizat",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_16_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-15",
-      "cat": "general",
-      "date": "2026-06-15",
-      "title": "June 15, 2026",
-      "summary": "AI Hypercomputer Feature Preview : Before you create Spot VMs, you can view the real-time availability, estimated uptime, historical preemption rate, and pricing for a specific machine type and location. This information helps you maximize ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_15_2026",
+      "summary": "Announcement Table Explorer behavior is moving to the Reference panel. This transition will occur in July 2026 or later. For more information, see Table Explorer .",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_16_2026",
       "live": true
     },
     {
@@ -501,7 +492,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-06-15",
       "title": "The golden rule of Customizable Select",
@@ -518,16 +509,6 @@
       "summary": "Later this summer, Apple will unify the email domains used by Sign in with Apple and iCloud+ Hide My Email under a single, shared domain: private.icloud.com . New addresses generated for both features will be issued on the new domain. For e",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=sus6t6ab",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-18",
-      "cat": "general",
-      "date": "2026-06-12",
-      "title": "June 12, 2026",
-      "summary": "BigQuery Feature BigQuery AI functions can use ObjectRef values directly as input, without calling the OBJ.GET_ACCESS_URL function. This feature is generally available (GA). Cloud Monitoring Change All agent.googleapis.com/processes metrics",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_12_2026",
       "live": true
     },
     {
@@ -581,7 +562,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-06-10",
       "title": "Introducing the Field Guide to Grid Lanes",
@@ -601,7 +582,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-06-09",
       "title": "Discover MapKit JS 6: Rebuilt for Today’s Web Developer",
@@ -611,7 +592,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-06-08",
       "title": "Release Notes for Safari Technology Preview 245",
@@ -621,23 +602,13 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-06-08",
       "title": "Web Technology Sessions at WWDC26",
       "summary": "Welcome to WWDC26.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/17974/web-technology-sessions-at-wwdc26/",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
-      "cat": "privacy",
-      "date": "2026-06-08",
-      "title": "News from WWDC26: WebKit in Safari 27 beta",
-      "summary": "Safari 27 beta is here.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/",
       "live": true
     },
     {
@@ -681,7 +652,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-1",
+      "id": "live-Looker Release Notes-2",
       "cat": "looker",
       "date": "2026-06-04",
       "title": "June 04, 2026",
@@ -731,7 +702,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-2",
+      "id": "live-Looker Release Notes-3",
       "cat": "looker",
       "date": "2026-05-27",
       "title": "May 27, 2026",
@@ -758,16 +729,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/automate-server-side-google-tag-manager-updates-on-cloud-run-5d40dfe792d1?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-05-21",
-      "title": "Release Notes for Safari Technology Preview 244",
-      "summary": "Safari Technology Preview Release 244 is now available for download for macOS Tahoe and macOS Sequoia.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/17962/release-notes-for-safari-technology-preview-244/",
       "live": true
     },
     {
@@ -801,7 +762,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-3",
+      "id": "live-Looker Release Notes-4",
       "cat": "looker",
       "date": "2026-05-08",
       "title": "May 08, 2026",
@@ -811,7 +772,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-05-07",
       "title": "May 07, 2026",
@@ -871,7 +832,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-04-20",
       "title": "April 20, 2026",
@@ -881,23 +842,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-04-15",
       "title": "April 15, 2026",
       "summary": "Deployment dates Breaking Migrate your Teams webhook to \"Workflows\" Microsoft is retiring the legacy Office 365 Connectors in favor of Power Automate Workflows. Connectors will stop working by the end of April 2026. To ensure that your Look",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#April_15_2026",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-04-09",
-      "title": "April 09, 2026",
-      "summary": "Looker (original) only changes Announcement Starting with the Looker 26.8 release, which will release in May 2026, the following changes will occur: Looker (original) admins will no longer be able to access or manage the API credentials of ",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#April_09_2026",
       "live": true
     },
     {
