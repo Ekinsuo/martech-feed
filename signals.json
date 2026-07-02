@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-07-02T07:43:42.027280+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 99,
+  "generated_at": "2026-07-02T15:37:35.053134+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "items": 12
     },
     {
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 8
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
@@ -122,17 +121,57 @@
   ],
   "signals": [
     {
-      "id": "live-BigQuery Release Notes-0",
-      "cat": "bigquery",
-      "date": "2026-07-01",
-      "title": "July 01, 2026",
-      "summary": "Feature You can now use pre-trained TimesFM models in BigQuery ML directly from Connected Sheets . These models let you create forecasts and detect anomalies in your data by using the AI.FORECAST and AI.DETECT_ANOMALIES functions. This feat",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_01_2026",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-02",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Cloudflare is making AI crawler blocking the default for many websites while introducing new controls and payment models for publishers. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-02",
+      "title": "FREE! The email subject line rules that don’t hold up!",
+      "summary": "New research based on 4.6 billion emails challenges some of marketing's oldest subject line advice and offers a framework for testing what works. The post FREE! The email subject line rules that don t hold up! appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/free-the-email-subject-line-rules-that-dont-hold-up/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-02",
+      "title": "Stop adopting AI and start solving problems",
+      "summary": "Without clear processes, training, and governance, AI can create more work, weaken trust, and increase brand risk. The post Stop adopting AI and start solving problems appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/stop-adopting-ai-and-start-solving-problems/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-07-02",
+      "title": "AI visibility depends on who writes about your brand",
+      "summary": "Strong rankings don't guarantee AI visibility. Learn what drives citations and how to measure your brand's presence across AI platforms. The post AI visibility depends on who writes about your brand appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-visibility-depends-on-who-writes-about-your-brand/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
+      "cat": "general",
+      "date": "2026-07-01",
+      "title": "July 01, 2026",
+      "summary": "BigQuery Feature You can now use pre-trained TimesFM models in BigQuery ML directly from Connected Sheets . These models let you create forecasts and detect anomalies in your data by using the AI.FORECAST and AI.DETECT_ANOMALIES functions. ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_01_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-01",
       "title": "HubSpot’s Warmly deal points to the next generation of CRM",
@@ -142,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-01",
       "title": "U.S. state data privacy laws: What you need to know",
@@ -152,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-01",
       "title": "Practical advice for scaling start-up marketing",
@@ -162,23 +201,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-01",
       "title": "What Meta’s broad targeting teaches us about optimization signals",
       "summary": "The event you optimize for increasingly determines who algorithms find, how they allocate spend, and the business outcomes your campaigns produce. The post What Meta s broad targeting teaches us about optimization signals appeared first on ",
       "src": "MarTech.org",
       "url": "https://martech.org/what-metas-broad-targeting-teaches-us-about-optimization-signals/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-07-01",
-      "title": "The rip-and-replace pitch is out of step with today’s buyers",
-      "summary": "The default martech sales motion asks you to tear out your stack and bet 18 months on a rebuild. Buyers increasingly prefer a different path. The post The rip-and-replace pitch is out of step with today s buyers appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-rip-and-replace-pitch-is-out-of-step-with-todays-buyers/",
       "live": true
     },
     {
@@ -212,53 +241,23 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-1",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-2",
+      "cat": "general",
       "date": "2026-06-30",
       "title": "June 30, 2026",
-      "summary": "Feature You can specify an optional principal property on BigQuery reservation assignments to route queries to specific reservations based on the identity of the user, service account, or third-party identity executing the job.",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_30_2026",
+      "summary": "Agent Platform Workbench Feature Python 3.12 base containers for Agent Platform Workbench custom containers You can build custom containers for Agent Platform Workbench instances using Python 3.12 base containers, in addition to the default",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_30_2026",
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
-      "date": "2026-06-30",
-      "title": "AI is making creative the new targeting",
-      "summary": "As Google, Meta, and TikTok automate audience targeting, your headlines, images, and videos are becoming the strongest signals for who sees your ads. The post AI is making creative the new targeting appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-is-making-creative-the-new-targeting/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-06-30",
-      "title": "Bad data is teaching AI to waste your ad budget",
-      "summary": "In automated advertising, inaccurate conversion data doesn't just skew reports, it trains bidding algorithms to optimize for the wrong customers. The post Bad data is teaching AI to waste your ad budget appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/bad-data-is-teaching-ai-to-waste-your-ad-budget/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-06-30",
-      "title": "AI made email marketing easier. It needs us to make it better.",
-      "summary": "AI can write email campaigns in seconds, but it can't replace the strategy, judgement, and customer understanding that make them worth sending. The post AI made email marketing easier. It needs us to make it better. appeared first on MarTec",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-made-email-marketing-easier-it-needs-us-to-make-it-better/",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery Release Notes-2",
-      "cat": "bigquery",
       "date": "2026-06-29",
       "title": "June 29, 2026",
-      "summary": "Change Effective March 9, 2026 , new users are required to have a Cloud Billing account to use the BigQuery Migration Service . This change applies to users starting new projects using BigQuery Migration Service features, such as SQL transl",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_29_2026",
+      "summary": "App Engine flexible environment .NET Feature Support for deploying your existing apps in the flexible environment to Cloud Run using the gcloud beta app migrate-to-run command is in Preview . For more information, see Deploy an App Engine a",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_29_2026",
       "live": true
     },
     {
@@ -282,6 +281,16 @@
       "live": true
     },
     {
+      "id": "live-Google Cloud — All release notes-4",
+      "cat": "general",
+      "date": "2026-06-28",
+      "title": "June 28, 2026",
+      "summary": "Google SecOps Change Google SecOps has updated the list of supported default parsers . Parsers are updated gradually, so it might take one to four days before you see the changes reflected in your region. The following supported default par",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_28_2026",
+      "live": true
+    },
+    {
       "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-06-26",
@@ -302,13 +311,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-3",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-7",
+      "cat": "general",
       "date": "2026-06-25",
       "title": "June 25, 2026",
-      "summary": "Change An updated version of the Simba ODBC driver for BigQuery is now available. Feature You can now use the VECTOR_SEARCH function to combine a semantic search with a lexical (keyword) search. This is known as a hybrid search. For tables ",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_25_2026",
+      "summary": "Application Integration Security Security bulletins page See the new security bulletins page for Application Integration. Use it to stay informed about related security updates, vulnerabilities, and remediations. For more information, see S",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_25_2026",
       "live": true
     },
     {
@@ -342,6 +351,16 @@
       "live": true
     },
     {
+      "id": "live-Google Cloud — All release notes-8",
+      "cat": "general",
+      "date": "2026-06-24",
+      "title": "June 24, 2026",
+      "summary": "Apigee X Announcement Apigee Emulator Apigee Emulator v2.0.1 On June 24, 2026, we released Apigee Emulator version 2.0.1. This is a security-only hotfix release on top of v2.0.0 that addresses 10 security vulnerabilities in the Netty networ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_24_2026",
+      "live": true
+    },
+    {
       "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-06-24",
@@ -372,13 +391,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-4",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-9",
+      "cat": "general",
       "date": "2026-06-23",
       "title": "June 23, 2026",
-      "summary": "Feature You can now configure your BigQuery pipelines to automatically trigger executions based on updates to specific BigQuery tables. For more information, see Trigger-based scheduling . This feature is in Preview . Feature Conversational",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_23_2026",
+      "summary": "AI Hypercomputer Feature Preview : You can use Gemini in the Google Cloud console as an AI-powered interface to evaluate hardware options, estimate deployment costs, and view recommended configurations for your clusters. Prompting Gemini he",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_23_2026",
       "live": true
     },
     {
@@ -402,13 +421,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-5",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-10",
+      "cat": "general",
       "date": "2026-06-22",
       "title": "June 22, 2026",
-      "summary": "Feature You can use the BigQuery Data Transfer Service to transfer metadata from the following data sources into Knowledge Catalog: Oracle MySQL This feature is in Preview .",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_22_2026",
+      "summary": "AI Hypercomputer Feature Preview : RoCE VPC networks for VM instances support assigning alias IP ranges to MRDMA vNICs. For more information about these features, see the following: RDMA network profiles Alias IP ranges Apigee X Announcemen",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_22_2026",
       "live": true
     },
     {
@@ -432,6 +451,16 @@
       "live": true
     },
     {
+      "id": "live-Google Cloud — All release notes-14",
+      "cat": "general",
+      "date": "2026-06-18",
+      "title": "June 18, 2026",
+      "summary": "API Gateway Change Update to the API Gateway runtime architecture The API Gateway runtime architecture is being updated to improve its integration with Google Cloud Platform and its services. This update does not affect existing API Gateway",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_18_2026",
+      "live": true
+    },
+    {
       "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-06-18",
@@ -452,13 +481,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-6",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-15",
+      "cat": "general",
       "date": "2026-06-17",
       "title": "June 17, 2026",
-      "summary": "Feature You can enable autonomous embedding generation on new or existing tables that you make with the CREATE TABLE or ALTER TABLE statements. When you do this, BigQuery maintains a column of embeddings on the table based on a source colum",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_17_2026",
+      "summary": "Agent Assist Feature Agent Assist offers the following UI module integrations with Agent Assist for Salesforce : Chat Voice with Twilio Flex Voice with Nice CXone Voice with Genesys CX Cloud BigQuery Feature You can enable autonomous embedd",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_17_2026",
       "live": true
     },
     {
@@ -472,13 +501,23 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-16",
+      "cat": "general",
       "date": "2026-06-16",
       "title": "June 16, 2026",
-      "summary": "Announcement Table Explorer behavior is moving to the Reference panel. This transition will occur in July 2026 or later. For more information, see Table Explorer .",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_16_2026",
+      "summary": "AlloyDB for PostgreSQL Feature AlloyDB integration with Knowledge Catalog is now generally available ( GA ). This integration provides a unified metadata view to simplify data governance and analysis. It includes near real-time synchronizat",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_16_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-17",
+      "cat": "general",
+      "date": "2026-06-15",
+      "title": "June 15, 2026",
+      "summary": "AI Hypercomputer Feature Preview : Before you create Spot VMs, you can view the real-time availability, estimated uptime, historical preemption rate, and pricing for a specific machine type and location. This information helps you maximize ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_15_2026",
       "live": true
     },
     {
