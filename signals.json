@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02T15:37:35.053134+00:00",
+  "generated_at": "2026-07-03T07:34:33.756523+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 103,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -101,7 +101,7 @@
       "name": "GTM / Tag Gateway — Release notes",
       "cat": "gtm",
       "ok": true,
-      "items": 6,
+      "items": 7,
       "scraped": true
     },
     {
@@ -238,6 +238,16 @@
       "summary": "Brussels/Frankfurt, 1 July – The EDPB and the Anti-Money Laundering Authority (AMLA) are working together to bring greater clarity to a question of growing importance for industry and authorities alike: how to share information to fight fin",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en",
+      "live": true
+    },
+    {
+      "id": "scrape-GTM / Tag Gateway — Release notes-0",
+      "cat": "gtm",
+      "date": "2026-07-01",
+      "title": "Improved Google Tag Manager Overview This release updates the…",
+      "summary": "Google Tag Manager Overview page with a streamlined interface to help new and experienced users navigate their tagging setup more efficiently",
+      "src": "GTM / Tag Gateway — Release notes",
+      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
       "live": true
     },
     {
@@ -441,7 +451,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-0",
+      "id": "scrape-GTM / Tag Gateway — Release notes-1",
       "cat": "gtm",
       "date": "2026-06-22",
       "title": "Improved measurement of server-to-server conversions This release recovers…",
@@ -721,7 +731,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-1",
+      "id": "scrape-GTM / Tag Gateway — Release notes-2",
       "cat": "gtm",
       "date": "2026-06-03",
       "title": "Google tag gateway for advertisers using Amazon CloudFront is…",
@@ -731,7 +741,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-2",
+      "id": "scrape-GTM / Tag Gateway — Release notes-3",
       "cat": "gtm",
       "date": "2026-06-01",
       "title": "Google tag gateway for advertisers via Google Cloud Platform…",
@@ -781,7 +791,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-3",
+      "id": "scrape-GTM / Tag Gateway — Release notes-4",
       "cat": "gtm",
       "date": "2026-05-14",
       "title": "Google tag gateway for advertisers integrations with Akamai and…",
@@ -841,7 +851,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-4",
+      "id": "scrape-GTM / Tag Gateway — Release notes-5",
       "cat": "gtm",
       "date": "2026-05-01",
       "title": "Improved conversion tracking and attribution for Google Ads-linked Google…",
@@ -921,7 +931,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-5",
+      "id": "scrape-GTM / Tag Gateway — Release notes-6",
       "cat": "gtm",
       "date": "2026-02-04",
       "title": "Improved website event data collection in Google Ads Google…",
