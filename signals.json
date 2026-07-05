@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04T14:47:57.088847+00:00",
+  "generated_at": "2026-07-05T07:36:25.123512+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 104,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -101,7 +101,7 @@
       "name": "GTM / Tag Gateway — Release notes",
       "cat": "gtm",
       "ok": true,
-      "items": 7,
+      "items": 6,
       "scraped": true
     },
     {
@@ -928,16 +928,6 @@
       "summary": "insights to your Home page This feature summarizes the top three data changes since your last visit, including key configuration updates, anomalies, and seasonality trends.This helps you quickly catch up on what’s happening in your property",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-GTM / Tag Gateway — Release notes-6",
-      "cat": "gtm",
-      "date": "2026-02-04",
-      "title": "Improved website event data collection in Google Ads Google…",
-      "summary": "Ads will help advertisers measure more effectively and gain deeper insights with less manual configuration, by automatically collecting a broader range of event data from their websites Advertisers may notice additional network requests to ",
-      "src": "GTM / Tag Gateway — Release notes",
-      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
       "live": true
     },
     {
