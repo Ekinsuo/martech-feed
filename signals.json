@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T08:40:21.453075+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 103,
+  "generated_at": "2026-07-06T16:33:10.806703+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 97,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -100,9 +100,10 @@
     {
       "name": "GTM / Tag Gateway — Release notes",
       "cat": "gtm",
-      "ok": true,
-      "items": 6,
-      "scraped": true
+      "ok": false,
+      "items": 0,
+      "scraped": true,
+      "error": "The read operation timed out"
     },
     {
       "name": "GA4 — What's new",
@@ -123,6 +124,46 @@
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
+      "date": "2026-07-06",
+      "title": "Turning marketing complexity into a competitive advantage",
+      "summary": "More channels, more AI, and more data create new opportunities and challenges. Learn how to build a marketing ecosystem that scales. The post Turning marketing complexity into a competitive advantage appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/turning-marketing-complexity-into-a-competitive-advantage/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-06",
+      "title": "The hidden forces behind B2B buying decisions",
+      "summary": "Your deals aren't won or lost on product alone. Learn why personality, politics, culture, and unseen stakeholders often determine the outcome. The post The hidden forces behind B2B buying decisions appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-hidden-forces-behind-b2b-buying-decisions/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-06",
+      "title": "How to build a Hermes Agent-style workflow",
+      "summary": "Most AI tool workflows send the model far more data than it needs. The fix is a simple shift that cuts waste without cutting capability. The post How to build a Hermes Agent-style workflow appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/building-a-hermes-agent-style-workflow-in-practice/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-07-06",
+      "title": "The hidden cost of your fragmented martech stack",
+      "summary": "Why your favorite best-of-breed marketing tools might be creating a structural complexity wall that actively slows down your revenue operations. The post The hidden cost of your fragmented martech stack appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-hidden-cost-of-your-fragmented-martech-stack/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
       "date": "2026-07-02",
       "title": "The latest AI-powered martech news and releases",
       "summary": "Cloudflare is making AI crawler blocking the default for many websites while introducing new controls and payment models for publishers. The post The latest AI-powered martech news and releases appeared first on MarTech .",
@@ -131,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-02",
       "title": "FREE! The email subject line rules that don’t hold up!",
@@ -141,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-02",
       "title": "Stop adopting AI and start solving problems",
@@ -151,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-02",
       "title": "AI visibility depends on who writes about your brand",
@@ -168,46 +209,6 @@
       "summary": "BigQuery Feature You can now use pre-trained TimesFM models in BigQuery ML directly from Connected Sheets . These models let you create forecasts and detect anomalies in your data by using the AI.FORECAST and AI.DETECT_ANOMALIES functions. ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_01_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-07-01",
-      "title": "HubSpot’s Warmly deal points to the next generation of CRM",
-      "summary": "HubSpot's acquisition shows CRM platforms are evolving from customer databases into AI systems that identify buying intent and take action. The post HubSpot s Warmly deal points to the next generation of CRM appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/hubspots-warmly-deal-points-to-the-next-generation-of-crm/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-01",
-      "title": "U.S. state data privacy laws: What you need to know",
-      "summary": "Updated with information on new privacy laws in Louisiana and Vermont. The post U.S. state data privacy laws: What you need to know appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-marketers-guide-to-state-data-privacy-laws/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-01",
-      "title": "Practical advice for scaling start-up marketing",
-      "summary": "Don't take your start-up marketing advice from LinkedIn. We're talking to someone who's been there and done that. The post Practical advice for scaling start-up marketing appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/practical-advice-for-scaling-start-up-marketing/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-01",
-      "title": "What Meta’s broad targeting teaches us about optimization signals",
-      "summary": "The event you optimize for increasingly determines who algorithms find, how they allocate spend, and the business outcomes your campaigns produce. The post What Meta s broad targeting teaches us about optimization signals appeared first on ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/what-metas-broad-targeting-teaches-us-about-optimization-signals/",
       "live": true
     },
     {
@@ -238,16 +239,6 @@
       "summary": "Brussels/Frankfurt, 1 July – The EDPB and the Anti-Money Laundering Authority (AMLA) are working together to bring greater clarity to a question of growing importance for industry and authorities alike: how to share information to fight fin",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en",
-      "live": true
-    },
-    {
-      "id": "scrape-GTM / Tag Gateway — Release notes-0",
-      "cat": "gtm",
-      "date": "2026-07-01",
-      "title": "Improved Google Tag Manager Overview This release updates the…",
-      "summary": "Google Tag Manager Overview page with a streamlined interface to help new and experienced users navigate their tagging setup more efficiently",
-      "src": "GTM / Tag Gateway — Release notes",
-      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
       "live": true
     },
     {
@@ -448,16 +439,6 @@
       "summary": "Brussels, 22 June - Since its establishment in 2018, the core mission of the EDPB has been to uphold and safeguard the right to data protection. Over the years, the EDPB has played a key role in ensuring the consistent application of the GD",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/edpb-gets-a-new-look-discover-the-new-website-and-brand-identity_en",
-      "live": true
-    },
-    {
-      "id": "scrape-GTM / Tag Gateway — Release notes-1",
-      "cat": "gtm",
-      "date": "2026-06-22",
-      "title": "Improved measurement of server-to-server conversions This release recovers…",
-      "summary": "that were previously undercounted in server-to-server setups due to a lack of browser cookie context Server-side data is intelligently joined with parallel browser signals, such as cookies, when a GCLID is present so that Floodlight can mor",
-      "src": "GTM / Tag Gateway — Release notes",
-      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
       "live": true
     },
     {
@@ -731,26 +712,6 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-2",
-      "cat": "gtm",
-      "date": "2026-06-03",
-      "title": "Google tag gateway for advertisers using Amazon CloudFront is…",
-      "summary": "now available This release introduces a new option to configure Google tag gateway for advertisers using Amazon CloudFront as your content delivery network (CDN) via Tag Assistant This setup is facilitated by a guided workflow in Tag Assist",
-      "src": "GTM / Tag Gateway — Release notes",
-      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-GTM / Tag Gateway — Release notes-3",
-      "cat": "gtm",
-      "date": "2026-06-01",
-      "title": "Google tag gateway for advertisers via Google Cloud Platform…",
-      "summary": "is now available This release marks the general availability of the Google tag gateway for advertisers integration with Google Cloud Platform (GCP) This integration allows you to leverage Google Cloud Platform’s Global external Application ",
-      "src": "GTM / Tag Gateway — Release notes",
-      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
       "id": "live-Looker Release Notes-3",
       "cat": "looker",
       "date": "2026-05-27",
@@ -788,16 +749,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/updating-google-tag-manager-server-side-tagging-servers-4e2440f69c7d?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "scrape-GTM / Tag Gateway — Release notes-4",
-      "cat": "gtm",
-      "date": "2026-05-14",
-      "title": "Google tag gateway for advertisers integrations with Akamai and…",
-      "summary": "Fastly are now available This release introduces a streamlined integration to configure Google tag gateway for advertisers using Akamai or Fastly as your content delivery network (CDN) You can now authorize Google to automatically detect yo",
-      "src": "GTM / Tag Gateway — Release notes",
-      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
       "live": true
     },
     {
@@ -848,16 +799,6 @@
       "summary": "not be available to your Google Analytics property The Google Analytics team is actively working to expand this feature to more properties. Please reach out to your support team if you have questions about the eligibility of your property. ",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-GTM / Tag Gateway — Release notes-5",
-      "cat": "gtm",
-      "date": "2026-05-01",
-      "title": "Improved conversion tracking and attribution for Google Ads-linked Google…",
-      "summary": "Analytics properties This release introduces improved conversion tracking and attribution for Google Ads-linked Google Analytics properties for server-side Tag Manager customers These improvements are achieved via parallel browser signals w",
-      "src": "GTM / Tag Gateway — Release notes",
-      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
       "live": true
     },
     {
