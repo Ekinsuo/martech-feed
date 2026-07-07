@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T07:51:38.859448+00:00",
+  "generated_at": "2026-07-07T15:58:51.101977+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,6 +121,56 @@
   ],
   "signals": [
     {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-07-07",
+      "title": "Accelerate Google Ads API Basic Access reviews with brand verification",
+      "summary": "Today, we are launching a pilot process to expedite the Basic Access application review process. If you have a pending Basic Access application for your Google Ads API developer token, then you can complete brand verification for your Googl",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6502080694881879711",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-07",
+      "title": "HubSpot reverses course after customers reject data sharing",
+      "summary": "Beyond the backlash lies a bigger issue for marketers: when vendors need customer data for their products, who captures the value? The post HubSpot reverses course after customers reject data sharing appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-hubspot-controversy-asks-why-customers-pay-to-improve-ai-products/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-07",
+      "title": "HubSpot’s May 2026 updates: Breeze gets serious, automation gets smarter, and your data gets cleaner",
+      "summary": "May's HubSpot updates focused on making AI an active participant in your work, not just a tool you prompt. The post HubSpot’s May 2026 updates: Breeze gets serious, automation gets smarter, and your data gets cleaner appeared first on MarTe",
+      "src": "MarTech.org",
+      "url": "https://martech.org/hubspots-may-2026-updates-breeze-gets-serious-automation-gets-smarter-and-your-data-gets-cleaner/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-07",
+      "title": "3 AI agents to improve marketing workflows",
+      "summary": "Pilot AI agents with a shared source of truth, practical KPIs, and human oversight that keeps strategy and quality on track. The post 3 AI agents to improve marketing workflows appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/3-ai-agents-to-improve-marketing-workflows/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-07-07",
+      "title": "How AI discovery is changing everything marketers measure",
+      "summary": "AI-powered discovery is reducing the value of traffic-based metrics. Here’s what to measure instead to understand marketing performance. The post How AI discovery is changing everything marketers measure appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-ai-discovery-is-changing-everything-marketers-measure/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-07-06",
@@ -131,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-07-06",
       "title": "Announcing Google Mobile Ads Next-Gen SDK as the preferred SDK for Android",
@@ -141,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-06",
       "title": "Turning marketing complexity into a competitive advantage",
@@ -151,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-06",
       "title": "The hidden forces behind B2B buying decisions",
@@ -161,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-06",
       "title": "How to build a Hermes Agent-style workflow",
@@ -171,53 +221,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-06",
       "title": "The hidden cost of your fragmented martech stack",
       "summary": "Why your favorite best-of-breed marketing tools might be creating a structural complexity wall that actively slows down your revenue operations. The post The hidden cost of your fragmented martech stack appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/the-hidden-cost-of-your-fragmented-martech-stack/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-07-02",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Cloudflare is making AI crawler blocking the default for many websites while introducing new controls and payment models for publishers. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-02",
-      "title": "FREE! The email subject line rules that don’t hold up!",
-      "summary": "New research based on 4.6 billion emails challenges some of marketing's oldest subject line advice and offers a framework for testing what works. The post FREE! The email subject line rules that don t hold up! appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/free-the-email-subject-line-rules-that-dont-hold-up/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-02",
-      "title": "Stop adopting AI and start solving problems",
-      "summary": "Without clear processes, training, and governance, AI can create more work, weaken trust, and increase brand risk. The post Stop adopting AI and start solving problems appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/stop-adopting-ai-and-start-solving-problems/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-02",
-      "title": "AI visibility depends on who writes about your brand",
-      "summary": "Strong rankings don't guarantee AI visibility. Learn what drives citations and how to measure your brand's presence across AI platforms. The post AI visibility depends on who writes about your brand appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-visibility-depends-on-who-writes-about-your-brand/",
       "live": true
     },
     {
@@ -301,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-06-29",
       "title": "Deprecating Structured Data Files v9, v9.1, and v9.2",
@@ -321,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-06-26",
       "title": "July 2026 changes for Display & Video 360 API and Structured Data Files",
@@ -331,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-06-26",
       "title": "Unlocking Data Strength with Data Manager API: Ads DevCast E7",
@@ -351,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-06-25",
       "title": "Google Ads API v21 sunset reminder",
@@ -361,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-06-25",
       "title": "Multi-party approvals in the Google Ads API",
@@ -391,23 +401,13 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-06-24",
       "title": "Announcing v24.2 of the Google Ads API",
       "summary": "Today, we’re announcing the v24.2 release of the Google Ads API . This minor release brings critical security updates, new AI transparency features, reporting enhancements, and powerful planning insights. To use these new capabilities, you ",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4981407651934041130",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-06-24",
-      "title": "More autonomy, less context: Introducing Agent Skills for Google Advertising and Measurement",
-      "summary": "The way developers build and integrate software is changing. With the rapid adoption of AI-powered coding assistants, we are launching a dedicated set of Google Advertising and Measurement agent skills in the Google skills repository to emp",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/5735402964444378595",
       "live": true
     },
     {
