@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T06:37:45.368405+00:00",
+  "generated_at": "2026-07-08T15:38:39.872507+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,6 +121,56 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-08",
+      "title": "The CMS is becoming the AI operating system for brands",
+      "summary": "Choosing a CMS now means preparing for AI discovery, governance, personalization, and agents. Learn what to look for in your next platform. The post The CMS is becoming the AI operating system for brands appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-cms-is-becoming-the-ai-operating-system-for-brands/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-08",
+      "title": "Getting started with Hermes Agent Desktop",
+      "summary": "Learn how to install Hermes Desktop, connect a model, create reusable skills, and keep marketing workflow context under your control. The post Getting started with Hermes Agent Desktop appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/getting-started-with-hermes-agent-desktop/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-08",
+      "title": "Why AI search makes trust your most important visibility signal",
+      "summary": "See how AI systems evaluate brands and why authority, reputation, and technical SEO increasingly influence who gets surfaced and recommended. The post Why AI search makes trust your most important visibility signal appeared first on MarTech",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-ai-search-makes-trust-your-most-important-visibility-signal/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-07-08",
+      "title": "The future of performance marketing isn’t more vendors. It’s making your stack work harder. by Rokt mParticle",
+      "summary": "As performance pressures mount, the future of marketing success lies in transforming your data foundation into a strategic AI-powered engine for growth. The post The future of performance marketing isn’t more vendors. It’s making your stack",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-future-of-performance-marketing-isnt-more-vendors-its-making-your-stack-work-harder/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-07-08",
+      "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
+      "summary": "Brussels, 8 July– During its latest plenary, the EDPB has adopted guidelines on anonymisation and guidelines on web scraping in the context of generative AI. In addition, the Board has adopted the final version of its guidelines on the proc",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-07-07",
@@ -141,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-07",
       "title": "HubSpot reverses course after customers reject data sharing",
@@ -151,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-07",
       "title": "HubSpot’s May 2026 updates: Breeze gets serious, automation gets smarter, and your data gets cleaner",
@@ -161,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-07",
       "title": "3 AI agents to improve marketing workflows",
@@ -171,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-07",
       "title": "How AI discovery is changing everything marketers measure",
@@ -211,46 +261,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-07-06",
-      "title": "Turning marketing complexity into a competitive advantage",
-      "summary": "More channels, more AI, and more data create new opportunities and challenges. Learn how to build a marketing ecosystem that scales. The post Turning marketing complexity into a competitive advantage appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/turning-marketing-complexity-into-a-competitive-advantage/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-06",
-      "title": "The hidden forces behind B2B buying decisions",
-      "summary": "Your deals aren't won or lost on product alone. Learn why personality, politics, culture, and unseen stakeholders often determine the outcome. The post The hidden forces behind B2B buying decisions appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-hidden-forces-behind-b2b-buying-decisions/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-06",
-      "title": "How to build a Hermes Agent-style workflow",
-      "summary": "Most AI tool workflows send the model far more data than it needs. The fix is a simple shift that cuts waste without cutting capability. The post How to build a Hermes Agent-style workflow appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/building-a-hermes-agent-style-workflow-in-practice/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-06",
-      "title": "The hidden cost of your fragmented martech stack",
-      "summary": "Why your favorite best-of-breed marketing tools might be creating a structural complexity wall that actively slows down your revenue operations. The post The hidden cost of your fragmented martech stack appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-hidden-cost-of-your-fragmented-martech-stack/",
-      "live": true
-    },
-    {
       "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-07-01",
@@ -281,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
@@ -401,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
+      "id": "live-EDPB — GDPR news-2",
       "cat": "privacy",
       "date": "2026-06-25",
       "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
@@ -431,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-2",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-06-24",
       "title": "Supporting GDPR consistency: EDPB launches dedicated form",
@@ -471,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-06-22",
       "title": "EDPB gets a new look: discover the new website and brand identity",
@@ -581,7 +591,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-06-12",
       "title": "Coordinated Supervision Committee extends scope to include Eurodac",
@@ -631,7 +641,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-06-10",
       "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
@@ -721,23 +731,13 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
+      "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-06-04",
       "title": "The Italian SA imposed a 40 000 EUR fine on a company for violating the confidentiality of a employee's email account after the end of his employment",
       "summary": "Background information Date of final decision: 18 December 2025 National case Controller: LTL S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and ",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/the-italian-sa-imposed-a-40-000-eur-fine-on-a-company-for-violating-the-confidentiality-of-a_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-06-04",
-      "title": "The Italian SA fined Poste Vita for data breach",
-      "summary": "Background information Date of final decision: 10 July 2025 National case Controller: Poste Vita s.p.a. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 33 (Notification of a personal data breach t",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/the-italian-sa-fined-poste-vita-for-data-breach_en",
       "live": true
     },
     {
