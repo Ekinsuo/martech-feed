@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T15:58:51.101977+00:00",
+  "generated_at": "2026-07-08T06:37:45.368405+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "name": "Looker Studio Release Notes",
@@ -89,7 +89,7 @@
       "name": "Apple Developer News",
       "cat": "apple",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "name": "EDPB — GDPR news",
@@ -120,6 +120,16 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-07-07",
+      "title": "July 07, 2026",
+      "summary": "App Engine standard environment Java Feature To modernize image processing, migrate from the App Engine Images service to Cloud Run by routing calls to a Cloud Run image transformation service while your app continues to run on App Engine (",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_07_2026",
+      "live": true
+    },
     {
       "id": "live-Google Ads Developer Blog-0",
       "cat": "gads",
@@ -171,11 +181,21 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-07-07",
+      "title": "Hello Developer: July 2026",
+      "summary": "In this edition: Try an all-new search tool on the Apple Developer website. Download design kits for Figma and Sketch. Explore the biggest updates from WWDC26 in new activities around the world and online. Read about Apple Design Award winn",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=grx7lcto",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-07-06",
       "title": "July 06, 2026",
-      "summary": "BigQuery Change For data transfers from Facebook Ads , support for the AdInsightsMMM report has been temporarily disabled. Existing data transfers from Facebook Ads that include the AdInsightsMMM report will continue to run, but the transfe",
+      "summary": "Apigee UI Announcement On July 6, 2026, we released an updated version of the Apigee UI. Feature ParsePayload policy and payload operations matching in the Apigee UI The Apigee UI now supports the new payload operations matching feature: Th",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_06_2026",
       "live": true
@@ -231,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-07-01",
       "title": "July 01, 2026",
@@ -281,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-06-30",
       "title": "June 30, 2026",
@@ -291,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-06-29",
       "title": "June 29, 2026",
@@ -321,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-06-28",
       "title": "June 28, 2026",
@@ -351,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-06-25",
       "title": "June 25, 2026",
@@ -391,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-06-24",
       "title": "June 24, 2026",
@@ -421,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-06-23",
       "title": "June 23, 2026",
@@ -431,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-06-23",
       "title": "Design kits for iOS, iPadOS, and macOS 27 are here",
@@ -441,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-06-22",
       "title": "June 22, 2026",
@@ -471,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-06-18",
       "title": "June 18, 2026",
@@ -481,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-06-18",
       "title": "Updated Apple Developer Program License Agreement now available",
@@ -491,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-06-18",
       "title": "Changes to iOS in Brazil",
@@ -501,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
+      "id": "live-Google Cloud — All release notes-20",
       "cat": "general",
       "date": "2026-06-17",
       "title": "June 17, 2026",
@@ -518,16 +538,6 @@
       "summary": "Safari Technology Preview Release 246 is now available for download for macOS Golden Gate and macOS Tahoe.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18128/release-notes-for-safari-technology-preview-246/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
-      "date": "2026-06-16",
-      "title": "June 16, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature AlloyDB integration with Knowledge Catalog is now generally available ( GA ). This integration provides a unified metadata view to simplify data governance and analysis. It includes near real-time synchronizat",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_16_2026",
       "live": true
     },
     {
@@ -551,7 +561,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-06-15",
       "title": "New domain for Sign in with Apple and iCloud+ Hide My Email",
@@ -581,7 +591,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-06-11",
       "title": "WWDC26 survey",
@@ -661,7 +671,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Find out what's new for Apple developers",
@@ -671,7 +681,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Introducing Time Allowances",
@@ -701,7 +711,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-2",
+      "id": "live-Looker Release Notes-3",
       "cat": "looker",
       "date": "2026-06-04",
       "title": "June 04, 2026",
@@ -751,7 +761,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-3",
+      "id": "live-Looker Release Notes-4",
       "cat": "looker",
       "date": "2026-05-27",
       "title": "May 27, 2026",
@@ -811,7 +821,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-05-08",
       "title": "May 08, 2026",
@@ -821,7 +831,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-05-07",
       "title": "May 07, 2026",
@@ -881,23 +891,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-04-20",
       "title": "April 20, 2026",
       "summary": "Looker (Google Cloud core) and Looker (original) changes Feature Now available in preview, the Looker VS Code Extension brings LookML development to local desktop IDEs like Visual Studio Code, Claude Code, and Cursor. The extension supports",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#April_20_2026",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-04-15",
-      "title": "April 15, 2026",
-      "summary": "Deployment dates Breaking Migrate your Teams webhook to \"Workflows\" Microsoft is retiring the legacy Office 365 Connectors in favor of Power Automate Workflows. Connectors will stop working by the end of April 2026. To ensure that your Look",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#April_15_2026",
       "live": true
     },
     {
