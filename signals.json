@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09T07:51:41.754315+00:00",
+  "generated_at": "2026-07-09T16:11:07.661875+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 103,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -101,7 +101,7 @@
       "name": "GTM / Tag Gateway — Release notes",
       "cat": "gtm",
       "ok": true,
-      "items": 6,
+      "items": 7,
       "scraped": true
     },
     {
@@ -121,11 +121,71 @@
   ],
   "signals": [
     {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-07-09",
+      "title": "Accelerate Google Ads API Basic Access reviews with brand verification",
+      "summary": "Today, we are launching a pilot process to expedite the Basic Access application review process. If you have a pending Basic Access application for your Google Ads API developer token, then you can complete brand verification for your Googl",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6502080694881879711",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-09",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Zoom's acquisition of Common Room adds AI-powered buyer intelligence to its growing enterprise sales platform. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-09",
+      "title": "You’re using AI to scale the wrong part of GTM",
+      "summary": "Use AI to eliminate busywork and uncover better account insights so your team can spend more time building the relationships that win deals. The post You re using AI to scale the wrong part of GTM appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/youre-using-ai-to-scale-the-wrong-part-of-gtm/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-09",
+      "title": "Why your CAC keeps rising while deals don’t improve",
+      "summary": "The missing link between awareness and trust may explain why higher acquisition costs aren't producing better business outcomes. The post Why your CAC keeps rising while deals don t improve appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-your-cac-keeps-rising-while-deals-dont-improve/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-07-09",
+      "title": "Marketing on LinkedIn: What you need to know",
+      "summary": "Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new creative tools for small and growing businesses. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/linkedin-the-marketers-guide/",
+      "live": true
+    },
+    {
+      "id": "scrape-GTM / Tag Gateway — Release notes-0",
+      "cat": "gtm",
+      "date": "2026-07-09",
+      "title": "Updates to container behavior for unsupported installation paths This…",
+      "summary": "release fixes how Google Tag Manager handles containers loaded using unsupported paths such as /gtag/js or /gtag/destination Previously, these containers degraded to a restricted state where only Google-provided tags and variables were perm",
+      "src": "GTM / Tag Gateway — Release notes",
+      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-07-08",
       "title": "July 08, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature External search with AlloyDB now supports Apache Solr in Preview . You can use the external_search_fdw extension to connect to a Solr cluster and query its data directly from your database. BigQuery Change An ",
+      "summary": "AlloyDB for PostgreSQL Feature External search with AlloyDB now supports Apache Solr in Preview . You can use the external_search_fdw extension to connect to a Solr cluster and query its data directly from your database. Apigee X Security A",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_08_2026",
       "live": true
@@ -141,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-08",
       "title": "The CMS is becoming the AI operating system for brands",
@@ -151,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-08",
       "title": "Getting started with Hermes Agent Desktop",
@@ -161,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-08",
       "title": "Why AI search makes trust your most important visibility signal",
@@ -171,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-08",
       "title": "The future of performance marketing isn’t more vendors. It’s making your stack work harder. by Rokt mParticle",
@@ -198,56 +258,6 @@
       "summary": "App Engine standard environment Java Feature To modernize image processing, migrate from the App Engine Images service to Cloud Run by routing calls to a Cloud Run image transformation service while your app continues to run on App Engine (",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_07_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-0",
-      "cat": "gads",
-      "date": "2026-07-07",
-      "title": "Accelerate Google Ads API Basic Access reviews with brand verification",
-      "summary": "Today, we are launching a pilot process to expedite the Basic Access application review process. If you have a pending Basic Access application for your Google Ads API developer token, then you can complete brand verification for your Googl",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6502080694881879711",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-07-07",
-      "title": "HubSpot reverses course after customers reject data sharing",
-      "summary": "Beyond the backlash lies a bigger issue for marketers: when vendors need customer data for their products, who captures the value? The post HubSpot reverses course after customers reject data sharing appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-hubspot-controversy-asks-why-customers-pay-to-improve-ai-products/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-07",
-      "title": "HubSpot’s May 2026 updates: Breeze gets serious, automation gets smarter, and your data gets cleaner",
-      "summary": "May's HubSpot updates focused on making AI an active participant in your work, not just a tool you prompt. The post HubSpot’s May 2026 updates: Breeze gets serious, automation gets smarter, and your data gets cleaner appeared first on MarTe",
-      "src": "MarTech.org",
-      "url": "https://martech.org/hubspots-may-2026-updates-breeze-gets-serious-automation-gets-smarter-and-your-data-gets-cleaner/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-07",
-      "title": "3 AI agents to improve marketing workflows",
-      "summary": "Pilot AI agents with a shared source of truth, practical KPIs, and human oversight that keeps strategy and quality on track. The post 3 AI agents to improve marketing workflows appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/3-ai-agents-to-improve-marketing-workflows/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-07",
-      "title": "How AI discovery is changing everything marketers measure",
-      "summary": "AI-powered discovery is reducing the value of traffic-based metrics. Here’s what to measure instead to understand marketing performance. The post How AI discovery is changing everything marketers measure appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-ai-discovery-is-changing-everything-marketers-measure/",
       "live": true
     },
     {
@@ -321,7 +331,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-0",
+      "id": "scrape-GTM / Tag Gateway — Release notes-1",
       "cat": "gtm",
       "date": "2026-07-01",
       "title": "Improved Google Tag Manager Overview This release updates the…",
@@ -511,7 +521,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-1",
+      "id": "scrape-GTM / Tag Gateway — Release notes-2",
       "cat": "gtm",
       "date": "2026-06-22",
       "title": "Improved measurement of server-to-server conversions This release recovers…",
@@ -751,7 +761,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-2",
+      "id": "scrape-GTM / Tag Gateway — Release notes-3",
       "cat": "gtm",
       "date": "2026-06-03",
       "title": "Google tag gateway for advertisers using Amazon CloudFront is…",
@@ -761,7 +771,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-3",
+      "id": "scrape-GTM / Tag Gateway — Release notes-4",
       "cat": "gtm",
       "date": "2026-06-01",
       "title": "Google tag gateway for advertisers via Google Cloud Platform…",
@@ -811,7 +821,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-4",
+      "id": "scrape-GTM / Tag Gateway — Release notes-5",
       "cat": "gtm",
       "date": "2026-05-14",
       "title": "Google tag gateway for advertisers integrations with Akamai and…",
@@ -871,7 +881,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-5",
+      "id": "scrape-GTM / Tag Gateway — Release notes-6",
       "cat": "gtm",
       "date": "2026-05-01",
       "title": "Improved conversion tracking and attribution for Google Ads-linked Google…",
