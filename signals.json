@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T15:38:39.872507+00:00",
+  "generated_at": "2026-07-09T07:51:41.754315+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,6 +121,26 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-07-08",
+      "title": "July 08, 2026",
+      "summary": "AlloyDB for PostgreSQL Feature External search with AlloyDB now supports Apache Solr in Preview . You can use the external_search_fdw extension to connect to a Solr cluster and query its data directly from your database. BigQuery Change An ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_08_2026",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-07-08",
+      "title": "Layer Lens v1.2: See Exactly Where Your Email Goes in An Analytics Stack",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/layer-lens-v1-2-see-exactly-where-your-email-goes-in-an-analytics-stack-b614f272cd82?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-07-08",
@@ -171,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-07-07",
       "title": "July 07, 2026",
@@ -241,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-07-06",
       "title": "July 06, 2026",
@@ -261,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-07-01",
       "title": "July 01, 2026",
@@ -311,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-06-30",
       "title": "June 30, 2026",
@@ -321,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-06-29",
       "title": "June 29, 2026",
@@ -351,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-06-28",
       "title": "June 28, 2026",
@@ -381,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-06-25",
       "title": "June 25, 2026",
@@ -421,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-06-24",
       "title": "June 24, 2026",
@@ -451,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-06-23",
       "title": "June 23, 2026",
@@ -471,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-06-22",
       "title": "June 22, 2026",
@@ -501,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
+      "id": "live-Google Cloud — All release notes-20",
       "cat": "general",
       "date": "2026-06-18",
       "title": "June 18, 2026",
@@ -531,16 +551,6 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
-      "date": "2026-06-17",
-      "title": "June 17, 2026",
-      "summary": "Agent Assist Feature Agent Assist offers the following UI module integrations with Agent Assist for Salesforce : Chat Voice with Twilio Flex Voice with Nice CXone Voice with Genesys CX Cloud BigQuery Feature You can enable autonomous embedd",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_17_2026",
-      "live": true
-    },
-    {
       "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-06-17",
@@ -551,7 +561,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-06-15",
       "title": "Building a Firebase Analytics Error Tracking Dashboard",
@@ -581,7 +591,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-06-12",
       "title": "Introducing Layer Lens: Search Your GTM & GA4 Data in Real Time",
@@ -621,7 +631,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-06-10",
       "title": "World Cup Sweepstake Generator",
@@ -711,7 +721,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-06-06",
       "title": "How to Deploy a Firebase Website as an App on Your iPhone",
@@ -771,7 +781,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-05-27",
       "title": "How to Secure Gemini API Keys in Google Cloud & Firebase",
@@ -781,7 +791,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-05-25",
       "title": "Automate Server-Side Google Tag Manager Updates on Cloud Run",
@@ -791,7 +801,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-05-20",
       "title": "Updating Google Tag Manager Server Side Tagging Servers",
@@ -908,16 +918,6 @@
       "summary": "UPDATED 20 March 2026 : Shortly after publishing this article, Google Cloud changed how Load Balancer frontend certificate management works. Instead of directly mapping a frontend to a certificate, GCP now wants you to use a certificate map",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/analytics/ipv6-support-google-cloud-load-balancer-sgtm/",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-02-16",
-      "title": "Deploying Websites Using Firebase",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/deploying-websites-using-firebase-c7c4744a0a22?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
