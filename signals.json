@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T07:50:17.889523+00:00",
+  "generated_at": "2026-07-10T15:41:55.816526+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,6 +121,46 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-10",
+      "title": "The secret to scaling vibe coding isn’t better prompts",
+      "summary": "Turn AI-generated code into maintainable software with a prompt log that improves governance and accountability. The post The secret to scaling vibe coding isn t better prompts appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-secret-to-scaling-vibe-coding-isnt-better-prompts/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-10",
+      "title": "AI adoption hits 90% as CX deployment paths diverge",
+      "summary": "AI adoption is nearly universal in CX, but organizations are divided on architecture, governance, and building customer trust while proving ROI. The post AI adoption hits 90% as CX deployment paths diverge appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-adoption-hits-90-as-cx-deployment-paths-diverge/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-10",
+      "title": "If your martech stack could talk, what would it say?",
+      "summary": "Good martech tools can't deliver value without ownership, governance, and the operational discipline to keep them working together. The post If your martech stack could talk, what would it say? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/if-your-martech-stack-could-talk-what-would-it-say/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-07-10",
+      "title": "Who trains tomorrow’s marketers if AI does the work?",
+      "summary": "As AI takes over entry-level marketing tasks, how do organizations help people develop the judgment needed to be a marketing leaders? The post Who trains tomorrow s marketers if AI does the work? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/who-trains-tomorrows-marketers-if-ai-does-the-work/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-07-09",
@@ -141,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-09",
       "title": "The latest AI-powered martech news and releases",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-09",
       "title": "You’re using AI to scale the wrong part of GTM",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-09",
       "title": "Why your CAC keeps rising while deals don’t improve",
@@ -171,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-09",
       "title": "Marketing on LinkedIn: What you need to know",
@@ -218,46 +258,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/layer-lens-v1-2-see-exactly-where-your-email-goes-in-an-analytics-stack-b614f272cd82?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-07-08",
-      "title": "The CMS is becoming the AI operating system for brands",
-      "summary": "Choosing a CMS now means preparing for AI discovery, governance, personalization, and agents. Learn what to look for in your next platform. The post The CMS is becoming the AI operating system for brands appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-cms-is-becoming-the-ai-operating-system-for-brands/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-08",
-      "title": "Getting started with Hermes Agent Desktop",
-      "summary": "Learn how to install Hermes Desktop, connect a model, create reusable skills, and keep marketing workflow context under your control. The post Getting started with Hermes Agent Desktop appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/getting-started-with-hermes-agent-desktop/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-08",
-      "title": "Why AI search makes trust your most important visibility signal",
-      "summary": "See how AI systems evaluate brands and why authority, reputation, and technical SEO increasingly influence who gets surfaced and recommended. The post Why AI search makes trust your most important visibility signal appeared first on MarTech",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-ai-search-makes-trust-your-most-important-visibility-signal/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-08",
-      "title": "The future of performance marketing isn’t more vendors. It’s making your stack work harder. by Rokt mParticle",
-      "summary": "As performance pressures mount, the future of marketing success lies in transforming your data foundation into a strategic AI-powered engine for growth. The post The future of performance marketing isn’t more vendors. It’s making your stack",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-future-of-performance-marketing-isnt-more-vendors-its-making-your-stack-work-harder/",
       "live": true
     },
     {
