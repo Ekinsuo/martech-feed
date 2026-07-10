@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09T16:11:07.661875+00:00",
+  "generated_at": "2026-07-10T07:50:17.889523+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 104,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,6 +121,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-07-09",
+      "title": "July 09, 2026",
+      "summary": "BigQuery Feature You can use the BigQuery Data Transfer Service to transfer metadata from the following data sources into Knowledge Catalog: PostgreSQL Microsoft SQL Server This feature is in Preview . Feature The Data Agent Kit extension i",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_09_2026",
+      "live": true
+    },
+    {
       "id": "live-Google Ads Developer Blog-0",
       "cat": "gads",
       "date": "2026-07-09",
@@ -171,6 +181,16 @@
       "live": true
     },
     {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-07-09",
+      "title": "Age rating questionnaire now includes social media questions",
+      "summary": "As announced in June , new Time Allowances in iOS 27, iPadOS 27, and macOS 27, or later, give parents more flexible ways to manage the time their kids spend in apps across categories, including Entertainment, Games, and Social Media. To sup",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=tlur8uvi",
+      "live": true
+    },
+    {
       "id": "scrape-GTM / Tag Gateway — Release notes-0",
       "cat": "gtm",
       "date": "2026-07-09",
@@ -181,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-07-08",
       "title": "July 08, 2026",
@@ -251,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-07-07",
       "title": "July 07, 2026",
@@ -261,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-07-07",
       "title": "Hello Developer: July 2026",
@@ -271,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-07-06",
       "title": "July 06, 2026",
@@ -291,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-07-01",
       "title": "July 01, 2026",
@@ -341,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-06-30",
       "title": "June 30, 2026",
@@ -351,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-06-29",
       "title": "June 29, 2026",
@@ -381,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-06-28",
       "title": "June 28, 2026",
@@ -411,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-06-25",
       "title": "June 25, 2026",
@@ -451,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-06-24",
       "title": "June 24, 2026",
@@ -481,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-06-23",
       "title": "June 23, 2026",
@@ -491,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-06-23",
       "title": "Design kits for iOS, iPadOS, and macOS 27 are here",
@@ -501,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-06-22",
       "title": "June 22, 2026",
@@ -531,17 +551,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
-      "date": "2026-06-18",
-      "title": "June 18, 2026",
-      "summary": "API Gateway Change Update to the API Gateway runtime architecture The API Gateway runtime architecture is being updated to improve its integration with Google Cloud Platform and its services. This update does not affect existing API Gateway",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_18_2026",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-06-18",
       "title": "Updated Apple Developer Program License Agreement now available",
@@ -551,7 +561,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-06-18",
       "title": "Changes to iOS in Brazil",
@@ -591,7 +601,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-06-15",
       "title": "New domain for Sign in with Apple and iCloud+ Hide My Email",
@@ -621,7 +631,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-06-11",
       "title": "WWDC26 survey",
@@ -701,23 +711,13 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-06-08",
       "title": "Find out what's new for Apple developers",
       "summary": "Discover the latest advancements on all Apple platforms and create even more unique, intelligent experiences in your apps and games with major enhancements across languages, frameworks, tools, and services. The latest SDKs bring incredible ",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=8rgqj83s",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-06-08",
-      "title": "Introducing Time Allowances",
-      "summary": "New Time Allowances in iOS 27, iPadOS 27, and macOS 27, or later, give parents more flexible ways to manage the time their kids spend in apps across categories, including Entertainment, Games, and Social Media. Time Allowances are developed",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=0d2gpmml",
       "live": true
     },
     {
@@ -741,7 +741,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-3",
+      "id": "live-Looker Release Notes-4",
       "cat": "looker",
       "date": "2026-06-04",
       "title": "June 04, 2026",
@@ -781,7 +781,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-05-27",
       "title": "May 27, 2026",
@@ -841,7 +841,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-05-08",
       "title": "May 08, 2026",
@@ -851,7 +851,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-05-07",
       "title": "May 07, 2026",
@@ -908,16 +908,6 @@
       "summary": "4.2.0 (",
       "src": "sGTM — Release notes",
       "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-04-20",
-      "title": "April 20, 2026",
-      "summary": "Looker (Google Cloud core) and Looker (original) changes Feature Now available in preview, the Looker VS Code Extension brings LookML development to local desktop IDEs like Visual Studio Code, Claude Code, and Cursor. The extension supports",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#April_20_2026",
       "live": true
     },
     {
