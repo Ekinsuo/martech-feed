@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T15:41:55.816526+00:00",
+  "generated_at": "2026-07-11T06:24:56.549268+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 103,
+  "count": 102,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -108,7 +108,7 @@
       "name": "GA4 — What's new",
       "cat": "ga4",
       "ok": true,
-      "items": 7,
+      "items": 6,
       "scraped": true
     },
     {
@@ -161,7 +161,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-07-09",
       "title": "July 09, 2026",
@@ -241,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-07-08",
       "title": "July 08, 2026",
@@ -271,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-07-07",
       "title": "July 07, 2026",
@@ -291,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-07-06",
       "title": "July 06, 2026",
@@ -311,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-07-01",
       "title": "July 01, 2026",
@@ -361,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-06-30",
       "title": "June 30, 2026",
@@ -371,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-06-29",
       "title": "June 29, 2026",
@@ -401,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-06-28",
       "title": "June 28, 2026",
@@ -431,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-06-25",
       "title": "June 25, 2026",
@@ -471,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-06-24",
       "title": "June 24, 2026",
@@ -501,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-06-23",
       "title": "June 23, 2026",
@@ -521,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-06-22",
       "title": "June 22, 2026",
@@ -918,16 +918,6 @@
       "summary": "UPDATED 20 March 2026 : Shortly after publishing this article, Google Cloud changed how Load Balancer frontend certificate management works. Instead of directly mapping a frontend to a certificate, GCP now wants you to use a certificate map",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/analytics/ipv6-support-google-cloud-load-balancer-sgtm/",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-14",
-      "cat": "ga4",
-      "date": "2026-02-10",
-      "title": "Generated insights on the Home page We’ve added Generated…",
-      "summary": "insights to your Home page This feature summarizes the top three data changes since your last visit, including key configuration updates, anomalies, and seasonality trends.This helps you quickly catch up on what’s happening in your property",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
     },
     {
