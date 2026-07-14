@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T06:22:49.831581+00:00",
+  "generated_at": "2026-07-14T15:06:00.637048+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,6 +121,56 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-14",
+      "title": "Open source made MMM cheaper, not easier",
+      "summary": "Free tools have lowered the cost of marketing mix modeling, but data quality and human expertise remain the biggest barriers to success. The post Open source made MMM cheaper, not easier appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/open-source-made-mmm-cheaper-not-easier/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-14",
+      "title": "Digital video enters a new era of competition",
+      "summary": "Digital video now dominates TV ad spending, shifting marketers' focus from channel selection to targeting, measurement, and AI-powered execution. The post Digital video enters a new era of competition appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/digital-video-enters-a-new-era-of-competition/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-14",
+      "title": "Run this AI audit before your next budgeting cycle",
+      "summary": "Evaluate AI adoption across your marketing team with a practical framework that goes beyond industry benchmarks. The post Run this AI audit before your next budgeting cycle appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/run-this-ai-audit-before-your-next-budgeting-cycle/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-07-14",
+      "title": "Why marketing conferences are still worth it",
+      "summary": "Travel, expense, and exhaustion are real. So are the relationships, ideas, and opportunities that keep companies and people coming back. The post Why marketing conferences are still worth it appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-marketing-conferences-are-still-worth-it/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-07-14",
+      "title": "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
+      "summary": "Brussels, 14 July–The EDPB has published its binding decision of 28 May 2026 under Art.65(1)(a) GDPR*. The decision concerns a dispute submitted by the Belgian Data Protection Authority (DPA) about a complaint against Vlaamse Radio-en Telev",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-07-13",
@@ -131,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-13",
       "title": "5 questions to ask AI vendors before you buy anything",
@@ -141,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-13",
       "title": "Transactional, triggered, and promotional emails: What’s the difference?",
@@ -151,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-13",
       "title": "Why CIPA is changing the conversation around digital tracking",
@@ -161,53 +211,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-13",
       "title": "Is Open Semantic Interchange your data silo cure?",
       "summary": "Breaking down marketing database silos requires more than APIs. Here is how the Open Semantic Interchange standardizes metadata. The post Is Open Semantic Interchange your data silo cure? appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/is-open-semantic-interchange-your-data-silo-cure/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-07-10",
-      "title": "The secret to scaling vibe coding isn’t better prompts",
-      "summary": "Turn AI-generated code into maintainable software with a prompt log that improves governance and accountability. The post The secret to scaling vibe coding isn t better prompts appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-secret-to-scaling-vibe-coding-isnt-better-prompts/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-10",
-      "title": "AI adoption hits 90% as CX deployment paths diverge",
-      "summary": "AI adoption is nearly universal in CX, but organizations are divided on architecture, governance, and building customer trust while proving ROI. The post AI adoption hits 90% as CX deployment paths diverge appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-adoption-hits-90-as-cx-deployment-paths-diverge/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-10",
-      "title": "If your martech stack could talk, what would it say?",
-      "summary": "Good martech tools can't deliver value without ownership, governance, and the operational discipline to keep them working together. The post If your martech stack could talk, what would it say? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/if-your-martech-stack-could-talk-what-would-it-say/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-10",
-      "title": "Who trains tomorrow’s marketers if AI does the work?",
-      "summary": "As AI takes over entry-level marketing tasks, how do organizations help people develop the judgment needed to be a marketing leaders? The post Who trains tomorrow s marketers if AI does the work? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/who-trains-tomorrows-marketers-if-ai-does-the-work/",
       "live": true
     },
     {
@@ -271,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-07-08",
       "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
@@ -351,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
+      "id": "live-EDPB — GDPR news-2",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
@@ -471,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-2",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-06-25",
       "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
@@ -501,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-06-24",
       "title": "Supporting GDPR consistency: EDPB launches dedicated form",
@@ -541,7 +551,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-06-22",
       "title": "EDPB gets a new look: discover the new website and brand identity",
@@ -631,7 +641,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-06-12",
       "title": "Coordinated Supervision Committee extends scope to include Eurodac",
@@ -681,7 +691,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
+      "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-06-10",
       "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
@@ -758,16 +768,6 @@
       "summary": "Deployment dates Announcement Looker 26.10 is expected to include the following changes, features, and fixes: Expected Looker (original) deployment start: Sunday, June 7, 2026 Expected Looker (original) final deployment and download availab",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#June_04_2026",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-06-04",
-      "title": "The Italian SA imposed a 40 000 EUR fine on a company for violating the confidentiality of a employee's email account after the end of his employment",
-      "summary": "Background information Date of final decision: 18 December 2025 National case Controller: LTL S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and ",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/the-italian-sa-imposed-a-40-000-eur-fine-on-a-company-for-violating-the-confidentiality-of-a_en",
       "live": true
     },
     {
