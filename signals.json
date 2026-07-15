@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T06:26:43.902387+00:00",
+  "generated_at": "2026-07-15T15:04:34.230134+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 102,
@@ -123,6 +123,46 @@
     {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
+      "date": "2026-07-15",
+      "title": "July 15, 2026",
+      "summary": "Apigee hybrid Announcement v1.15.6 On July 15, 2026 we released an updated version of the Apigee hybrid software, v1.15.6. For information on upgrading, see Upgrading Apigee hybrid to version v1.15.6 . For information on new installations, ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_15_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-15",
+      "title": "Why AI-ready data infrastructure is so hard to build",
+      "summary": "Many companies try to fix everything before using AI. Learn why starting with one important problem works better. The post Why AI-ready data infrastructure is so hard to build appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-ai-ready-data-infrastructure-is-so-hard-to-build/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-15",
+      "title": "Why marketers should measure relationships, not leads",
+      "summary": "Lead volume shows activity. Relationship-led metrics reveal if marketing improves pipeline quality, win rates, and long-term growth. The post Why marketers should measure relationships, not leads appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-marketers-should-measure-relationships-not-leads/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-15",
+      "title": "Creatio takes aim at the enterprise Frankenstack",
+      "summary": "The company's latest platform combines CRM, AI agents, and workflows to replace disconnected point solutions with a single operating environment. The post Creatio takes aim at the enterprise Frankenstack appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/creatio-takes-aim-at-the-enterprise-frankenstack/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
+      "cat": "general",
       "date": "2026-07-14",
       "title": "July 14, 2026",
       "summary": "BigQuery Feature Conversational analytics now supports the AI.AGG function . This function is in Preview . Announcement As part of Gemini in BigQuery , conversational analytics now supports HIPAA compliance. Bigtable Feature AI agents can u",
@@ -131,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-07-14",
       "title": "Open source made MMM cheaper, not easier",
@@ -141,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-14",
       "title": "Digital video enters a new era of competition",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-14",
       "title": "Run this AI audit before your next budgeting cycle",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-14",
       "title": "Why marketing conferences are still worth it",
@@ -181,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-07-13",
       "title": "July 13, 2026",
@@ -191,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-13",
       "title": "5 questions to ask AI vendors before you buy anything",
@@ -201,37 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-13",
-      "title": "Transactional, triggered, and promotional emails: What’s the difference?",
-      "summary": "These three email types may look similar, but they serve different purposes, follow different rules, and drive revenue in different ways. The post Transactional, triggered, and promotional emails: What s the difference? appeared first on Ma",
-      "src": "MarTech.org",
-      "url": "https://martech.org/transactional-triggered-and-promotional-emails-whats-the-difference/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-13",
-      "title": "Why CIPA is changing the conversation around digital tracking",
-      "summary": "CIPA is prompting companies to rethink tracking, consent, and data collection. Here's what marketers need to know and how to respond. The post Why CIPA is changing the conversation around digital tracking appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-cipa-is-changing-the-conversation-around-digital-tracking/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-13",
-      "title": "Is Open Semantic Interchange your data silo cure?",
-      "summary": "Breaking down marketing database silos requires more than APIs. Here is how the Open Semantic Interchange standardizes metadata. The post Is Open Semantic Interchange your data silo cure? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/is-open-semantic-interchange-your-data-silo-cure/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-07-09",
       "title": "July 09, 2026",
@@ -271,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-07-08",
       "title": "July 08, 2026",
@@ -301,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-07-07",
       "title": "July 07, 2026",
@@ -321,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-07-06",
       "title": "July 06, 2026",
@@ -341,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-07-01",
       "title": "July 01, 2026",
@@ -391,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-06-30",
       "title": "June 30, 2026",
@@ -401,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-06-29",
       "title": "June 29, 2026",
@@ -431,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-06-28",
       "title": "June 28, 2026",
@@ -461,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
+      "id": "live-Google Cloud — All release notes-20",
       "cat": "general",
       "date": "2026-06-25",
       "title": "June 25, 2026",
@@ -498,16 +508,6 @@
       "summary": "Brussels, 25 June - The EDPB has published an update of the One-Stop-Shop (OSS) case digest on right to object and right to erasure . This project has been developed in the framework of the of the Support Pool of Experts programme, which ai",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
-      "date": "2026-06-24",
-      "title": "June 24, 2026",
-      "summary": "Apigee X Announcement Apigee Emulator Apigee Emulator v2.0.1 On June 24, 2026, we released Apigee Emulator version 2.0.1. This is a security-only hotfix release on top of v2.0.0 that addresses 10 security vulnerabilities in the Netty networ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_24_2026",
       "live": true
     },
     {
