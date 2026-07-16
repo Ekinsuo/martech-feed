@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T06:29:58.491763+00:00",
+  "generated_at": "2026-07-16T15:15:58.122827+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 102,
@@ -121,7 +121,47 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-16",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "OpenAI’s ad revenue forecast is on pace to miss its 2030 target by 90%, according to Emarketer. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-16",
+      "title": "Don’t confuse ad spend with marketing performance",
+      "summary": "More budget doesn't guarantee better results. The strongest campaigns prove they work before they scale. The post Don t confuse ad spend with marketing performance appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/dont-confuse-ad-spend-with-marketing-performance/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-16",
+      "title": "Your email program is overdue for a portfolio review",
+      "summary": "Stop evaluating email one campaign at a time. Review your email ecosystem to decide which programs still deserve your time, budget, and attention. The post Your email program is overdue for a portfolio review appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-email-program-is-overdue-for-a-portfolio-review/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-07-16",
+      "title": "SaaS can no longer compete on software alone",
+      "summary": "With AI making software features easier to replicate, SaaS must help customers build capabilities that deliver lasting business value. The post SaaS can no longer compete on software alone appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/saas-can-no-longer-compete-on-software-alone/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
@@ -131,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-15",
       "title": "Marketing’s AI challenge goes beyond adoption",
@@ -141,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-15",
       "title": "Why AI-ready data infrastructure is so hard to build",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-15",
       "title": "Why marketers should measure relationships, not leads",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-15",
       "title": "Creatio takes aim at the enterprise Frankenstack",
@@ -171,53 +211,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-07-14",
       "title": "July 14, 2026",
       "summary": "BigQuery Feature Conversational analytics now supports the AI.AGG function . This function is in Preview . Announcement As part of Gemini in BigQuery , conversational analytics now supports HIPAA compliance. Bigtable Feature AI agents can u",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_14_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-07-14",
-      "title": "Open source made MMM cheaper, not easier",
-      "summary": "Free tools have lowered the cost of marketing mix modeling, but data quality and human expertise remain the biggest barriers to success. The post Open source made MMM cheaper, not easier appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/open-source-made-mmm-cheaper-not-easier/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-14",
-      "title": "Digital video enters a new era of competition",
-      "summary": "Digital video now dominates TV ad spending, shifting marketers' focus from channel selection to targeting, measurement, and AI-powered execution. The post Digital video enters a new era of competition appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/digital-video-enters-a-new-era-of-competition/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-14",
-      "title": "Run this AI audit before your next budgeting cycle",
-      "summary": "Evaluate AI adoption across your marketing team with a practical framework that goes beyond industry benchmarks. The post Run this AI audit before your next budgeting cycle appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/run-this-ai-audit-before-your-next-budgeting-cycle/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-14",
-      "title": "Why marketing conferences are still worth it",
-      "summary": "Travel, expense, and exhaustion are real. So are the relationships, ideas, and opportunities that keep companies and people coming back. The post Why marketing conferences are still worth it appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-marketing-conferences-are-still-worth-it/",
       "live": true
     },
     {
@@ -231,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-07-13",
       "title": "July 13, 2026",
@@ -241,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-07-09",
       "title": "July 09, 2026",
@@ -281,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-07-08",
       "title": "July 08, 2026",
@@ -311,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-07-07",
       "title": "July 07, 2026",
@@ -331,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-07-06",
       "title": "July 06, 2026",
@@ -351,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-07-01",
       "title": "July 01, 2026",
@@ -401,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-06-30",
       "title": "June 30, 2026",
@@ -411,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-06-29",
       "title": "June 29, 2026",
@@ -441,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-06-28",
       "title": "June 28, 2026",
@@ -471,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
+      "id": "live-Google Cloud — All release notes-21",
       "cat": "general",
       "date": "2026-06-25",
       "title": "June 25, 2026",
