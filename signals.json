@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T15:04:34.230134+00:00",
+  "generated_at": "2026-07-16T06:29:58.491763+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 102,
@@ -125,13 +125,23 @@
       "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
-      "summary": "Apigee hybrid Announcement v1.15.6 On July 15, 2026 we released an updated version of the Apigee hybrid software, v1.15.6. For information on upgrading, see Upgrading Apigee hybrid to version v1.15.6 . For information on new installations, ",
+      "summary": "Apigee X Announcement On July 15th, 2026, we released an updated version of Apigee (1-18-0-apigee-1). Note: Rollouts of this release began today and may take four or more business days to be completed across all Google Cloud zones. Your ins",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_15_2026",
       "live": true
     },
     {
       "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-15",
+      "title": "Marketing’s AI challenge goes beyond adoption",
+      "summary": "Researchers found marketers value AI's efficiency but remain concerned about organizational readiness and the profession's future. The post Marketing s AI challenge goes beyond adoption appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketings-ai-challenge-goes-beyond-adoption/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
       "cat": "general",
       "date": "2026-07-15",
       "title": "Why AI-ready data infrastructure is so hard to build",
@@ -141,7 +151,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-07-15",
       "title": "Why marketers should measure relationships, not leads",
@@ -151,7 +161,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-07-15",
       "title": "Creatio takes aim at the enterprise Frankenstack",
@@ -171,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-14",
       "title": "Open source made MMM cheaper, not easier",
@@ -181,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-14",
       "title": "Digital video enters a new era of competition",
@@ -191,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-14",
       "title": "Run this AI audit before your next budgeting cycle",
@@ -201,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-14",
       "title": "Why marketing conferences are still worth it",
@@ -225,19 +235,9 @@
       "cat": "general",
       "date": "2026-07-13",
       "title": "July 13, 2026",
-      "summary": "BigQuery Feature Table partitioning, multi-statement transactions, and advanced runtime are now generally available (GA) for Apache Iceberg managed tables . Security A Missing Authorization vulnerability was discovered in repositories in Bi",
+      "summary": "Agent Platform Workbench Feature Agent Platform Workbench image release The following Agent Platform Workbench instances image releases are available: 20260712-2130-rc0 ( workbench-instances-2603 - Debian 12) Installed latest packages from ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_13_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-13",
-      "title": "5 questions to ask AI vendors before you buy anything",
-      "summary": "Cut through AI hype by evaluating business value, data policies, customer proof, and implementation before you invest. The post 5 questions to ask AI vendors before you buy anything appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/5-questions-to-ask-ai-vendors-before-you-buy-anything/",
       "live": true
     },
     {
@@ -335,7 +335,7 @@
       "cat": "general",
       "date": "2026-07-06",
       "title": "July 06, 2026",
-      "summary": "Apigee UI Announcement On July 6, 2026, we released an updated version of the Apigee UI. Feature ParsePayload policy and payload operations matching in the Apigee UI The Apigee UI now supports the new payload operations matching feature: Th",
+      "summary": "Agent Platform Workbench Feature Agent Platform Workbench image release The following Agent Platform Workbench instances image release is available: 20260701-2130-rc0 ( workbench-instances-2603 - Debian 12) Installed latest packages from up",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_06_2026",
       "live": true
@@ -415,7 +415,7 @@
       "cat": "general",
       "date": "2026-06-29",
       "title": "June 29, 2026",
-      "summary": "App Engine flexible environment .NET Feature Support for deploying your existing apps in the flexible environment to Cloud Run using the gcloud beta app migrate-to-run command is in Preview . For more information, see Deploy an App Engine a",
+      "summary": "Agent Platform Workbench Feature Agent Platform Workbench image release The following Agent Platform Workbench instances image release is available: 20260628-2130-rc0 ( workbench-instances-2603 - Debian 12) Installed latest packages from up",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_29_2026",
       "live": true
