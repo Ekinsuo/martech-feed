@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17T06:25:49.457479+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
+  "generated_at": "2026-07-17T14:54:44.975905+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
   "count": 102,
   "sources": [
     {
@@ -13,9 +13,8 @@
     {
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
-      "ok": false,
-      "items": 0,
-      "error": "no items"
+      "ok": true,
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
@@ -124,6 +123,46 @@
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
+      "date": "2026-07-17",
+      "title": "Marketers know what improves paid media ROI, but underinvest in it",
+      "summary": "New research found marketers invest in targeting, AI, and creative while neglecting the post-click experiences they say drive paid media ROI. The post Marketers know what improves paid media ROI, but underinvest in it appeared first on MarT",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketers-know-what-improves-paid-media-roi-but-underinvest-in-it/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-17",
+      "title": "Look past AI to see where martech is going",
+      "summary": "AI dominates the conversation, but stack rationalization, modern measurement, and modular content are quietly reshaping marketing operations. The post Look past AI to see where martech is going appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/look-past-ai-to-see-where-martech-is-going/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-17",
+      "title": "Your content isn’t your competitive advantage anymore",
+      "summary": "Thanks to AI, customers have all the information they want. The challenge now is giving them a reason to trust you. The post Your content isn t your competitive advantage anymore appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-content-isnt-your-competitive-advantage-anymore/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-07-17",
+      "title": "EDPB calls for legal basis for cross-regulatory information sharing",
+      "summary": "Dublin, 17 July– At a high-level meeting in Dublin on 16 and 17 July 2026, the European Data Protection Board (EDPB) called for a clear legal basis for the sharing of information among regulators with different competences. The Board also d",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
       "date": "2026-07-16",
       "title": "Web Push advertising in 2026: Market trends and challenges by RollerAds",
       "summary": "A look at how Web Push advertising is adapting in 2026 through better compliance, stronger traffic quality, and more mature market growth. The post Web Push advertising in 2026: Market trends and challenges appeared first on MarTech .",
@@ -132,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-16",
       "title": "The latest AI-powered martech news and releases",
@@ -142,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-16",
       "title": "Don’t confuse ad spend with marketing performance",
@@ -152,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-16",
       "title": "Your email program is overdue for a portfolio review",
@@ -162,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-16",
       "title": "SaaS can no longer compete on software alone",
@@ -182,36 +221,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-15",
-      "title": "Marketing’s AI challenge goes beyond adoption",
-      "summary": "Researchers found marketers value AI's efficiency but remain concerned about organizational readiness and the profession's future. The post Marketing s AI challenge goes beyond adoption appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketings-ai-challenge-goes-beyond-adoption/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-15",
-      "title": "Why AI-ready data infrastructure is so hard to build",
-      "summary": "Many companies try to fix everything before using AI. Learn why starting with one important problem works better. The post Why AI-ready data infrastructure is so hard to build appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-ai-ready-data-infrastructure-is-so-hard-to-build/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-15",
-      "title": "Why marketers should measure relationships, not leads",
-      "summary": "Lead volume shows activity. Relationship-led metrics reveal if marketing improves pipeline quality, win rates, and long-term growth. The post Why marketers should measure relationships, not leads appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-marketers-should-measure-relationships-not-leads/",
-      "live": true
-    },
-    {
       "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-07-14",
@@ -222,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-07-14",
       "title": "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
@@ -302,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
+      "id": "live-EDPB — GDPR news-2",
       "cat": "privacy",
       "date": "2026-07-08",
       "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
@@ -382,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-2",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
@@ -502,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-06-25",
       "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
@@ -522,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-06-24",
       "title": "Supporting GDPR consistency: EDPB launches dedicated form",
@@ -552,7 +561,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-06-22",
       "title": "EDPB gets a new look: discover the new website and brand identity",
@@ -642,7 +651,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
+      "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-06-12",
       "title": "Coordinated Supervision Committee extends scope to include Eurodac",
@@ -689,16 +698,6 @@
       "summary": "This week, we launched the Field Guide to Grid Lanes at gridlanes.webkit.org.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18098/introducing-the-field-guide-to-grid-lanes/",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-06-10",
-      "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
-      "summary": "Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a common data breach notification template . ",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/edpb-meets-with-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification-template_en",
       "live": true
     },
     {
