@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16T15:15:58.122827+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
+  "generated_at": "2026-07-17T06:25:49.457479+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
   "count": 102,
   "sources": [
     {
@@ -13,8 +13,9 @@
     {
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "items": 0,
+      "error": "no items"
     },
     {
       "name": "BigQuery ML Revision History",
@@ -124,6 +125,16 @@
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-07-16",
+      "title": "Web Push advertising in 2026: Market trends and challenges by RollerAds",
+      "summary": "A look at how Web Push advertising is adapting in 2026 through better compliance, stronger traffic quality, and more mature market growth. The post Web Push advertising in 2026: Market trends and challenges appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/web-push-advertising-in-2026-market-trends-and-challenges/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-16",
       "title": "The latest AI-powered martech news and releases",
       "summary": "OpenAI’s ad revenue forecast is on pace to miss its 2030 target by 90%, according to Emarketer. The post The latest AI-powered martech news and releases appeared first on MarTech .",
       "src": "MarTech.org",
@@ -131,7 +142,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-07-16",
       "title": "Don’t confuse ad spend with marketing performance",
@@ -141,7 +152,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-07-16",
       "title": "Your email program is overdue for a portfolio review",
@@ -151,7 +162,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-16",
       "title": "SaaS can no longer compete on software alone",
@@ -165,13 +176,13 @@
       "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
-      "summary": "Apigee X Announcement On July 15th, 2026, we released an updated version of Apigee (1-18-0-apigee-1). Note: Rollouts of this release began today and may take four or more business days to be completed across all Google Cloud zones. Your ins",
+      "summary": "Apigee UI Fixed Apigee UI Fixed an issue where editing a legacy API Product with a selected API Proxy could cause the Apigee UI to become unresponsive. Apigee X Announcement On July 15th, 2026, we released an updated version of Apigee (1-18",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_15_2026",
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-15",
       "title": "Marketing’s AI challenge goes beyond adoption",
@@ -181,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-15",
       "title": "Why AI-ready data infrastructure is so hard to build",
@@ -191,23 +202,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-15",
       "title": "Why marketers should measure relationships, not leads",
       "summary": "Lead volume shows activity. Relationship-led metrics reveal if marketing improves pipeline quality, win rates, and long-term growth. The post Why marketers should measure relationships, not leads appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/why-marketers-should-measure-relationships-not-leads/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-15",
-      "title": "Creatio takes aim at the enterprise Frankenstack",
-      "summary": "The company's latest platform combines CRM, AI agents, and workflows to replace disconnected point solutions with a single operating environment. The post Creatio takes aim at the enterprise Frankenstack appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/creatio-takes-aim-at-the-enterprise-frankenstack/",
       "live": true
     },
     {
