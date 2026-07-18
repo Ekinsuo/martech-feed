@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17T14:54:44.975905+00:00",
+  "generated_at": "2026-07-18T06:16:46.609953+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 102,
+  "count": 101,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,7 +121,27 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-07-17",
+      "title": "July 17, 2026",
+      "summary": "Batch Feature Instance flexibility is available in Preview . Instance flexibility lets you allow a job to run on multiple machine types that you specify and can optionally rank. Use instance flexibility to improve obtainability —the probabi",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_17_2026",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-17",
+      "title": "Salesforce’s woes underline marketing’s agentic AI problems",
+      "summary": "Slow Agentforce adoption highlights the poor data quality and operational readiness limiting enterprise AI adoption. The post Salesforce s woes underline marketing s agentic AI problems appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/salesforces-woes-underline-marketings-agentic-ai-problems/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
       "cat": "general",
       "date": "2026-07-17",
       "title": "Marketers know what improves paid media ROI, but underinvest in it",
@@ -131,7 +151,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-07-17",
       "title": "Look past AI to see where martech is going",
@@ -141,7 +161,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-07-17",
       "title": "Your content isn’t your competitive advantage anymore",
@@ -161,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-16",
       "title": "Web Push advertising in 2026: Market trends and challenges by RollerAds",
@@ -171,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-16",
       "title": "The latest AI-powered martech news and releases",
@@ -181,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-16",
       "title": "Don’t confuse ad spend with marketing performance",
@@ -191,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-16",
       "title": "Your email program is overdue for a portfolio review",
@@ -201,17 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-16",
-      "title": "SaaS can no longer compete on software alone",
-      "summary": "With AI making software features easier to replicate, SaaS must help customers build capabilities that deliver lasting business value. The post SaaS can no longer compete on software alone appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/saas-can-no-longer-compete-on-software-alone/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
@@ -221,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-07-14",
       "title": "July 14, 2026",
@@ -241,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-07-13",
       "title": "July 13, 2026",
@@ -251,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-07-09",
       "title": "July 09, 2026",
@@ -291,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-07-08",
       "title": "July 08, 2026",
@@ -321,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-07-07",
       "title": "July 07, 2026",
@@ -341,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-07-06",
       "title": "July 06, 2026",
@@ -361,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-07-01",
       "title": "July 01, 2026",
@@ -411,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-06-30",
       "title": "June 30, 2026",
@@ -421,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-06-29",
       "title": "June 29, 2026",
@@ -451,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-06-28",
       "title": "June 28, 2026",
@@ -478,16 +488,6 @@
       "summary": "We are thrilled to share the newest episode of Ads DevCast , the podcast series brought to you by Google’s Ads Developer Relations team. This episode features a conversation with Data Manager PMs Xuezhu Li and Stephen Chang on unlocking dat",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1204663821782618695",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-21",
-      "cat": "general",
-      "date": "2026-06-25",
-      "title": "June 25, 2026",
-      "summary": "Anthos Config Management Change Addressed multiple Common Vulnerabilities and Exposures (CVEs) by updating dependencies. Change Upgraded the Open Telemetry image from 0.150.0 to 0.152.0 to pick up vulnerability fixes. To understand the chan",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_25_2026",
       "live": true
     },
     {
@@ -551,7 +551,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-06-22",
       "title": "June 22, 2026",
@@ -761,7 +761,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-06-04",
       "title": "June 04, 2026",
@@ -791,7 +791,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-05-27",
       "title": "May 27, 2026",
@@ -848,16 +848,6 @@
       "summary": "a dedicated way to measure and analyze traffic originating from popular AI assistants You can now identify how users are discovering your site through chatbots like ChatGPT, Gemini, and Claude via a new AI Assistant channel in your Default ",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-05-08",
-      "title": "May 08, 2026",
-      "summary": "Looker (Google Cloud core) only changes Announcement Dataplex Universal Catalog is now called Knowledge Catalog. The API, client library, CLI, and Identity and Access Management (IAM) names remain unchanged. For more information, see Knowle",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#May_08_2026",
       "live": true
     },
     {
