@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18T14:33:01.639398+00:00",
+  "generated_at": "2026-07-19T06:41:55.434395+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
-  "count": 93,
+  "count": 98,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -19,15 +19,15 @@
     {
       "name": "BigQuery ML Revision History",
       "cat": "bigquery",
-      "ok": false,
-      "items": 0,
-      "error": "no items"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "Looker Release Notes",
       "cat": "looker",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "items": 0,
+      "error": "no items"
     },
     {
       "name": "Looker Studio Release Notes",
@@ -552,16 +552,6 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
-      "cat": "looker",
-      "date": "2026-06-22",
-      "title": "June 22, 2026",
-      "summary": "Deployment dates Announcement Starting June 22, 2026, the following features will begin rolling out as part of Looker 26.10. Feature The Gemini Expression Assistant preview feature has been updated to increase performance. Note: This item w",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#June_22_2026",
-      "live": true
-    },
-    {
       "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-06-22",
@@ -762,16 +752,6 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
-      "cat": "looker",
-      "date": "2026-06-04",
-      "title": "June 04, 2026",
-      "summary": "Deployment dates Announcement Looker 26.10 is expected to include the following changes, features, and fixes: Expected Looker (original) deployment start: Sunday, June 7, 2026 Expected Looker (original) final deployment and download availab",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#June_04_2026",
-      "live": true
-    },
-    {
       "id": "scrape-GTM / Tag Gateway — Release notes-3",
       "cat": "gtm",
       "date": "2026-06-03",
@@ -789,16 +769,6 @@
       "summary": "is now available This release marks the general availability of the Google tag gateway for advertisers integration with Google Cloud Platform (GCP) This integration allows you to leverage Google Cloud Platform’s Global external Application ",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-05-27",
-      "title": "May 27, 2026",
-      "summary": "Deployment dates Announcement The following features will begin rolling out as part of Looker 26.8. Feature The Looker Continuous Integration (CI) feature is now generally available. Feature You can now include Gemini-powered insights in yo",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#May_27_2026",
       "live": true
     },
     {
@@ -1049,6 +1019,86 @@
       "summary": "One of the most popular use cases for server-side Google Tag Manager , often shared on this blog, too, is to split an incoming stream into multiple different endpoints . Since the demise of customTask for Universal Analytics (Rest In Peace!",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/gtmtips/sgtm-fetches-ga4-configuration-automatically/",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-0",
+      "cat": "bigquery",
+      "date": "2023-03-28",
+      "title": "March 28, 2023",
+      "summary": "Feature You can now use the tf_version training option to specify the Tensorflow (TF) version during model training. By default, tf_version is set as 1.15 . If you want to use TF2 with Keras API, you can add tf_version = 2.8.0 when creating",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#March_28_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-1",
+      "cat": "bigquery",
+      "date": "2023-03-20",
+      "title": "March 20, 2023",
+      "summary": "Feature The following AutoML Tables model features are now generally available : Availability in additional regions . CMEK support in available regions except multi-regions US and EU. OPTIMIZATION_OBJECTIVE now accepts two additional option",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#March_20_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-2",
+      "cat": "bigquery",
+      "date": "2023-02-27",
+      "title": "February 27, 2023",
+      "summary": "Changed The multivariate time-series forecasting model ARIMA_PLUS_XREG is now available to on-demand users.",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#February_27_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-3",
+      "cat": "bigquery",
+      "date": "2023-01-19",
+      "title": "January 19, 2023",
+      "summary": "Feature More than 20 BigQuery ML components for Vertex AI Managed Pipelines are now generally available . These components benefit AI/ML users for the following: Building pipelines using the KFP SDK and TFX SDK Linking and tracking metadata",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_19_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-4",
+      "cat": "bigquery",
+      "date": "2023-01-17",
+      "title": "January 17, 2023",
+      "summary": "Feature BigQuery ML support for multivariate time-series forecasting with the ARIMA_PLUS_XREG model is now available in preview . This feature lets you perform time-series forecasting with extra feature columns. For more information, see th",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_17_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-5",
+      "cat": "bigquery",
+      "date": "2023-01-04",
+      "title": "January 04, 2023",
+      "summary": "Feature BigQuery ML support for image analytics with vision models is available in preview . Customers can import vision models to perform inference modeling with images to detect objects, perform optical character recognition (OCR), and mo",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_04_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-6",
+      "cat": "bigquery",
+      "date": "2023-01-03",
+      "title": "January 03, 2023",
+      "summary": "Feature BigQuery ML integration with Vertex AI Model Registry is now generally available . With this integration, you can now use the following capabilities: Register and monitor BigQuery ML models with Vertex AI Model Registry Deploy BigQu",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_03_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-7",
+      "cat": "bigquery",
+      "date": "2022-09-15",
+      "title": "September 15, 2022",
+      "summary": "Changed BigQuery ML is now available in the Madrid (europe-southwest1) , Milan (europe-west8) , and Paris (europe-southwest1) regions. The Madrid and Paris regions have the lowest carbon impact .",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#September_15_2022",
       "live": true
     }
   ]
