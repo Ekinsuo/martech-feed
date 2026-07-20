@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19T14:35:59.336749+00:00",
-  "ok_sources": 13,
-  "fail_sources": 5,
-  "count": 90,
+  "generated_at": "2026-07-20T07:27:22.184544+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 101,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -13,8 +13,9 @@
     {
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "items": 0,
+      "error": "no items"
     },
     {
       "name": "BigQuery ML Revision History",
@@ -25,9 +26,8 @@
     {
       "name": "Looker Release Notes",
       "cat": "looker",
-      "ok": false,
-      "items": 0,
-      "error": "no items"
+      "ok": true,
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -89,9 +89,8 @@
     {
       "name": "Apple Developer News",
       "cat": "apple",
-      "ok": false,
-      "items": 0,
-      "error": "no items"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "EDPB — GDPR news",
@@ -123,7 +122,7 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-07-17",
       "title": "July 17, 2026",
@@ -223,7 +222,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
@@ -233,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-07-14",
       "title": "July 14, 2026",
@@ -253,7 +252,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-07-13",
       "title": "July 13, 2026",
@@ -263,7 +262,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-07-09",
       "title": "July 09, 2026",
@@ -283,6 +282,16 @@
       "live": true
     },
     {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-07-09",
+      "title": "Age rating questionnaire now includes social media questions",
+      "summary": "As announced in June , new Time Allowances in iOS 27, iPadOS 27, and macOS 27, or later, give parents more flexible ways to manage the time their kids spend in apps across categories, including Entertainment, Games, and Social Media. To sup",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=tlur8uvi",
+      "live": true
+    },
+    {
       "id": "scrape-GTM / Tag Gateway — Release notes-0",
       "cat": "gtm",
       "date": "2026-07-09",
@@ -293,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-07-08",
       "title": "July 08, 2026",
@@ -323,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-07-07",
       "title": "July 07, 2026",
@@ -333,7 +342,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Apple Developer News-1",
+      "cat": "apple",
+      "date": "2026-07-07",
+      "title": "Hello Developer: July 2026",
+      "summary": "In this edition: Try an all-new search tool on the Apple Developer website. Download design kits for Figma and Sketch. Explore the biggest updates from WWDC26 in new activities around the world and online. Read about Apple Design Award winn",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=grx7lcto",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-07-06",
       "title": "July 06, 2026",
@@ -353,7 +372,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-07-01",
       "title": "July 01, 2026",
@@ -403,7 +422,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-06-30",
       "title": "June 30, 2026",
@@ -413,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
+      "id": "live-Google Cloud — All release notes-20",
       "cat": "general",
       "date": "2026-06-29",
       "title": "June 29, 2026",
@@ -443,7 +462,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
+      "id": "live-Google Cloud — All release notes-21",
       "cat": "general",
       "date": "2026-06-28",
       "title": "June 28, 2026",
@@ -523,6 +542,26 @@
       "live": true
     },
     {
+      "id": "live-Apple Developer News-2",
+      "cat": "apple",
+      "date": "2026-06-23",
+      "title": "Design kits for iOS, iPadOS, and macOS 27 are here",
+      "summary": "Apple design kits for Figma and Sketch are now available for iOS, iPadOS, and macOS 27. These include: Updates to Liquid Glass Expanded component and state support Naming changes to better align with code Improved resizing The addition of D",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=e2lxw9l1",
+      "live": true
+    },
+    {
+      "id": "live-Looker Release Notes-5",
+      "cat": "looker",
+      "date": "2026-06-22",
+      "title": "June 22, 2026",
+      "summary": "Deployment dates Announcement Starting June 22, 2026, the following features will begin rolling out as part of Looker 26.10. Feature The Gemini Expression Assistant preview feature has been updated to increase performance. Note: This item w",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#June_22_2026",
+      "live": true
+    },
+    {
       "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-06-22",
@@ -540,6 +579,26 @@
       "summary": "that were previously undercounted in server-to-server setups due to a lack of browser cookie context Server-side data is intelligently joined with parallel browser signals, such as cookies, when a GCLID is present so that Floodlight can mor",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-3",
+      "cat": "apple",
+      "date": "2026-06-18",
+      "title": "Updated Apple Developer Program License Agreement now available",
+      "summary": "Attachment 12 of the Apple Developer Program License Agreement has been revised to specify terms for iOS apps in Brazil, including alternative distribution, alternative payments and out-of-app offers, and the Core Technology Commission. Ple",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=umq9wxmm",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-4",
+      "cat": "apple",
+      "date": "2026-06-18",
+      "title": "Changes to iOS in Brazil",
+      "summary": "As part of a recent agreement with Brazil’s competition regulator CADE (Conselho Administrativo de Defesa Econômica), Apple is introducing changes to iOS that create new options for developers' apps in Brazil. Beginning with iOS 26.5, devel",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=dhwadr2x",
       "live": true
     },
     {
@@ -573,6 +632,16 @@
       "live": true
     },
     {
+      "id": "live-Apple Developer News-5",
+      "cat": "apple",
+      "date": "2026-06-15",
+      "title": "New domain for Sign in with Apple and iCloud+ Hide My Email",
+      "summary": "Later this summer, Apple will unify the email domains used by Sign in with Apple and iCloud+ Hide My Email under a single, shared domain: private.icloud.com . New addresses generated for both features will be issued on the new domain. For e",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=sus6t6ab",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-06-12",
@@ -590,6 +659,16 @@
       "summary": "Brussels, 12 June – As of today, coordinated supervision of the European Union’s asylum and migration database (Eurodac) will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/coordinated-supervision-committee-extends-scope-to-include-eurodac_en",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-6",
+      "cat": "apple",
+      "date": "2026-06-11",
+      "title": "WWDC26 survey",
+      "summary": "Share your thoughts on this year’s conference. Take the survey",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=15wishue",
       "live": true
     },
     {
@@ -653,6 +732,16 @@
       "live": true
     },
     {
+      "id": "live-Apple Developer News-7",
+      "cat": "apple",
+      "date": "2026-06-08",
+      "title": "Find out what's new for Apple developers",
+      "summary": "Discover the latest advancements on all Apple platforms and create even more unique, intelligent experiences in your apps and games with major enhancements across languages, frameworks, tools, and services. The latest SDKs bring incredible ",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=8rgqj83s",
+      "live": true
+    },
+    {
       "id": "scrape-GA4 — What's new-9",
       "cat": "ga4",
       "date": "2026-06-08",
@@ -673,6 +762,16 @@
       "live": true
     },
     {
+      "id": "live-Looker Release Notes-6",
+      "cat": "looker",
+      "date": "2026-06-04",
+      "title": "June 04, 2026",
+      "summary": "Deployment dates Announcement Looker 26.10 is expected to include the following changes, features, and fixes: Expected Looker (original) deployment start: Sunday, June 7, 2026 Expected Looker (original) final deployment and download availab",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#June_04_2026",
+      "live": true
+    },
+    {
       "id": "scrape-GTM / Tag Gateway — Release notes-3",
       "cat": "gtm",
       "date": "2026-06-03",
@@ -690,6 +789,16 @@
       "summary": "is now available This release marks the general availability of the Google tag gateway for advertisers integration with Google Cloud Platform (GCP) This integration allows you to leverage Google Cloud Platform’s Global external Application ",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
+      "live": true
+    },
+    {
+      "id": "live-Looker Release Notes-7",
+      "cat": "looker",
+      "date": "2026-05-27",
+      "title": "May 27, 2026",
+      "summary": "Deployment dates Announcement The following features will begin rolling out as part of Looker 26.8. Feature The Looker Continuous Integration (CI) feature is now generally available. Feature You can now include Gemini-powered insights in yo",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#May_27_2026",
       "live": true
     },
     {
