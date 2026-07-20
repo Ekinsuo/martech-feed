@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-20T07:27:22.184544+00:00",
+  "generated_at": "2026-07-20T15:24:03.541395+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
-  "count": 101,
+  "count": 99,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
       "cat": "general",
-      "ok": true,
-      "items": 12
+      "ok": false,
+      "items": 0,
+      "error": "no items"
     },
     {
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
-      "ok": false,
-      "items": 0,
-      "error": "no items"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "BigQuery ML Revision History",
@@ -27,7 +27,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 3
+      "items": 5
     },
     {
       "name": "Looker Studio Release Notes",
@@ -122,17 +122,57 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-MarTech.org-0",
       "cat": "general",
-      "date": "2026-07-17",
-      "title": "July 17, 2026",
-      "summary": "Batch Feature Instance flexibility is available in Preview . Instance flexibility lets you allow a job to run on multiple machine types that you specify and can optionally rank. Use instance flexibility to improve obtainability —the probabi",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_17_2026",
+      "date": "2026-07-20",
+      "title": "Before you refresh that page, run this test",
+      "summary": "Not every traffic drop is a content problem. Learn how to separate ranking losses, AI click theft, shifting intent, and declining demand. The post Before you refresh that page, run this test appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/before-you-refresh-that-page-run-this-test/",
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-20",
+      "title": "Branded search is becoming a less reliable proxy for brand demand",
+      "summary": "Consumers aren't searching for your brand less. They're making decisions before they ever perform a branded search. The post Branded search is becoming a less reliable proxy for brand demand appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/branded-search-is-becoming-a-less-reliable-proxy-for-brand-demand/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-20",
+      "title": "How to run a CTV incrementality test (and why most fail)",
+      "summary": "Build reliable control groups, choose meaningful success metrics, and generate results you can defend in budget conversations. The post How to run a CTV incrementality test (and why most fail) appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-run-a-ctv-incrementality-test-and-why-most-fail/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-07-20",
+      "title": "Unlocking enterprise AI through unified workflows",
+      "summary": "Isolated artificial intelligence assistants are costing your operations team time. Here is how workflow integration transforms raw AI into actual enterprise value. The post Unlocking enterprise AI through unified workflows appeared first on",
+      "src": "MarTech.org",
+      "url": "https://martech.org/unlocking-enterprise-ai-through-unified-workflows/",
+      "live": true
+    },
+    {
+      "id": "live-Looker Release Notes-0",
+      "cat": "looker",
+      "date": "2026-07-17",
+      "title": "July 17, 2026",
+      "summary": "Looker (Google Cloud core) and Looker (original) changes Feature Starting in Looker 26.8, Looker supports Java OpenJDK version 21. Looker-hosted instances have been upgraded to OpenJDK 21. Customer-hosted instances should upgrade to OpenJDK",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_17_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-17",
       "title": "Salesforce’s woes underline marketing’s agentic AI problems",
@@ -142,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-17",
       "title": "Marketers know what improves paid media ROI, but underinvest in it",
@@ -152,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-17",
       "title": "Look past AI to see where martech is going",
@@ -162,7 +202,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-17",
       "title": "Your content isn’t your competitive advantage anymore",
@@ -182,63 +222,23 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-07-16",
-      "title": "Web Push advertising in 2026: Market trends and challenges by RollerAds",
-      "summary": "A look at how Web Push advertising is adapting in 2026 through better compliance, stronger traffic quality, and more mature market growth. The post Web Push advertising in 2026: Market trends and challenges appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/web-push-advertising-in-2026-market-trends-and-challenges/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-16",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "OpenAI’s ad revenue forecast is on pace to miss its 2030 target by 90%, according to Emarketer. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-16",
-      "title": "Don’t confuse ad spend with marketing performance",
-      "summary": "More budget doesn't guarantee better results. The strongest campaigns prove they work before they scale. The post Don t confuse ad spend with marketing performance appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/dont-confuse-ad-spend-with-marketing-performance/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-16",
-      "title": "Your email program is overdue for a portfolio review",
-      "summary": "Stop evaluating email one campaign at a time. Review your email ecosystem to decide which programs still deserve your time, budget, and attention. The post Your email program is overdue for a portfolio review appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-email-program-is-overdue-for-a-portfolio-review/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-4",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-0",
+      "cat": "bigquery",
       "date": "2026-07-15",
       "title": "July 15, 2026",
-      "summary": "Apigee UI Fixed Apigee UI Fixed an issue where editing a legacy API Product with a selected API Proxy could cause the Apigee UI to become unresponsive. Apigee X Announcement On July 15th, 2026, we released an updated version of Apigee (1-18",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_15_2026",
+      "summary": "Feature BigQuery supports data governance tags , which let you enforce column-level security and data masking. Data governance tags are a type of Resource Manager tag that you can attach to sensitive columns and use in BigQuery data policie",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_15_2026",
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-1",
+      "cat": "bigquery",
       "date": "2026-07-14",
       "title": "July 14, 2026",
-      "summary": "BigQuery Feature Conversational analytics now supports the AI.AGG function . This function is in Preview . Announcement As part of Gemini in BigQuery , conversational analytics now supports HIPAA compliance. Bigtable Feature AI agents can u",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_14_2026",
+      "summary": "Feature Conversational analytics now supports the AI.AGG function . This function is in Preview . Announcement As part of Gemini in BigQuery , conversational analytics now supports HIPAA compliance.",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_14_2026",
       "live": true
     },
     {
@@ -252,23 +252,23 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-2",
+      "cat": "bigquery",
       "date": "2026-07-13",
       "title": "July 13, 2026",
-      "summary": "Agent Platform Workbench Feature Agent Platform Workbench image release The following Agent Platform Workbench instances image releases are available: 20260712-2130-rc0 ( workbench-instances-2603 - Debian 12) Installed latest packages from ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_13_2026",
+      "summary": "Feature Table partitioning, multi-statement transactions, and advanced runtime are now generally available (GA) for Apache Iceberg managed tables . Security A Missing Authorization vulnerability was discovered in repositories in BigQuery, D",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_13_2026",
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-3",
+      "cat": "bigquery",
       "date": "2026-07-09",
       "title": "July 09, 2026",
-      "summary": "BigQuery Feature You can use the BigQuery Data Transfer Service to transfer metadata from the following data sources into Knowledge Catalog: PostgreSQL Microsoft SQL Server This feature is in Preview . Feature The Data Agent Kit extension i",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_09_2026",
+      "summary": "Feature You can use the BigQuery Data Transfer Service to transfer metadata from the following data sources into Knowledge Catalog: PostgreSQL Microsoft SQL Server This feature is in Preview . Feature The Data Agent Kit extension is an exte",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_09_2026",
       "live": true
     },
     {
@@ -302,13 +302,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-4",
+      "cat": "bigquery",
       "date": "2026-07-08",
       "title": "July 08, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature External search with AlloyDB now supports Apache Solr in Preview . You can use the external_search_fdw extension to connect to a Solr cluster and query its data directly from your database. Apigee X Security A",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_08_2026",
+      "summary": "Change An updated version of the Simba ODBC driver for BigQuery is now available. Feature You can now perform multi-level aggregation in GoogleSQL, which lets you use an aggregate function as an argument to another aggregate function. This ",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_08_2026",
       "live": true
     },
     {
@@ -332,13 +332,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
-      "cat": "general",
+      "id": "live-Looker Release Notes-3",
+      "cat": "looker",
       "date": "2026-07-07",
       "title": "July 07, 2026",
-      "summary": "App Engine standard environment Java Feature To modernize image processing, migrate from the App Engine Images service to Cloud Run by routing calls to a Cloud Run image transformation service while your app continues to run on App Engine (",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_07_2026",
+      "summary": "Looker (Google Cloud core) only changes Feature When you delete a Looker (Google Cloud core) instance, it is now moved to the trash for seven days before being permanently deleted. During this period, you can restore the instance to its pre",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_07_2026",
       "live": true
     },
     {
@@ -352,13 +352,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-5",
+      "cat": "bigquery",
       "date": "2026-07-06",
       "title": "July 06, 2026",
-      "summary": "Agent Platform Workbench Feature Agent Platform Workbench image release The following Agent Platform Workbench instances image release is available: 20260701-2130-rc0 ( workbench-instances-2603 - Debian 12) Installed latest packages from up",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_06_2026",
+      "summary": "Change For data transfers from Facebook Ads , support for the AdInsightsMMM report has been temporarily disabled. Existing data transfers from Facebook Ads that include the AdInsightsMMM report will continue to run, but the transfer won't i",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_06_2026",
       "live": true
     },
     {
@@ -372,13 +372,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-6",
+      "cat": "bigquery",
       "date": "2026-07-01",
       "title": "July 01, 2026",
-      "summary": "BigQuery Feature You can now use pre-trained TimesFM models in BigQuery ML directly from Connected Sheets . These models let you create forecasts and detect anomalies in your data by using the AI.FORECAST and AI.DETECT_ANOMALIES functions. ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_01_2026",
+      "summary": "Feature You can now use pre-trained TimesFM models in BigQuery ML directly from Connected Sheets . These models let you create forecasts and detect anomalies in your data by using the AI.FORECAST and AI.DETECT_ANOMALIES functions. This feat",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_01_2026",
       "live": true
     },
     {
@@ -422,23 +422,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-7",
+      "cat": "bigquery",
       "date": "2026-06-30",
       "title": "June 30, 2026",
-      "summary": "Agent Platform Workbench Feature Python 3.12 base containers for Agent Platform Workbench custom containers You can build custom containers for Agent Platform Workbench instances using Python 3.12 base containers, in addition to the default",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_30_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
-      "date": "2026-06-29",
-      "title": "June 29, 2026",
-      "summary": "Agent Platform Workbench Feature Agent Platform Workbench image release The following Agent Platform Workbench instances image release is available: 20260628-2130-rc0 ( workbench-instances-2603 - Debian 12) Installed latest packages from up",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_29_2026",
+      "summary": "Feature You can specify an optional principal property on BigQuery reservation assignments to route queries to specific reservations based on the identity of the user, service account, or third-party identity executing the job. Change In th",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_30_2026",
       "live": true
     },
     {
@@ -459,16 +449,6 @@
       "summary": "Today we’re announcing the deprecation of Structured Data Files v9 , v9.1 , and v9.2 . These three versions will all sunset on January 28, 2027 . Migrate to v10 or higher before the sunset date to avoid any interruption of service. Follow t",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1623995231499628635",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-21",
-      "cat": "general",
-      "date": "2026-06-28",
-      "title": "June 28, 2026",
-      "summary": "Google SecOps Change Google SecOps has updated the list of supported default parsers . Parsers are updated gradually, so it might take one to four days before you see the changes reflected in your region. The following supported default par",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_28_2026",
       "live": true
     },
     {
