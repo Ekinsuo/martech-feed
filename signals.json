@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-20T15:24:03.541395+00:00",
+  "generated_at": "2026-07-21T06:40:01.048939+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
-  "count": 99,
+  "count": 93,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "no items"
+      "ok": true,
+      "items": 12
     },
     {
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 8
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
       "cat": "bigquery",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "no items"
     },
     {
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 5
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -122,6 +122,26 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-07-20",
+      "title": "July 20, 2026",
+      "summary": "Batch Breaking Starting on the following dates, you can no longer create a job that locates its Compute Engine resources outside of the job's location. For projects that have successfully submitted before July 31, 2026 at least one job that",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_20_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-07-20",
+      "title": "Enabling Local Inventory Ads by Default for Shopping Campaigns starting on August 31, 2026",
+      "summary": "What is changing? On August 31, 2026, we are aligning Shopping campaigns with Performance Max for Retail campaigns by enabling Local Inventory Ads (LIA) by default. Previously, developers and advertisers had to explicitly set the enable_loc",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/5341021206723470669",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-07-20",
@@ -162,13 +182,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-0",
-      "cat": "looker",
+      "id": "live-Google Cloud — All release notes-3",
+      "cat": "general",
       "date": "2026-07-17",
       "title": "July 17, 2026",
-      "summary": "Looker (Google Cloud core) and Looker (original) changes Feature Starting in Looker 26.8, Looker supports Java OpenJDK version 21. Looker-hosted instances have been upgraded to OpenJDK 21. Customer-hosted instances should upgrade to OpenJDK",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_17_2026",
+      "summary": "Batch Feature Instance flexibility is available in Preview . Instance flexibility lets you allow a job to run on multiple machine types that you specify and can optionally rank. Use instance flexibility to improve obtainability —the probabi",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_17_2026",
       "live": true
     },
     {
@@ -222,23 +242,23 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-0",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-5",
+      "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
-      "summary": "Feature BigQuery supports data governance tags , which let you enforce column-level security and data masking. Data governance tags are a type of Resource Manager tag that you can attach to sensitive columns and use in BigQuery data policie",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_15_2026",
+      "summary": "Apigee UI Fixed Apigee UI Fixed an issue where editing a legacy API Product with a selected API Proxy could cause the Apigee UI to become unresponsive. Apigee X Announcement On July 15th, 2026, we released an updated version of Apigee (1-18",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_15_2026",
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-1",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-6",
+      "cat": "general",
       "date": "2026-07-14",
       "title": "July 14, 2026",
-      "summary": "Feature Conversational analytics now supports the AI.AGG function . This function is in Preview . Announcement As part of Gemini in BigQuery , conversational analytics now supports HIPAA compliance.",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_14_2026",
+      "summary": "BigQuery Feature Conversational analytics now supports the AI.AGG function . This function is in Preview . Announcement As part of Gemini in BigQuery , conversational analytics now supports HIPAA compliance. Bigtable Feature AI agents can u",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_14_2026",
       "live": true
     },
     {
@@ -252,27 +272,27 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-2",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-7",
+      "cat": "general",
       "date": "2026-07-13",
       "title": "July 13, 2026",
-      "summary": "Feature Table partitioning, multi-statement transactions, and advanced runtime are now generally available (GA) for Apache Iceberg managed tables . Security A Missing Authorization vulnerability was discovered in repositories in BigQuery, D",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_13_2026",
+      "summary": "Agent Platform Workbench Feature Agent Platform Workbench image release The following Agent Platform Workbench instances image releases are available: 20260712-2130-rc0 ( workbench-instances-2603 - Debian 12) Installed latest packages from ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_13_2026",
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-3",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-11",
+      "cat": "general",
       "date": "2026-07-09",
       "title": "July 09, 2026",
-      "summary": "Feature You can use the BigQuery Data Transfer Service to transfer metadata from the following data sources into Knowledge Catalog: PostgreSQL Microsoft SQL Server This feature is in Preview . Feature The Data Agent Kit extension is an exte",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_09_2026",
+      "summary": "BigQuery Feature You can use the BigQuery Data Transfer Service to transfer metadata from the following data sources into Knowledge Catalog: PostgreSQL Microsoft SQL Server This feature is in Preview . Feature The Data Agent Kit extension i",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_09_2026",
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-07-09",
       "title": "Accelerate Google Ads API Basic Access reviews with brand verification",
@@ -302,13 +322,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-4",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-12",
+      "cat": "general",
       "date": "2026-07-08",
       "title": "July 08, 2026",
-      "summary": "Change An updated version of the Simba ODBC driver for BigQuery is now available. Feature You can now perform multi-level aggregation in GoogleSQL, which lets you use an aggregate function as an argument to another aggregate function. This ",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_08_2026",
+      "summary": "AlloyDB for PostgreSQL Feature External search with AlloyDB now supports Apache Solr in Preview . You can use the external_search_fdw extension to connect to a Solr cluster and query its data directly from your database. Apigee X Security A",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_08_2026",
       "live": true
     },
     {
@@ -332,13 +352,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-3",
-      "cat": "looker",
+      "id": "live-Google Cloud — All release notes-13",
+      "cat": "general",
       "date": "2026-07-07",
       "title": "July 07, 2026",
-      "summary": "Looker (Google Cloud core) only changes Feature When you delete a Looker (Google Cloud core) instance, it is now moved to the trash for seven days before being permanently deleted. During this period, you can restore the instance to its pre",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_07_2026",
+      "summary": "App Engine standard environment Java Feature To modernize image processing, migrate from the App Engine Images service to Cloud Run by routing calls to a Cloud Run image transformation service while your app continues to run on App Engine (",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_07_2026",
       "live": true
     },
     {
@@ -352,17 +372,17 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-5",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-14",
+      "cat": "general",
       "date": "2026-07-06",
       "title": "July 06, 2026",
-      "summary": "Change For data transfers from Facebook Ads , support for the AdInsightsMMM report has been temporarily disabled. Existing data transfers from Facebook Ads that include the AdInsightsMMM report will continue to run, but the transfer won't i",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_06_2026",
+      "summary": "Agent Platform Workbench Feature Agent Platform Workbench image release The following Agent Platform Workbench instances image release is available: 20260701-2130-rc0 ( workbench-instances-2603 - Debian 12) Installed latest packages from up",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_06_2026",
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-07-06",
       "title": "Announcing Google Mobile Ads Next-Gen SDK as the preferred SDK for Android",
@@ -372,13 +392,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-6",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-19",
+      "cat": "general",
       "date": "2026-07-01",
       "title": "July 01, 2026",
-      "summary": "Feature You can now use pre-trained TimesFM models in BigQuery ML directly from Connected Sheets . These models let you create forecasts and detect anomalies in your data by using the AI.FORECAST and AI.DETECT_ANOMALIES functions. This feat",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_01_2026",
+      "summary": "BigQuery Feature You can now use pre-trained TimesFM models in BigQuery ML directly from Connected Sheets . These models let you create forecasts and detect anomalies in your data by using the AI.FORECAST and AI.DETECT_ANOMALIES functions. ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_01_2026",
       "live": true
     },
     {
@@ -386,7 +406,7 @@
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "Introducing the Safari MCP server for web developers",
-      "summary": "In Safari Technology Preview 247, we’re introducing the Safari MCP server — a Model Context Protocol server for web developers that makes your web development and debugging workflow faster and more powerful.",
+      "summary": "In Safari 27 and Safari Technology Preview 247, we’re introducing the Safari MCP server — a Model Context Protocol server for web developers that makes your web development and debugging workflow faster and more powerful.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
       "live": true
@@ -422,13 +442,23 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-20",
+      "cat": "general",
       "date": "2026-06-30",
       "title": "June 30, 2026",
-      "summary": "Feature You can specify an optional principal property on BigQuery reservation assignments to route queries to specific reservations based on the identity of the user, service account, or third-party identity executing the job. Change In th",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_30_2026",
+      "summary": "Agent Platform Workbench Feature Python 3.12 base containers for Agent Platform Workbench custom containers You can build custom containers for Agent Platform Workbench instances using Python 3.12 base containers, in addition to the default",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_30_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-21",
+      "cat": "general",
+      "date": "2026-06-29",
+      "title": "June 29, 2026",
+      "summary": "Agent Platform Workbench Feature Agent Platform Workbench image release The following Agent Platform Workbench instances image release is available: 20260628-2130-rc0 ( workbench-instances-2603 - Debian 12) Installed latest packages from up",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#June_29_2026",
       "live": true
     },
     {
@@ -442,7 +472,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-06-29",
       "title": "Deprecating Structured Data Files v9, v9.1, and v9.2",
@@ -452,7 +482,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-06-26",
       "title": "July 2026 changes for Display & Video 360 API and Structured Data Files",
@@ -462,7 +492,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-06-26",
       "title": "Unlocking Data Strength with Data Manager API: Ads DevCast E7",
@@ -472,7 +502,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-06-25",
       "title": "Google Ads API v21 sunset reminder",
@@ -482,7 +512,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-06-25",
       "title": "Multi-party approvals in the Google Ads API",
@@ -499,16 +529,6 @@
       "summary": "Brussels, 25 June - The EDPB has published an update of the One-Stop-Shop (OSS) case digest on right to object and right to erasure . This project has been developed in the framework of the of the Support Pool of Experts programme, which ai",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-06-24",
-      "title": "Announcing v24.2 of the Google Ads API",
-      "summary": "Today, we’re announcing the v24.2 release of the Google Ads API . This minor release brings critical security updates, new AI transparency features, reporting enhancements, and powerful planning insights. To use these new capabilities, you ",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4981407651934041130",
       "live": true
     },
     {
@@ -1029,86 +1049,6 @@
       "summary": "One of the most popular use cases for server-side Google Tag Manager , often shared on this blog, too, is to split an incoming stream into multiple different endpoints . Since the demise of customTask for Universal Analytics (Rest In Peace!",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/gtmtips/sgtm-fetches-ga4-configuration-automatically/",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery ML Revision History-0",
-      "cat": "bigquery",
-      "date": "2023-03-28",
-      "title": "March 28, 2023",
-      "summary": "Feature You can now use the tf_version training option to specify the Tensorflow (TF) version during model training. By default, tf_version is set as 1.15 . If you want to use TF2 with Keras API, you can add tf_version = 2.8.0 when creating",
-      "src": "BigQuery ML Revision History",
-      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#March_28_2023",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery ML Revision History-1",
-      "cat": "bigquery",
-      "date": "2023-03-20",
-      "title": "March 20, 2023",
-      "summary": "Feature The following AutoML Tables model features are now generally available : Availability in additional regions . CMEK support in available regions except multi-regions US and EU. OPTIMIZATION_OBJECTIVE now accepts two additional option",
-      "src": "BigQuery ML Revision History",
-      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#March_20_2023",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery ML Revision History-2",
-      "cat": "bigquery",
-      "date": "2023-02-27",
-      "title": "February 27, 2023",
-      "summary": "Changed The multivariate time-series forecasting model ARIMA_PLUS_XREG is now available to on-demand users.",
-      "src": "BigQuery ML Revision History",
-      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#February_27_2023",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery ML Revision History-3",
-      "cat": "bigquery",
-      "date": "2023-01-19",
-      "title": "January 19, 2023",
-      "summary": "Feature More than 20 BigQuery ML components for Vertex AI Managed Pipelines are now generally available . These components benefit AI/ML users for the following: Building pipelines using the KFP SDK and TFX SDK Linking and tracking metadata",
-      "src": "BigQuery ML Revision History",
-      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_19_2023",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery ML Revision History-4",
-      "cat": "bigquery",
-      "date": "2023-01-17",
-      "title": "January 17, 2023",
-      "summary": "Feature BigQuery ML support for multivariate time-series forecasting with the ARIMA_PLUS_XREG model is now available in preview . This feature lets you perform time-series forecasting with extra feature columns. For more information, see th",
-      "src": "BigQuery ML Revision History",
-      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_17_2023",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery ML Revision History-5",
-      "cat": "bigquery",
-      "date": "2023-01-04",
-      "title": "January 04, 2023",
-      "summary": "Feature BigQuery ML support for image analytics with vision models is available in preview . Customers can import vision models to perform inference modeling with images to detect objects, perform optical character recognition (OCR), and mo",
-      "src": "BigQuery ML Revision History",
-      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_04_2023",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery ML Revision History-6",
-      "cat": "bigquery",
-      "date": "2023-01-03",
-      "title": "January 03, 2023",
-      "summary": "Feature BigQuery ML integration with Vertex AI Model Registry is now generally available . With this integration, you can now use the following capabilities: Register and monitor BigQuery ML models with Vertex AI Model Registry Deploy BigQu",
-      "src": "BigQuery ML Revision History",
-      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_03_2023",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery ML Revision History-7",
-      "cat": "bigquery",
-      "date": "2022-09-15",
-      "title": "September 15, 2022",
-      "summary": "Changed BigQuery ML is now available in the Madrid (europe-southwest1) , Milan (europe-west8) , and Paris (europe-southwest1) regions. The Madrid and Paris regions have the lowest carbon impact .",
-      "src": "BigQuery ML Revision History",
-      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#September_15_2022",
       "live": true
     }
   ]
