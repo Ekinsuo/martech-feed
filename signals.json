@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T06:40:01.048939+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 93,
+  "generated_at": "2026-07-21T15:19:23.201383+00:00",
+  "ok_sources": 12,
+  "fail_sources": 6,
+  "count": 90,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -13,8 +13,9 @@
     {
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "items": 0,
+      "error": "no items"
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,15 +27,16 @@
     {
       "name": "Looker Release Notes",
       "cat": "looker",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "items": 0,
+      "error": "no items"
     },
     {
       "name": "Looker Studio Release Notes",
       "cat": "lookerstudio",
       "ok": false,
       "items": 0,
-      "error": "HTTP Error 404: Not Found"
+      "error": "no items"
     },
     {
       "name": "Simo Ahava",
@@ -122,7 +124,47 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-21",
+      "title": "Your best practices may already be outdated",
+      "summary": "AI is reshaping the assumptions behind decades of marketing strategy, making some familiar playbooks less reliable. The post Your best practices may already be outdated appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-best-practices-may-already-be-outdated/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-21",
+      "title": "What CMOs should be doing about AI right now",
+      "summary": "Build AI literacy, rethink team structures and workflows, and prepare your marketing organization for AI-driven change. The post What CMOs should be doing about AI right now appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/what-cmos-should-be-doing-about-ai-right-now/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-21",
+      "title": "Stop buying AI and start buying capabilities",
+      "summary": "\"AI-powered\" hides what a product actually does. A four-part framework makes vendor claims easier to evaluate and compare. The post Stop buying AI and start buying capabilities appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/stop-buying-ai-and-start-buying-capabilities/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-07-21",
+      "title": "Why your match rate is the most important number you’re not tracking by Rokt mParticle",
+      "summary": "As identity signals decline, match rate has become a critical metric for improving audience reach, advertising efficiency, and ROAS. The post Why your match rate is the most important number you’re not tracking appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-your-match-rate-is-the-most-important-number-youre-not-tracking/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-07-20",
       "title": "July 20, 2026",
@@ -142,7 +184,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-20",
       "title": "Before you refresh that page, run this test",
@@ -152,7 +194,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-20",
       "title": "Branded search is becoming a less reliable proxy for brand demand",
@@ -162,7 +204,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-20",
       "title": "How to run a CTV incrementality test (and why most fail)",
@@ -172,7 +214,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-20",
       "title": "Unlocking enterprise AI through unified workflows",
@@ -182,53 +224,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-07-17",
       "title": "July 17, 2026",
       "summary": "Batch Feature Instance flexibility is available in Preview . Instance flexibility lets you allow a job to run on multiple machine types that you specify and can optionally rank. Use instance flexibility to improve obtainability —the probabi",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_17_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-07-17",
-      "title": "Salesforce’s woes underline marketing’s agentic AI problems",
-      "summary": "Slow Agentforce adoption highlights the poor data quality and operational readiness limiting enterprise AI adoption. The post Salesforce s woes underline marketing s agentic AI problems appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/salesforces-woes-underline-marketings-agentic-ai-problems/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-17",
-      "title": "Marketers know what improves paid media ROI, but underinvest in it",
-      "summary": "New research found marketers invest in targeting, AI, and creative while neglecting the post-click experiences they say drive paid media ROI. The post Marketers know what improves paid media ROI, but underinvest in it appeared first on MarT",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketers-know-what-improves-paid-media-roi-but-underinvest-in-it/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-17",
-      "title": "Look past AI to see where martech is going",
-      "summary": "AI dominates the conversation, but stack rationalization, modern measurement, and modular content are quietly reshaping marketing operations. The post Look past AI to see where martech is going appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/look-past-ai-to-see-where-martech-is-going/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-17",
-      "title": "Your content isn’t your competitive advantage anymore",
-      "summary": "Thanks to AI, customers have all the information they want. The challenge now is giving them a reason to trust you. The post Your content isn t your competitive advantage anymore appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-content-isnt-your-competitive-advantage-anymore/",
       "live": true
     },
     {
@@ -242,7 +244,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
@@ -252,7 +254,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-07-14",
       "title": "July 14, 2026",
@@ -272,7 +274,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-07-13",
       "title": "July 13, 2026",
@@ -282,7 +284,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-07-09",
       "title": "July 09, 2026",
@@ -322,7 +324,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-07-08",
       "title": "July 08, 2026",
@@ -352,7 +354,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-07-07",
       "title": "July 07, 2026",
@@ -372,7 +374,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-07-06",
       "title": "July 06, 2026",
@@ -392,7 +394,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
+      "id": "live-Google Cloud — All release notes-20",
       "cat": "general",
       "date": "2026-07-01",
       "title": "July 01, 2026",
@@ -442,7 +444,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
+      "id": "live-Google Cloud — All release notes-21",
       "cat": "general",
       "date": "2026-06-30",
       "title": "June 30, 2026",
@@ -452,7 +454,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-21",
+      "id": "live-Google Cloud — All release notes-22",
       "cat": "general",
       "date": "2026-06-29",
       "title": "June 29, 2026",
@@ -549,16 +551,6 @@
       "summary": "Apple design kits for Figma and Sketch are now available for iOS, iPadOS, and macOS 27. These include: Updates to Liquid Glass Expanded component and state support Naming changes to better align with code Improved resizing The addition of D",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=e2lxw9l1",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-5",
-      "cat": "looker",
-      "date": "2026-06-22",
-      "title": "June 22, 2026",
-      "summary": "Deployment dates Announcement Starting June 22, 2026, the following features will begin rolling out as part of Looker 26.10. Feature The Gemini Expression Assistant preview feature has been updated to increase performance. Note: This item w",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#June_22_2026",
       "live": true
     },
     {
@@ -762,16 +754,6 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
-      "cat": "looker",
-      "date": "2026-06-04",
-      "title": "June 04, 2026",
-      "summary": "Deployment dates Announcement Looker 26.10 is expected to include the following changes, features, and fixes: Expected Looker (original) deployment start: Sunday, June 7, 2026 Expected Looker (original) final deployment and download availab",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#June_04_2026",
-      "live": true
-    },
-    {
       "id": "scrape-GTM / Tag Gateway — Release notes-3",
       "cat": "gtm",
       "date": "2026-06-03",
@@ -789,16 +771,6 @@
       "summary": "is now available This release marks the general availability of the Google tag gateway for advertisers integration with Google Cloud Platform (GCP) This integration allows you to leverage Google Cloud Platform’s Global external Application ",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-05-27",
-      "title": "May 27, 2026",
-      "summary": "Deployment dates Announcement The following features will begin rolling out as part of Looker 26.8. Feature The Looker Continuous Integration (CI) feature is now generally available. Feature You can now include Gemini-powered insights in yo",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#May_27_2026",
       "live": true
     },
     {
@@ -866,7 +838,7 @@
       "cat": "ga4",
       "date": "2026-05-04",
       "title": "Conversion support in the Data API This feature may…",
-      "summary": "not be available to your Google Analytics property The Google Analytics team is actively working to expand this feature to more properties. Please reach out to your support team if you have questions about the eligibility of your property. ",
+      "summary": "not be available to your Google Analytics property The Google Analytics team is actively working to expand this feature to more properties. Reach out to your support team if you have questions about the eligibility of your property. Cross-c",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
