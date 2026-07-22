@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T15:19:23.201383+00:00",
-  "ok_sources": 12,
-  "fail_sources": 6,
-  "count": 90,
+  "generated_at": "2026-07-22T06:41:09.685770+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 92,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -13,30 +13,27 @@
     {
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
-      "ok": false,
-      "items": 0,
-      "error": "no items"
+      "ok": true,
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
       "cat": "bigquery",
-      "ok": false,
-      "items": 0,
-      "error": "no items"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "Looker Release Notes",
       "cat": "looker",
-      "ok": false,
-      "items": 0,
-      "error": "no items"
+      "ok": true,
+      "items": 2
     },
     {
       "name": "Looker Studio Release Notes",
       "cat": "lookerstudio",
       "ok": false,
       "items": 0,
-      "error": "no items"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "name": "Simo Ahava",
@@ -91,8 +88,9 @@
     {
       "name": "Apple Developer News",
       "cat": "apple",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "name": "EDPB — GDPR news",
@@ -123,6 +121,16 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-07-21",
+      "title": "July 21, 2026",
+      "summary": "Anthos Attached Clusters Announcement You can now launch clusters with the following Kubernetes versions. Click on the following links to see the release notes associated with these patches: 1.35.0-gke.1 1.34.0-gke.2 1.33.0-gke.3 Anthos clu",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_21_2026",
+      "live": true
+    },
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
@@ -304,16 +312,6 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
-      "cat": "apple",
-      "date": "2026-07-09",
-      "title": "Age rating questionnaire now includes social media questions",
-      "summary": "As announced in June , new Time Allowances in iOS 27, iPadOS 27, and macOS 27, or later, give parents more flexible ways to manage the time their kids spend in apps across categories, including Entertainment, Games, and Social Media. To sup",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=tlur8uvi",
-      "live": true
-    },
-    {
       "id": "scrape-GTM / Tag Gateway — Release notes-0",
       "cat": "gtm",
       "date": "2026-07-09",
@@ -364,16 +362,6 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
-      "cat": "apple",
-      "date": "2026-07-07",
-      "title": "Hello Developer: July 2026",
-      "summary": "In this edition: Try an all-new search tool on the Apple Developer website. Download design kits for Figma and Sketch. Explore the biggest updates from WWDC26 in new activities around the world and online. Read about Apple Design Award winn",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=grx7lcto",
-      "live": true
-    },
-    {
       "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-07-06",
@@ -408,7 +396,7 @@
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "Introducing the Safari MCP server for web developers",
-      "summary": "In Safari 27 and Safari Technology Preview 247, we’re introducing the Safari MCP server — a Model Context Protocol server for web developers that makes your web development and debugging workflow faster and more powerful.",
+      "summary": "Update: In Safari 27 beta and Safari Technology Preview 247, we’re introducing the Safari MCP server — a Model Context Protocol server for web developers that makes your web development and debugging workflow faster and more powerful.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
       "live": true
@@ -451,16 +439,6 @@
       "summary": "Agent Platform Workbench Feature Python 3.12 base containers for Agent Platform Workbench custom containers You can build custom containers for Agent Platform Workbench instances using Python 3.12 base containers, in addition to the default",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#June_30_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-22",
-      "cat": "general",
-      "date": "2026-06-29",
-      "title": "June 29, 2026",
-      "summary": "Agent Platform Workbench Feature Agent Platform Workbench image release The following Agent Platform Workbench instances image release is available: 20260628-2130-rc0 ( workbench-instances-2603 - Debian 12) Installed latest packages from up",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_29_2026",
       "live": true
     },
     {
@@ -544,13 +522,13 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
-      "cat": "apple",
-      "date": "2026-06-23",
-      "title": "Design kits for iOS, iPadOS, and macOS 27 are here",
-      "summary": "Apple design kits for Figma and Sketch are now available for iOS, iPadOS, and macOS 27. These include: Updates to Liquid Glass Expanded component and state support Naming changes to better align with code Improved resizing The addition of D",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=e2lxw9l1",
+      "id": "live-Looker Release Notes-6",
+      "cat": "looker",
+      "date": "2026-06-22",
+      "title": "June 22, 2026",
+      "summary": "Deployment dates Announcement Starting June 22, 2026, the following features will begin rolling out as part of Looker 26.10. Feature The Gemini Expression Assistant preview feature has been updated to increase performance. Note: This item w",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#June_22_2026",
       "live": true
     },
     {
@@ -571,26 +549,6 @@
       "summary": "that were previously undercounted in server-to-server setups due to a lack of browser cookie context Server-side data is intelligently joined with parallel browser signals, such as cookies, when a GCLID is present so that Floodlight can mor",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-3",
-      "cat": "apple",
-      "date": "2026-06-18",
-      "title": "Updated Apple Developer Program License Agreement now available",
-      "summary": "Attachment 12 of the Apple Developer Program License Agreement has been revised to specify terms for iOS apps in Brazil, including alternative distribution, alternative payments and out-of-app offers, and the Core Technology Commission. Ple",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=umq9wxmm",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-4",
-      "cat": "apple",
-      "date": "2026-06-18",
-      "title": "Changes to iOS in Brazil",
-      "summary": "As part of a recent agreement with Brazil’s competition regulator CADE (Conselho Administrativo de Defesa Econômica), Apple is introducing changes to iOS that create new options for developers' apps in Brazil. Beginning with iOS 26.5, devel",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=dhwadr2x",
       "live": true
     },
     {
@@ -624,16 +582,6 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
-      "cat": "apple",
-      "date": "2026-06-15",
-      "title": "New domain for Sign in with Apple and iCloud+ Hide My Email",
-      "summary": "Later this summer, Apple will unify the email domains used by Sign in with Apple and iCloud+ Hide My Email under a single, shared domain: private.icloud.com . New addresses generated for both features will be issued on the new domain. For e",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=sus6t6ab",
-      "live": true
-    },
-    {
       "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-06-12",
@@ -651,16 +599,6 @@
       "summary": "Brussels, 12 June – As of today, coordinated supervision of the European Union’s asylum and migration database (Eurodac) will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/coordinated-supervision-committee-extends-scope-to-include-eurodac_en",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-6",
-      "cat": "apple",
-      "date": "2026-06-11",
-      "title": "WWDC26 survey",
-      "summary": "Share your thoughts on this year’s conference. Take the survey",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=15wishue",
       "live": true
     },
     {
@@ -724,16 +662,6 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-06-08",
-      "title": "Find out what's new for Apple developers",
-      "summary": "Discover the latest advancements on all Apple platforms and create even more unique, intelligent experiences in your apps and games with major enhancements across languages, frameworks, tools, and services. The latest SDKs bring incredible ",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=8rgqj83s",
-      "live": true
-    },
-    {
       "id": "scrape-GA4 — What's new-9",
       "cat": "ga4",
       "date": "2026-06-08",
@@ -751,6 +679,16 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/how-to-deploy-a-firebase-website-as-an-app-on-your-iphone-5b8c0cdf1cb4?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Looker Release Notes-7",
+      "cat": "looker",
+      "date": "2026-06-04",
+      "title": "June 04, 2026",
+      "summary": "Deployment dates Announcement Looker 26.10 is expected to include the following changes, features, and fixes: Expected Looker (original) deployment start: Sunday, June 7, 2026 Expected Looker (original) final deployment and download availab",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#June_04_2026",
       "live": true
     },
     {
@@ -1021,6 +959,86 @@
       "summary": "One of the most popular use cases for server-side Google Tag Manager , often shared on this blog, too, is to split an incoming stream into multiple different endpoints . Since the demise of customTask for Universal Analytics (Rest In Peace!",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/gtmtips/sgtm-fetches-ga4-configuration-automatically/",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-0",
+      "cat": "bigquery",
+      "date": "2023-03-28",
+      "title": "March 28, 2023",
+      "summary": "Feature You can now use the tf_version training option to specify the Tensorflow (TF) version during model training. By default, tf_version is set as 1.15 . If you want to use TF2 with Keras API, you can add tf_version = 2.8.0 when creating",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#March_28_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-1",
+      "cat": "bigquery",
+      "date": "2023-03-20",
+      "title": "March 20, 2023",
+      "summary": "Feature The following AutoML Tables model features are now generally available : Availability in additional regions . CMEK support in available regions except multi-regions US and EU. OPTIMIZATION_OBJECTIVE now accepts two additional option",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#March_20_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-2",
+      "cat": "bigquery",
+      "date": "2023-02-27",
+      "title": "February 27, 2023",
+      "summary": "Changed The multivariate time-series forecasting model ARIMA_PLUS_XREG is now available to on-demand users.",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#February_27_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-3",
+      "cat": "bigquery",
+      "date": "2023-01-19",
+      "title": "January 19, 2023",
+      "summary": "Feature More than 20 BigQuery ML components for Vertex AI Managed Pipelines are now generally available . These components benefit AI/ML users for the following: Building pipelines using the KFP SDK and TFX SDK Linking and tracking metadata",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_19_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-4",
+      "cat": "bigquery",
+      "date": "2023-01-17",
+      "title": "January 17, 2023",
+      "summary": "Feature BigQuery ML support for multivariate time-series forecasting with the ARIMA_PLUS_XREG model is now available in preview . This feature lets you perform time-series forecasting with extra feature columns. For more information, see th",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_17_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-5",
+      "cat": "bigquery",
+      "date": "2023-01-04",
+      "title": "January 04, 2023",
+      "summary": "Feature BigQuery ML support for image analytics with vision models is available in preview . Customers can import vision models to perform inference modeling with images to detect objects, perform optical character recognition (OCR), and mo",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_04_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-6",
+      "cat": "bigquery",
+      "date": "2023-01-03",
+      "title": "January 03, 2023",
+      "summary": "Feature BigQuery ML integration with Vertex AI Model Registry is now generally available . With this integration, you can now use the following capabilities: Register and monitor BigQuery ML models with Vertex AI Model Registry Deploy BigQu",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#January_03_2023",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery ML Revision History-7",
+      "cat": "bigquery",
+      "date": "2022-09-15",
+      "title": "September 15, 2022",
+      "summary": "Changed BigQuery ML is now available in the Madrid (europe-southwest1) , Milan (europe-west8) , and Paris (europe-southwest1) regions. The Madrid and Paris regions have the lowest carbon impact .",
+      "src": "BigQuery ML Revision History",
+      "url": "https://docs.cloud.google.com/bigquery-ml/docs/release-notes#September_15_2022",
       "live": true
     }
   ]
