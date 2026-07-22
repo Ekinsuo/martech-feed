@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T06:41:09.685770+00:00",
+  "generated_at": "2026-07-22T15:18:33.200440+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 92,
@@ -122,6 +122,46 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-22",
+      "title": "Your newest competitors aren’t other brands",
+      "summary": "AI forms buyers' opinions before they visit your website. Learn how to build authority across AI and the sources they trust. The post Your newest competitors aren t other brands appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-newest-competitors-arent-other-brands/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-22",
+      "title": "The missing layer behind customer data ROI",
+      "summary": "Many CDPs excel at activation but struggle to unify fragmented data. The silver layer determines whether they deliver on that promise. The post The missing layer behind customer data ROI appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-missing-layer-behind-customer-data-roi/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-22",
+      "title": "Is your website invisible to AI search?",
+      "summary": "Many brand websites that look fine to people appear as empty to AI crawlers. Here's what to do about it. The post Is your website invisible to AI search? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/is-your-website-invisible-to-ai-search/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-07-22",
+      "title": "Your DAM solved the library problem. The activation problem is next. by ImageKit",
+      "summary": "Centralized, tagged, governed. And still slow. Here's what your DAM was never designed to do. The post Your DAM solved the library problem. The activation problem is next. appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-dam-solved-the-library-problem-the-activation-problem-is-next/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-07-21",
@@ -132,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-21",
       "title": "Your best practices may already be outdated",
@@ -142,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-21",
       "title": "What CMOs should be doing about AI right now",
@@ -152,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-21",
       "title": "Stop buying AI and start buying capabilities",
@@ -162,7 +202,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-21",
       "title": "Why your match rate is the most important number you’re not tracking by Rokt mParticle",
@@ -189,46 +229,6 @@
       "summary": "What is changing? On August 31, 2026, we are aligning Shopping campaigns with Performance Max for Retail campaigns by enabling Local Inventory Ads (LIA) by default. Previously, developers and advertisers had to explicitly set the enable_loc",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/5341021206723470669",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-07-20",
-      "title": "Before you refresh that page, run this test",
-      "summary": "Not every traffic drop is a content problem. Learn how to separate ranking losses, AI click theft, shifting intent, and declining demand. The post Before you refresh that page, run this test appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/before-you-refresh-that-page-run-this-test/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-20",
-      "title": "Branded search is becoming a less reliable proxy for brand demand",
-      "summary": "Consumers aren't searching for your brand less. They're making decisions before they ever perform a branded search. The post Branded search is becoming a less reliable proxy for brand demand appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/branded-search-is-becoming-a-less-reliable-proxy-for-brand-demand/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-20",
-      "title": "How to run a CTV incrementality test (and why most fail)",
-      "summary": "Build reliable control groups, choose meaningful success metrics, and generate results you can defend in budget conversations. The post How to run a CTV incrementality test (and why most fail) appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-run-a-ctv-incrementality-test-and-why-most-fail/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-20",
-      "title": "Unlocking enterprise AI through unified workflows",
-      "summary": "Isolated artificial intelligence assistants are costing your operations team time. Here is how workflow integration transforms raw AI into actual enterprise value. The post Unlocking enterprise AI through unified workflows appeared first on",
-      "src": "MarTech.org",
-      "url": "https://martech.org/unlocking-enterprise-ai-through-unified-workflows/",
       "live": true
     },
     {
