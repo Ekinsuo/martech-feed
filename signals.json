@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22T15:18:33.200440+00:00",
+  "generated_at": "2026-07-23T06:38:44.977165+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
-  "count": 92,
+  "count": 91,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 2
+      "items": 1
     },
     {
       "name": "Looker Studio Release Notes",
@@ -122,6 +122,26 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-07-22",
+      "title": "July 22, 2026",
+      "summary": "Gemini Enterprise Feature Gemini Enterprise: Support for unauthenticated Custom MCP Server data stores (Preview) When setting up a Custom MCP Server data store, you can select No authentication if your Model Context Protocol (MCP) server do",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_22_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-07-22",
+      "title": "Announcing v25 of the Google Ads API",
+      "summary": "Today, we’re announcing the v25 release of the Google Ads API . This major release brings support for new reporting features and goals. To use these new capabilities, you must upgrade your client libraries and client code. All the updated c",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/507376310170375094",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-07-22",
@@ -162,7 +182,27 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-07-22",
+      "title": "Release Notes for Safari Technology Preview 248",
+      "summary": "Safari Technology Preview Release 248 is now available for download for macOS Golden Gate and macOS Tahoe.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+      "live": true
+    },
+    {
+      "id": "scrape-sGTM — Release notes-0",
+      "cat": "sgtm",
+      "date": "2026-07-22",
+      "title": ") Updated base image version for security updates",
+      "summary": "4.3.0 (",
+      "src": "sGTM — Release notes",
+      "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-07-21",
       "title": "July 21, 2026",
@@ -212,7 +252,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-07-20",
       "title": "July 20, 2026",
@@ -222,7 +262,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-07-20",
       "title": "Enabling Local Inventory Ads by Default for Shopping Campaigns starting on August 31, 2026",
@@ -232,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-07-17",
       "title": "July 17, 2026",
@@ -252,7 +292,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
@@ -262,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-07-14",
       "title": "July 14, 2026",
@@ -282,7 +322,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-07-13",
       "title": "July 13, 2026",
@@ -292,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-07-09",
       "title": "July 09, 2026",
@@ -302,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-07-09",
       "title": "Accelerate Google Ads API Basic Access reviews with brand verification",
@@ -322,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-07-08",
       "title": "July 08, 2026",
@@ -352,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-07-07",
       "title": "July 07, 2026",
@@ -362,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-07-06",
       "title": "July 06, 2026",
@@ -372,7 +412,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-07-06",
       "title": "Announcing Google Mobile Ads Next-Gen SDK as the preferred SDK for Android",
@@ -382,7 +422,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
+      "id": "live-Google Cloud — All release notes-21",
       "cat": "general",
       "date": "2026-07-01",
       "title": "July 01, 2026",
@@ -392,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "Introducing the Safari MCP server for web developers",
@@ -402,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "Release Notes for Safari Technology Preview 247",
@@ -432,16 +472,6 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-21",
-      "cat": "general",
-      "date": "2026-06-30",
-      "title": "June 30, 2026",
-      "summary": "Agent Platform Workbench Feature Python 3.12 base containers for Agent Platform Workbench custom containers You can build custom containers for Agent Platform Workbench instances using Python 3.12 base containers, in addition to the default",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#June_30_2026",
-      "live": true
-    },
-    {
       "id": "live-Simo Ahava-0",
       "cat": "general",
       "date": "2026-06-29",
@@ -452,7 +482,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-06-29",
       "title": "Deprecating Structured Data Files v9, v9.1, and v9.2",
@@ -462,7 +492,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-06-26",
       "title": "July 2026 changes for Display & Video 360 API and Structured Data Files",
@@ -472,7 +502,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-06-26",
       "title": "Unlocking Data Strength with Data Manager API: Ads DevCast E7",
@@ -482,23 +512,13 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-06-25",
       "title": "Google Ads API v21 sunset reminder",
       "summary": "Google Ads API v21 will sunset on August 5, 2026. Starting on this date, all v21 API requests will begin to fail. Migrate to a newer version prior to August 5, 2026 to ensure your API access is unaffected. Here are some resources to help yo",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/2223804944121247024",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-06-25",
-      "title": "Multi-party approvals in the Google Ads API",
-      "summary": "As part of improving security for Google Ads accounts, the Google Ads API will start requiring multi-party approvals when performing sensitive API actions. This is part of a broader change in Google Ads that requires multi-party approvals t",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6319952324811985173",
       "live": true
     },
     {
@@ -522,7 +542,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-06-22",
       "title": "June 22, 2026",
@@ -552,7 +572,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-06-17",
       "title": "Release Notes for Safari Technology Preview 246",
@@ -572,7 +592,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-06-15",
       "title": "The golden rule of Customizable Select",
@@ -622,7 +642,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-06-10",
       "title": "Introducing the Field Guide to Grid Lanes",
@@ -632,7 +652,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-06-09",
       "title": "Discover MapKit JS 6: Rebuilt for Today’s Web Developer",
@@ -642,23 +662,13 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-06-08",
       "title": "Release Notes for Safari Technology Preview 245",
       "summary": "Safari Technology Preview Release 245 is now available for download for macOS Tahoe and macOS Sequoia.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/17970/release-notes-for-safari-technology-preview-245/",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-06-08",
-      "title": "Web Technology Sessions at WWDC26",
-      "summary": "Welcome to WWDC26.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/17974/web-technology-sessions-at-wwdc26/",
       "live": true
     },
     {
@@ -679,16 +689,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/how-to-deploy-a-firebase-website-as-an-app-on-your-iphone-5b8c0cdf1cb4?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-06-04",
-      "title": "June 04, 2026",
-      "summary": "Deployment dates Announcement Looker 26.10 is expected to include the following changes, features, and fixes: Expected Looker (original) deployment start: Sunday, June 7, 2026 Expected Looker (original) final deployment and download availab",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#June_04_2026",
       "live": true
     },
     {
@@ -799,16 +799,6 @@
       "summary": "help you get the most out of your Google Analytics property, we are introducing Task Assistant Task Assistant provides tailored recommendations to help you optimize your configuration and improve data collection,. Available from the left na",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-sGTM — Release notes-0",
-      "cat": "sgtm",
-      "date": "2026-04-28",
-      "title": ") Updated base image version for security updates",
-      "summary": "4.2.0 (",
-      "src": "sGTM — Release notes",
-      "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
       "live": true
     },
     {
