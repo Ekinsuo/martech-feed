@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T06:38:44.977165+00:00",
+  "generated_at": "2026-07-23T15:28:49.366853+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 91,
@@ -122,6 +122,56 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-23",
+      "title": "ChatGPT has no clear brand leader in most categories",
+      "summary": "Semrush found only 15% of ChatGPT categories have a consistent brand leader, underscoring how difficult AI visibility is to sustain. The post ChatGPT has no clear brand leader in most categories appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/chatgpt-has-no-clear-brand-leader-in-most-categories/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-23",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "HubSpot expands Breeze AI, adding tools for building, governing, and managing AI agents, reflecting the growing focus on operational oversight. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-23",
+      "title": "The one question that will improve all your email campaigns",
+      "summary": "Campaigns can fail before they're written because teams can't agree on what success looks like. One question can change that. The post The one question that will improve all your email campaigns appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-one-question-that-will-improve-all-your-email-campaigns/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-07-23",
+      "title": "Consumer distrust of AI isn’t all about the AI",
+      "summary": "Research shows consumers worry less about the technology than how brands collect, manage, and use their personal data. The post Consumer distrust of AI isn t all about the AI appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/consumer-distrust-of-ai-isnt-about-the-ai/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-07-23",
+      "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: save the date",
+      "summary": "Brussels, 23 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming guidelines on the interplay between competition and data protection . The event will take place on 1",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law_en",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-07-22",
@@ -142,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-22",
       "title": "Your newest competitors aren’t other brands",
@@ -152,7 +202,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-22",
       "title": "The missing layer behind customer data ROI",
@@ -162,7 +212,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-22",
       "title": "Is your website invisible to AI search?",
@@ -172,7 +222,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-22",
       "title": "Your DAM solved the library problem. The activation problem is next. by ImageKit",
@@ -212,46 +262,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-07-21",
-      "title": "Your best practices may already be outdated",
-      "summary": "AI is reshaping the assumptions behind decades of marketing strategy, making some familiar playbooks less reliable. The post Your best practices may already be outdated appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-best-practices-may-already-be-outdated/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-21",
-      "title": "What CMOs should be doing about AI right now",
-      "summary": "Build AI literacy, rethink team structures and workflows, and prepare your marketing organization for AI-driven change. The post What CMOs should be doing about AI right now appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/what-cmos-should-be-doing-about-ai-right-now/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-21",
-      "title": "Stop buying AI and start buying capabilities",
-      "summary": "\"AI-powered\" hides what a product actually does. A four-part framework makes vendor claims easier to evaluate and compare. The post Stop buying AI and start buying capabilities appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/stop-buying-ai-and-start-buying-capabilities/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-21",
-      "title": "Why your match rate is the most important number you’re not tracking by Rokt mParticle",
-      "summary": "As identity signals decline, match rate has become a critical metric for improving audience reach, advertising efficiency, and ROAS. The post Why your match rate is the most important number you’re not tracking appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-your-match-rate-is-the-most-important-number-youre-not-tracking/",
-      "live": true
-    },
-    {
       "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-07-20",
@@ -282,7 +292,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-07-17",
       "title": "EDPB calls for legal basis for cross-regulatory information sharing",
@@ -312,7 +322,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
+      "id": "live-EDPB — GDPR news-2",
       "cat": "privacy",
       "date": "2026-07-14",
       "title": "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
@@ -382,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-2",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-07-08",
       "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
@@ -452,7 +462,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
@@ -522,7 +532,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-06-25",
       "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
@@ -532,7 +542,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-06-24",
       "title": "Supporting GDPR consistency: EDPB launches dedicated form",
@@ -552,7 +562,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
+      "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-06-22",
       "title": "EDPB gets a new look: discover the new website and brand identity",
@@ -609,16 +619,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/introducing-layer-lens-search-your-gtm-ga4-data-in-real-time-af99478e3aa0?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-06-12",
-      "title": "Coordinated Supervision Committee extends scope to include Eurodac",
-      "summary": "Brussels, 12 June – As of today, coordinated supervision of the European Union’s asylum and migration database (Eurodac) will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/coordinated-supervision-committee-extends-scope-to-include-eurodac_en",
       "live": true
     },
     {
