@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T07:47:53.258474+00:00",
+  "generated_at": "2026-07-27T15:56:45.395784+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 92,
@@ -124,6 +124,46 @@
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
+      "date": "2026-07-27",
+      "title": "ChatGPT Ads adds conversion bidding and stronger measurement",
+      "summary": "New capabilities bring it closer to the workflow and optimization tools advertisers already use in Google Ads and Meta Ads. The post ChatGPT Ads adds conversion bidding and stronger measurement appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/chatgpt-ads-adds-conversion-bidding-and-stronger-measurement/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-27",
+      "title": "Why your AI-review process is going to fail",
+      "summary": "Reviewing AI output for plausibility isn't enough. Here's a simple structure you can apply to protect yourself from \"hallucinations.\" The post Why your AI-review process is going to fail appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-your-ai-review-process-is-going-to-fail/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-27",
+      "title": "Optimizing for the holiday ecommerce surge",
+      "summary": "Maximizing your revenue during the peak retail season requires structural readiness. Here are the five essential applications your team must optimize. The post Optimizing for the holiday ecommerce surge appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/optimizing-for-the-holiday-ecommerce-surge/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-07-27",
+      "title": "AI is pushing composability beyond software",
+      "summary": "The martech stack now has a new building block: intelligence that can reason, plan, and work alongside SaaS systems and human teams. The post AI is pushing composability beyond software appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-is-pushing-composability-beyond-software/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
       "date": "2026-07-24",
       "title": "HubSpot’s June 2026 updates: Agents get more access, Revenue Hub starts connecting the dots",
       "summary": "June's HubSpot updates are focused on turning information you already have into something HubSpot can act on directly. The post HubSpot s June 2026 updates: Agents get more access, Revenue Hub starts connecting the dots appeared first on Ma",
@@ -132,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-24",
       "title": "Time saved by using AI is being spent on managing its output",
@@ -142,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-24",
       "title": "The real risk in agentic commerce",
@@ -152,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-24",
       "title": "The 7 layers of an AI-ready marketing operating system",
@@ -162,21 +202,11 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-07-24",
-      "title": "Your client just asked if they show up in ChatGPT. Now what? by AgencyAnalytics",
-      "summary": "It's the top new client request of 2026, and most agencies still can't answer it with data. Here's what you can measure today. The post Your client just asked if they show up in ChatGPT. Now what? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-client-just-asked-if-they-show-up-in-chatgpt-now-what/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-07-23",
       "title": "July 23, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature Transparent query forwarding is now available in Preview for clusters compatible with PostgreSQL 17 and 18. With this feature, the primary node in a cluster intercepts read-only queries and selectively forward",
+      "summary": "Agent Registry Feature Agent skill governance is available in Preview . Agent Registry supports standalone skill governance, helping enable secure, enterprise-level management and governance of standalone skills for AI agents. You can regis",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_23_2026",
       "live": true
@@ -192,36 +222,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-23",
-      "title": "ChatGPT has no clear brand leader in most categories",
-      "summary": "Semrush found only 15% of ChatGPT categories have a consistent brand leader, underscoring how difficult AI visibility is to sustain. The post ChatGPT has no clear brand leader in most categories appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/chatgpt-has-no-clear-brand-leader-in-most-categories/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-23",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "HubSpot expands Breeze AI, adding tools for building, governing, and managing AI agents, reflecting the growing focus on operational oversight. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-23",
-      "title": "The one question that will improve all your email campaigns",
-      "summary": "Campaigns can fail before they're written because teams can't agree on what success looks like. One question can change that. The post The one question that will improve all your email campaigns appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-one-question-that-will-improve-all-your-email-campaigns/",
-      "live": true
-    },
-    {
       "id": "live-EDPB — GDPR news-0",
       "cat": "privacy",
       "date": "2026-07-23",
@@ -232,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-07-22",
       "title": "July 22, 2026",
@@ -272,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-07-21",
       "title": "July 21, 2026",
@@ -282,7 +282,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-07-20",
       "title": "July 20, 2026",
@@ -302,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-07-17",
       "title": "July 17, 2026",
@@ -322,7 +322,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
@@ -332,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-07-14",
       "title": "July 14, 2026",
@@ -352,7 +352,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-07-13",
       "title": "July 13, 2026",
@@ -362,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-07-09",
       "title": "July 09, 2026",
@@ -392,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-07-08",
       "title": "July 08, 2026",
@@ -422,7 +422,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
+      "id": "live-Google Cloud — All release notes-20",
       "cat": "general",
       "date": "2026-07-07",
       "title": "July 07, 2026",
@@ -432,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
+      "id": "live-Google Cloud — All release notes-21",
       "cat": "general",
       "date": "2026-07-06",
       "title": "July 06, 2026",
