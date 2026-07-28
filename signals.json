@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T15:56:45.395784+00:00",
+  "generated_at": "2026-07-28T06:38:51.323705+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 92,
@@ -122,6 +122,26 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-07-27",
+      "title": "July 27, 2026",
+      "summary": "AlloyDB for PostgreSQL Feature AlloyDB write endpoints are now available in Preview . Write endpoints simplify database connection management by providing a stable domain name service (DNS) name for your applications, decoupling them from i",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_27_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-07-27",
+      "title": "Passkey authentication requirement for the Google Ads API",
+      "summary": "As part of improving security for Google Ads accounts, the Google Ads API will start requiring passkeys for Google Ads API users . This is part of a broader change in Google Ads that requires passkeys to authorize sensitive actions in your ",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/7132363063735296802",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-07-27",
@@ -159,6 +179,16 @@
       "summary": "The martech stack now has a new building block: intelligence that can reason, plan, and work alongside SaaS systems and human teams. The post AI is pushing composability beyond software appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/ai-is-pushing-composability-beyond-software/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-07-27",
+      "title": "WebKit Features for Safari 26.6",
+      "summary": "Safari 26.6 is here.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18178/webkit-features-for-safari-26-6/",
       "live": true
     },
     {
@@ -212,7 +242,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-07-23",
       "title": "July 2026 update to the Display & Video 360 API",
@@ -242,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-07-22",
       "title": "Announcing v25 of the Google Ads API",
@@ -252,7 +282,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-07-22",
       "title": "Release Notes for Safari Technology Preview 248",
@@ -292,7 +322,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-07-20",
       "title": "Enabling Local Inventory Ads by Default for Shopping Campaigns starting on August 31, 2026",
@@ -372,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-07-09",
       "title": "Accelerate Google Ads API Basic Access reviews with brand verification",
@@ -432,17 +462,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-21",
-      "cat": "general",
-      "date": "2026-07-06",
-      "title": "July 06, 2026",
-      "summary": "Agent Platform Workbench Feature Agent Platform Workbench image release The following Agent Platform Workbench instances image release is available: 20260701-2130-rc0 ( workbench-instances-2603 - Debian 12) Installed latest packages from up",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_06_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-07-06",
       "title": "Announcing Google Mobile Ads Next-Gen SDK as the preferred SDK for Android",
@@ -462,7 +482,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "Introducing the Safari MCP server for web developers",
@@ -472,7 +492,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "Release Notes for Safari Technology Preview 247",
@@ -512,7 +532,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-06-29",
       "title": "Deprecating Structured Data Files v9, v9.1, and v9.2",
@@ -522,23 +542,13 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-06-26",
       "title": "July 2026 changes for Display & Video 360 API and Structured Data Files",
       "summary": "Today we’re announcing two unversioned changes to the Display & Video 360 API and Structured Data Files that will take effect on July 13, 2026 and may impact your existing integrations. The following changes have been fully detailed on our ",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/2423659204249492633",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-06-26",
-      "title": "Unlocking Data Strength with Data Manager API: Ads DevCast E7",
-      "summary": "We are thrilled to share the newest episode of Ads DevCast , the podcast series brought to you by Google’s Ads Developer Relations team. This episode features a conversation with Data Manager PMs Xuezhu Li and Stephen Chang on unlocking dat",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1204663821782618695",
       "live": true
     },
     {
@@ -592,7 +602,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-06-17",
       "title": "Release Notes for Safari Technology Preview 246",
@@ -612,7 +622,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-06-15",
       "title": "The golden rule of Customizable Select",
@@ -652,7 +662,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-06-10",
       "title": "Introducing the Field Guide to Grid Lanes",
@@ -662,23 +672,13 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-06-09",
       "title": "Discover MapKit JS 6: Rebuilt for Today’s Web Developer",
       "summary": "MapKit JS allows you to bring the power and simplicity of Apple Maps to your website or web app.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18027/discover-mapkit-js-6-rebuilt-for-todays-web-developer/",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-06-08",
-      "title": "Release Notes for Safari Technology Preview 245",
-      "summary": "Safari Technology Preview Release 245 is now available for download for macOS Tahoe and macOS Sequoia.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/17970/release-notes-for-safari-technology-preview-245/",
       "live": true
     },
     {
