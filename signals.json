@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-28T15:39:48.675342+00:00",
+  "generated_at": "2026-07-29T06:43:29.137605+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
-  "count": 92,
+  "count": 95,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -109,7 +109,7 @@
       "name": "GA4 — What's new",
       "cat": "ga4",
       "ok": true,
-      "items": 6,
+      "items": 8,
       "scraped": true
     },
     {
@@ -122,7 +122,37 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-07-28",
+      "title": "July 28, 2026",
+      "summary": "AlloyDB for PostgreSQL Feature Note: IAM group authentication is available in Preview for new AlloyDB clusters. To enable this feature on an existing cluster, contact your Google Cloud account team. IAM group authentication for AlloyDB is a",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_28_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-07-28",
+      "title": "Support for AI Content Labeling using the Campaign Manager and Display & Video 360 APIs",
+      "summary": "As the use of AI becomes more prevalent, transparency is key. In the last week, we have launched updates in both the Campaign Manager 360 API and Display & Video 360 API that add new optional fields to resources in both APIs, which allow yo",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/2711845243031957475",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-28",
+      "title": "Yelp brings reviews and local leads to ChatGPT",
+      "summary": "ChatGPT gets access to Yelp's reviews and business data, Yelp's gets prime placement and links. The post Yelp brings reviews and local leads to ChatGPT appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/yelp-brings-reviews-and-local-leads-to-chatgpt/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
       "cat": "general",
       "date": "2026-07-28",
       "title": "AI shopping stats 2026: What you need to know",
@@ -132,7 +162,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-07-28",
       "title": "StackAdapt rethinks DSPs for the post-dashboard world",
@@ -142,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-07-28",
       "title": "How to build an advantage AI can’t copy",
@@ -152,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-28",
       "title": "The CMO’s guide to building an AI-first marketing team",
@@ -162,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-28",
       "title": "5 strategies to remove negative search results in 2026 by Erase.com",
@@ -172,7 +202,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "scrape-GA4 — What's new-10",
+      "cat": "ga4",
+      "date": "2026-07-28",
+      "title": "Campaign data import currency update We've updated campaign data…",
+      "summary": "import to require a currency field whenever you upload cost data This ensures your campaign reporting stays accurate, even if you decide to make changes to your property's currency settings. When importing your campaign data, you can now ch",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-07-27",
       "title": "July 27, 2026",
@@ -182,7 +222,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-07-27",
       "title": "Passkey authentication requirement for the Google Ads API",
@@ -192,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-27",
       "title": "ChatGPT Ads adds conversion bidding and stronger measurement",
@@ -202,23 +242,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-27",
       "title": "Why your AI-review process is going to fail",
       "summary": "Reviewing AI output for plausibility isn't enough. Here's a simple structure you can apply to protect yourself from \"hallucinations.\" The post Why your AI-review process is going to fail appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/why-your-ai-review-process-is-going-to-fail/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-27",
-      "title": "Optimizing for the holiday ecommerce surge",
-      "summary": "Maximizing your revenue during the peak retail season requires structural readiness. Here are the five essential applications your team must optimize. The post Optimizing for the holiday ecommerce surge appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/optimizing-for-the-holiday-ecommerce-surge/",
       "live": true
     },
     {
@@ -232,7 +262,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-07-23",
       "title": "July 23, 2026",
@@ -242,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-07-23",
       "title": "July 2026 update to the Display & Video 360 API",
@@ -262,17 +292,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-07-22",
       "title": "July 22, 2026",
-      "summary": "Gemini Enterprise Feature Gemini Enterprise: Support for unauthenticated Custom MCP Server data stores (Preview) When setting up a Custom MCP Server data store, you can select No authentication if your Model Context Protocol (MCP) server do",
+      "summary": "Access Approval Feature Privileged Access Manager is available in Preview . Access Transparency Feature Privileged Access Manager is available in Preview . Gemini Enterprise Feature Gemini Enterprise: Support for unauthenticated Custom MCP ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_22_2026",
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-07-22",
       "title": "Announcing v25 of the Google Ads API",
@@ -302,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-07-21",
       "title": "July 21, 2026",
@@ -312,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-07-20",
       "title": "July 20, 2026",
@@ -322,7 +352,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-07-20",
       "title": "Enabling Local Inventory Ads by Default for Shopping Campaigns starting on August 31, 2026",
@@ -332,11 +362,11 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-07-17",
       "title": "July 17, 2026",
-      "summary": "Batch Feature Instance flexibility is available in Preview . Instance flexibility lets you allow a job to run on multiple machine types that you specify and can optionally rank. Use instance flexibility to improve obtainability —the probabi",
+      "summary": "Audit Manager Feature Audit Manager includes the following features in Preview : A new UI and report experience Ability to schedule audits Ability to run audits at an organization level Batch Feature Instance flexibility is available in Pre",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_17_2026",
       "live": true
@@ -352,7 +382,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
@@ -362,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-07-14",
       "title": "July 14, 2026",
@@ -382,7 +412,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-07-13",
       "title": "July 13, 2026",
@@ -392,7 +422,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "scrape-GA4 — What's new-11",
+      "cat": "ga4",
+      "date": "2026-07-13",
+      "title": "AdMob linking within Google Analytics Google Analytics now offers…",
+      "summary": "a direct, native product linking flow with AdMob within the Google Analytics Admin interface You will see a new \"AdMob Links\" option under the \"Product Links\" section in your Google Analytics Admin console. You can now manage connections be",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-07-09",
       "title": "July 09, 2026",
@@ -402,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-07-09",
       "title": "Accelerate Google Ads API Basic Access reviews with brand verification",
@@ -422,7 +462,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
+      "id": "live-Google Cloud — All release notes-20",
       "cat": "general",
       "date": "2026-07-08",
       "title": "July 08, 2026",
@@ -452,17 +492,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
+      "id": "live-Looker Release Notes-5",
+      "cat": "looker",
       "date": "2026-07-07",
       "title": "July 07, 2026",
-      "summary": "App Engine standard environment Java Feature To modernize image processing, migrate from the App Engine Images service to Cloud Run by routing calls to a Cloud Run image transformation service while your app continues to run on App Engine (",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_07_2026",
+      "summary": "Looker (Google Cloud core) only changes Feature When you delete a Looker (Google Cloud core) instance, it is now moved to the trash for seven days before being permanently deleted. During this period, you can restore the instance to its pre",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_07_2026",
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-07-06",
       "title": "Announcing Google Mobile Ads Next-Gen SDK as the preferred SDK for Android",
@@ -532,23 +572,13 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-06-29",
       "title": "Deprecating Structured Data Files v9, v9.1, and v9.2",
       "summary": "Today we’re announcing the deprecation of Structured Data Files v9 , v9.1 , and v9.2 . These three versions will all sunset on January 28, 2027 . Migrate to v10 or higher before the sunset date to avoid any interruption of service. Follow t",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1623995231499628635",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-06-26",
-      "title": "July 2026 changes for Display & Video 360 API and Structured Data Files",
-      "summary": "Today we’re announcing two unversioned changes to the Display & Video 360 API and Structured Data Files that will take effect on July 13, 2026 and may impact your existing integrations. The following changes have been fully detailed on our ",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/2423659204249492633",
       "live": true
     },
     {
@@ -642,7 +672,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-8",
+      "id": "scrape-GA4 — What's new-12",
       "cat": "ga4",
       "date": "2026-06-11",
       "title": "New Source Group field with update to Source Platform…",
@@ -682,7 +712,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-9",
+      "id": "scrape-GA4 — What's new-13",
       "cat": "ga4",
       "date": "2026-06-08",
       "title": "New Google Business Profile integration You can now centrally…",
@@ -762,7 +792,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-10",
+      "id": "scrape-GA4 — What's new-14",
       "cat": "ga4",
       "date": "2026-05-13",
       "title": "New AI Assistant traffic measurement Google Analytics now provides…",
@@ -772,7 +802,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-11",
+      "id": "scrape-GA4 — What's new-15",
       "cat": "ga4",
       "date": "2026-05-07",
       "title": "Data Manager API support for Google Analytics server-to-server events…",
@@ -782,7 +812,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-12",
+      "id": "scrape-GA4 — What's new-16",
       "cat": "ga4",
       "date": "2026-05-04",
       "title": "Conversion support in the Data API This feature may…",
@@ -802,7 +832,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-13",
+      "id": "scrape-GA4 — What's new-17",
       "cat": "ga4",
       "date": "2026-04-29",
       "title": "Configure your Google Analytics settings using Task Assistant To…",
