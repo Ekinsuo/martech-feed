@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T06:43:29.137605+00:00",
+  "generated_at": "2026-07-29T15:25:19.370594+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 95,
@@ -122,7 +122,37 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-29",
+      "title": "Google testing a way to ease email signups",
+      "summary": "The browser-based alternative to OTPs and magic links could improve sign-up conversions and first-party data quality. The post Google testing a way to ease email signups appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/google-testing-a-way-to-ease-email-signups/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-29",
+      "title": "How to make trust your competitive differentiator in AI",
+      "summary": "AI can accelerate marketing, but lasting B2B growth depends on human connection, customer value and relationships that endure. The post How to make trust your competitive differentiator in AI appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-make-trust-your-competitive-differentiator-in-ai/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-29",
+      "title": "3 ways to document and guide your brand’s evolution",
+      "summary": "Create an institutional memory that helps teams understand past brand decisions and make more intentional ones going forward. The post 3 ways to document and guide your brand’s evolution appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/3-ways-to-document-and-guide-your-brands-evolution/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-07-28",
       "title": "July 28, 2026",
@@ -142,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-07-28",
       "title": "Yelp brings reviews and local leads to ChatGPT",
@@ -152,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-28",
       "title": "AI shopping stats 2026: What you need to know",
@@ -162,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-28",
       "title": "StackAdapt rethinks DSPs for the post-dashboard world",
@@ -172,7 +202,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-28",
       "title": "How to build an advantage AI can’t copy",
@@ -182,23 +212,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-28",
       "title": "The CMO’s guide to building an AI-first marketing team",
       "summary": "Turn early AI adoption into better workflows, faster execution, and measurable results through training, process improvements, and clear KPIs. The post The CMO’s guide to building an AI-first marketing team appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/the-cmos-guide-to-building-an-ai-first-marketing-team/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-28",
-      "title": "5 strategies to remove negative search results in 2026 by Erase.com",
-      "summary": "How to remove, deindex, and suppress negative content in Google and why AI search changes the reputation playbook this year. The post 5 strategies to remove negative search results in 2026 appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/5-strategies-to-remove-negative-search-results-in-2026/",
       "live": true
     },
     {
@@ -212,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-07-27",
       "title": "July 27, 2026",
@@ -232,26 +252,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-27",
-      "title": "ChatGPT Ads adds conversion bidding and stronger measurement",
-      "summary": "New capabilities bring it closer to the workflow and optimization tools advertisers already use in Google Ads and Meta Ads. The post ChatGPT Ads adds conversion bidding and stronger measurement appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/chatgpt-ads-adds-conversion-bidding-and-stronger-measurement/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-27",
-      "title": "Why your AI-review process is going to fail",
-      "summary": "Reviewing AI output for plausibility isn't enough. Here's a simple structure you can apply to protect yourself from \"hallucinations.\" The post Why your AI-review process is going to fail appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-your-ai-review-process-is-going-to-fail/",
-      "live": true
-    },
-    {
       "id": "live-WebKit Blog (ITP / Safari)-0",
       "cat": "privacy",
       "date": "2026-07-27",
@@ -262,7 +262,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-07-23",
       "title": "July 23, 2026",
@@ -292,7 +292,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-07-22",
       "title": "July 22, 2026",
@@ -332,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-07-21",
       "title": "July 21, 2026",
@@ -342,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-07-20",
       "title": "July 20, 2026",
@@ -362,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-07-17",
       "title": "July 17, 2026",
@@ -382,7 +382,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
@@ -392,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-07-14",
       "title": "July 14, 2026",
@@ -412,7 +412,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-07-13",
       "title": "July 13, 2026",
@@ -432,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
+      "id": "live-Google Cloud — All release notes-20",
       "cat": "general",
       "date": "2026-07-09",
       "title": "July 09, 2026",
@@ -462,7 +462,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
+      "id": "live-Google Cloud — All release notes-21",
       "cat": "general",
       "date": "2026-07-08",
       "title": "July 08, 2026",
