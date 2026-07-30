@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29T15:25:19.370594+00:00",
+  "generated_at": "2026-07-30T06:39:41.998545+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
-  "count": 95,
+  "count": 94,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 3
+      "items": 2
     },
     {
       "name": "Looker Studio Release Notes",
@@ -122,6 +122,26 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-07-29",
+      "title": "July 29, 2026",
+      "summary": "App Engine standard environment Go Feature Support for enabling only needed legacy bundled services using the app_engine_bundled_services field is in General Availability . App Engine standard environment Java Feature Support for enabling o",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_29_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-07-29",
+      "title": "Launching Structured Data Files v10.1",
+      "summary": "Today we’re announcing the general availability of Structured Data Files v10.1 . All users can now use v10.1 when downloading and uploading SDFs in the Display & Video 360 interface. SDF v10.1 includes the following changes: The ability to ",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/3956869784443149495",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-07-29",
@@ -152,6 +172,16 @@
       "live": true
     },
     {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-07-29",
+      "title": "Release Notes for Safari Technology Preview 249",
+      "summary": "Safari Technology Preview Release 249 is now available for download for macOS Golden Gate and macOS Tahoe.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18182/release-notes-for-safari-technology-preview-249/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-07-28",
@@ -162,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-07-28",
       "title": "Support for AI Content Labeling using the Campaign Manager and Display & Video 360 APIs",
@@ -242,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-07-27",
       "title": "Passkey authentication requirement for the Google Ads API",
@@ -252,7 +282,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-07-27",
       "title": "WebKit Features for Safari 26.6",
@@ -272,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-07-23",
       "title": "July 2026 update to the Display & Video 360 API",
@@ -302,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-07-22",
       "title": "Announcing v25 of the Google Ads API",
@@ -312,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-07-22",
       "title": "Release Notes for Safari Technology Preview 248",
@@ -352,7 +382,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-07-20",
       "title": "Enabling Local Inventory Ads by Default for Shopping Campaigns starting on August 31, 2026",
@@ -442,7 +472,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-07-09",
       "title": "Accelerate Google Ads API Basic Access reviews with brand verification",
@@ -459,16 +489,6 @@
       "summary": "release fixes how Google Tag Manager handles containers loaded using unsupported paths such as /gtag/js or /gtag/destination Previously, these containers degraded to a restricted state where only Google-provided tags and variables were perm",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-21",
-      "cat": "general",
-      "date": "2026-07-08",
-      "title": "July 08, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature External search with AlloyDB now supports Apache Solr in Preview . You can use the external_search_fdw extension to connect to a Solr cluster and query its data directly from your database. Apigee X Security A",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_08_2026",
       "live": true
     },
     {
@@ -492,7 +512,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-07-07",
       "title": "July 07, 2026",
@@ -502,7 +522,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-07-06",
       "title": "Announcing Google Mobile Ads Next-Gen SDK as the preferred SDK for Android",
@@ -512,7 +532,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-07-01",
       "title": "July 01, 2026",
@@ -522,7 +542,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "Introducing the Safari MCP server for web developers",
@@ -532,7 +552,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "Release Notes for Safari Technology Preview 247",
@@ -572,16 +592,6 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-06-29",
-      "title": "Deprecating Structured Data Files v9, v9.1, and v9.2",
-      "summary": "Today we’re announcing the deprecation of Structured Data Files v9 , v9.1 , and v9.2 . These three versions will all sunset on January 28, 2027 . Migrate to v10 or higher before the sunset date to avoid any interruption of service. Follow t",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1623995231499628635",
-      "live": true
-    },
-    {
       "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-06-25",
@@ -599,16 +609,6 @@
       "summary": "Brussels, 24 June – The EDPB has launched a dedicated contact form for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments set out in the EDPB Helsinki State",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-06-22",
-      "title": "June 22, 2026",
-      "summary": "Deployment dates Announcement Starting June 22, 2026, the following features will begin rolling out as part of Looker 26.10. Feature The Gemini Expression Assistant preview feature has been updated to increase performance. Note: This item w",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#June_22_2026",
       "live": true
     },
     {
@@ -632,7 +632,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-06-17",
       "title": "Release Notes for Safari Technology Preview 246",
@@ -652,7 +652,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-06-15",
       "title": "The golden rule of Customizable Select",
@@ -692,23 +692,13 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-06-10",
       "title": "Introducing the Field Guide to Grid Lanes",
       "summary": "This week, we launched the Field Guide to Grid Lanes at gridlanes.webkit.org.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18098/introducing-the-field-guide-to-grid-lanes/",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-06-09",
-      "title": "Discover MapKit JS 6: Rebuilt for Today’s Web Developer",
-      "summary": "MapKit JS allows you to bring the power and simplicity of Apple Maps to your website or web app.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18027/discover-mapkit-js-6-rebuilt-for-todays-web-developer/",
       "live": true
     },
     {
