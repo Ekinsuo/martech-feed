@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30T15:27:34.328018+00:00",
+  "generated_at": "2026-07-31T07:12:25.604248+00:00",
   "ok_sources": 13,
   "fail_sources": 5,
-  "count": 86,
+  "count": 87,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -123,6 +123,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-07-30",
+      "title": "July 30, 2026",
+      "summary": "BigQuery Feature You can add tables, views, data sources, and data quality tests as tasks to BigQuery pipelines. For more information, see Add a pipeline task . This feature is generally available . Feature You can audit when users download",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_30_2026",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-07-30",
@@ -137,7 +147,7 @@
       "cat": "general",
       "date": "2026-07-30",
       "title": "IAB Tech Lab gets AI agents ready for real advertising",
-      "summary": "AAMP 2.1 adds the governance, integrations, and privacy controls organizations need to move AI agents into production. The post IAB Tech Lab gets AI agents ready for real advertising appeared first on MarTech .",
+      "summary": "AAMP 2.3 adds the governance, integrations, and privacy controls organizations need to move AI agents into production. The post IAB Tech Lab gets AI agents ready for real advertising appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/iab-tech-lab-gets-ai-agents-ready-for-real-advertising/",
       "live": true
@@ -163,7 +173,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "scrape-GA4 — What's new-11",
+      "cat": "ga4",
+      "date": "2026-07-30",
+      "title": "New diagnostic in Google Analytics for aggregate parameter issues…",
+      "summary": "We’ve launched a new diagnostic to alert users of issues with campaign data accuracy due to missing URL parameters Properties where aggregate identifiers (GBRAID and gad_) are missing from the URL will see a new diagnostic, including the pr",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-07-29",
       "title": "July 29, 2026",
@@ -223,7 +243,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-07-28",
       "title": "July 28, 2026",
@@ -253,7 +273,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-10",
+      "id": "scrape-GA4 — What's new-12",
       "cat": "ga4",
       "date": "2026-07-28",
       "title": "Campaign data import currency update We've updated campaign data…",
@@ -263,7 +283,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-07-27",
       "title": "July 27, 2026",
@@ -293,7 +313,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-07-23",
       "title": "July 23, 2026",
@@ -313,7 +333,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-07-22",
       "title": "July 22, 2026",
@@ -353,7 +373,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-07-21",
       "title": "July 21, 2026",
@@ -363,7 +383,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-07-20",
       "title": "July 20, 2026",
@@ -383,7 +403,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-07-17",
       "title": "July 17, 2026",
@@ -393,7 +413,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
@@ -403,7 +423,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-07-14",
       "title": "July 14, 2026",
@@ -413,7 +433,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-07-13",
       "title": "July 13, 2026",
@@ -423,7 +443,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-11",
+      "id": "scrape-GA4 — What's new-13",
       "cat": "ga4",
       "date": "2026-07-13",
       "title": "AdMob linking within Google Analytics Google Analytics now offers…",
@@ -433,13 +453,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
+      "id": "live-Looker Release Notes-5",
+      "cat": "looker",
       "date": "2026-07-09",
       "title": "July 09, 2026",
-      "summary": "BigQuery Feature You can use the BigQuery Data Transfer Service to transfer metadata from the following data sources into Knowledge Catalog: PostgreSQL Microsoft SQL Server This feature is in Preview . Feature The Data Agent Kit extension i",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_09_2026",
+      "summary": "Deployment dates Announcement Looker 26.12 will roll out to Looker (original) instances on the following schedule: Expected deployment start: Sunday, July 12, 2026 Expected final deployment and download available: Sunday, July 26, 2026 Look",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_09_2026",
       "live": true
     },
     {
@@ -593,7 +613,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-12",
+      "id": "scrape-GA4 — What's new-14",
       "cat": "ga4",
       "date": "2026-06-11",
       "title": "New Source Group field with update to Source Platform…",
@@ -623,7 +643,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-13",
+      "id": "scrape-GA4 — What's new-15",
       "cat": "ga4",
       "date": "2026-06-08",
       "title": "New Google Business Profile integration You can now centrally…",
@@ -703,7 +723,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-14",
+      "id": "scrape-GA4 — What's new-16",
       "cat": "ga4",
       "date": "2026-05-13",
       "title": "New AI Assistant traffic measurement Google Analytics now provides…",
@@ -713,7 +733,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-15",
+      "id": "scrape-GA4 — What's new-17",
       "cat": "ga4",
       "date": "2026-05-07",
       "title": "Data Manager API support for Google Analytics server-to-server events…",
@@ -723,7 +743,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-16",
+      "id": "scrape-GA4 — What's new-18",
       "cat": "ga4",
       "date": "2026-05-04",
       "title": "Conversion support in the Data API This feature may…",
@@ -740,16 +760,6 @@
       "summary": "Analytics properties This release introduces improved conversion tracking and attribution for Google Ads-linked Google Analytics properties for server-side Tag Manager customers These improvements are achieved via parallel browser signals w",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-17",
-      "cat": "ga4",
-      "date": "2026-04-29",
-      "title": "Configure your Google Analytics settings using Task Assistant To…",
-      "summary": "help you get the most out of your Google Analytics property, we are introducing Task Assistant Task Assistant provides tailored recommendations to help you optimize your configuration and improve data collection,. Available from the left na",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
     },
     {
