@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T07:12:25.604248+00:00",
-  "ok_sources": 13,
-  "fail_sources": 5,
-  "count": 87,
+  "generated_at": "2026-07-31T15:33:33.557267+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 94,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -95,9 +95,8 @@
     {
       "name": "EDPB — GDPR news",
       "cat": "privacy",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "items": 7
     },
     {
       "name": "GTM / Tag Gateway — Release notes",
@@ -123,6 +122,46 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-07-31",
+      "title": "AI speeds marketing production, but measurement lags",
+      "summary": "AI is accelerating marketing production, but most teams still measure clicks instead of business outcomes, limiting their ability to prove AI's impact. The post AI speeds marketing production, but measurement lags appeared first on MarTech ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-speeds-marketing-production-but-measurement-lags/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-07-31",
+      "title": "AI can simulate buyers, but it misses personality",
+      "summary": "Synthetic audiences depend on the signals they're built from. Personality may be the missing ingredient for improving accuracy. The post AI can simulate buyers, but it misses personality appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-can-simulate-buyers-but-it-misses-personality/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-07-31",
+      "title": "4 questions to ask before adding AI to an event workflow",
+      "summary": "MAICON's approach to AI offers a practical framework for deciding which tasks to automate and which should remain human. The post 4 questions to ask before adding AI to an event workflow appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/4-questions-to-ask-before-adding-ai-to-an-event-workflow/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-07-31",
+      "title": "AI is building your digital experience. It’s also making it less accessible. by AudioEye",
+      "summary": "AI is generating more of the web, and it's carrying the same accessibility gaps with it. Marketing has the leverage to close them The post AI is building your digital experience. It s also making it less accessible. appeared first on MarTec",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-is-building-your-digital-experience-its-also-making-it-less-accessible/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-07-30",
@@ -133,7 +172,17 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-07-30",
+      "title": "Data Manager API updates: RemoveAllAudienceMembers method, ingestion field warnings, expanded address data",
+      "summary": "The latest release of the Data Manager API introduces features that simplify audience management, enhance ingestion workflows with field-level warnings, and enable more granular user-provided data for Google Analytics. Remove all audience m",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/8022189612344399816",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-07-30",
       "title": "The latest AI-powered martech news and releases",
@@ -143,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-07-30",
       "title": "IAB Tech Lab gets AI agents ready for real advertising",
@@ -153,7 +202,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-07-30",
       "title": "How to measure marketing when AI owns discovery",
@@ -163,13 +212,23 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-07-30",
       "title": "Why directing AI agents is the next step in marketing work",
       "summary": "As AI takes on more execution, your value comes from knowing what to delegate, how to evaluate the output, and when to step in. The post Why directing AI agents is the next step in marketing work appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/why-directing-ai-agents-is-the-next-step-in-marketing-work/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-07-30",
+      "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: express your interest",
+      "summary": "Brussels, 30 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming guidelines on the interplay between competition and data protection . The event will take place on 1",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law-0_en",
       "live": true
     },
     {
@@ -193,43 +252,13 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-07-29",
       "title": "Launching Structured Data Files v10.1",
       "summary": "Today we’re announcing the general availability of Structured Data Files v10.1 . All users can now use v10.1 when downloading and uploading SDFs in the Display & Video 360 interface. SDF v10.1 includes the following changes: The ability to ",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/3956869784443149495",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-07-29",
-      "title": "Google testing a way to ease email signups",
-      "summary": "The browser-based alternative to OTPs and magic links could improve sign-up conversions and first-party data quality. The post Google testing a way to ease email signups appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/google-testing-a-way-to-ease-email-signups/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-29",
-      "title": "How to make trust your competitive differentiator in AI",
-      "summary": "AI can accelerate marketing, but lasting B2B growth depends on human connection, customer value and relationships that endure. The post How to make trust your competitive differentiator in AI appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-make-trust-your-competitive-differentiator-in-ai/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-29",
-      "title": "3 ways to document and guide your brand’s evolution",
-      "summary": "Create an institutional memory that helps teams understand past brand decisions and make more intentional ones going forward. The post 3 ways to document and guide your brand’s evolution appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/3-ways-to-document-and-guide-your-brands-evolution/",
       "live": true
     },
     {
@@ -253,23 +282,13 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-07-28",
       "title": "Support for AI Content Labeling using the Campaign Manager and Display & Video 360 APIs",
       "summary": "As the use of AI becomes more prevalent, transparency is key. In the last week, we have launched updates in both the Campaign Manager 360 API and Display & Video 360 API that add new optional fields to resources in both APIs, which allow yo",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/2711845243031957475",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-28",
-      "title": "Yelp brings reviews and local leads to ChatGPT",
-      "summary": "ChatGPT gets access to Yelp's reviews and business data, Yelp's gets prime placement and links. The post Yelp brings reviews and local leads to ChatGPT appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/yelp-brings-reviews-and-local-leads-to-chatgpt/",
       "live": true
     },
     {
@@ -293,7 +312,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-07-27",
       "title": "Passkey authentication requirement for the Google Ads API",
@@ -323,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-07-23",
       "title": "July 2026 update to the Display & Video 360 API",
@@ -343,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-07-22",
       "title": "Announcing v25 of the Google Ads API",
@@ -393,7 +412,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-07-20",
       "title": "Enabling Local Inventory Ads by Default for Shopping Campaigns starting on August 31, 2026",
@@ -410,6 +429,16 @@
       "summary": "Audit Manager Feature Audit Manager includes the following features in Preview : A new UI and report experience Ability to schedule audits Ability to run audits at an organization level Batch Feature Instance flexibility is available in Pre",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_17_2026",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-2",
+      "cat": "privacy",
+      "date": "2026-07-17",
+      "title": "EDPB calls for legal basis for cross-regulatory information sharing",
+      "summary": "Dublin, 17 July– At a high-level meeting in Dublin on 16 and 17 July 2026, the European Data Protection Board (EDPB) called for a clear legal basis for the sharing of information among regulators with different competences. The Board also d",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en",
       "live": true
     },
     {
@@ -430,6 +459,16 @@
       "summary": "BigQuery Feature Conversational analytics now supports the AI.AGG function . This function is in Preview . Announcement As part of Gemini in BigQuery , conversational analytics now supports HIPAA compliance. Bigtable Feature AI agents can u",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_14_2026",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-3",
+      "cat": "privacy",
+      "date": "2026-07-14",
+      "title": "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
+      "summary": "Brussels, 14 July–The EDPB has published its binding decision of 28 May 2026 under Art.65(1)(a) GDPR*. The decision concerns a dispute submitted by the Belgian Data Protection Authority (DPA) about a complaint against Vlaamse Radio-en Telev",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en",
       "live": true
     },
     {
@@ -463,7 +502,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-07-09",
       "title": "Accelerate Google Ads API Basic Access reviews with brand verification",
@@ -493,6 +532,16 @@
       "live": true
     },
     {
+      "id": "live-EDPB — GDPR news-4",
+      "cat": "privacy",
+      "date": "2026-07-08",
+      "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
+      "summary": "Brussels, 8 July– During its latest plenary, the EDPB has adopted guidelines on anonymisation and guidelines on web scraping in the context of generative AI. In addition, the Board has adopted the final version of its guidelines on the proc",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
+      "live": true
+    },
+    {
       "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-07-07",
@@ -500,16 +549,6 @@
       "summary": "Looker (Google Cloud core) only changes Feature When you delete a Looker (Google Cloud core) instance, it is now moved to the trash for seven days before being permanently deleted. During this period, you can restore the instance to its pre",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_07_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-07-06",
-      "title": "Announcing Google Mobile Ads Next-Gen SDK as the preferred SDK for Android",
-      "summary": "Google Mobile Ads (GMA) Next-Gen SDK is now the preferred SDK for Android development with Google AdMob and Google Ad Manager. GMA Next-Gen SDK is a significant rewrite of Google Mobile Ads SDK that improves speed, stability, and the develo",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/2385574519757041379",
       "live": true
     },
     {
@@ -543,6 +582,16 @@
       "live": true
     },
     {
+      "id": "live-EDPB — GDPR news-5",
+      "cat": "privacy",
+      "date": "2026-07-01",
+      "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
+      "summary": "Brussels/Frankfurt, 1 July – The EDPB and the Anti-Money Laundering Authority (AMLA) are working together to bring greater clarity to a question of growing importance for industry and authorities alike: how to share information to fight fin",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en",
+      "live": true
+    },
+    {
       "id": "scrape-GTM / Tag Gateway — Release notes-1",
       "cat": "gtm",
       "date": "2026-07-01",
@@ -560,6 +609,26 @@
       "summary": "In preparation for the upcoming major integration between Google Tag and Google Tag Manager , Google has rolled out some user interface changes to your GTM containers. The changes simplify the UI quite a bit, with the biggest changes landin",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/analytics/google-tag-manager-ui-updates/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-6",
+      "cat": "privacy",
+      "date": "2026-06-25",
+      "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
+      "summary": "Brussels, 25 June - The EDPB has published an update of the One-Stop-Shop (OSS) case digest on right to object and right to erasure . This project has been developed in the framework of the of the Support Pool of Experts programme, which ai",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-7",
+      "cat": "privacy",
+      "date": "2026-06-24",
+      "title": "Supporting GDPR consistency: EDPB launches dedicated form",
+      "summary": "Brussels, 24 June – The EDPB has launched a dedicated contact form for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments set out in the EDPB Helsinki State",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
       "live": true
     },
     {
