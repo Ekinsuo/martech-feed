@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T15:33:33.557267+00:00",
+  "generated_at": "2026-08-01T06:39:33.515622+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 94,
@@ -122,6 +122,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-07-31",
+      "title": "July 31, 2026",
+      "summary": "Apigee hybrid Announcement v1.15.7 On July 31, 2026 we released an updated version of the Apigee hybrid software, v1.15.7. For information on upgrading, see Upgrading Apigee hybrid to version v1.15.7 . For information on new installations, ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_31_2026",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-07-31",
@@ -162,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-07-30",
       "title": "July 30, 2026",
@@ -242,7 +252,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-07-29",
       "title": "July 29, 2026",
@@ -272,16 +282,6 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
-      "cat": "general",
-      "date": "2026-07-28",
-      "title": "July 28, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature Note: IAM group authentication is available in Preview for new AlloyDB clusters. To enable this feature on an existing cluster, contact your Google Cloud account team. IAM group authentication for AlloyDB is a",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_28_2026",
-      "live": true
-    },
-    {
       "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-07-28",
@@ -302,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-07-27",
       "title": "July 27, 2026",
@@ -332,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-07-23",
       "title": "July 23, 2026",
@@ -352,7 +352,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-07-22",
       "title": "July 22, 2026",
@@ -392,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-07-21",
       "title": "July 21, 2026",
@@ -402,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-07-20",
       "title": "July 20, 2026",
@@ -422,7 +422,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-07-17",
       "title": "July 17, 2026",
@@ -442,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
@@ -452,7 +452,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-07-14",
       "title": "July 14, 2026",
@@ -472,7 +472,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-07-13",
       "title": "July 13, 2026",
