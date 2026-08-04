@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-03T15:58:59.157850+00:00",
+  "generated_at": "2026-08-04T06:39:04.479672+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
-  "count": 94,
+  "count": 95,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,6 +121,26 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-08-03",
+      "title": "August 03, 2026",
+      "summary": "Backup and DR Feature You can now change the backup plan associated with a Cloud SQL instance. This allows you to switch an instance to a different backup plan, provided the new plan uses the same backup vault and is in the same region as t",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_03_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-08-03",
+      "title": "Google Ads API pilot: Secure API Access to your Manager Accounts",
+      "summary": "The Google Ads API is piloting a security feature designed for securing API access to Google Ads manager accounts. We are seeking developers who would like to participate in this pilot project and provide us with feedback. What are we offer",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4774123560152328684",
+      "live": true
+    },
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
@@ -222,7 +242,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-07-30",
       "title": "Data Manager API updates: RemoveAllAudienceMembers method, ingestion field warnings, expanded address data",
@@ -262,7 +282,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-07-29",
       "title": "Launching Structured Data Files v10.1",
@@ -282,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-07-28",
       "title": "Support for AI Content Labeling using the Campaign Manager and Display & Video 360 APIs",
@@ -312,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-07-27",
       "title": "Passkey authentication requirement for the Google Ads API",
@@ -342,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-07-23",
       "title": "July 2026 update to the Display & Video 360 API",
@@ -362,7 +382,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-07-22",
       "title": "Announcing v25 of the Google Ads API",
@@ -412,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-07-20",
       "title": "Enabling Local Inventory Ads by Default for Shopping Campaigns starting on August 31, 2026",
@@ -472,13 +492,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-21",
-      "cat": "general",
+      "id": "live-Looker Release Notes-4",
+      "cat": "looker",
       "date": "2026-07-13",
       "title": "July 13, 2026",
-      "summary": "Agent Platform Workbench Feature Agent Platform Workbench image release The following Agent Platform Workbench instances image releases are available: 20260712-2130-rc0 ( workbench-instances-2603 - Debian 12) Installed latest packages from ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_13_2026",
+      "summary": "Looker (Google Cloud core) only changes Announcement The latest versions in the Looker (Google Cloud core) release channels are beginning deployment as follows: Latest version in the Rapid channel: Looker 26.12 Latest version in the Regular",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_13_2026",
       "live": true
     },
     {
@@ -499,16 +519,6 @@
       "summary": "Deployment dates Announcement Looker 26.12 will roll out to Looker (original) instances on the following schedule: Expected deployment start: Sunday, July 12, 2026 Expected final deployment and download available: Sunday, July 26, 2026 Look",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_09_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-07-09",
-      "title": "Accelerate Google Ads API Basic Access reviews with brand verification",
-      "summary": "Today, we are launching a pilot process to expedite the Basic Access application review process. If you have a pending Basic Access application for your Google Ads API developer token, then you can complete brand verification for your Googl",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6502080694881879711",
       "live": true
     },
     {
