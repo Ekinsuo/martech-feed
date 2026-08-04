@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T06:39:04.479672+00:00",
+  "generated_at": "2026-08-04T15:40:57.637227+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 95,
@@ -122,11 +122,61 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-04",
+      "title": "OpenAI ad experiment could change what happens after the click",
+      "summary": "ChatGPT ads appear to launch business-specific AI agent that answers questions, recommends products, and captures leads. The post OpenAI ad experiment could change what happens after the click appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/openai-ad-experiment-could-change-what-happens-after-the-click/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-04",
+      "title": "AI is reshaping marketing teams from the inside",
+      "summary": "AI's biggest impact isn't content creation. It's breaking down silos, changing roles, and creating more integrated marketing organizations. The post AI is reshaping marketing teams from the inside appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-is-reshaping-marketing-teams-from-the-inside/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-04",
+      "title": "Customers don’t hate AI. They hate self-serving AI.",
+      "summary": "Every AI investment should make it easier for customers to accomplish what they came to do. Here's how to evaluate whether it does. The post Customers don t hate AI. They hate self-serving AI. appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/customers-dont-hate-ai-they-hate-self-serving-ai/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-08-04",
+      "title": "Marketing on LinkedIn: What you need to know",
+      "summary": "Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new collaborative post feature. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/linkedin-the-marketers-guide/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-08-04",
+      "title": "AI can knock on the door. Your CRM marketing platform is still the house. by Optimove",
+      "summary": "AI assistants like ChatGPT and Claude can now plug straight into your marketing systems. That connection is powerful. But it doesn't replace the platform behind it. It depends on it. The post AI can knock on the door. Your CRM marketing pla",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-can-knock-on-the-door-your-crm-marketing-platform-is-still-the-house/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-08-03",
       "title": "August 03, 2026",
-      "summary": "Backup and DR Feature You can now change the backup plan associated with a Cloud SQL instance. This allows you to switch an instance to a different backup plan, provided the new plan uses the same backup vault and is in the same region as t",
+      "summary": "API Gateway Feature Route LLM requests with model routing You can now use model routing in API Gateway as a managed traffic management layer to accept OpenAI-compatible prompt requests, transcode them in-flight, and route them to specific f",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_03_2026",
       "live": true
@@ -142,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-03",
       "title": "How to give AI the context it needs",
@@ -152,7 +202,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-03",
       "title": "Optimizing your B2B brand for autonomous AI shoppers",
@@ -162,7 +212,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-03",
       "title": "Four holiday reports reveal one big divide over AI",
@@ -172,17 +222,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-08-03",
-      "title": "The next challenge for data clean rooms",
-      "summary": "Privacy and governance are no longer the biggest questions. Determining when a data clean room is the right investment is. The post The next challenge for data clean rooms appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-next-challenge-for-data-clean-rooms/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-07-31",
       "title": "July 31, 2026",
@@ -192,47 +232,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-07-31",
-      "title": "AI speeds marketing production, but measurement lags",
-      "summary": "AI is accelerating marketing production, but most teams still measure clicks instead of business outcomes, limiting their ability to prove AI's impact. The post AI speeds marketing production, but measurement lags appeared first on MarTech ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-speeds-marketing-production-but-measurement-lags/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-07-31",
-      "title": "AI can simulate buyers, but it misses personality",
-      "summary": "Synthetic audiences depend on the signals they're built from. Personality may be the missing ingredient for improving accuracy. The post AI can simulate buyers, but it misses personality appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-can-simulate-buyers-but-it-misses-personality/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-07-31",
-      "title": "4 questions to ask before adding AI to an event workflow",
-      "summary": "MAICON's approach to AI offers a practical framework for deciding which tasks to automate and which should remain human. The post 4 questions to ask before adding AI to an event workflow appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/4-questions-to-ask-before-adding-ai-to-an-event-workflow/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-07-31",
-      "title": "AI is building your digital experience. It’s also making it less accessible. by AudioEye",
-      "summary": "AI is generating more of the web, and it's carrying the same accessibility gaps with it. Marketing has the leverage to close them The post AI is building your digital experience. It s also making it less accessible. appeared first on MarTec",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-is-building-your-digital-experience-its-also-making-it-less-accessible/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-07-30",
       "title": "July 30, 2026",
@@ -272,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-07-29",
       "title": "July 29, 2026",
@@ -322,7 +322,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-07-27",
       "title": "July 27, 2026",
@@ -352,7 +352,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-07-23",
       "title": "July 23, 2026",
@@ -372,7 +372,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-07-22",
       "title": "July 22, 2026",
@@ -412,7 +412,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-07-21",
       "title": "July 21, 2026",
@@ -422,7 +422,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-07-20",
       "title": "July 20, 2026",
@@ -442,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-07-17",
       "title": "July 17, 2026",
@@ -462,7 +462,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
+      "id": "live-Google Cloud — All release notes-20",
       "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
@@ -472,7 +472,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
+      "id": "live-Google Cloud — All release notes-21",
       "cat": "general",
       "date": "2026-07-14",
       "title": "July 14, 2026",
