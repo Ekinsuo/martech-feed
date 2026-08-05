@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:40:57.637227+00:00",
+  "generated_at": "2026-08-05T06:40:05.286433+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 95,
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,6 +121,16 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-08-04",
+      "title": "August 04, 2026",
+      "summary": "AlloyDB for PostgreSQL Feature AlloyDB now supports Best Matching 25 (BM25) indexes for full-text search in Preview . You can use the pg_textsearch extension to create BM25 indexes and optimize probabilistic ranking of full-text search. Thi",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_04_2026",
+      "live": true
+    },
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
@@ -472,13 +482,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-21",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-7",
+      "cat": "bigquery",
       "date": "2026-07-14",
       "title": "July 14, 2026",
-      "summary": "BigQuery Feature Conversational analytics now supports the AI.AGG function . This function is in Preview . Announcement As part of Gemini in BigQuery , conversational analytics now supports HIPAA compliance. Bigtable Feature AI agents can u",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_14_2026",
+      "summary": "Feature Conversational analytics now supports the AI.AGG function . This function is in Preview . Announcement As part of Gemini in BigQuery , conversational analytics now supports HIPAA compliance.",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_14_2026",
       "live": true
     },
     {
@@ -492,7 +502,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-07-13",
       "title": "July 13, 2026",
@@ -512,7 +522,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-07-09",
       "title": "July 09, 2026",
@@ -552,23 +562,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-07-07",
       "title": "July 07, 2026",
       "summary": "Looker (Google Cloud core) only changes Feature When you delete a Looker (Google Cloud core) instance, it is now moved to the trash for seven days before being permanently deleted. During this period, you can restore the instance to its pre",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_07_2026",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-07-01",
-      "title": "July 01, 2026",
-      "summary": "Deployment dates Announcement The latest versions in the Looker (Google Cloud core) release channels are beginning deployment as follows: Latest version in the Rapid channel: 26.10 Latest version in the Regular channel: 26.10 Latest version",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_01_2026",
       "live": true
     },
     {
