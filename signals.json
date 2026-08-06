@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06T06:43:17.546056+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 102,
+  "generated_at": "2026-08-06T15:34:31.060431+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 94,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -131,46 +132,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
-      "date": "2026-08-05",
-      "title": "Is your intent data being sold to your competitors?",
-      "summary": "Researchers say software vendors routinely collect customer and business data and incorporate it into commercial products. The post Is your intent data being sold to your competitors? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/is-your-intent-data-being-sold-to-your-competitors/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-08-05",
-      "title": "The future belongs to marketers who make others smarter",
-      "summary": "Experience isn't losing value because of AI. It's shifting from personal expertise to better decisions, stronger teams, and organizational impact. The post The future belongs to marketers who make others smarter appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-future-belongs-to-marketers-who-make-others-smarter/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-08-05",
-      "title": "How to audit your email automations for revenue gaps",
-      "summary": "Find your email program's weak spots, from deliverability basics to high-value flows and ESP features, and turn missed opportunities into revenue. The post How to audit your email automations for revenue gaps appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-audit-your-email-automations-for-revenue-gaps/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-08-05",
-      "title": "Why the F.A.C.T.S. model is the key to search everywhere optimization by SOCi",
-      "summary": "Learn how to boost visibility across search, social, reputation, and AI using SOCi's F.A.C.T.S. model for multi-location brands. The post Why the F.A.C.T.S. model is the key to search everywhere optimization appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-the-f-a-c-t-s-model-is-the-key-to-search-everywhere-optimization/",
-      "live": true
-    },
-    {
       "id": "live-Apple Developer News-0",
       "cat": "apple",
       "date": "2026-08-05",
@@ -198,46 +159,6 @@
       "summary": "AlloyDB for PostgreSQL Feature AlloyDB now supports Best Matching 25 (BM25) indexes for full-text search in Preview . You can use the pg_textsearch extension to create BM25 indexes and optimize probabilistic ranking of full-text search. Thi",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_04_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-08-04",
-      "title": "OpenAI ad experiment could change what happens after the click",
-      "summary": "ChatGPT ads appear to launch business-specific AI agent that answers questions, recommends products, and captures leads. The post OpenAI ad experiment could change what happens after the click appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/openai-ad-experiment-could-change-what-happens-after-the-click/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-04",
-      "title": "AI is reshaping marketing teams from the inside",
-      "summary": "AI's biggest impact isn't content creation. It's breaking down silos, changing roles, and creating more integrated marketing organizations. The post AI is reshaping marketing teams from the inside appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-is-reshaping-marketing-teams-from-the-inside/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-04",
-      "title": "Customers don’t hate AI. They hate self-serving AI.",
-      "summary": "Every AI investment should make it easier for customers to accomplish what they came to do. Here's how to evaluate whether it does. The post Customers don t hate AI. They hate self-serving AI. appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/customers-dont-hate-ai-they-hate-self-serving-ai/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-04",
-      "title": "Marketing on LinkedIn: What you need to know",
-      "summary": "Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new collaborative post feature. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/linkedin-the-marketers-guide/",
       "live": true
     },
     {
@@ -415,7 +336,7 @@
       "cat": "general",
       "date": "2026-07-22",
       "title": "July 22, 2026",
-      "summary": "Access Approval Feature Privileged Access Manager is available in Preview . Access Transparency Feature Privileged Access Manager is available in Preview . Gemini Enterprise Feature Gemini Enterprise: Support for unauthenticated Custom MCP ",
+      "summary": "Access Approval Feature Agent Identity is available in Preview for Access Approval. Feature Privileged Access Manager is available in Preview . Access Transparency Feature Agent Identity is available in Preview for Access Transparency. Feat",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_22_2026",
       "live": true
