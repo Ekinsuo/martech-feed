@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T15:33:31.906135+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 95,
+  "generated_at": "2026-08-06T06:43:17.546056+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 102,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 3
+      "items": 1
     },
     {
       "name": "Looker Studio Release Notes",
@@ -88,9 +88,8 @@
     {
       "name": "Apple Developer News",
       "cat": "apple",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "EDPB — GDPR news",
@@ -121,6 +120,16 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-08-05",
+      "title": "August 05, 2026",
+      "summary": "Cloud Monitoring Announcement The Telemetry API for metric ingestion is generally available (GA) . You can ingest OTLP metrics into Cloud Monitoring by using an OpenTelemetry Collector, an OTLP exporter, and the Telemetry API. For more info",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_05_2026",
+      "live": true
+    },
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
@@ -162,7 +171,27 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-08-05",
+      "title": "Get ready for new creative assets on the App Store",
+      "summary": "As we announced in June , Apple is introducing new ways to market your apps and games on the App Store. With these new assets, you can go beyond in-use visuals to highlight your brand, seasonal offerings, exciting new content, and more. You",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=kug6m2ea",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-1",
+      "cat": "apple",
+      "date": "2026-08-05",
+      "title": "Hello Developer: August 2026",
+      "summary": "In this edition: Check out an all-new video from Cupertino to dive deeper into the biggest updates from WWDC26. Download templates and get started building App Store assets for iOS 27. Discover best practices for integrating visual intellig",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=vrvvlonn",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-08-04",
       "title": "August 04, 2026",
@@ -212,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-08-03",
       "title": "August 03, 2026",
@@ -232,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-07-31",
       "title": "July 31, 2026",
@@ -242,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-07-30",
       "title": "July 30, 2026",
@@ -282,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-07-29",
       "title": "July 29, 2026",
@@ -332,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-07-27",
       "title": "July 27, 2026",
@@ -362,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-07-23",
       "title": "July 23, 2026",
@@ -382,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-07-22",
       "title": "July 22, 2026",
@@ -422,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-07-21",
       "title": "July 21, 2026",
@@ -432,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-07-20",
       "title": "July 20, 2026",
@@ -452,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-07-17",
       "title": "July 17, 2026",
@@ -472,13 +501,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-6",
+      "cat": "bigquery",
       "date": "2026-07-15",
       "title": "July 15, 2026",
-      "summary": "Apigee UI Fixed Apigee UI Fixed an issue where editing a legacy API Product with a selected API Proxy could cause the Apigee UI to become unresponsive. Apigee X Announcement On July 15th, 2026, we released an updated version of Apigee (1-18",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_15_2026",
+      "summary": "Feature BigQuery supports data governance tags , which let you enforce column-level security and data masking. Data governance tags are a type of Resource Manager tag that you can attach to sensitive columns and use in BigQuery data policie",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_15_2026",
       "live": true
     },
     {
@@ -502,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-07-13",
       "title": "July 13, 2026",
@@ -522,13 +551,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
-      "cat": "looker",
+      "id": "live-Apple Developer News-2",
+      "cat": "apple",
       "date": "2026-07-09",
-      "title": "July 09, 2026",
-      "summary": "Deployment dates Announcement Looker 26.12 will roll out to Looker (original) instances on the following schedule: Expected deployment start: Sunday, July 12, 2026 Expected final deployment and download available: Sunday, July 26, 2026 Look",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_09_2026",
+      "title": "Age rating questionnaire now includes social media questions",
+      "summary": "As announced in June , new Time Allowances in iOS 27, iPadOS 27, and macOS 27, or later, give parents more flexible ways to manage the time their kids spend in apps across categories, including Entertainment, Games, and Social Media. To sup",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=tlur8uvi",
       "live": true
     },
     {
@@ -562,13 +591,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
+      "id": "live-Apple Developer News-3",
+      "cat": "apple",
       "date": "2026-07-07",
-      "title": "July 07, 2026",
-      "summary": "Looker (Google Cloud core) only changes Feature When you delete a Looker (Google Cloud core) instance, it is now moved to the trash for seven days before being permanently deleted. During this period, you can restore the instance to its pre",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_07_2026",
+      "title": "Hello Developer: July 2026",
+      "summary": "In this edition: Try an all-new search tool on the Apple Developer website. Download design kits for Figma and Sketch. Explore the biggest updates from WWDC26 in new activities around the world and online. Read about Apple Design Award winn",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=grx7lcto",
       "live": true
     },
     {
@@ -642,6 +671,16 @@
       "live": true
     },
     {
+      "id": "live-Apple Developer News-4",
+      "cat": "apple",
+      "date": "2026-06-23",
+      "title": "Design kits for iOS, iPadOS, and macOS 27 are here",
+      "summary": "Apple design kits for Figma and Sketch are now available for iOS, iPadOS, and macOS 27. These include: Updates to Liquid Glass Expanded component and state support Naming changes to better align with code Improved resizing The addition of D",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=e2lxw9l1",
+      "live": true
+    },
+    {
       "id": "scrape-GTM / Tag Gateway — Release notes-2",
       "cat": "gtm",
       "date": "2026-06-22",
@@ -649,6 +688,26 @@
       "summary": "that were previously undercounted in server-to-server setups due to a lack of browser cookie context Server-side data is intelligently joined with parallel browser signals, such as cookies, when a GCLID is present so that Floodlight can mor",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-5",
+      "cat": "apple",
+      "date": "2026-06-18",
+      "title": "Updated Apple Developer Program License Agreement now available",
+      "summary": "Attachment 12 of the Apple Developer Program License Agreement has been revised to specify terms for iOS apps in Brazil, including alternative distribution, alternative payments and out-of-app offers, and the Core Technology Commission. Ple",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=umq9wxmm",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-6",
+      "cat": "apple",
+      "date": "2026-06-18",
+      "title": "Changes to iOS in Brazil",
+      "summary": "As part of a recent agreement with Brazil’s competition regulator CADE (Conselho Administrativo de Defesa Econômica), Apple is introducing changes to iOS that create new options for developers' apps in Brazil. Beginning with iOS 26.5, devel",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=dhwadr2x",
       "live": true
     },
     {
@@ -679,6 +738,16 @@
       "summary": "Customizable select is coming to Safari 27.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18117/the-golden-rule-of-customizable-select/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-7",
+      "cat": "apple",
+      "date": "2026-06-15",
+      "title": "New domain for Sign in with Apple and iCloud+ Hide My Email",
+      "summary": "Later this summer, Apple will unify the email domains used by Sign in with Apple and iCloud+ Hide My Email under a single, shared domain: private.icloud.com . New addresses generated for both features will be issued on the new domain. For e",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=sus6t6ab",
       "live": true
     },
     {
