@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T05:49:21.478323+00:00",
+  "generated_at": "2026-08-07T14:28:35.110143+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 94,
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "name": "Looker Studio Release Notes",
@@ -206,7 +206,7 @@
       "cat": "general",
       "date": "2026-07-30",
       "title": "July 30, 2026",
-      "summary": "BigQuery Feature You can add tables, views, data sources, and data quality tests as tasks to BigQuery pipelines. For more information, see Add a pipeline task . This feature is generally available . Feature You can audit when users download",
+      "summary": "Bigtable Feature You can use Bigtable as a remote storage backend for LMCache . By storing the large language model (LLM) key-value (KV) cache externally in Bigtable, multiple AI serving instances can share and reuse precomputed attention t",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_30_2026",
       "live": true
@@ -242,13 +242,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-2",
+      "cat": "bigquery",
       "date": "2026-07-29",
       "title": "July 29, 2026",
-      "summary": "App Engine standard environment Go Feature Support for enabling only needed legacy bundled services using the app_engine_bundled_services field is in General Availability . App Engine standard environment Java Feature Support for enabling o",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_29_2026",
+      "summary": "Feature The BigQuery Data Transfer Service now supports incremental data transfers when transferring data from Klaviyo to BigQuery. This feature is supported in Preview .",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_29_2026",
       "live": true
     },
     {
@@ -322,13 +322,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-4",
+      "cat": "bigquery",
       "date": "2026-07-23",
       "title": "July 23, 2026",
-      "summary": "Agent Registry Feature Agent skill governance is available in Preview . Agent Registry supports standalone skill governance, helping enable secure, enterprise-level management and governance of standalone skills for AI agents. You can regis",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_23_2026",
+      "summary": "Change An updated version of the Simba ODBC driver for BigQuery is now available.",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_23_2026",
       "live": true
     },
     {
@@ -392,13 +392,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-5",
+      "cat": "bigquery",
       "date": "2026-07-20",
       "title": "July 20, 2026",
-      "summary": "Batch Breaking Starting on the following dates, you can no longer create a job that locates its Compute Engine resources outside of the job's location. For projects that have successfully submitted before July 31, 2026 at least one job that",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_20_2026",
+      "summary": "Issue Lakehouse for Apache Iceberg : Data Products with special characters, such as \"/\" or \"-\", are not supported and will not be available in BigQuery even if shared from SAP BDC to BigQuery. If you share a Data Product with special charac",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_20_2026",
       "live": true
     },
     {
@@ -412,13 +412,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
+      "id": "live-Google Cloud — All release notes-20",
+      "cat": "general",
       "date": "2026-07-17",
       "title": "July 17, 2026",
-      "summary": "Looker (Google Cloud core) and Looker (original) changes Feature Starting in Looker 26.8, Looker supports Java OpenJDK version 21. Looker-hosted instances have been upgraded to OpenJDK 21. Customer-hosted instances should upgrade to OpenJDK",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_17_2026",
+      "summary": "Audit Manager Feature Audit Manager includes the following features in Preview : A new UI and report experience Ability to schedule audits Ability to run audits at an organization level Batch Feature Instance flexibility is available in Pre",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_17_2026",
       "live": true
     },
     {
@@ -432,23 +432,23 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-6",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-22",
+      "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
-      "summary": "Feature BigQuery supports data governance tags , which let you enforce column-level security and data masking. Data governance tags are a type of Resource Manager tag that you can attach to sensitive columns and use in BigQuery data policie",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_15_2026",
+      "summary": "Apigee UI Fixed Apigee UI Fixed an issue where editing a legacy API Product with a selected API Proxy could cause the Apigee UI to become unresponsive. Apigee X Announcement On July 15th, 2026, we released an updated version of Apigee (1-18",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_15_2026",
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-23",
+      "cat": "general",
       "date": "2026-07-14",
       "title": "July 14, 2026",
-      "summary": "Feature Conversational analytics now supports the AI.AGG function . This function is in Preview . Announcement As part of Gemini in BigQuery , conversational analytics now supports HIPAA compliance.",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_14_2026",
+      "summary": "Bigtable Feature AI agents can use the list_hot_tablets Model Context Protocol (MCP) tool to programmatically query Bigtable cluster health to isolate resource-intensive tablets (hot tablets) and detect overutilized node CPUs. This feature ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_14_2026",
       "live": true
     },
     {
