@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T15:34:31.060431+00:00",
+  "generated_at": "2026-08-07T05:49:21.478323+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 94,
@@ -124,6 +124,16 @@
     {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
+      "date": "2026-08-06",
+      "title": "August 06, 2026",
+      "summary": "Cloud Key Management Service Feature Preview: Cloud KMS supports quantum-safe key import. You can use the following quantum-safe import methods: HPKE_KEM_XWING_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_KEM_768_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_06_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
+      "cat": "general",
       "date": "2026-08-05",
       "title": "August 05, 2026",
       "summary": "Cloud Monitoring Announcement The Telemetry API for metric ingestion is generally available (GA) . You can ingest OTLP metrics into Cloud Monitoring by using an OpenTelemetry Collector, an OTLP exporter, and the Telemetry API. For more info",
@@ -152,7 +162,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-08-04",
       "title": "August 04, 2026",
@@ -162,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-08-03",
       "title": "August 03, 2026",
@@ -182,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-07-31",
       "title": "July 31, 2026",
@@ -192,7 +202,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-07-30",
       "title": "July 30, 2026",
@@ -232,7 +242,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-07-29",
       "title": "July 29, 2026",
@@ -282,7 +292,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-07-27",
       "title": "July 27, 2026",
@@ -312,7 +322,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-07-23",
       "title": "July 23, 2026",
@@ -332,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-07-22",
       "title": "July 22, 2026",
@@ -372,7 +382,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-07-21",
       "title": "July 21, 2026",
@@ -382,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-07-20",
       "title": "July 20, 2026",
@@ -402,13 +412,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
-      "cat": "general",
+      "id": "live-Looker Release Notes-7",
+      "cat": "looker",
       "date": "2026-07-17",
       "title": "July 17, 2026",
-      "summary": "Audit Manager Feature Audit Manager includes the following features in Preview : A new UI and report experience Ability to schedule audits Ability to run audits at an organization level Batch Feature Instance flexibility is available in Pre",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_17_2026",
+      "summary": "Looker (Google Cloud core) and Looker (original) changes Feature Starting in Looker 26.8, Looker supports Java OpenJDK version 21. Looker-hosted instances have been upgraded to OpenJDK 21. Customer-hosted instances should upgrade to OpenJDK",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_17_2026",
       "live": true
     },
     {
@@ -449,16 +459,6 @@
       "summary": "Brussels, 14 July–The EDPB has published its binding decision of 28 May 2026 under Art.65(1)(a) GDPR*. The decision concerns a dispute submitted by the Belgian Data Protection Authority (DPA) about a complaint against Vlaamse Radio-en Telev",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-07-13",
-      "title": "July 13, 2026",
-      "summary": "Looker (Google Cloud core) only changes Announcement The latest versions in the Looker (Google Cloud core) release channels are beginning deployment as follows: Latest version in the Rapid channel: Looker 26.12 Latest version in the Regular",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_13_2026",
       "live": true
     },
     {
