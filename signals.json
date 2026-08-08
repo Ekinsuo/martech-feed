@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T05:08:38.694732+00:00",
+  "generated_at": "2026-08-08T14:01:56.296567+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 3
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 1
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -171,13 +171,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
-      "cat": "general",
+      "id": "live-Looker Release Notes-0",
+      "cat": "looker",
       "date": "2026-08-06",
       "title": "August 06, 2026",
-      "summary": "Cloud Key Management Service Feature Preview: Cloud KMS supports quantum-safe key import. You can use the following quantum-safe import methods: HPKE_KEM_XWING_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_KEM_768_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_06_2026",
+      "summary": "Deployment dates Announcement Looker 26.14 will roll out to Looker (original) instances on the following schedule: Expected deployment start: Monday, August 10, 2026 Expected final deployment and download available: Sunday, August 23, 2026 ",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#August_06_2026",
       "live": true
     },
     {
@@ -431,13 +431,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
+      "id": "live-Looker Release Notes-5",
+      "cat": "looker",
       "date": "2026-07-22",
       "title": "July 22, 2026",
-      "summary": "Access Approval Feature Agent Identity is available in Preview for Access Approval. Feature Privileged Access Manager is available in Preview . Access Transparency Feature Agent Identity is available in Preview for Access Transparency. Feat",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_22_2026",
+      "summary": "Deployment dates Security A Cross-Site Scripting (XSS) vulnerability was discovered in Looker. An attacker could craft a malicious URL that, when opened by a Looker administrator, would allow the attacker to execute arbitrary scripts on the",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_22_2026",
       "live": true
     },
     {
@@ -471,23 +471,23 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
-      "cat": "general",
+      "id": "live-Looker Release Notes-6",
+      "cat": "looker",
       "date": "2026-07-21",
       "title": "July 21, 2026",
-      "summary": "Anthos Attached Clusters Announcement You can now launch clusters with the following Kubernetes versions. Click on the following links to see the release notes associated with these patches: 1.35.0-gke.1 1.34.0-gke.2 1.33.0-gke.3 Anthos clu",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_21_2026",
+      "summary": "Looker (Google Cloud core) and Looker (original) changes Deprecated As of July 13, 2026, Looker reports have been deprecated. If you had previously enabled the preview for Looker reports, be aware of the following: You will no longer have t",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_21_2026",
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-5",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-18",
+      "cat": "general",
       "date": "2026-07-20",
       "title": "July 20, 2026",
-      "summary": "Issue Lakehouse for Apache Iceberg : Data Products with special characters, such as \"/\" or \"-\", are not supported and will not be available in BigQuery even if shared from SAP BDC to BigQuery. If you share a Data Product with special charac",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_20_2026",
+      "summary": "Batch Breaking Starting on the following dates, you can no longer create a job that locates its Compute Engine resources outside of the job's location. For projects that have successfully submitted before July 31, 2026 at least one job that",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_20_2026",
       "live": true
     },
     {
@@ -501,13 +501,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
+      "id": "live-Google Cloud — All release notes-21",
+      "cat": "general",
       "date": "2026-07-17",
       "title": "July 17, 2026",
-      "summary": "Looker (Google Cloud core) and Looker (original) changes Feature Starting in Looker 26.8, Looker supports Java OpenJDK version 21. Looker-hosted instances have been upgraded to OpenJDK 21. Customer-hosted instances should upgrade to OpenJDK",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_17_2026",
+      "summary": "Audit Manager Feature Audit Manager includes the following features in Preview : A new UI and report experience Ability to schedule audits Ability to run audits at an organization level Batch Feature Instance flexibility is available in Pre",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_17_2026",
       "live": true
     },
     {
@@ -521,13 +521,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-6",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-23",
+      "cat": "general",
       "date": "2026-07-15",
       "title": "July 15, 2026",
-      "summary": "Feature BigQuery supports data governance tags , which let you enforce column-level security and data masking. Data governance tags are a type of Resource Manager tag that you can attach to sensitive columns and use in BigQuery data policie",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_15_2026",
+      "summary": "Apigee UI Fixed Apigee UI Fixed an issue where editing a legacy API Product with a selected API Proxy could cause the Apigee UI to become unresponsive. Apigee X Announcement On July 15th, 2026, we released an updated version of Apigee (1-18",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_15_2026",
       "live": true
     },
     {
