@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T14:28:35.110143+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 94,
+  "generated_at": "2026-08-08T05:08:38.694732+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "name": "Looker Studio Release Notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -124,6 +123,56 @@
     {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
+      "date": "2026-08-07",
+      "title": "August 07, 2026",
+      "summary": "AlloyDB for PostgreSQL Feature You can now sync tables from BigQuery into your AlloyDB instance, either as a one-time operation or on a periodic schedule. This feature (in Preview ) lets you enable operational analytics that benefit from lo",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_07_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-07",
+      "title": "Here are the marketing skills AI is making more valuable",
+      "summary": "As AI takes on more execution, there is more need for marketers who bring judgment, strategy and the skills to direct the technology. The post Here are the marketing skills AI is making more valuable appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/here-are-the-marketing-skills-ai-is-making-more-valuable/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-07",
+      "title": "6 steps to protect your data from being stolen by vendors",
+      "summary": "Learn how to audit martech vendors, limit their access to sensitive data and make security part of every software purchase. The post 6 steps to protect your data from being stolen by vendors appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/6-steps-to-protect-your-data-from-being-stolen-by-vendors/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-07",
+      "title": "How to build a technology advisory committee that adds value",
+      "summary": "Reduce duplicate software, improve adoption, and align technology investments with governance that supports smarter purchasing. The post How to build a technology advisory committee that adds value appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-build-a-technology-advisory-committee-that-adds-value/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-08-07",
+      "title": "Personalization still falls short of customer expectations",
+      "summary": "Most brands recognize customers but don't understand their context. Learn what's keeping personalization from meeting rising customer expectations. The post Personalization still falls short of customer expectations appeared first on MarTec",
+      "src": "MarTech.org",
+      "url": "https://martech.org/personalization-still-falls-short-of-customer-expectations/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
+      "cat": "general",
       "date": "2026-08-06",
       "title": "August 06, 2026",
       "summary": "Cloud Key Management Service Feature Preview: Cloud KMS supports quantum-safe key import. You can use the following quantum-safe import methods: HPKE_KEM_XWING_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_KEM_768_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_",
@@ -132,7 +181,47 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-08-06",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Klaviyo is acquiring AI startup Agency and bringing its founder, Elias Torres, aboard as chief product officer. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-08-06",
+      "title": "Time’s AI-only ads may be marketing’s next frontier",
+      "summary": "Time is serving ads directly to AI crawlers, a strategy that could reshape how brands influence AI-generated answers. The post Time s AI-only ads may be marketing s next frontier appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/times-ai-only-ads-may-be-marketings-next-frontier/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-08-06",
+      "title": "How agencies are evolving to overcome AI",
+      "summary": "Routine content creation is becoming less valuable. New research shows agencies are responding by selling expertise instead of production. The post How agencies are evolving to overcome AI appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-agencies-are-evolving-to-overcome-ai/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-08-06",
+      "title": "Stop looking for the perfect attribution model",
+      "summary": "No attribution model can answer every business question. Successful B2B marketers combine attribution, MMM, and experimentation instead. The post Stop looking for the perfect attribution model appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/stop-looking-for-the-perfect-attribution-model/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-08-05",
       "title": "August 05, 2026",
@@ -162,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-08-04",
       "title": "August 04, 2026",
@@ -172,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-08-03",
       "title": "August 03, 2026",
@@ -192,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-07-31",
       "title": "July 31, 2026",
@@ -202,11 +291,11 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-07-30",
       "title": "July 30, 2026",
-      "summary": "Bigtable Feature You can use Bigtable as a remote storage backend for LMCache . By storing the large language model (LLM) key-value (KV) cache externally in Bigtable, multiple AI serving instances can share and reuse precomputed attention t",
+      "summary": "BigQuery Feature You can add tables, views, data sources, and data quality tests as tasks to BigQuery pipelines. For more information, see Add a pipeline task . This feature is generally available . Feature You can audit when users download",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_30_2026",
       "live": true
@@ -242,13 +331,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-2",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-9",
+      "cat": "general",
       "date": "2026-07-29",
       "title": "July 29, 2026",
-      "summary": "Feature The BigQuery Data Transfer Service now supports incremental data transfers when transferring data from Klaviyo to BigQuery. This feature is supported in Preview .",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_29_2026",
+      "summary": "App Engine standard environment Go Feature Support for enabling only needed legacy bundled services using the app_engine_bundled_services field is in General Availability . App Engine standard environment Java Feature Support for enabling o",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_29_2026",
       "live": true
     },
     {
@@ -292,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-07-27",
       "title": "July 27, 2026",
@@ -322,13 +411,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-4",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-15",
+      "cat": "general",
       "date": "2026-07-23",
       "title": "July 23, 2026",
-      "summary": "Change An updated version of the Simba ODBC driver for BigQuery is now available.",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_23_2026",
+      "summary": "Agent Registry Feature Agent skill governance is available in Preview . Agent Registry supports standalone skill governance, helping enable secure, enterprise-level management and governance of standalone skills for AI agents. You can regis",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_23_2026",
       "live": true
     },
     {
@@ -342,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-07-22",
       "title": "July 22, 2026",
@@ -382,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-07-21",
       "title": "July 21, 2026",
@@ -412,13 +501,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
+      "id": "live-Looker Release Notes-7",
+      "cat": "looker",
       "date": "2026-07-17",
       "title": "July 17, 2026",
-      "summary": "Audit Manager Feature Audit Manager includes the following features in Preview : A new UI and report experience Ability to schedule audits Ability to run audits at an organization level Batch Feature Instance flexibility is available in Pre",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_17_2026",
+      "summary": "Looker (Google Cloud core) and Looker (original) changes Feature Starting in Looker 26.8, Looker supports Java OpenJDK version 21. Looker-hosted instances have been upgraded to OpenJDK 21. Customer-hosted instances should upgrade to OpenJDK",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_17_2026",
       "live": true
     },
     {
@@ -432,23 +521,23 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-22",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-6",
+      "cat": "bigquery",
       "date": "2026-07-15",
       "title": "July 15, 2026",
-      "summary": "Apigee UI Fixed Apigee UI Fixed an issue where editing a legacy API Product with a selected API Proxy could cause the Apigee UI to become unresponsive. Apigee X Announcement On July 15th, 2026, we released an updated version of Apigee (1-18",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_15_2026",
+      "summary": "Feature BigQuery supports data governance tags , which let you enforce column-level security and data masking. Data governance tags are a type of Resource Manager tag that you can attach to sensitive columns and use in BigQuery data policie",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_15_2026",
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-23",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-7",
+      "cat": "bigquery",
       "date": "2026-07-14",
       "title": "July 14, 2026",
-      "summary": "Bigtable Feature AI agents can use the list_hot_tablets Model Context Protocol (MCP) tool to programmatically query Bigtable cluster health to isolate resource-intensive tablets (hot tablets) and detect overutilized node CPUs. This feature ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_14_2026",
+      "summary": "Feature Conversational analytics now supports the AI.AGG function . This function is in Preview . Announcement As part of Gemini in BigQuery , conversational analytics now supports HIPAA compliance.",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_14_2026",
       "live": true
     },
     {
