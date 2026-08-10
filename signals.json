@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T05:42:36.858764+00:00",
+  "generated_at": "2026-08-10T14:33:41.249896+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,6 +121,46 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-10",
+      "title": "The marketing-to-sales handoff is where revenue leaks",
+      "summary": "Buying signals lose value when speed and context disappear. Connected workflows turn more opportunities into revenue. The post The marketing-to-sales handoff is where revenue leaks appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-marketing-to-sales-handoff-is-where-revenue-leaks/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-10",
+      "title": "How to manage AI prompt governance and costs",
+      "summary": "Scaling content generation requires strict fiscal and brand control. Here is how to build centralized frameworks for prompts and tokens. The post How to manage AI prompt governance and costs appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-manage-ai-prompt-governance-and-costs/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-10",
+      "title": "5 AI blind spots that cost you conversions",
+      "summary": "Every marketer can generate competent copy. Few understand what actually changes behavior. The post 5 AI blind spots that cost you conversions appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/5-ai-blind-spots-that-cost-you-conversions/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-08-10",
+      "title": "OpenAI adds technology to compete for ad dollars",
+      "summary": "Product carousels and AppsFlyer attribution give ChatGPT more of what performance marketers need to move beyond experimental ad buys. The post OpenAI adds technology to compete for ad dollars appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/openai-adds-technology-to-compete-for-ad-dollars/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-08-07",
@@ -131,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-08-07",
       "title": "Here are the marketing skills AI is making more valuable",
@@ -141,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-07",
       "title": "6 steps to protect your data from being stolen by vendors",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-07",
       "title": "How to build a technology advisory committee that adds value",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-07",
       "title": "Personalization still falls short of customer expectations",
@@ -178,46 +218,6 @@
       "summary": "Cloud Key Management Service Feature Preview: Cloud KMS supports quantum-safe key import. You can use the following quantum-safe import methods: HPKE_KEM_XWING_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_KEM_768_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_06_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-08-06",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Klaviyo is acquiring AI startup Agency and bringing its founder, Elias Torres, aboard as chief product officer. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-06",
-      "title": "Time’s AI-only ads may be marketing’s next frontier",
-      "summary": "Time is serving ads directly to AI crawlers, a strategy that could reshape how brands influence AI-generated answers. The post Time s AI-only ads may be marketing s next frontier appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/times-ai-only-ads-may-be-marketings-next-frontier/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-06",
-      "title": "How agencies are evolving to overcome AI",
-      "summary": "Routine content creation is becoming less valuable. New research shows agencies are responding by selling expertise instead of production. The post How agencies are evolving to overcome AI appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-agencies-are-evolving-to-overcome-ai/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-06",
-      "title": "Stop looking for the perfect attribution model",
-      "summary": "No attribution model can answer every business question. Successful B2B marketers combine attribution, MMM, and experimentation instead. The post Stop looking for the perfect attribution model appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/stop-looking-for-the-perfect-attribution-model/",
       "live": true
     },
     {
