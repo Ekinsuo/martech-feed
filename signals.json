@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T14:33:41.249896+00:00",
+  "generated_at": "2026-08-11T05:21:00.234519+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 3
+      "items": 2
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,6 +121,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-08-10",
+      "title": "August 10, 2026",
+      "summary": "BigQuery Feature BigQuery now supports the gemini-3.1-flash-lite and gemini-3.5-flash GA models, which are available for the us , eu , and global multi-regional endpoints. You can use these models in all generative AI functions. For informa",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_10_2026",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-08-10",
@@ -161,7 +171,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "scrape-GA4 — What's new-12",
+      "cat": "ga4",
+      "date": "2026-08-10",
+      "title": "Campaign data import validation report We’ve launched a new…",
+      "summary": "validation report to help you verify and improve the quality of your campaign data imports The campaign data import validation report assists you in assessing your non-Google campaign data and imported campaign data. This helps you pinpoint",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-08-07",
       "title": "August 07, 2026",
@@ -211,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-08-06",
       "title": "August 06, 2026",
@@ -221,11 +241,11 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-08-05",
       "title": "August 05, 2026",
-      "summary": "Cloud Monitoring Announcement The Telemetry API for metric ingestion is generally available (GA) . You can ingest OTLP metrics into Cloud Monitoring by using an OpenTelemetry Collector, an OTLP exporter, and the Telemetry API. For more info",
+      "summary": "Cloud Database Migration Service Feature You can now manage your Database Migration Service migration jobs directly from the destination Cloud SQL instance or AlloyDB for PostgreSQL cluster pages in the Google Cloud console. For more inform",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_05_2026",
       "live": true
@@ -251,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-08-04",
       "title": "August 04, 2026",
@@ -261,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-08-03",
       "title": "August 03, 2026",
@@ -281,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-07-31",
       "title": "July 31, 2026",
@@ -291,11 +311,11 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-07-30",
       "title": "July 30, 2026",
-      "summary": "BigQuery Feature You can add tables, views, data sources, and data quality tests as tasks to BigQuery pipelines. For more information, see Add a pipeline task . This feature is generally available . Feature You can audit when users download",
+      "summary": "Agent Platform Workbench Change M145 Release Change 20260730-2130-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Fixed Fixed the JupyterLab Git extension",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_30_2026",
       "live": true
@@ -321,7 +341,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-11",
+      "id": "scrape-GA4 — What's new-13",
       "cat": "ga4",
       "date": "2026-07-30",
       "title": "New diagnostic in Google Analytics for aggregate parameter issues…",
@@ -331,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-07-29",
       "title": "July 29, 2026",
@@ -371,7 +391,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-12",
+      "id": "scrape-GA4 — What's new-14",
       "cat": "ga4",
       "date": "2026-07-28",
       "title": "Campaign data import currency update We've updated campaign data…",
@@ -381,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-07-27",
       "title": "July 27, 2026",
@@ -411,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-07-23",
       "title": "July 23, 2026",
@@ -431,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-07-22",
       "title": "July 22, 2026",
@@ -471,17 +491,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
-      "cat": "general",
+      "id": "live-Looker Release Notes-6",
+      "cat": "looker",
       "date": "2026-07-21",
       "title": "July 21, 2026",
-      "summary": "Anthos Attached Clusters Announcement You can now launch clusters with the following Kubernetes versions. Click on the following links to see the release notes associated with these patches: 1.35.0-gke.1 1.34.0-gke.2 1.33.0-gke.3 Anthos clu",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_21_2026",
+      "summary": "Looker (Google Cloud core) and Looker (original) changes Deprecated As of July 13, 2026, Looker reports have been deprecated. If you had previously enabled the preview for Looker reports, be aware of the following: You will no longer have t",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_21_2026",
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-5",
+      "id": "live-BigQuery Release Notes-6",
       "cat": "bigquery",
       "date": "2026-07-20",
       "title": "July 20, 2026",
@@ -521,23 +541,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-6",
+      "id": "live-BigQuery Release Notes-7",
       "cat": "bigquery",
       "date": "2026-07-15",
       "title": "July 15, 2026",
       "summary": "Feature BigQuery supports data governance tags , which let you enforce column-level security and data masking. Data governance tags are a type of Resource Manager tag that you can attach to sensitive columns and use in BigQuery data policie",
       "src": "BigQuery Release Notes",
       "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_15_2026",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
-      "date": "2026-07-14",
-      "title": "July 14, 2026",
-      "summary": "Feature Conversational analytics now supports the AI.AGG function . This function is in Preview . Announcement As part of Gemini in BigQuery , conversational analytics now supports HIPAA compliance.",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_14_2026",
       "live": true
     },
     {
@@ -551,7 +561,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-13",
+      "id": "scrape-GA4 — What's new-15",
       "cat": "ga4",
       "date": "2026-07-13",
       "title": "AdMob linking within Google Analytics Google Analytics now offers…",
@@ -771,7 +781,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-14",
+      "id": "scrape-GA4 — What's new-16",
       "cat": "ga4",
       "date": "2026-06-11",
       "title": "New Source Group field with update to Source Platform…",
@@ -801,7 +811,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-15",
+      "id": "scrape-GA4 — What's new-17",
       "cat": "ga4",
       "date": "2026-06-08",
       "title": "New Google Business Profile integration You can now centrally…",
@@ -881,7 +891,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-16",
+      "id": "scrape-GA4 — What's new-18",
       "cat": "ga4",
       "date": "2026-05-13",
       "title": "New AI Assistant traffic measurement Google Analytics now provides…",
@@ -891,21 +901,11 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-17",
+      "id": "scrape-GA4 — What's new-19",
       "cat": "ga4",
       "date": "2026-05-07",
       "title": "Data Manager API support for Google Analytics server-to-server events…",
       "summary": "Data Manager API provides you with an alternative to Measurement Protocol (MP) for sending recommended and custom events directly to your Google Analytics property You can send events to both your Google Analytics web and app data streams, ",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-18",
-      "cat": "ga4",
-      "date": "2026-05-04",
-      "title": "Conversion support in the Data API This feature may…",
-      "summary": "not be available to your Google Analytics property The Google Analytics team is actively working to expand this feature to more properties. Reach out to your support team if you have questions about the eligibility of your property. Cross-c",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
