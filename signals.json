@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T05:21:00.234519+00:00",
+  "generated_at": "2026-08-11T14:33:13.699054+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,6 +121,46 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-11",
+      "title": "B2B growth doesn’t end at closed-won",
+      "summary": "From first value to expansion, a strong post-sale system helps B2B companies compound the value of customers they’ve already won. The post B2B growth doesn’t end at closed-won appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/b2b-growth-doesnt-end-at-closed-won/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-11",
+      "title": "A 7-step guide to running ads on ChatGPT",
+      "summary": "ChatGPT Ads work differently from other ad platforms. Here’s what early campaigns reveal about CPCs, targeting, measurement, and performance. The post A 7-step guide to running ads on ChatGPT appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/a-7-step-guide-to-running-ads-on-chatgpt/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-11",
+      "title": "How AI, publishers, and social media are rewriting product discovery",
+      "summary": "Product discovery now spans AI, social, publishers, creators and communities. Here’s how brands can influence purchase decisions. The post How AI, publishers, and social media are rewriting product discovery appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-ai-publishers-and-social-media-are-rewriting-product-discovery/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-08-11",
+      "title": "IAB Tech Lab releases new privacy standards",
+      "summary": "Rules aim to keep up with evolving state laws and to make it easier to communicate consumer privacy choices. The post IAB Tech Lab releases new privacy standards appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/iab-tech-lab-releases-new-privacy-standards/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-08-10",
@@ -131,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-08-10",
       "title": "The marketing-to-sales handoff is where revenue leaks",
@@ -141,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-10",
       "title": "How to manage AI prompt governance and costs",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-10",
       "title": "5 AI blind spots that cost you conversions",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-10",
       "title": "OpenAI adds technology to compete for ad dollars",
@@ -188,46 +228,6 @@
       "summary": "AlloyDB for PostgreSQL Feature You can now sync tables from BigQuery into your AlloyDB instance, either as a one-time operation or on a periodic schedule. This feature (in Preview ) lets you enable operational analytics that benefit from lo",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_07_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-08-07",
-      "title": "Here are the marketing skills AI is making more valuable",
-      "summary": "As AI takes on more execution, there is more need for marketers who bring judgment, strategy and the skills to direct the technology. The post Here are the marketing skills AI is making more valuable appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/here-are-the-marketing-skills-ai-is-making-more-valuable/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-07",
-      "title": "6 steps to protect your data from being stolen by vendors",
-      "summary": "Learn how to audit martech vendors, limit their access to sensitive data and make security part of every software purchase. The post 6 steps to protect your data from being stolen by vendors appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/6-steps-to-protect-your-data-from-being-stolen-by-vendors/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-07",
-      "title": "How to build a technology advisory committee that adds value",
-      "summary": "Reduce duplicate software, improve adoption, and align technology investments with governance that supports smarter purchasing. The post How to build a technology advisory committee that adds value appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-build-a-technology-advisory-committee-that-adds-value/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-07",
-      "title": "Personalization still falls short of customer expectations",
-      "summary": "Most brands recognize customers but don't understand their context. Learn what's keeping personalization from meeting rising customer expectations. The post Personalization still falls short of customer expectations appeared first on MarTec",
-      "src": "MarTech.org",
-      "url": "https://martech.org/personalization-still-falls-short-of-customer-expectations/",
       "live": true
     },
     {
