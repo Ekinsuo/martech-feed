@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T14:33:13.699054+00:00",
+  "generated_at": "2026-08-12T05:44:39.523650+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 2
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,6 +121,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-08-11",
+      "title": "August 11, 2026",
+      "summary": "BigQuery Feature Query templates for data clean rooms are generally available (GA). Query templates allow data clean room owners and publishers to share predefined queries without exposing the underlying tables and views. Additionally, tabl",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_11_2026",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-08-11",
@@ -161,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-08-10",
       "title": "August 10, 2026",
@@ -221,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-08-07",
       "title": "August 07, 2026",
@@ -231,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-08-06",
       "title": "August 06, 2026",
@@ -241,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-08-05",
       "title": "August 05, 2026",
@@ -271,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-08-04",
       "title": "August 04, 2026",
@@ -281,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-08-03",
       "title": "August 03, 2026",
@@ -301,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-07-31",
       "title": "July 31, 2026",
@@ -311,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-07-30",
       "title": "July 30, 2026",
@@ -351,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-07-29",
       "title": "July 29, 2026",
@@ -401,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-07-27",
       "title": "July 27, 2026",
@@ -431,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-07-23",
       "title": "July 23, 2026",
@@ -451,13 +461,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
-      "cat": "general",
+      "id": "live-Looker Release Notes-5",
+      "cat": "looker",
       "date": "2026-07-22",
       "title": "July 22, 2026",
-      "summary": "Access Approval Feature Agent Identity is available in Preview for Access Approval. Feature Privileged Access Manager is available in Preview . Access Transparency Feature Agent Identity is available in Preview for Access Transparency. Feat",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_22_2026",
+      "summary": "Deployment dates Security A Cross-Site Scripting (XSS) vulnerability was discovered in Looker. An attacker could craft a malicious URL that, when opened by a Looker administrator, would allow the attacker to execute arbitrary scripts on the",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_22_2026",
       "live": true
     },
     {
@@ -501,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-6",
+      "id": "live-BigQuery Release Notes-7",
       "cat": "bigquery",
       "date": "2026-07-20",
       "title": "July 20, 2026",
@@ -538,16 +548,6 @@
       "summary": "Dublin, 17 July– At a high-level meeting in Dublin on 16 and 17 July 2026, the European Data Protection Board (EDPB) called for a clear legal basis for the sharing of information among regulators with different competences. The Board also d",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
-      "date": "2026-07-15",
-      "title": "July 15, 2026",
-      "summary": "Feature BigQuery supports data governance tags , which let you enforce column-level security and data masking. Data governance tags are a type of Resource Manager tag that you can attach to sensitive columns and use in BigQuery data policie",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_15_2026",
       "live": true
     },
     {
