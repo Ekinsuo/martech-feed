@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T05:47:06.280763+00:00",
+  "generated_at": "2026-08-13T14:34:15.926270+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 103,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "name": "Looker Studio Release Notes",
@@ -123,6 +123,46 @@
     {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
+      "date": "2026-08-13",
+      "title": "August 13, 2026",
+      "summary": "Data Studio Feature Fullscreen charts You can view individual charts in fullscreen mode. Click the fullscreen button in the chart header to expand the chart. This feature is not available for scorecards and gauge charts. Feature Rotate comp",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_13_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-13",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Nielsen’s DoubleVerify deal helps verification as AI takes on more media decisions, raising new questions about trust and transparency. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-13",
+      "title": "The AI debt hidden in faster marketing",
+      "summary": "Marketing can produce more with AI, but every new capability creates work to govern, integrate, measure, and maintain. That’s where AI debt builds. The post The AI debt hidden in faster marketing appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-ai-debt-hidden-in-faster-marketing/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-13",
+      "title": "Here’s the first martech category replaced by AI",
+      "summary": "CI tools are losing ground to ChatGPT, Claude, and Gemini. Here's why stale battlecards may be the bigger problem. The post Here s the first martech category replaced by AI appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/heres-the-first-martech-category-replaced-by-ai/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
+      "cat": "general",
       "date": "2026-08-12",
       "title": "August 12, 2026",
       "summary": "Apigee API hub Feature Configure and deploy MCP servers with gcloud CLI You can use the gcloud apihub locations configure-and-deploy-server command to configure and deploy API hub Model Context Protocol (MCP) servers to an attached Apigee r",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-08-12",
       "title": "Marketing without signals: How to perform when the data disappears",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-08-12",
       "title": "When marketers should ignore the data",
@@ -171,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-12",
       "title": "5 brands whose small actions drove big returns",
@@ -181,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-12",
       "title": "Programmatic video needs more visibility into AI-driven decisions",
@@ -201,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-08-11",
       "title": "August 11, 2026",
@@ -211,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-11",
       "title": "B2B growth doesn’t end at closed-won",
@@ -221,37 +261,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-11",
-      "title": "A 7-step guide to running ads on ChatGPT",
-      "summary": "ChatGPT Ads work differently from other ad platforms. Here’s what early campaigns reveal about CPCs, targeting, measurement, and performance. The post A 7-step guide to running ads on ChatGPT appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/a-7-step-guide-to-running-ads-on-chatgpt/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-11",
-      "title": "How AI, publishers, and social media are rewriting product discovery",
-      "summary": "Product discovery now spans AI, social, publishers, creators and communities. Here’s how brands can influence purchase decisions. The post How AI, publishers, and social media are rewriting product discovery appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-ai-publishers-and-social-media-are-rewriting-product-discovery/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-11",
-      "title": "IAB Tech Lab releases new privacy standards",
-      "summary": "Rules aim to keep up with evolving state laws and to make it easier to communicate consumer privacy choices. The post IAB Tech Lab releases new privacy standards appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/iab-tech-lab-releases-new-privacy-standards/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-08-10",
       "title": "August 10, 2026",
@@ -271,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-08-07",
       "title": "August 07, 2026",
@@ -281,17 +291,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
-      "cat": "general",
+      "id": "live-Looker Release Notes-0",
+      "cat": "looker",
       "date": "2026-08-06",
       "title": "August 06, 2026",
-      "summary": "Cloud Key Management Service Feature Preview: Cloud KMS supports quantum-safe key import. You can use the following quantum-safe import methods: HPKE_KEM_XWING_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_KEM_768_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_06_2026",
+      "summary": "Deployment dates Announcement Looker 26.14 will roll out to Looker (original) instances on the following schedule: Expected deployment start: Monday, August 10, 2026 Expected final deployment and download available: Sunday, August 23, 2026 ",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#August_06_2026",
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-08-05",
       "title": "August 05, 2026",
@@ -321,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-08-04",
       "title": "August 04, 2026",
@@ -331,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-08-03",
       "title": "August 03, 2026",
@@ -351,21 +361,21 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-07-31",
       "title": "July 31, 2026",
-      "summary": "Apigee hybrid Announcement v1.15.7 On July 31, 2026 we released an updated version of the Apigee hybrid software, v1.15.7. For information on upgrading, see Upgrading Apigee hybrid to version v1.15.7 . For information on new installations, ",
+      "summary": "Access Approval Feature App Topology (including One Graph) is generally available (GA) . Access Transparency Feature App Topology (including One Graph) is generally available (GA) . Apigee hybrid Announcement v1.15.7 On July 31, 2026 we rel",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_31_2026",
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-07-30",
       "title": "July 30, 2026",
-      "summary": "Agent Platform Workbench Change M145 Release Change 20260730-2130-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Fixed Fixed the JupyterLab Git extension",
+      "summary": "Agent Platform Workbench Change M145 Release Change 20260730-2130-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Fixed Fixed issue with JupyterLab UI sil",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#July_30_2026",
       "live": true
@@ -401,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-07-29",
       "title": "July 29, 2026",
@@ -451,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-07-27",
       "title": "July 27, 2026",
