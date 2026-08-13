@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T14:33:30.276934+00:00",
+  "generated_at": "2026-08-13T05:47:06.280763+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,7 +121,57 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-08-12",
+      "title": "August 12, 2026",
+      "summary": "Apigee API hub Feature Configure and deploy MCP servers with gcloud CLI You can use the gcloud apihub locations configure-and-deploy-server command to configure and deploy API hub Model Context Protocol (MCP) servers to an attached Apigee r",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_12_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-08-12",
+      "title": "Migrate Campaign-level Broad Match and Automatically Created Assets to AI Max",
+      "summary": "The legacy automigrations are divided into two separate phases: Phase 1 ( Campaign-level Broad Match and Automatically Created Assets ), which starts September 1, 2026. Phase 2 (Dynamic Search Ads), which has been rescheduled to February 20",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/3570700793593515721",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-1",
+      "cat": "gads",
+      "date": "2026-08-12",
+      "title": "Query report data with the Campaign Manager 360 API",
+      "summary": "You can now use the reportData.query endpoint in the Campaign Manager 360 API to synchronously query your campaign performance data and retrieve structured JSON data directly in the response. The new reportData.query endpoint offers a simpl",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4794231048859903119",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-12",
+      "title": "Marketing without signals: How to perform when the data disappears",
+      "summary": "Navigating signal loss doesn't mean guessing. On Sept. 2, we'll explore how to rebuild your measurement stack in a world with fewer signals. The post Marketing without signals: How to perform when the data disappears appeared first on MarTe",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-12",
+      "title": "When marketers should ignore the data",
+      "summary": "Not every change in a marketing metric deserves a response. Marketers need to separate temporary fluctuations from signals worth acting on. The post When marketers should ignore the data appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/when-marketers-should-ignore-the-data/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-08-12",
       "title": "5 brands whose small actions drove big returns",
@@ -131,13 +181,23 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-08-12",
       "title": "Programmatic video needs more visibility into AI-driven decisions",
       "summary": "AI is making adtech decisions harder to see, putting pressure on platforms to explain outcomes and prove their value. The post Programmatic video needs more visibility into AI-driven decisions appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/programmatic-video-needs-more-visibility-into-ai-driven-decisions/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-08-12",
+      "title": "Updates to age ratings for the Republic of Korea",
+      "summary": "Apple generates appropriate age ratings based on your answers to the age rating questionnaire in App Store Connect. In compliance with local regulatory requirements, apps in the Games and Entertainment categories distributed on the App Stor",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=oj3r9pvw",
       "live": true
     },
     {
@@ -151,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-08-11",
       "title": "B2B growth doesn’t end at closed-won",
@@ -161,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-11",
       "title": "A 7-step guide to running ads on ChatGPT",
@@ -171,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-11",
       "title": "How AI, publishers, and social media are rewriting product discovery",
@@ -181,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-11",
       "title": "IAB Tech Lab releases new privacy standards",
@@ -198,26 +258,6 @@
       "summary": "BigQuery Feature BigQuery now supports the gemini-3.1-flash-lite and gemini-3.5-flash GA models, which are available for the us , eu , and global multi-regional endpoints. You can use these models in all generative AI functions. For informa",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_10_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-10",
-      "title": "The marketing-to-sales handoff is where revenue leaks",
-      "summary": "Buying signals lose value when speed and context disappear. Connected workflows turn more opportunities into revenue. The post The marketing-to-sales handoff is where revenue leaks appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-marketing-to-sales-handoff-is-where-revenue-leaks/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-10",
-      "title": "How to manage AI prompt governance and costs",
-      "summary": "Scaling content generation requires strict fiscal and brand control. Here is how to build centralized frameworks for prompts and tokens. The post How to manage AI prompt governance and costs appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-manage-ai-prompt-governance-and-costs/",
       "live": true
     },
     {
@@ -261,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-08-05",
       "title": "Get ready for new creative assets on the App Store",
@@ -271,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-08-05",
       "title": "Hello Developer: August 2026",
@@ -301,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-08-03",
       "title": "Google Ads API pilot: Secure API Access to your Manager Accounts",
@@ -331,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-07-30",
       "title": "Data Manager API updates: RemoveAllAudienceMembers method, ingestion field warnings, expanded address data",
@@ -371,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-07-29",
       "title": "Launching Structured Data Files v10.1",
@@ -391,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-07-28",
       "title": "Support for AI Content Labeling using the Campaign Manager and Display & Video 360 APIs",
@@ -421,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-07-27",
       "title": "Passkey authentication requirement for the Google Ads API",
@@ -441,17 +481,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-7",
+      "cat": "bigquery",
       "date": "2026-07-23",
       "title": "July 23, 2026",
-      "summary": "Agent Registry Feature Agent skill governance is available in Preview . Agent Registry supports standalone skill governance, helping enable secure, enterprise-level management and governance of standalone skills for AI agents. You can regis",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_23_2026",
+      "summary": "Change An updated version of the Simba ODBC driver for BigQuery is now available.",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_23_2026",
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-07-23",
       "title": "July 2026 update to the Display & Video 360 API",
@@ -468,16 +508,6 @@
       "summary": "Deployment dates Security A Cross-Site Scripting (XSS) vulnerability was discovered in Looker. An attacker could craft a malicious URL that, when opened by a Looker administrator, would allow the attacker to execute arbitrary scripts on the",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_22_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-6",
-      "cat": "gads",
-      "date": "2026-07-22",
-      "title": "Announcing v25 of the Google Ads API",
-      "summary": "Today, we’re announcing the v25 release of the Google Ads API . This major release brings support for new reporting features and goals. To use these new capabilities, you must upgrade your client libraries and client code. All the updated c",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/507376310170375094",
       "live": true
     },
     {
@@ -508,26 +538,6 @@
       "summary": "Looker (Google Cloud core) and Looker (original) changes Deprecated As of July 13, 2026, Looker reports have been deprecated. If you had previously enabled the preview for Looker reports, be aware of the following: You will no longer have t",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_21_2026",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
-      "date": "2026-07-20",
-      "title": "July 20, 2026",
-      "summary": "Issue Lakehouse for Apache Iceberg : Data Products with special characters, such as \"/\" or \"-\", are not supported and will not be available in BigQuery even if shared from SAP BDC to BigQuery. If you share a Data Product with special charac",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_20_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-07-20",
-      "title": "Enabling Local Inventory Ads by Default for Shopping Campaigns starting on August 31, 2026",
-      "summary": "What is changing? On August 31, 2026, we are aligning Shopping campaigns with Performance Max for Retail campaigns by enabling Local Inventory Ads (LIA) by default. Previously, developers and advertisers had to explicitly set the enable_loc",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/5341021206723470669",
       "live": true
     },
     {
@@ -571,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-07-09",
       "title": "Age rating questionnaire now includes social media questions",
@@ -611,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-07-07",
       "title": "Hello Developer: July 2026",
@@ -691,7 +701,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-06-23",
       "title": "Design kits for iOS, iPadOS, and macOS 27 are here",
@@ -711,7 +721,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-06-18",
       "title": "Updated Apple Developer Program License Agreement now available",
@@ -721,7 +731,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-06-18",
       "title": "Changes to iOS in Brazil",
@@ -758,16 +768,6 @@
       "summary": "Customizable select is coming to Safari 27.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18117/the-golden-rule-of-customizable-select/",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-06-15",
-      "title": "New domain for Sign in with Apple and iCloud+ Hide My Email",
-      "summary": "Later this summer, Apple will unify the email domains used by Sign in with Apple and iCloud+ Hide My Email under a single, shared domain: private.icloud.com . New addresses generated for both features will be issued on the new domain. For e",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=sus6t6ab",
       "live": true
     },
     {
