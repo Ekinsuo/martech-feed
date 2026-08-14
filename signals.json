@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T14:34:15.926270+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 104,
+  "generated_at": "2026-08-14T05:44:09.170160+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 100,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 6
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -125,53 +126,33 @@
       "cat": "general",
       "date": "2026-08-13",
       "title": "August 13, 2026",
-      "summary": "Data Studio Feature Fullscreen charts You can view individual charts in fullscreen mode. Click the fullscreen button in the chart header to expand the chart. This feature is not available for scorecards and gauge charts. Feature Rotate comp",
+      "summary": "Apigee X Announcement On August 13th, 2026, we began maintenance updates of Apigee instances configured for maintenance windows . If you set a preferred window for maintenance for your instance, and your instance version is below 1-18-0-api",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_13_2026",
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
-      "date": "2026-08-13",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Nielsen’s DoubleVerify deal helps verification as AI takes on more media decisions, raising new questions about trust and transparency. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-08-13",
-      "title": "The AI debt hidden in faster marketing",
-      "summary": "Marketing can produce more with AI, but every new capability creates work to govern, integrate, measure, and maintain. That’s where AI debt builds. The post The AI debt hidden in faster marketing appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-ai-debt-hidden-in-faster-marketing/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-08-13",
-      "title": "Here’s the first martech category replaced by AI",
-      "summary": "CI tools are losing ground to ChatGPT, Claude, and Gemini. Here's why stale battlecards may be the bigger problem. The post Here s the first martech category replaced by AI appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/heres-the-first-martech-category-replaced-by-ai/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-1",
-      "cat": "general",
-      "date": "2026-08-12",
-      "title": "August 12, 2026",
-      "summary": "Apigee API hub Feature Configure and deploy MCP servers with gcloud CLI You can use the gcloud apihub locations configure-and-deploy-server command to configure and deploy API hub Model Context Protocol (MCP) servers to an attached Apigee r",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_12_2026",
-      "live": true
-    },
-    {
       "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-08-13",
+      "title": "Google Ads language targeting changes starting September 2026",
+      "summary": "We're making changes to language targeting for Search, AI Max for Search, and Performance Max campaigns in Google Ads, simplifying campaign management while maintaining a high-quality ad experience. Effective late September 2026: For Search",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/8241268561751522389",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-08-13",
+      "title": "Release Notes for Safari Technology Preview 250",
+      "summary": "Safari Technology Preview Release 250 is now available for download for macOS Golden Gate and macOS Tahoe.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18191/release-notes-for-safari-technology-preview-250/",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-08-12",
       "title": "Migrate Campaign-level Broad Match and Automatically Created Assets to AI Max",
@@ -181,53 +162,13 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-08-12",
       "title": "Query report data with the Campaign Manager 360 API",
       "summary": "You can now use the reportData.query endpoint in the Campaign Manager 360 API to synchronously query your campaign performance data and retrieve structured JSON data directly in the response. The new reportData.query endpoint offers a simpl",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4794231048859903119",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-08-12",
-      "title": "Marketing without signals: How to perform when the data disappears",
-      "summary": "Navigating signal loss doesn't mean guessing. On Sept. 2, we'll explore how to rebuild your measurement stack in a world with fewer signals. The post Marketing without signals: How to perform when the data disappears appeared first on MarTe",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-08-12",
-      "title": "When marketers should ignore the data",
-      "summary": "Not every change in a marketing metric deserves a response. Marketers need to separate temporary fluctuations from signals worth acting on. The post When marketers should ignore the data appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/when-marketers-should-ignore-the-data/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-12",
-      "title": "5 brands whose small actions drove big returns",
-      "summary": "AXA, Suncorp, Idomed, Heineken, and Molson got big business results from small creative ideas, showing a different model for earning attention. The post 5 brands whose small actions drove big returns appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/5-brands-whose-small-actions-drove-big-returns/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-12",
-      "title": "Programmatic video needs more visibility into AI-driven decisions",
-      "summary": "AI is making adtech decisions harder to see, putting pressure on platforms to explain outcomes and prove their value. The post Programmatic video needs more visibility into AI-driven decisions appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/programmatic-video-needs-more-visibility-into-ai-driven-decisions/",
       "live": true
     },
     {
@@ -251,13 +192,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
+      "id": "scrape-GA4 — What's new-13",
+      "cat": "ga4",
       "date": "2026-08-11",
-      "title": "B2B growth doesn’t end at closed-won",
-      "summary": "From first value to expansion, a strong post-sale system helps B2B companies compound the value of customers they’ve already won. The post B2B growth doesn’t end at closed-won appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/b2b-growth-doesnt-end-at-closed-won/",
+      "title": "Updated conversion window configuration Google Analytics conversions now…",
+      "summary": "custom integer lookback windows for click-through conversions (CTC) and engaged-view conversions (EVC) This update allows Google Analytics to align conversion attribution lookback windows more closely to your unique business cycles. This up",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
     },
     {
@@ -265,13 +206,13 @@
       "cat": "general",
       "date": "2026-08-10",
       "title": "August 10, 2026",
-      "summary": "BigQuery Feature BigQuery now supports the gemini-3.1-flash-lite and gemini-3.5-flash GA models, which are available for the us , eu , and global multi-regional endpoints. You can use these models in all generative AI functions. For informa",
+      "summary": "Bigtable Libraries Go 1.52.0 (2026-08-03) Features bigtable: Add AFE picker (Simple / LeastInFlight / LeastLatency) ( #20204 ) ( bcbf714 ) bigtable: Add ClientConfig.DisableSession to opt out of session backend ( #20297 ) ( 7ee5e44 ) bigtab",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_10_2026",
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-12",
+      "id": "scrape-GA4 — What's new-14",
       "cat": "ga4",
       "date": "2026-08-10",
       "title": "Campaign data import validation report We’ve launched a new…",
@@ -291,13 +232,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-0",
-      "cat": "looker",
+      "id": "live-Google Cloud — All release notes-7",
+      "cat": "general",
       "date": "2026-08-06",
       "title": "August 06, 2026",
-      "summary": "Deployment dates Announcement Looker 26.14 will roll out to Looker (original) instances on the following schedule: Expected deployment start: Monday, August 10, 2026 Expected final deployment and download available: Sunday, August 23, 2026 ",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#August_06_2026",
+      "summary": "Cloud Key Management Service Feature Preview: Cloud KMS supports quantum-safe key import. You can use the following quantum-safe import methods: HPKE_KEM_XWING_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_KEM_768_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_06_2026",
       "live": true
     },
     {
@@ -351,7 +292,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-08-03",
       "title": "Google Ads API pilot: Secure API Access to your Manager Accounts",
@@ -381,7 +322,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-07-30",
       "title": "Data Manager API updates: RemoveAllAudienceMembers method, ingestion field warnings, expanded address data",
@@ -401,7 +342,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-13",
+      "id": "scrape-GA4 — What's new-15",
       "cat": "ga4",
       "date": "2026-07-30",
       "title": "New diagnostic in Google Analytics for aggregate parameter issues…",
@@ -421,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-07-29",
       "title": "Launching Structured Data Files v10.1",
@@ -431,7 +372,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-07-29",
       "title": "Release Notes for Safari Technology Preview 249",
@@ -441,7 +382,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-07-28",
       "title": "Support for AI Content Labeling using the Campaign Manager and Display & Video 360 APIs",
@@ -451,7 +392,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-14",
+      "id": "scrape-GA4 — What's new-16",
       "cat": "ga4",
       "date": "2026-07-28",
       "title": "Campaign data import currency update We've updated campaign data…",
@@ -471,7 +412,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-07-27",
       "title": "Passkey authentication requirement for the Google Ads API",
@@ -481,7 +422,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-07-27",
       "title": "WebKit Features for Safari 26.6",
@@ -491,23 +432,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-7",
+      "id": "live-BigQuery Release Notes-2",
       "cat": "bigquery",
       "date": "2026-07-23",
       "title": "July 23, 2026",
       "summary": "Change An updated version of the Simba ODBC driver for BigQuery is now available.",
       "src": "BigQuery Release Notes",
       "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_23_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-07-23",
-      "title": "July 2026 update to the Display & Video 360 API",
-      "summary": "Today we’re launching the July 2026 update to the Display & Video 360 API. This update includes the following: Added a new syntheticContentAttestationStatus field to Creative and AdAsset resources. This field lets you specify whether a crea",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1513827152433454234",
       "live": true
     },
     {
@@ -521,7 +452,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-07-22",
       "title": "Release Notes for Safari Technology Preview 248",
@@ -551,6 +482,16 @@
       "live": true
     },
     {
+      "id": "live-BigQuery Release Notes-3",
+      "cat": "bigquery",
+      "date": "2026-07-20",
+      "title": "July 20, 2026",
+      "summary": "Issue Lakehouse for Apache Iceberg : Data Products with special characters, such as \"/\" or \"-\", are not supported and will not be available in BigQuery even if shared from SAP BDC to BigQuery. If you share a Data Product with special charac",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_20_2026",
+      "live": true
+    },
+    {
       "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-07-17",
@@ -571,6 +512,26 @@
       "live": true
     },
     {
+      "id": "live-BigQuery Release Notes-4",
+      "cat": "bigquery",
+      "date": "2026-07-15",
+      "title": "July 15, 2026",
+      "summary": "Feature BigQuery supports data governance tags , which let you enforce column-level security and data masking. Data governance tags are a type of Resource Manager tag that you can attach to sensitive columns and use in BigQuery data policie",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_15_2026",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery Release Notes-5",
+      "cat": "bigquery",
+      "date": "2026-07-14",
+      "title": "July 14, 2026",
+      "summary": "Feature Conversational analytics now supports the AI.AGG function . This function is in Preview . Announcement As part of Gemini in BigQuery , conversational analytics now supports HIPAA compliance.",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_14_2026",
+      "live": true
+    },
+    {
       "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-07-14",
@@ -581,13 +542,33 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-15",
+      "id": "live-BigQuery Release Notes-6",
+      "cat": "bigquery",
+      "date": "2026-07-13",
+      "title": "July 13, 2026",
+      "summary": "Feature Table partitioning, multi-statement transactions, and advanced runtime are now generally available (GA) for Apache Iceberg managed tables . Feature Cross-cloud Lakehouse now supports Snowflake as a remote catalog provider (Preview).",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_13_2026",
+      "live": true
+    },
+    {
+      "id": "scrape-GA4 — What's new-17",
       "cat": "ga4",
       "date": "2026-07-13",
       "title": "AdMob linking within Google Analytics Google Analytics now offers…",
       "summary": "a direct, native product linking flow with AdMob within the Google Analytics Admin interface You will see a new \"AdMob Links\" option under the \"Product Links\" section in your Google Analytics Admin console. You can now manage connections be",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery Release Notes-7",
+      "cat": "bigquery",
+      "date": "2026-07-09",
+      "title": "July 09, 2026",
+      "summary": "Feature You can use the BigQuery Data Transfer Service to transfer metadata from the following data sources into Knowledge Catalog: PostgreSQL Microsoft SQL Server This feature is in Preview . Feature The Data Agent Kit extension is an exte",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_09_2026",
       "live": true
     },
     {
@@ -641,7 +622,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "Introducing the Safari MCP server for web developers",
@@ -651,7 +632,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "Release Notes for Safari Technology Preview 247",
@@ -751,7 +732,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-06-17",
       "title": "Release Notes for Safari Technology Preview 246",
@@ -771,7 +752,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-06-15",
       "title": "The golden rule of Customizable Select",
@@ -791,7 +772,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-16",
+      "id": "scrape-GA4 — What's new-18",
       "cat": "ga4",
       "date": "2026-06-11",
       "title": "New Source Group field with update to Source Platform…",
@@ -811,17 +792,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-06-10",
-      "title": "Introducing the Field Guide to Grid Lanes",
-      "summary": "This week, we launched the Field Guide to Grid Lanes at gridlanes.webkit.org.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18098/introducing-the-field-guide-to-grid-lanes/",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-17",
+      "id": "scrape-GA4 — What's new-19",
       "cat": "ga4",
       "date": "2026-06-08",
       "title": "New Google Business Profile integration You can now centrally…",
@@ -901,21 +872,11 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-18",
+      "id": "scrape-GA4 — What's new-20",
       "cat": "ga4",
       "date": "2026-05-13",
       "title": "New AI Assistant traffic measurement Google Analytics now provides…",
       "summary": "a dedicated way to measure and analyze traffic originating from popular AI assistants You can now identify how users are discovering your site through chatbots like ChatGPT, Gemini, and Claude via a new AI Assistant channel in your Default ",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-19",
-      "cat": "ga4",
-      "date": "2026-05-07",
-      "title": "Data Manager API support for Google Analytics server-to-server events…",
-      "summary": "Data Manager API provides you with an alternative to Measurement Protocol (MP) for sending recommended and custom events directly to your Google Analytics property You can send events to both your Google Analytics web and app data streams, ",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
