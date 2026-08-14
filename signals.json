@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T05:44:09.170160+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 100,
+  "generated_at": "2026-08-14T14:28:21.037582+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 108,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -122,6 +121,56 @@
   ],
   "signals": [
     {
+      "id": "live-Simo Ahava-0",
+      "cat": "general",
+      "date": "2026-08-14",
+      "title": "#GTMTips: Split GA Events Between Client-Side And Server-Side Dispatch",
+      "summary": "Thanks to Giovani Ortolani Barbosa for reminding me about this possibility within Google Tag Manager and thus inspiring this blog post. If you&rsquo;re running server-side Google Tag Manager (SGTM), you&rsquo;re probably sending your Google",
+      "src": "Simo Ahava",
+      "url": "https://www.simoahava.com/gtmtips/split-ga-events-between-client-side-server-side-dispatch/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-14",
+      "title": "How to decide what’s important when everything is urgent",
+      "summary": "Every task consumes time and resources. Here’s a system for deciding what earns a place on the agenda and what doesn’t. The post How to decide what s important when everything is urgent appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-decide-whats-important-when-everything-is-urgent/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-14",
+      "title": "The 2027 CMO planning challenge is bigger than the budget",
+      "summary": "More budget won't fix a marketing model that no longer fits how buyers discover, evaluate, and decide. CMOs need to rethink where they invest. The post The 2027 CMO planning challenge is bigger than the budget appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-2027-cmo-planning-challenge-is-bigger-than-the-budget/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-14",
+      "title": "The data trust crisis: Why your customer data is getting worse",
+      "summary": "Unreliable customer data threatens your personalization and ROI. On Sept. 2, we'll discuss how to navigate data decay and build a high-trust measurement framework. The post The data trust crisis: Why your customer data is getting worse appe",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-08-14",
+      "title": "Is your martech stack costing more time than it saves?",
+      "summary": "Disconnected systems create missed work and hours of admin. The real measure of martech productivity is how much work the stack eliminates. The post Is your martech stack costing more time than it saves? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/is-your-martech-stack-costing-more-time-than-it-saves/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-08-13",
@@ -139,6 +188,36 @@
       "summary": "We're making changes to language targeting for Search, AI Max for Search, and Performance Max campaigns in Google Ads, simplifying campaign management while maintaining a high-quality ad experience. Effective late September 2026: For Search",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/8241268561751522389",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-08-13",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Nielsen’s DoubleVerify deal helps verification as AI takes on more media decisions, raising new questions about trust and transparency. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-08-13",
+      "title": "The AI debt hidden in faster marketing",
+      "summary": "Marketing can produce more with AI, but every new capability creates work to govern, integrate, measure, and maintain. That’s where AI debt builds. The post The AI debt hidden in faster marketing appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-ai-debt-hidden-in-faster-marketing/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-08-13",
+      "title": "Here’s the first martech category replaced by AI",
+      "summary": "CI tools are losing ground to ChatGPT, Claude, and Gemini. Here's why stale battlecards may be the bigger problem. The post Here s the first martech category replaced by AI appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/heres-the-first-martech-category-replaced-by-ai/",
       "live": true
     },
     {
@@ -169,6 +248,16 @@
       "summary": "You can now use the reportData.query endpoint in the Campaign Manager 360 API to synchronously query your campaign performance data and retrieve structured JSON data directly in the response. The new reportData.query endpoint offers a simpl",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4794231048859903119",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-08-12",
+      "title": "Marketing without signals: How to perform when the data disappears",
+      "summary": "Navigating signal loss doesn't mean guessing. On Sept. 2, we'll explore how to rebuild your measurement stack in a world with fewer signals. The post Marketing without signals: How to perform when the data disappears appeared first on MarTe",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/",
       "live": true
     },
     {
@@ -662,7 +751,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-0",
+      "id": "live-Simo Ahava-1",
       "cat": "general",
       "date": "2026-06-29",
       "title": "Google Tag Manager UI Updates",
@@ -892,7 +981,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-1",
+      "id": "live-Simo Ahava-2",
       "cat": "general",
       "date": "2026-03-13",
       "title": "Add IPv6 Support To Your Server-side GTM Load Balancer",
@@ -902,7 +991,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-2",
+      "id": "live-Simo Ahava-3",
       "cat": "general",
       "date": "2025-12-04",
       "title": "Run Server-side Google Tag Manager On Localhost",
@@ -962,7 +1051,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-3",
+      "id": "live-Simo Ahava-4",
       "cat": "general",
       "date": "2025-08-29",
       "title": "#GTMTips: How To Load Google Scripts From A Server Container",
@@ -982,7 +1071,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-4",
+      "id": "live-Simo Ahava-5",
       "cat": "general",
       "date": "2025-06-18",
       "title": "Common Mistakes When Working With Click Identifiers",
@@ -1012,7 +1101,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-5",
+      "id": "live-Simo Ahava-6",
       "cat": "general",
       "date": "2025-05-07",
       "title": "Basic Consent Mode: The Guide",
@@ -1022,23 +1111,13 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-6",
+      "id": "live-Simo Ahava-7",
       "cat": "general",
       "date": "2025-03-12",
       "title": "Clarification On GTM Auto-Loading Google Tag For Ads And Floodlight Events",
       "summary": "Google Tag Manager users received an email on March 11th, where Google announced a very cryptic update to Google Tag Manager: As is typical with Google&rsquo;s email communications, the email raised more questions than it answered. Even tho",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/analytics/clarification-on-google-tag-manager-google-tag-update/",
-      "live": true
-    },
-    {
-      "id": "live-Simo Ahava-7",
-      "cat": "general",
-      "date": "2025-02-11",
-      "title": "#GTMTips: SGTM Fetches GA4 Configurations Automatically",
-      "summary": "One of the most popular use cases for server-side Google Tag Manager , often shared on this blog, too, is to split an incoming stream into multiple different endpoints . Since the demise of customTask for Universal Analytics (Rest In Peace!",
-      "src": "Simo Ahava",
-      "url": "https://www.simoahava.com/gtmtips/sgtm-fetches-ga4-configuration-automatically/",
       "live": true
     },
     {
