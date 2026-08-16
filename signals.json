@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16T04:48:23.415708+00:00",
+  "generated_at": "2026-08-16T13:48:47.223956+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 108,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 6
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -171,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-08-13",
       "title": "August 13, 2026",
@@ -231,6 +231,16 @@
       "live": true
     },
     {
+      "id": "live-Google Cloud — All release notes-4",
+      "cat": "general",
+      "date": "2026-08-12",
+      "title": "August 12, 2026",
+      "summary": "Apigee API hub Feature Configure and deploy MCP servers with gcloud CLI You can use the gcloud apihub locations configure-and-deploy-server command to configure and deploy API hub Model Context Protocol (MCP) servers to an attached Apigee r",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_12_2026",
+      "live": true
+    },
+    {
       "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-08-12",
@@ -271,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-08-11",
       "title": "August 11, 2026",
@@ -291,11 +301,11 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-08-10",
       "title": "August 10, 2026",
-      "summary": "Bigtable Libraries Go 1.52.0 (2026-08-03) Features bigtable: Add AFE picker (Simple / LeastInFlight / LeastLatency) ( #20204 ) ( bcbf714 ) bigtable: Add ClientConfig.DisableSession to opt out of session backend ( #20297 ) ( 7ee5e44 ) bigtab",
+      "summary": "BigQuery Feature BigQuery now supports the gemini-3.1-flash-lite and gemini-3.5-flash GA models, which are available for the us , eu , and global multi-regional endpoints. You can use these models in all generative AI functions. For informa",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_10_2026",
       "live": true
@@ -311,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-08-07",
       "title": "August 07, 2026",
@@ -321,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-08-06",
       "title": "August 06, 2026",
@@ -331,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-08-05",
       "title": "August 05, 2026",
@@ -361,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-08-04",
       "title": "August 04, 2026",
@@ -371,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-08-03",
       "title": "August 03, 2026",
@@ -391,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-07-31",
       "title": "July 31, 2026",
@@ -401,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-07-30",
       "title": "July 30, 2026",
@@ -441,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-07-29",
       "title": "July 29, 2026",
@@ -491,13 +501,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-7",
+      "cat": "bigquery",
       "date": "2026-07-27",
       "title": "July 27, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature AlloyDB write endpoints are now available in Preview . Write endpoints simplify database connection management by providing a stable domain name service (DNS) name for your applications, decoupling them from i",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_27_2026",
+      "summary": "Feature You can discover commercial BigQuery sharing listings on Google Cloud Marketplace with the Marketplace filter. For more information, see Subscribe to a Cloud Marketplace-integrated listing . This feature is generally available (GA).",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_27_2026",
       "live": true
     },
     {
@@ -518,16 +528,6 @@
       "summary": "Safari 26.6 is here.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18178/webkit-features-for-safari-26-6/",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery Release Notes-2",
-      "cat": "bigquery",
-      "date": "2026-07-23",
-      "title": "July 23, 2026",
-      "summary": "Change An updated version of the Simba ODBC driver for BigQuery is now available.",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_23_2026",
       "live": true
     },
     {
@@ -571,16 +571,6 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-3",
-      "cat": "bigquery",
-      "date": "2026-07-20",
-      "title": "July 20, 2026",
-      "summary": "Issue Lakehouse for Apache Iceberg : Data Products with special characters, such as \"/\" or \"-\", are not supported and will not be available in BigQuery even if shared from SAP BDC to BigQuery. If you share a Data Product with special charac",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_20_2026",
-      "live": true
-    },
-    {
       "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-07-17",
@@ -601,26 +591,6 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-4",
-      "cat": "bigquery",
-      "date": "2026-07-15",
-      "title": "July 15, 2026",
-      "summary": "Feature BigQuery supports data governance tags , which let you enforce column-level security and data masking. Data governance tags are a type of Resource Manager tag that you can attach to sensitive columns and use in BigQuery data policie",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_15_2026",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery Release Notes-5",
-      "cat": "bigquery",
-      "date": "2026-07-14",
-      "title": "July 14, 2026",
-      "summary": "Feature Conversational analytics now supports the AI.AGG function . This function is in Preview . Announcement As part of Gemini in BigQuery , conversational analytics now supports HIPAA compliance.",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_14_2026",
-      "live": true
-    },
-    {
       "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-07-14",
@@ -631,16 +601,6 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-6",
-      "cat": "bigquery",
-      "date": "2026-07-13",
-      "title": "July 13, 2026",
-      "summary": "Feature Table partitioning, multi-statement transactions, and advanced runtime are now generally available (GA) for Apache Iceberg managed tables . Feature Cross-cloud Lakehouse now supports Snowflake as a remote catalog provider (Preview).",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_13_2026",
-      "live": true
-    },
-    {
       "id": "scrape-GA4 — What's new-17",
       "cat": "ga4",
       "date": "2026-07-13",
@@ -648,16 +608,6 @@
       "summary": "a direct, native product linking flow with AdMob within the Google Analytics Admin interface You will see a new \"AdMob Links\" option under the \"Product Links\" section in your Google Analytics Admin console. You can now manage connections be",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
-      "date": "2026-07-09",
-      "title": "July 09, 2026",
-      "summary": "Feature You can use the BigQuery Data Transfer Service to transfer metadata from the following data sources into Knowledge Catalog: PostgreSQL Microsoft SQL Server This feature is in Preview . Feature The Data Agent Kit extension is an exte",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_09_2026",
       "live": true
     },
     {
