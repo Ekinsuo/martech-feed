@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T04:56:03.587709+00:00",
+  "generated_at": "2026-08-17T13:57:07.225965+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,6 +121,36 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-17",
+      "title": "Why buyers hate your multi-year software overhaul",
+      "summary": "B2B buyers are growing more risk-averse. Here is how to restructure engineering and pitches around modular API integration models. The post Why buyers hate your multi-year software overhaul appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-buyers-hate-your-multi-year-software-overhaul/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-17",
+      "title": "The next AI opportunity is deciding where to spend",
+      "summary": "AI is moving deeper into media buying and budget allocation, helping marketers put more of their spending into what’s working. The post The next AI opportunity is deciding where to spend appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-next-ai-opportunity-is-deciding-where-to-spend/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-17",
+      "title": "Stop treating every customer touchpoint the same",
+      "summary": "The moments that drive growth can also drive churn. Learn how to spot them and respond when the stakes are highest. The post Stop treating every customer touchpoint the same appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/stop-treating-every-customer-touchpoint-the-same/",
+      "live": true
+    },
+    {
       "id": "live-Simo Ahava-0",
       "cat": "general",
       "date": "2026-08-14",
@@ -131,7 +161,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-08-14",
       "title": "How to decide what’s important when everything is urgent",
@@ -141,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-08-14",
       "title": "The 2027 CMO planning challenge is bigger than the budget",
@@ -151,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-14",
       "title": "The data trust crisis: Why your customer data is getting worse",
@@ -161,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-14",
       "title": "Is your martech stack costing more time than it saves?",
@@ -191,33 +221,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-13",
       "title": "The latest AI-powered martech news and releases",
       "summary": "Nielsen’s DoubleVerify deal helps verification as AI takes on more media decisions, raising new questions about trust and transparency. The post The latest AI-powered martech news and releases appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-13",
-      "title": "The AI debt hidden in faster marketing",
-      "summary": "Marketing can produce more with AI, but every new capability creates work to govern, integrate, measure, and maintain. That’s where AI debt builds. The post The AI debt hidden in faster marketing appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-ai-debt-hidden-in-faster-marketing/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-13",
-      "title": "Here’s the first martech category replaced by AI",
-      "summary": "CI tools are losing ground to ChatGPT, Claude, and Gemini. Here's why stale battlecards may be the bigger problem. The post Here s the first martech category replaced by AI appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/heres-the-first-martech-category-replaced-by-ai/",
       "live": true
     },
     {
@@ -258,16 +268,6 @@
       "summary": "You can now use the reportData.query endpoint in the Campaign Manager 360 API to synchronously query your campaign performance data and retrieve structured JSON data directly in the response. The new reportData.query endpoint offers a simpl",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4794231048859903119",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-12",
-      "title": "Marketing without signals: How to perform when the data disappears",
-      "summary": "Navigating signal loss doesn't mean guessing. On Sept. 2, we'll explore how to rebuild your measurement stack in a world with fewer signals. The post Marketing without signals: How to perform when the data disappears appeared first on MarTe",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/",
       "live": true
     },
     {
