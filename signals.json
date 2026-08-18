@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:57:07.225965+00:00",
+  "generated_at": "2026-08-18T04:49:28.146960+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 3
+      "items": 2
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,7 +121,27 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-08-17",
+      "title": "August 17, 2026",
+      "summary": "Backup and DR Announcement Beginning November 1, 2026, Backup and DR Service will automatically apply a project-level lien to any project containing a backup vault with backups protected by enforced retention. To secure project liens agains",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_17_2026",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-17",
+      "title": "Why LinkedIn doesn’t really care about AI slop",
+      "summary": "The problem is AI is perfect for producing the polished, predictable business speak the platform rewards. The post Why LinkedIn doesn t really care about AI slop appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-linkedin-doesnt-really-care-about-ai-slop/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
       "cat": "general",
       "date": "2026-08-17",
       "title": "Why buyers hate your multi-year software overhaul",
@@ -131,7 +151,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-08-17",
       "title": "The next AI opportunity is deciding where to spend",
@@ -141,7 +161,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-08-17",
       "title": "Stop treating every customer touchpoint the same",
@@ -161,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-08-14",
       "title": "How to decide what’s important when everything is urgent",
@@ -171,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-14",
       "title": "The 2027 CMO planning challenge is bigger than the budget",
@@ -181,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-14",
       "title": "The data trust crisis: Why your customer data is getting worse",
@@ -191,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-14",
       "title": "Is your martech stack costing more time than it saves?",
@@ -201,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-08-13",
       "title": "August 13, 2026",
@@ -221,16 +241,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-13",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Nielsen’s DoubleVerify deal helps verification as AI takes on more media decisions, raising new questions about trust and transparency. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
       "id": "live-WebKit Blog (ITP / Safari)-0",
       "cat": "privacy",
       "date": "2026-08-13",
@@ -241,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-08-12",
       "title": "August 12, 2026",
@@ -281,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-08-11",
       "title": "August 11, 2026",
@@ -301,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-08-10",
       "title": "August 10, 2026",
@@ -321,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-08-07",
       "title": "August 07, 2026",
@@ -331,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-08-06",
       "title": "August 06, 2026",
@@ -341,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-08-05",
       "title": "August 05, 2026",
@@ -371,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-08-04",
       "title": "August 04, 2026",
@@ -381,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-08-03",
       "title": "August 03, 2026",
@@ -401,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-07-31",
       "title": "July 31, 2026",
@@ -411,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-07-30",
       "title": "July 30, 2026",
@@ -451,13 +461,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-6",
+      "cat": "bigquery",
       "date": "2026-07-29",
       "title": "July 29, 2026",
-      "summary": "App Engine standard environment Go Feature Support for enabling only needed legacy bundled services using the app_engine_bundled_services field is in General Availability . App Engine standard environment Java Feature Support for enabling o",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_29_2026",
+      "summary": "Feature The BigQuery Data Transfer Service now supports incremental data transfers when transferring data from Klaviyo to BigQuery. This feature is supported in Preview .",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_29_2026",
       "live": true
     },
     {
@@ -531,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-07-22",
       "title": "July 22, 2026",
@@ -561,23 +571,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-07-21",
       "title": "July 21, 2026",
       "summary": "Looker (Google Cloud core) and Looker (original) changes Deprecated As of July 13, 2026, Looker reports have been deprecated. If you had previously enabled the preview for Looker reports, be aware of the following: You will no longer have t",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_21_2026",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-07-17",
-      "title": "July 17, 2026",
-      "summary": "Looker (Google Cloud core) and Looker (original) changes Feature Starting in Looker 26.8, Looker supports Java OpenJDK version 21. Looker-hosted instances have been upgraded to OpenJDK 21. Customer-hosted instances should upgrade to OpenJDK",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_17_2026",
       "live": true
     },
     {
