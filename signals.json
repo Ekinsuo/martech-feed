@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:49:28.146960+00:00",
+  "generated_at": "2026-08-18T14:01:30.018056+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,17 +121,57 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-18",
+      "title": "AI visibility index shows which brands are disappearing",
+      "summary": "Some brands dominate Google yet barely surface in AI answers. Here’s where traditional authority and AI recall diverge. The post AI visibility index shows which brands are disappearing appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-visibility-index-shows-which-brands-are-disappearing/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-18",
+      "title": "IAB updates standard for disclosing AI in ads",
+      "summary": "IAB’s updated framework draws the AI disclosure line around what changes consumer perceptions of authenticity, identity, and what’s real. The post IAB updates standard for disclosing AI in ads appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/iab-updates-standard-for-disclosing-ai-in-ads/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-18",
+      "title": "How to overcome the 3 barriers to AI adoption",
+      "summary": "The biggest barriers to AI adoption may be internal: inconsistent training, bias concerns, and tactics that get ahead of strategy. The post How to overcome the 3 barriers to AI adoption appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-overcome-the-3-barriers-to-ai-adoption/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-08-18",
+      "title": "How to stop overpaying for AI complexity",
+      "summary": "Rule-based, predictive, generative, and agentic systems come with very different costs and risks. Start with the lightest approach that can do the job. The post How to stop overpaying for AI complexity appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-stop-overpaying-for-ai-complexity/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-08-17",
       "title": "August 17, 2026",
-      "summary": "Backup and DR Announcement Beginning November 1, 2026, Backup and DR Service will automatically apply a project-level lien to any project containing a backup vault with backups protected by enforced retention. To secure project liens agains",
+      "summary": "AlloyDB for PostgreSQL Feature You can now use the Model Context Protocol (MCP) Toolbox for Databases to access AlloyDB observability features and advanced query insights directly in your IDE. Backup and DR Announcement Beginning November 1",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_17_2026",
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-08-17",
       "title": "Why LinkedIn doesn’t really care about AI slop",
@@ -141,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-17",
       "title": "Why buyers hate your multi-year software overhaul",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-17",
       "title": "The next AI opportunity is deciding where to spend",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-17",
       "title": "Stop treating every customer touchpoint the same",
@@ -178,46 +218,6 @@
       "summary": "Thanks to Giovani Ortolani Barbosa for reminding me about this possibility within Google Tag Manager and thus inspiring this blog post. If you&rsquo;re running server-side Google Tag Manager (SGTM), you&rsquo;re probably sending your Google",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/gtmtips/split-ga-events-between-client-side-server-side-dispatch/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-08-14",
-      "title": "How to decide what’s important when everything is urgent",
-      "summary": "Every task consumes time and resources. Here’s a system for deciding what earns a place on the agenda and what doesn’t. The post How to decide what s important when everything is urgent appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-decide-whats-important-when-everything-is-urgent/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-14",
-      "title": "The 2027 CMO planning challenge is bigger than the budget",
-      "summary": "More budget won't fix a marketing model that no longer fits how buyers discover, evaluate, and decide. CMOs need to rethink where they invest. The post The 2027 CMO planning challenge is bigger than the budget appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-2027-cmo-planning-challenge-is-bigger-than-the-budget/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-14",
-      "title": "The data trust crisis: Why your customer data is getting worse",
-      "summary": "Unreliable customer data threatens your personalization and ROI. On Sept. 2, we'll discuss how to navigate data decay and build a high-trust measurement framework. The post The data trust crisis: Why your customer data is getting worse appe",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-14",
-      "title": "Is your martech stack costing more time than it saves?",
-      "summary": "Disconnected systems create missed work and hours of admin. The real measure of martech productivity is how much work the stack eliminates. The post Is your martech stack costing more time than it saves? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/is-your-martech-stack-costing-more-time-than-it-saves/",
       "live": true
     },
     {
