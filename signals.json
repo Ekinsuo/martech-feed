@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:01:30.018056+00:00",
+  "generated_at": "2026-08-19T04:49:49.209151+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 2
+      "items": 1
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,6 +121,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-08-18",
+      "title": "August 18, 2026",
+      "summary": "App Engine standard environment Java Feature Support for migrating from the App Engine Images service to Cloud Run is in General Availability (GA) . App Engine standard environment Python Feature Support for migrating from the App Engine Im",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_18_2026",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-08-18",
@@ -161,11 +171,31 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-08-18",
+      "title": "Changes for apps in the European Union",
+      "summary": "Apple is making changes to its business terms for apps in the European Union, following close collaboration with the European Commission. The changes reduce complexity by moving every developer that distributes apps in the EU to a single se",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=gmws0jgp",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-1",
+      "cat": "apple",
+      "date": "2026-08-18",
+      "title": "Updated Apple Developer Program License Agreement now available",
+      "summary": "Attachment 14 of the Apple Developer Program License Agreement has been added to specify updated terms for apps in the European Union, including alternative distribution, alternative payments, and business terms. These terms will go into ef",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=0cgo95n6",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-08-17",
       "title": "August 17, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature You can now use the Model Context Protocol (MCP) Toolbox for Databases to access AlloyDB observability features and advanced query insights directly in your IDE. Backup and DR Announcement Beginning November 1",
+      "summary": "AlloyDB for PostgreSQL Feature You can now use the Model Context Protocol (MCP) Toolbox for Databases to access AlloyDB observability features and advanced query insights directly in your IDE. Assured Workloads Feature The Data Boundary for",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_17_2026",
       "live": true
@@ -221,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-08-13",
       "title": "August 13, 2026",
@@ -251,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-08-12",
       "title": "August 12, 2026",
@@ -281,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-08-12",
       "title": "Updates to age ratings for the Republic of Korea",
@@ -291,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-08-11",
       "title": "August 11, 2026",
@@ -311,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-08-10",
       "title": "August 10, 2026",
@@ -331,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-08-07",
       "title": "August 07, 2026",
@@ -341,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-08-06",
       "title": "August 06, 2026",
@@ -351,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-08-05",
       "title": "August 05, 2026",
@@ -361,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-08-05",
       "title": "Get ready for new creative assets on the App Store",
@@ -371,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-08-05",
       "title": "Hello Developer: August 2026",
@@ -381,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-08-04",
       "title": "August 04, 2026",
@@ -391,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-08-03",
       "title": "August 03, 2026",
@@ -411,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-07-31",
       "title": "July 31, 2026",
@@ -421,13 +451,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-5",
+      "cat": "bigquery",
       "date": "2026-07-30",
       "title": "July 30, 2026",
-      "summary": "Agent Platform Workbench Change M145 Release Change 20260730-2130-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Fixed Fixed issue with JupyterLab UI sil",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_30_2026",
+      "summary": "Feature You can add tables, views, data sources, and data quality tests as tasks to BigQuery pipelines. For more information, see Add a pipeline task . This feature is generally available . Feature You can audit when users download query re",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_30_2026",
       "live": true
     },
     {
@@ -541,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-07-22",
       "title": "July 22, 2026",
@@ -568,16 +598,6 @@
       "summary": "4.3.0 (",
       "src": "sGTM — Release notes",
       "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-07-21",
-      "title": "July 21, 2026",
-      "summary": "Looker (Google Cloud core) and Looker (original) changes Deprecated As of July 13, 2026, Looker reports have been deprecated. If you had previously enabled the preview for Looker reports, be aware of the following: You will no longer have t",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_21_2026",
       "live": true
     },
     {
@@ -611,7 +631,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-07-09",
       "title": "Age rating questionnaire now includes social media questions",
@@ -651,7 +671,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-07-07",
       "title": "Hello Developer: July 2026",
@@ -731,7 +751,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-06-23",
       "title": "Design kits for iOS, iPadOS, and macOS 27 are here",
@@ -748,26 +768,6 @@
       "summary": "that were previously undercounted in server-to-server setups due to a lack of browser cookie context Server-side data is intelligently joined with parallel browser signals, such as cookies, when a GCLID is present so that Floodlight can mor",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-6",
-      "cat": "apple",
-      "date": "2026-06-18",
-      "title": "Updated Apple Developer Program License Agreement now available",
-      "summary": "Attachment 12 of the Apple Developer Program License Agreement has been revised to specify terms for iOS apps in Brazil, including alternative distribution, alternative payments and out-of-app offers, and the Core Technology Commission. Ple",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=umq9wxmm",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-06-18",
-      "title": "Changes to iOS in Brazil",
-      "summary": "As part of a recent agreement with Brazil’s competition regulator CADE (Conselho Administrativo de Defesa Econômica), Apple is introducing changes to iOS that create new options for developers' apps in Brazil. Beginning with iOS 26.5, devel",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=dhwadr2x",
       "live": true
     },
     {
