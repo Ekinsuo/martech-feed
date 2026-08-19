@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T04:49:49.209151+00:00",
+  "generated_at": "2026-08-19T14:02:20.499088+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 103,
+  "count": 102,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 3
+      "items": 2
     },
     {
       "name": "BigQuery ML Revision History",
@@ -121,7 +121,47 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-08-19",
+      "title": "The GA4 session_start Conundrum: How to Work With Impacted Data",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/the-ga4-session-start-conundrum-how-to-work-with-impacted-data-d592e346222d?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-19",
+      "title": "Getting your brand ready for AI agent discovery",
+      "summary": "Being included in an AI answer isn't the same as being chosen. Here's what determines the difference. The post Getting your brand ready for AI agent discovery appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/getting-your-brand-ready-for-ai-agent-discovery/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-19",
+      "title": "Turn scattered AI wins into an organizational advantage",
+      "summary": "Useful AI practices often get trapped in personal docs and Slack threads. Here's how to spread them across the organization. The post Turn scattered AI wins into an organizational advantage appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/turn-scattered-ai-wins-into-an-organizational-advantage/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-19",
+      "title": "Built for yesterday: Why your data architecture can’t keep up with AI",
+      "summary": "Struggling to power AI with outdated systems? On Sept.2, learn how composable data architecture enables real-time decisions without a total rebuild. The post Built for yesterday: Why your data architecture can’t keep up with AI appeared fir",
+      "src": "MarTech.org",
+      "url": "https://martech.org/built-for-yesterday-why-your-data-architecture-cant-keep-up-with-ai/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-08-18",
       "title": "August 18, 2026",
@@ -131,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-08-18",
       "title": "AI visibility index shows which brands are disappearing",
@@ -141,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-08-18",
       "title": "IAB updates standard for disclosing AI in ads",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-18",
       "title": "How to overcome the 3 barriers to AI adoption",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-18",
       "title": "How to stop overpaying for AI complexity",
@@ -191,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-08-17",
       "title": "August 17, 2026",
@@ -201,43 +241,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-17",
       "title": "Why LinkedIn doesn’t really care about AI slop",
       "summary": "The problem is AI is perfect for producing the polished, predictable business speak the platform rewards. The post Why LinkedIn doesn t really care about AI slop appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/why-linkedin-doesnt-really-care-about-ai-slop/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-17",
-      "title": "Why buyers hate your multi-year software overhaul",
-      "summary": "B2B buyers are growing more risk-averse. Here is how to restructure engineering and pitches around modular API integration models. The post Why buyers hate your multi-year software overhaul appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-buyers-hate-your-multi-year-software-overhaul/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-17",
-      "title": "The next AI opportunity is deciding where to spend",
-      "summary": "AI is moving deeper into media buying and budget allocation, helping marketers put more of their spending into what’s working. The post The next AI opportunity is deciding where to spend appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-next-ai-opportunity-is-deciding-where-to-spend/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-17",
-      "title": "Stop treating every customer touchpoint the same",
-      "summary": "The moments that drive growth can also drive churn. Learn how to spot them and respond when the stakes are highest. The post Stop treating every customer touchpoint the same appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/stop-treating-every-customer-touchpoint-the-same/",
       "live": true
     },
     {
@@ -251,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-08-13",
       "title": "August 13, 2026",
@@ -281,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-08-12",
       "title": "August 12, 2026",
@@ -321,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-08-11",
       "title": "August 11, 2026",
@@ -341,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-08-10",
       "title": "August 10, 2026",
@@ -361,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-08-07",
       "title": "August 07, 2026",
@@ -371,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-08-06",
       "title": "August 06, 2026",
@@ -381,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-08-05",
       "title": "August 05, 2026",
@@ -411,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-08-04",
       "title": "August 04, 2026",
@@ -421,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-08-03",
       "title": "August 03, 2026",
@@ -441,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-07-31",
       "title": "July 31, 2026",
@@ -451,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-5",
+      "id": "live-BigQuery Release Notes-6",
       "cat": "bigquery",
       "date": "2026-07-30",
       "title": "July 30, 2026",
@@ -491,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-6",
+      "id": "live-BigQuery Release Notes-7",
       "cat": "bigquery",
       "date": "2026-07-29",
       "title": "July 29, 2026",
@@ -538,16 +548,6 @@
       "summary": "import to require a currency field whenever you upload cost data This ensures your campaign reporting stays accurate, even if you decide to make changes to your property's currency settings. When importing your campaign data, you can now ch",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
-      "date": "2026-07-27",
-      "title": "July 27, 2026",
-      "summary": "Feature You can discover commercial BigQuery sharing listings on Google Cloud Marketplace with the Marketplace filter. For more information, see Subscribe to a Cloud Marketplace-integrated listing . This feature is generally available (GA).",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_27_2026",
       "live": true
     },
     {
@@ -651,7 +651,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-07-08",
       "title": "Layer Lens v1.2: See Exactly Where Your Email Goes in An Analytics Stack",
@@ -781,7 +781,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-06-15",
       "title": "Building a Firebase Analytics Error Tracking Dashboard",
@@ -801,7 +801,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-06-12",
       "title": "Introducing Layer Lens: Search Your GTM & GA4 Data in Real Time",
@@ -821,7 +821,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-06-10",
       "title": "World Cup Sweepstake Generator",
@@ -841,7 +841,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-06-06",
       "title": "How to Deploy a Firebase Website as an App on Your iPhone",
@@ -871,7 +871,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-05-27",
       "title": "How to Secure Gemini API Keys in Google Cloud & Firebase",
@@ -881,23 +881,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-05-25",
       "title": "Automate Server-Side Google Tag Manager Updates on Cloud Run",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/automate-server-side-google-tag-manager-updates-on-cloud-run-5d40dfe792d1?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-05-20",
-      "title": "Updating Google Tag Manager Server Side Tagging Servers",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/updating-google-tag-manager-server-side-tagging-servers-4e2440f69c7d?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
