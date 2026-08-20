@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T04:51:12.666996+00:00",
+  "generated_at": "2026-08-20T14:04:30.726989+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 102,
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 2
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,6 +121,56 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-08-20",
+      "title": "The App Tracking Transparency prompt was never neutral. Germany just made Apple prove it.",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/the-app-tracking-transparency-prompt-was-never-neutral-germany-just-made-apple-prove-it-9eee4e5e8a33?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-20",
+      "title": "Business websites dominate Gemini’s local AI citations",
+      "summary": "Nearly 60% of Gemini’s local citations point to business websites, but recommendations can change dramatically when using identical searches. The post Business websites dominate Gemini’s local AI citations appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/business-websites-dominate-geminis-local-ai-citations/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-20",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Seismic and Highspot's merger creates a bigger GTM platform, but how useful will it be to customers with disconnected data and processes? The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-20",
+      "title": "How to tell if your personalization is over the line",
+      "summary": "Before using customer data to personalize an experience, test whether customers expect it, find it relevant, and feel comfortable with it. The post How to tell if your personalization is over the line appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-tell-if-your-personalization-is-over-the-line/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-08-20",
+      "title": "Marketing contribution is the new attribution",
+      "summary": "Attribution turns complex buyer journeys into neat charts. Marketing contribution looks at the content, conversations, and decision points those charts miss. The post Marketing contribution is the new attribution appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketing-contribution-is-the-new-attribution/",
+      "live": true
+    },
+    {
       "id": "live-Google Ads Developer Blog-0",
       "cat": "gads",
       "date": "2026-08-19",
@@ -131,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-08-19",
       "title": "The GA4 session_start Conundrum: How to Work With Impacted Data",
@@ -141,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-08-19",
       "title": "Google gives political email a lane around spam filters",
@@ -151,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-19",
       "title": "Getting your brand ready for AI agent discovery",
@@ -161,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-19",
       "title": "Turn scattered AI wins into an organizational advantage",
@@ -171,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-19",
       "title": "Built for yesterday: Why your data architecture can’t keep up with AI",
@@ -188,46 +238,6 @@
       "summary": "App Engine standard environment Java Feature Support for migrating from the App Engine Images service to Cloud Run is in General Availability (GA) . App Engine standard environment Python Feature Support for migrating from the App Engine Im",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_18_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-08-18",
-      "title": "AI visibility index shows which brands are disappearing",
-      "summary": "Some brands dominate Google yet barely surface in AI answers. Here’s where traditional authority and AI recall diverge. The post AI visibility index shows which brands are disappearing appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-visibility-index-shows-which-brands-are-disappearing/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-18",
-      "title": "IAB updates standard for disclosing AI in ads",
-      "summary": "IAB’s updated framework draws the AI disclosure line around what changes consumer perceptions of authenticity, identity, and what’s real. The post IAB updates standard for disclosing AI in ads appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/iab-updates-standard-for-disclosing-ai-in-ads/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-18",
-      "title": "How to overcome the 3 barriers to AI adoption",
-      "summary": "The biggest barriers to AI adoption may be internal: inconsistent training, bias concerns, and tactics that get ahead of strategy. The post How to overcome the 3 barriers to AI adoption appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-overcome-the-3-barriers-to-ai-adoption/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-18",
-      "title": "How to stop overpaying for AI complexity",
-      "summary": "Rule-based, predictive, generative, and agentic systems come with very different costs and risks. Start with the lightest approach that can do the job. The post How to stop overpaying for AI complexity appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-stop-overpaying-for-ai-complexity/",
       "live": true
     },
     {
@@ -391,13 +401,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
-      "cat": "general",
+      "id": "live-Looker Release Notes-2",
+      "cat": "looker",
       "date": "2026-08-06",
       "title": "August 06, 2026",
-      "summary": "Cloud Key Management Service Feature Preview: Cloud KMS supports quantum-safe key import. You can use the following quantum-safe import methods: HPKE_KEM_XWING_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_KEM_768_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_06_2026",
+      "summary": "Deployment dates Announcement Looker 26.14 will roll out to Looker (original) instances on the following schedule: Expected deployment start: Monday, August 10, 2026 Expected final deployment and download available: Sunday, August 23, 2026 ",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#August_06_2026",
       "live": true
     },
     {
@@ -471,13 +481,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-6",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-20",
+      "cat": "general",
       "date": "2026-07-30",
       "title": "July 30, 2026",
-      "summary": "Feature You can add tables, views, data sources, and data quality tests as tasks to BigQuery pipelines. For more information, see Add a pipeline task . This feature is generally available . Feature You can audit when users download query re",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_30_2026",
+      "summary": "Agent Platform Workbench Change M145 Release Change 20260730-2130-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Fixed Fixed issue with JupyterLab UI sil",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#July_30_2026",
       "live": true
     },
     {
@@ -651,7 +661,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-07-08",
       "title": "Layer Lens v1.2: See Exactly Where Your Email Goes in An Analytics Stack",
@@ -781,7 +791,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-06-15",
       "title": "Building a Firebase Analytics Error Tracking Dashboard",
@@ -801,7 +811,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-06-12",
       "title": "Introducing Layer Lens: Search Your GTM & GA4 Data in Real Time",
@@ -821,7 +831,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-06-10",
       "title": "World Cup Sweepstake Generator",
@@ -841,7 +851,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-06-06",
       "title": "How to Deploy a Firebase Website as an App on Your iPhone",
@@ -871,23 +881,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-05-27",
       "title": "How to Secure Gemini API Keys in Google Cloud & Firebase",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/how-to-secure-gemini-api-keys-in-google-cloud-firebase-e99b6deb45e0?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-05-25",
-      "title": "Automate Server-Side Google Tag Manager Updates on Cloud Run",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/automate-server-side-google-tag-manager-updates-on-cloud-run-5d40dfe792d1?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
