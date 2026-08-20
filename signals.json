@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:02:20.499088+00:00",
+  "generated_at": "2026-08-20T04:51:12.666996+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 102,
@@ -121,6 +121,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-08-19",
+      "title": "Announcing v25.1 of the Google Ads API",
+      "summary": "Today we are announcing the release of v25.1 of the Google Ads API . To use the new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us f",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/2951646457172167571",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
       "date": "2026-08-19",
@@ -134,6 +144,16 @@
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-08-19",
+      "title": "Google gives political email a lane around spam filters",
+      "summary": "New program shows how Gmail is using sender verification and recipient feedback to decide who gets preferential inbox treatment. The post Google gives political email a lane around spam filters appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/google-gives-political-email-a-lane-around-spam-filters/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-19",
       "title": "Getting your brand ready for AI agent discovery",
       "summary": "Being included in an AI answer isn't the same as being chosen. Here's what determines the difference. The post Getting your brand ready for AI agent discovery appeared first on MarTech .",
       "src": "MarTech.org",
@@ -141,7 +161,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-08-19",
       "title": "Turn scattered AI wins into an organizational advantage",
@@ -151,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-08-19",
       "title": "Built for yesterday: Why your data architecture can’t keep up with AI",
@@ -171,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-08-18",
       "title": "AI visibility index shows which brands are disappearing",
@@ -181,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-18",
       "title": "IAB updates standard for disclosing AI in ads",
@@ -191,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-18",
       "title": "How to overcome the 3 barriers to AI adoption",
@@ -201,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-18",
       "title": "How to stop overpaying for AI complexity",
@@ -241,16 +261,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-17",
-      "title": "Why LinkedIn doesn’t really care about AI slop",
-      "summary": "The problem is AI is perfect for producing the polished, predictable business speak the platform rewards. The post Why LinkedIn doesn t really care about AI slop appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-linkedin-doesnt-really-care-about-ai-slop/",
-      "live": true
-    },
-    {
       "id": "live-Simo Ahava-0",
       "cat": "general",
       "date": "2026-08-14",
@@ -271,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-08-13",
       "title": "Google Ads language targeting changes starting September 2026",
@@ -301,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-08-12",
       "title": "Migrate Campaign-level Broad Match and Automatically Created Assets to AI Max",
@@ -311,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-08-12",
       "title": "Query report data with the Campaign Manager 360 API",
@@ -441,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-08-03",
       "title": "Google Ads API pilot: Secure API Access to your Manager Accounts",
@@ -471,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-07-30",
       "title": "Data Manager API updates: RemoveAllAudienceMembers method, ingestion field warnings, expanded address data",
@@ -511,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-07-29",
       "title": "Launching Structured Data Files v10.1",
@@ -531,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-07-28",
       "title": "Support for AI Content Labeling using the Campaign Manager and Display & Video 360 APIs",
@@ -548,16 +558,6 @@
       "summary": "import to require a currency field whenever you upload cost data This ensures your campaign reporting stays accurate, even if you decide to make changes to your property's currency settings. When importing your campaign data, you can now ch",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-07-27",
-      "title": "Passkey authentication requirement for the Google Ads API",
-      "summary": "As part of improving security for Google Ads accounts, the Google Ads API will start requiring passkeys for Google Ads API users . This is part of a broader change in Google Ads that requires passkeys to authorize sensitive actions in your ",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/7132363063735296802",
       "live": true
     },
     {
