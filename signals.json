@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T14:04:30.726989+00:00",
+  "generated_at": "2026-08-21T04:52:36.927003+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 102,
+  "count": 101,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 2
+      "items": 1
     },
     {
       "name": "Looker Studio Release Notes",
@@ -120,6 +120,26 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-08-20",
+      "title": "August 20, 2026",
+      "summary": "BigQuery Deprecated Starting April 26, 2027, core graph processing for BigQuery Graph will be restricted to the BigQuery Enterprise and Enterprise Plus editions . Consequently, we are deprecating support for Standard edition and on-demand b",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_20_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-1",
+      "cat": "gads",
+      "date": "2026-08-20",
+      "title": "Google Ads language targeting changes starting September 2026",
+      "summary": "We're making changes to language targeting for Search, AI Max for Search, and Performance Max campaigns in Google Ads, simplifying campaign management while maintaining a high-quality ad experience. Effective late September 2026: For Search",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/8241268561751522389",
+      "live": true
+    },
     {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
@@ -231,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-08-18",
       "title": "August 18, 2026",
@@ -261,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-08-17",
       "title": "August 17, 2026",
@@ -281,23 +301,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-08-13",
       "title": "August 13, 2026",
       "summary": "Apigee X Announcement On August 13th, 2026, we began maintenance updates of Apigee instances configured for maintenance windows . If you set a preferred window for maintenance for your instance, and your instance version is below 1-18-0-api",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_13_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-1",
-      "cat": "gads",
-      "date": "2026-08-13",
-      "title": "Google Ads language targeting changes starting September 2026",
-      "summary": "We're making changes to language targeting for Search, AI Max for Search, and Performance Max campaigns in Google Ads, simplifying campaign management while maintaining a high-quality ad experience. Effective late September 2026: For Search",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/8241268561751522389",
       "live": true
     },
     {
@@ -311,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-08-12",
       "title": "August 12, 2026",
@@ -351,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-08-11",
       "title": "August 11, 2026",
@@ -371,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-08-10",
       "title": "August 10, 2026",
@@ -391,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-08-07",
       "title": "August 07, 2026",
@@ -401,17 +411,17 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-2",
-      "cat": "looker",
+      "id": "live-Google Cloud — All release notes-14",
+      "cat": "general",
       "date": "2026-08-06",
       "title": "August 06, 2026",
-      "summary": "Deployment dates Announcement Looker 26.14 will roll out to Looker (original) instances on the following schedule: Expected deployment start: Monday, August 10, 2026 Expected final deployment and download available: Sunday, August 23, 2026 ",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#August_06_2026",
+      "summary": "Cloud Key Management Service Feature Preview: Cloud KMS supports quantum-safe key import. You can use the following quantum-safe import methods: HPKE_KEM_XWING_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_KEM_768_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_06_2026",
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-08-05",
       "title": "August 05, 2026",
@@ -441,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-08-04",
       "title": "August 04, 2026",
@@ -451,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-08-03",
       "title": "August 03, 2026",
@@ -471,23 +481,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
-      "cat": "general",
-      "date": "2026-07-31",
-      "title": "July 31, 2026",
-      "summary": "Access Approval Feature App Topology (including One Graph) is generally available (GA) . Access Transparency Feature App Topology (including One Graph) is generally available (GA) . Apigee hybrid Announcement v1.15.7 On July 31, 2026 we rel",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_31_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-7",
+      "cat": "bigquery",
       "date": "2026-07-30",
       "title": "July 30, 2026",
-      "summary": "Agent Platform Workbench Change M145 Release Change 20260730-2130-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Fixed Fixed issue with JupyterLab UI sil",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#July_30_2026",
+      "summary": "Feature You can add tables, views, data sources, and data quality tests as tasks to BigQuery pipelines. For more information, see Add a pipeline task . This feature is generally available . Feature You can audit when users download query re",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_30_2026",
       "live": true
     },
     {
@@ -518,16 +518,6 @@
       "summary": "We’ve launched a new diagnostic to alert users of issues with campaign data accuracy due to missing URL parameters Properties where aggregate identifiers (GBRAID and gad_) are missing from the URL will see a new diagnostic, including the pr",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
-      "date": "2026-07-29",
-      "title": "July 29, 2026",
-      "summary": "Feature The BigQuery Data Transfer Service now supports incremental data transfers when transferring data from Klaviyo to BigQuery. This feature is supported in Preview .",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_29_2026",
       "live": true
     },
     {
