@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T04:52:36.927003+00:00",
+  "generated_at": "2026-08-21T14:02:46.392020+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 101,
@@ -121,11 +121,71 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-08-21",
+      "title": "Merchant Center is redefining “organic traffic” on August 24",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/merchant-center-is-redefining-organic-traffic-on-august-24-4321ee565501?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-21",
+      "title": "B2B marketers don’t trust the data used to shape budgets",
+      "summary": "Marketing data influences budgets, but only 49% fully trust its accuracy and completeness. Disconnected reporting is behind the confidence gap. The post B2B marketers don’t trust the data used to shape budgets appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketers-dont-trust-the-data-used-to-shape-budgets/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-21",
+      "title": "What the teams getting the most from AI do differently",
+      "summary": "Teams built around autonomy, experimentation, and cross-functional work can turn AI’s speed into faster campaigns without adding headcount. The post What the teams getting the most from AI do differently appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/what-the-teams-getting-the-most-from-ai-do-differently/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-21",
+      "title": "The engagement illusion: What actually gets attention (and what gets ignored)",
+      "summary": "AI makes producing content fast, but earning true attention is harder than ever. On Sept. 2, we'll discuss how to cut through the noise and create meaningful engagement. The post The engagement illusion: What actually gets attention (and wh",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-engagement-illusion-what-actually-gets-attention-and-what-gets-ignored/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-08-21",
+      "title": "HubSpot July 2026 updates: Agent Hub arrives and more ways to control what you see",
+      "summary": "The July 2026 HubSpot updates focus on giving you more control over what shows up where, and folding every AI agent into one place to manage them. The post HubSpot July 2026 updates: Agent Hub arrives and more ways to control what you see a",
+      "src": "MarTech.org",
+      "url": "https://martech.org/hubspot-july-2026-updates-agent-hub-arrives-and-more-ways-to-control-what-you-see/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-08-21",
+      "title": "Why long sales cycles make B2B marketing hard to measure",
+      "summary": "Long B2B sales cycles make most marketing measurement unreliable. Learn why clicks, leads, and conversions don’t tell the full story. The post Why long sales cycles make B2B marketing hard to measure appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-long-sales-cycles-make-b2b-marketing-so-hard-to-measure/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-08-20",
       "title": "August 20, 2026",
-      "summary": "BigQuery Deprecated Starting April 26, 2027, core graph processing for BigQuery Graph will be restricted to the BigQuery Enterprise and Enterprise Plus editions . Consequently, we are deprecating support for Standard edition and on-demand b",
+      "summary": "App Engine flexible environment .NET Feature Starting from August 2026, to provide modern security patches and support for MySQL 8.4 and later, the App Engine flexible environment uses Cloud SQL Auth Proxy v2 as the built-in sidecar contain",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_20_2026",
       "live": true
@@ -141,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-08-20",
       "title": "The App Tracking Transparency prompt was never neutral. Germany just made Apple prove it.",
@@ -151,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-20",
       "title": "Business websites dominate Gemini’s local AI citations",
@@ -161,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-20",
       "title": "The latest AI-powered martech news and releases",
@@ -171,23 +231,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-20",
       "title": "How to tell if your personalization is over the line",
       "summary": "Before using customer data to personalize an experience, test whether customers expect it, find it relevant, and feel comfortable with it. The post How to tell if your personalization is over the line appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/how-to-tell-if-your-personalization-is-over-the-line/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-08-20",
-      "title": "Marketing contribution is the new attribution",
-      "summary": "Attribution turns complex buyer journeys into neat charts. Marketing contribution looks at the content, conversations, and decision points those charts miss. The post Marketing contribution is the new attribution appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketing-contribution-is-the-new-attribution/",
       "live": true
     },
     {
@@ -201,53 +251,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-08-19",
       "title": "The GA4 session_start Conundrum: How to Work With Impacted Data",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/the-ga4-session-start-conundrum-how-to-work-with-impacted-data-d592e346222d?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-08-19",
-      "title": "Google gives political email a lane around spam filters",
-      "summary": "New program shows how Gmail is using sender verification and recipient feedback to decide who gets preferential inbox treatment. The post Google gives political email a lane around spam filters appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/google-gives-political-email-a-lane-around-spam-filters/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-19",
-      "title": "Getting your brand ready for AI agent discovery",
-      "summary": "Being included in an AI answer isn't the same as being chosen. Here's what determines the difference. The post Getting your brand ready for AI agent discovery appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/getting-your-brand-ready-for-ai-agent-discovery/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-19",
-      "title": "Turn scattered AI wins into an organizational advantage",
-      "summary": "Useful AI practices often get trapped in personal docs and Slack threads. Here's how to spread them across the organization. The post Turn scattered AI wins into an organizational advantage appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/turn-scattered-ai-wins-into-an-organizational-advantage/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-19",
-      "title": "Built for yesterday: Why your data architecture can’t keep up with AI",
-      "summary": "Struggling to power AI with outdated systems? On Sept.2, learn how composable data architecture enables real-time decisions without a total rebuild. The post Built for yesterday: Why your data architecture can’t keep up with AI appeared fir",
-      "src": "MarTech.org",
-      "url": "https://martech.org/built-for-yesterday-why-your-data-architecture-cant-keep-up-with-ai/",
       "live": true
     },
     {
@@ -651,7 +661,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-07-08",
       "title": "Layer Lens v1.2: See Exactly Where Your Email Goes in An Analytics Stack",
@@ -781,7 +791,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-06-15",
       "title": "Building a Firebase Analytics Error Tracking Dashboard",
@@ -801,7 +811,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-06-12",
       "title": "Introducing Layer Lens: Search Your GTM & GA4 Data in Real Time",
@@ -821,7 +831,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-06-10",
       "title": "World Cup Sweepstake Generator",
@@ -841,7 +851,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-06-06",
       "title": "How to Deploy a Firebase Website as an App on Your iPhone",
@@ -868,16 +878,6 @@
       "summary": "is now available This release marks the general availability of the Google tag gateway for advertisers integration with Google Cloud Platform (GCP) This integration allows you to leverage Google Cloud Platform’s Global external Application ",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-05-27",
-      "title": "How to Secure Gemini API Keys in Google Cloud & Firebase",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/how-to-secure-gemini-api-keys-in-google-cloud-firebase-e99b6deb45e0?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
