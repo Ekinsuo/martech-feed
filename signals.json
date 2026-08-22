@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T04:47:20.598183+00:00",
+  "generated_at": "2026-08-22T13:48:22.021220+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 101,
+  "count": 102,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "name": "BigQuery ML Revision History",
@@ -121,6 +121,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-1",
+      "cat": "general",
+      "date": "2026-08-21",
+      "title": "August 21, 2026",
+      "summary": "AlloyDB for PostgreSQL Fixed AlloyDB now provides more accurate memory usage estimation, and it prevents out-of-memory (OOM) errors when you build a ScaNN four-level tree index . This feature is in Preview . This update improves the stabili",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_21_2026",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
       "date": "2026-08-21",
@@ -181,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-08-20",
       "title": "August 20, 2026",
@@ -261,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-08-18",
       "title": "August 18, 2026",
@@ -291,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-08-17",
       "title": "August 17, 2026",
@@ -311,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-08-13",
       "title": "August 13, 2026",
@@ -331,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-08-12",
       "title": "August 12, 2026",
@@ -371,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-08-11",
       "title": "August 11, 2026",
@@ -391,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-08-10",
       "title": "August 10, 2026",
@@ -411,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-08-07",
       "title": "August 07, 2026",
@@ -421,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-08-06",
       "title": "August 06, 2026",
@@ -431,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-08-05",
       "title": "August 05, 2026",
@@ -461,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-08-04",
       "title": "August 04, 2026",
@@ -471,13 +481,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-6",
+      "cat": "bigquery",
       "date": "2026-08-03",
       "title": "August 03, 2026",
-      "summary": "API Gateway Feature Route LLM requests with model routing You can now use model routing in API Gateway as a managed traffic management layer to accept OpenAI-compatible prompt requests, transcode them in-flight, and route them to specific f",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_03_2026",
+      "summary": "Feature You can now use cross-cloud connections to query data in AWS, Azure, and Salesforce Data 360 from all BigQuery regions. These connections let you use more BigQuery features and are more cost efficient than standard connections that ",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#August_03_2026",
       "live": true
     },
     {
