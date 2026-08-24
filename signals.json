@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T13:49:42.384700+00:00",
+  "generated_at": "2026-08-24T04:59:16.122994+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 102,
@@ -345,7 +345,7 @@
       "cat": "general",
       "date": "2026-08-12",
       "title": "August 12, 2026",
-      "summary": "Apigee API hub Feature Configure and deploy MCP servers with gcloud CLI You can use the gcloud apihub locations configure-and-deploy-server command to configure and deploy API hub Model Context Protocol (MCP) servers to an attached Apigee r",
+      "summary": "Access Approval Feature Agent Identity is generally available (GA) . Access Transparency Feature Agent Identity is generally available (GA) . Apigee API hub Feature Configure and deploy MCP servers with gcloud CLI You can use the gcloud api",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_12_2026",
       "live": true
@@ -385,7 +385,7 @@
       "cat": "general",
       "date": "2026-08-11",
       "title": "August 11, 2026",
-      "summary": "Apigee hybrid Announcement v1.16.9 On August 11, 2026 we released an updated version of the Apigee hybrid software, v1.16.9. For information on upgrading, see Upgrading Apigee hybrid to version v1.16.9 . For information on new installations",
+      "summary": "Access Approval Feature Datastream is generally available (GA) . Access Transparency Feature Datastream is generally available (GA) . Apigee hybrid Announcement v1.16.9 On August 11, 2026 we released an updated version of the Apigee hybrid ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_11_2026",
       "live": true
