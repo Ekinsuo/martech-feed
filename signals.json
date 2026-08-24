@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T04:59:16.122994+00:00",
+  "generated_at": "2026-08-24T14:07:37.592789+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 102,
@@ -121,6 +121,56 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-24",
+      "title": "Better marketing starts after the results come in",
+      "summary": "Don’t let the campaign report end the conversation. Asking why and testing your hypothesis turns results into better decisions. The post Better marketing starts after the results come in appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/better-marketing-starts-after-the-results-come-in/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-24",
+      "title": "Run fewer incrementality tests and get more from them",
+      "summary": "Prioritize tests where uncertainty has real financial consequences, then use the results to guide decisions long after the test ends. The post Run fewer incrementality tests and get more from them appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/run-fewer-incrementality-tests-and-get-more-from-them/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-24",
+      "title": "Marketing on LinkedIn: What you need to know",
+      "summary": "Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new AI-powered Recommended Clips and Chapters feature. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/linkedin-the-marketers-guide/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-08-24",
+      "title": "The terrifying math behind your new AI workforce",
+      "summary": "Autonomous marketing agents promise massive labor savings, but ballooning API fees and middleware costs can easily break your technology budget. The post The terrifying math behind your new AI workforce appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-terrifying-math-behind-your-new-ai-workforce/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-08-24",
+      "title": "The power of connected customer history by Rokt mParticle",
+      "summary": "Why transaction data alone isn't enough for performance marketing, and how persistent customer profiles change the equation. The post The power of connected customer history appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-power-of-connected-customer-history/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-08-21",
@@ -141,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-21",
       "title": "B2B marketers don’t trust the data used to shape budgets",
@@ -151,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-21",
       "title": "What the teams getting the most from AI do differently",
@@ -161,33 +211,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-21",
       "title": "The engagement illusion: What actually gets attention (and what gets ignored)",
       "summary": "AI makes producing content fast, but earning true attention is harder than ever. On Sept. 2, we'll discuss how to cut through the noise and create meaningful engagement. The post The engagement illusion: What actually gets attention (and wh",
       "src": "MarTech.org",
       "url": "https://martech.org/the-engagement-illusion-what-actually-gets-attention-and-what-gets-ignored/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-08-21",
-      "title": "HubSpot July 2026 updates: Agent Hub arrives and more ways to control what you see",
-      "summary": "The July 2026 HubSpot updates focus on giving you more control over what shows up where, and folding every AI agent into one place to manage them. The post HubSpot July 2026 updates: Agent Hub arrives and more ways to control what you see a",
-      "src": "MarTech.org",
-      "url": "https://martech.org/hubspot-july-2026-updates-agent-hub-arrives-and-more-ways-to-control-what-you-see/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-08-21",
-      "title": "Why long sales cycles make B2B marketing hard to measure",
-      "summary": "Long B2B sales cycles make most marketing measurement unreliable. Learn why clicks, leads, and conversions don’t tell the full story. The post Why long sales cycles make B2B marketing hard to measure appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-long-sales-cycles-make-b2b-marketing-so-hard-to-measure/",
       "live": true
     },
     {
@@ -218,36 +248,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/the-app-tracking-transparency-prompt-was-never-neutral-germany-just-made-apple-prove-it-9eee4e5e8a33?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-20",
-      "title": "Business websites dominate Gemini’s local AI citations",
-      "summary": "Nearly 60% of Gemini’s local citations point to business websites, but recommendations can change dramatically when using identical searches. The post Business websites dominate Gemini’s local AI citations appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/business-websites-dominate-geminis-local-ai-citations/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-20",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Seismic and Highspot's merger creates a bigger GTM platform, but how useful will it be to customers with disconnected data and processes? The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-20",
-      "title": "How to tell if your personalization is over the line",
-      "summary": "Before using customer data to personalize an experience, test whether customers expect it, find it relevant, and feel comfortable with it. The post How to tell if your personalization is over the line appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-tell-if-your-personalization-is-over-the-line/",
       "live": true
     },
     {
