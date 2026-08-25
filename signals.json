@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T14:07:37.592789+00:00",
+  "generated_at": "2026-08-25T04:52:01.858932+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 102,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 2
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 1
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,6 +121,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-08-24",
+      "title": "August 24, 2026",
+      "summary": "Backup and DR Feature Backup vault support for Filestore instances encrypted with customer-managed encryption keys (CMEK) is now generally available (GA). When you back up Filestore instances to a CMEK-enabled backup vault, the backups are ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_24_2026",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-08-24",
@@ -171,7 +181,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-08-24",
+      "title": "Update: New domain for Sign in with Apple",
+      "summary": "Starting later this year, new Sign in with Apple addresses, previously issued on privaterelay.appleid.com , will be issued on private.icloud.com . Existing addresses on privaterelay.appleid.com will continue to work and forward mail to user",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-08-21",
       "title": "August 21, 2026",
@@ -221,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-08-20",
       "title": "August 20, 2026",
@@ -271,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-08-18",
       "title": "August 18, 2026",
@@ -281,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-08-18",
       "title": "Changes for apps in the European Union",
@@ -291,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-08-18",
       "title": "Updated Apple Developer Program License Agreement now available",
@@ -301,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-08-17",
       "title": "August 17, 2026",
@@ -321,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-08-13",
       "title": "August 13, 2026",
@@ -341,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-08-12",
       "title": "August 12, 2026",
@@ -371,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-08-12",
       "title": "Updates to age ratings for the Republic of Korea",
@@ -381,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-08-11",
       "title": "August 11, 2026",
@@ -401,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-08-10",
       "title": "August 10, 2026",
@@ -421,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-08-07",
       "title": "August 07, 2026",
@@ -431,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-08-06",
       "title": "August 06, 2026",
@@ -441,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-08-05",
       "title": "August 05, 2026",
@@ -451,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-08-05",
       "title": "Get ready for new creative assets on the App Store",
@@ -461,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-08-05",
       "title": "Hello Developer: August 2026",
@@ -471,17 +491,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
-      "cat": "general",
+      "id": "live-Looker Release Notes-4",
+      "cat": "looker",
       "date": "2026-08-04",
       "title": "August 04, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature AlloyDB now supports Best Matching 25 (BM25) indexes for full-text search in Preview . You can use the pg_textsearch extension to create BM25 indexes and optimize probabilistic ranking of full-text search. Thi",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_04_2026",
+      "summary": "Deployment dates Feature Now available in preview, enhanced observability metrics — including engagement and estimated token usage data — are available for Conversational Analytics on the Conversational Analytics System Activity dashboard .",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#August_04_2026",
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-6",
+      "id": "live-BigQuery Release Notes-7",
       "cat": "bigquery",
       "date": "2026-08-03",
       "title": "August 03, 2026",
@@ -501,13 +521,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
+      "id": "live-Looker Release Notes-6",
+      "cat": "looker",
       "date": "2026-07-30",
       "title": "July 30, 2026",
-      "summary": "Feature You can add tables, views, data sources, and data quality tests as tasks to BigQuery pipelines. For more information, see Add a pipeline task . This feature is generally available . Feature You can audit when users download query re",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#July_30_2026",
+      "summary": "Deployment dates Announcement From July 27 through July 30, 2026, the following features will be automatically enabled for Looker (original) instances running Looker 26.12. Feature Looker admins now have the ability to configure a Looker in",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_30_2026",
       "live": true
     },
     {
@@ -651,7 +671,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-07-09",
       "title": "Age rating questionnaire now includes social media questions",
@@ -691,7 +711,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-07-07",
       "title": "Hello Developer: July 2026",
@@ -768,16 +788,6 @@
       "summary": "Brussels, 24 June – The EDPB has launched a dedicated contact form for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments set out in the EDPB Helsinki State",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-06-23",
-      "title": "Design kits for iOS, iPadOS, and macOS 27 are here",
-      "summary": "Apple design kits for Figma and Sketch are now available for iOS, iPadOS, and macOS 27. These include: Updates to Liquid Glass Expanded component and state support Naming changes to better align with code Improved resizing The addition of D",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=e2lxw9l1",
       "live": true
     },
     {
