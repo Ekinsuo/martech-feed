@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T04:52:01.858932+00:00",
+  "generated_at": "2026-08-25T14:09:25.445729+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,17 +121,47 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-08-25",
+      "title": "BigQuery pipelines can now document themselves",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquery-pipelines-can-now-document-themselves-cf3e50c03f63?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-25",
+      "title": "3 ways marketing automation platforms are being reinvented",
+      "summary": "The MAP once moved leads toward sales. Three emerging models now center customer context and what happens next. The post 3 ways marketing automation platforms are being reinvented appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/3-ways-marketing-automation-platforms-are-being-reinvented/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-25",
+      "title": "AI is making bad marketing data harder to ignore",
+      "summary": "AI workflows inherit the weaknesses in your data. Learn how to find gaps across your data pipeline and fix them at the source. The post AI is making bad marketing data harder to ignore appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-is-making-bad-marketing-data-harder-to-ignore/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-08-24",
       "title": "August 24, 2026",
-      "summary": "Backup and DR Feature Backup vault support for Filestore instances encrypted with customer-managed encryption keys (CMEK) is now generally available (GA). When you back up Filestore instances to a CMEK-enabled backup vault, the backups are ",
+      "summary": "Anthos Config Management Change Addressed multiple Common Vulnerabilities and Exposures (CVEs) by updating dependencies. Feature You can now disable monitoring for specific custom RootSync or RepoSync objects by setting the spec.monitoring.",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_24_2026",
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-08-24",
       "title": "Better marketing starts after the results come in",
@@ -141,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-08-24",
       "title": "Run fewer incrementality tests and get more from them",
@@ -151,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-08-24",
       "title": "Marketing on LinkedIn: What you need to know",
@@ -161,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-24",
       "title": "The terrifying math behind your new AI workforce",
@@ -171,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-24",
       "title": "The power of connected customer history by Rokt mParticle",
@@ -201,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-08-21",
       "title": "Merchant Center is redefining “organic traffic” on August 24",
@@ -211,33 +241,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-21",
       "title": "B2B marketers don’t trust the data used to shape budgets",
       "summary": "Marketing data influences budgets, but only 49% fully trust its accuracy and completeness. Disconnected reporting is behind the confidence gap. The post B2B marketers don’t trust the data used to shape budgets appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/marketers-dont-trust-the-data-used-to-shape-budgets/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-21",
-      "title": "What the teams getting the most from AI do differently",
-      "summary": "Teams built around autonomy, experimentation, and cross-functional work can turn AI’s speed into faster campaigns without adding headcount. The post What the teams getting the most from AI do differently appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/what-the-teams-getting-the-most-from-ai-do-differently/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-21",
-      "title": "The engagement illusion: What actually gets attention (and what gets ignored)",
-      "summary": "AI makes producing content fast, but earning true attention is harder than ever. On Sept. 2, we'll discuss how to cut through the noise and create meaningful engagement. The post The engagement illusion: What actually gets attention (and wh",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-engagement-illusion-what-actually-gets-attention-and-what-gets-ignored/",
       "live": true
     },
     {
@@ -261,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-08-20",
       "title": "The App Tracking Transparency prompt was never neutral. Germany just made Apple prove it.",
@@ -281,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-08-19",
       "title": "The GA4 session_start Conundrum: How to Work With Impacted Data",
@@ -691,7 +701,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-07-08",
       "title": "Layer Lens v1.2: See Exactly Where Your Email Goes in An Analytics Stack",
@@ -811,7 +821,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-06-15",
       "title": "Building a Firebase Analytics Error Tracking Dashboard",
@@ -831,7 +841,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-06-12",
       "title": "Introducing Layer Lens: Search Your GTM & GA4 Data in Real Time",
@@ -851,7 +861,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-06-10",
       "title": "World Cup Sweepstake Generator",
@@ -868,16 +878,6 @@
       "summary": "report on your local business, website, and app metrics Link your Google Analytics properties with Google Business Profiles (GBP) directly within the Admin panel. This integration enables the seamless import of high-value first-party GBP da",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-06-06",
-      "title": "How to Deploy a Firebase Website as an App on Your iPhone",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/how-to-deploy-a-firebase-website-as-an-app-on-your-iphone-5b8c0cdf1cb4?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
