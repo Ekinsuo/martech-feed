@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T04:53:53.898824+00:00",
+  "generated_at": "2026-08-26T14:08:23.523258+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -121,11 +121,41 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-26",
+      "title": "The AI governance test most marketers are missing",
+      "summary": "When AI gets a marketing decision wrong, the fix could belong in the rule, the control, the implementation or the authority behind it. Here's how to tell. The post The AI governance test most marketers are missing appeared first on MarTech ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-ai-governance-test-most-marketers-are-missing/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-26",
+      "title": "Lost in translation: Why content and data teams can’t speak the same language",
+      "summary": "Cross-team miscommunication halts campaign execution. On Sept. 2, learn how content and data teams can align signals, build shared context, and drive outcomes. The post Lost in translation: Why content and data teams can’t speak the same la",
+      "src": "MarTech.org",
+      "url": "https://martech.org/lost-in-translation-why-content-and-data-teams-cant-speak-the-same-language/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-26",
+      "title": "What it takes for AI to find, trust, and act on your brand",
+      "summary": "A practical model for connecting the information, architecture, measurement and transaction capabilities AI discovery requires. The post What it takes for AI to find, trust, and act on your brand appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/what-it-takes-for-ai-to-find-trust-and-act-on-your-brand/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-08-25",
       "title": "August 25, 2026",
-      "summary": "BigQuery Feature BigQuery data governance tags are supported in Terraform. This feature is in Preview . Cloud SDK Breaking 582.0.0 (2026-08-25) Breaking Changes (Google Cloud CLI) Removed the legacy Cloud SQL Proxy V1 component ('cloud_sql_",
+      "summary": "BigQuery Feature BigQuery data governance tags are supported in Terraform. This feature is in Preview . Cloud Run Feature Cloud Run instances are available in Preview . Instances are specifically designed for running long-lived and individu",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_25_2026",
       "live": true
@@ -151,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-08-25",
       "title": "How to build an AI content system that works",
@@ -161,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-08-25",
       "title": "3 ways marketing automation platforms are being reinvented",
@@ -171,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-25",
       "title": "AI is making bad marketing data harder to ignore",
@@ -191,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-24",
       "title": "Better marketing starts after the results come in",
@@ -201,43 +231,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-24",
       "title": "Run fewer incrementality tests and get more from them",
       "summary": "Prioritize tests where uncertainty has real financial consequences, then use the results to guide decisions long after the test ends. The post Run fewer incrementality tests and get more from them appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/run-fewer-incrementality-tests-and-get-more-from-them/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-24",
-      "title": "Marketing on LinkedIn: What you need to know",
-      "summary": "Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new AI-powered Recommended Clips and Chapters feature. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/linkedin-the-marketers-guide/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-24",
-      "title": "The terrifying math behind your new AI workforce",
-      "summary": "Autonomous marketing agents promise massive labor savings, but ballooning API fees and middleware costs can easily break your technology budget. The post The terrifying math behind your new AI workforce appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-terrifying-math-behind-your-new-ai-workforce/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-24",
-      "title": "The power of connected customer history by Rokt mParticle",
-      "summary": "Why transaction data alone isn't enough for performance marketing, and how persistent customer profiles change the equation. The post The power of connected customer history appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-power-of-connected-customer-history/",
       "live": true
     },
     {
