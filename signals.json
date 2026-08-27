@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T14:08:23.523258+00:00",
+  "generated_at": "2026-08-27T15:13:29.323013+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 104,
+  "count": 105,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "name": "Looker Studio Release Notes",
@@ -123,6 +123,76 @@
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
+      "date": "2026-08-27",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Why replace the CEO with AI when you can replace the entire C-suite? The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-27",
+      "title": "Integrate buys CaliberMind and hopes to close the B2B demand gen loop",
+      "summary": "Is the problem connecting marketing, pipeline, and revenue? Or is it the crazy ways businesses buy, which no technology can fix? The post Integrate buys CaliberMind and hopes to close the B2B demand gen loop appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/integrate-buys-calibermind-and-hopes-to-close-the-b2b-demand-gen-loop/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-27",
+      "title": "Better data starts with treating people like people",
+      "summary": "From a McDonald’s order to a night at Madison Square Garden, ordinary experiences create detailed profiles people rarely see or can correct. The post Better data starts with treating people like people appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/better-data-starts-with-treating-people-like-people/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-08-27",
+      "title": "How to keep a crisis from defining your brand online",
+      "summary": "A reputation crisis can shape how your brand appears in search and AI for years. Learn how to contain the damage and build digital resilience. The post How to keep a crisis from defining your brand online appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-keep-a-crisis-from-defining-your-brand-online/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
+      "cat": "general",
+      "date": "2026-08-26",
+      "title": "August 26, 2026",
+      "summary": "Apigee hybrid Announcement v1.14.8 On August 26, 2026 we released an updated version of the Apigee hybrid software, v1.14.8. For information on upgrading, see Upgrading Apigee hybrid to version v1.14.8 . For information on new installations",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_26_2026",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-08-26",
+      "title": "ChatGPT ads expand to Europe, with a new measurement pixel and Conversions API",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/chatgpt-ads-expand-to-europe-with-a-new-measurement-pixel-and-conversions-api-23e3ce961f14?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-08-26",
+      "title": "Build content briefs around people, not keywords",
+      "summary": "Better content briefs start with the situations that drive people to search, then use keywords to support the journey, not define it. The post Build content briefs around people, not keywords appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/build-content-briefs-around-people-not-keywords/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
       "date": "2026-08-26",
       "title": "The AI governance test most marketers are missing",
       "summary": "When AI gets a marketing decision wrong, the fix could belong in the rule, the control, the implementation or the authority behind it. Here's how to tell. The post The AI governance test most marketers are missing appeared first on MarTech ",
@@ -131,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-26",
       "title": "Lost in translation: Why content and data teams can’t speak the same language",
@@ -141,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-26",
       "title": "What it takes for AI to find, trust, and act on your brand",
@@ -151,7 +221,27 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-08-26",
+      "title": "Release Notes for Safari Technology Preview 251",
+      "summary": "Safari Technology Preview Release 251 is now available for download for macOS Golden Gate and macOS Tahoe.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18194/release-notes-for-safari-technology-preview-251/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-08-26",
+      "title": "Surprise and shine",
+      "summary": "Join us for a special Apple Event on September 9, at 10 a.m. PT. Watch on apple.com , Apple TV, or YouTube Live.",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=s6spdug0",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-08-25",
       "title": "August 25, 2026",
@@ -171,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-08-25",
       "title": "BigQuery pipelines can now document themselves",
@@ -181,37 +271,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-08-25",
-      "title": "How to build an AI content system that works",
-      "summary": "Build a reliable AI content system in Claude Code with the right context, specialized agents, and human review. The post How to build an AI content system that works appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-build-an-ai-content-system-that-works/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-08-25",
-      "title": "3 ways marketing automation platforms are being reinvented",
-      "summary": "The MAP once moved leads toward sales. Three emerging models now center customer context and what happens next. The post 3 ways marketing automation platforms are being reinvented appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/3-ways-marketing-automation-platforms-are-being-reinvented/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-25",
-      "title": "AI is making bad marketing data harder to ignore",
-      "summary": "AI workflows inherit the weaknesses in your data. Learn how to find gaps across your data pipeline and fix them at the source. The post AI is making bad marketing data harder to ignore appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-is-making-bad-marketing-data-harder-to-ignore/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-08-24",
       "title": "August 24, 2026",
@@ -221,27 +281,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-24",
-      "title": "Better marketing starts after the results come in",
-      "summary": "Don’t let the campaign report end the conversation. Asking why and testing your hypothesis turns results into better decisions. The post Better marketing starts after the results come in appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/better-marketing-starts-after-the-results-come-in/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-24",
-      "title": "Run fewer incrementality tests and get more from them",
-      "summary": "Prioritize tests where uncertainty has real financial consequences, then use the results to guide decisions long after the test ends. The post Run fewer incrementality tests and get more from them appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/run-fewer-incrementality-tests-and-get-more-from-them/",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-08-24",
       "title": "Update: New domain for Sign in with Apple",
@@ -251,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-08-21",
       "title": "August 21, 2026",
@@ -261,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-08-21",
       "title": "Merchant Center is redefining “organic traffic” on August 24",
@@ -271,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-08-20",
       "title": "August 20, 2026",
@@ -291,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-08-20",
       "title": "The App Tracking Transparency prompt was never neutral. Germany just made Apple prove it.",
@@ -311,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-08-19",
       "title": "The GA4 session_start Conundrum: How to Work With Impacted Data",
@@ -321,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-08-18",
       "title": "August 18, 2026",
@@ -331,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-08-18",
       "title": "Changes for apps in the European Union",
@@ -341,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-08-18",
       "title": "Updated Apple Developer Program License Agreement now available",
@@ -351,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-08-17",
       "title": "August 17, 2026",
@@ -371,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-08-13",
       "title": "August 13, 2026",
@@ -381,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-08-13",
       "title": "Release Notes for Safari Technology Preview 250",
@@ -391,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-08-12",
       "title": "August 12, 2026",
@@ -421,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-08-12",
       "title": "Updates to age ratings for the Republic of Korea",
@@ -431,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-08-11",
       "title": "August 11, 2026",
@@ -451,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-08-10",
       "title": "August 10, 2026",
@@ -471,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-20",
       "cat": "general",
       "date": "2026-08-07",
       "title": "August 07, 2026",
@@ -481,13 +521,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
-      "cat": "general",
+      "id": "live-Looker Release Notes-2",
+      "cat": "looker",
       "date": "2026-08-06",
       "title": "August 06, 2026",
-      "summary": "Cloud Key Management Service Feature Preview: Cloud KMS supports quantum-safe key import. You can use the following quantum-safe import methods: HPKE_KEM_XWING_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_KEM_768_HKDF_SHA256_AES_256_GCM HPKE_KEM_ML_",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_06_2026",
+      "summary": "Deployment dates Announcement Looker 26.14 will roll out to Looker (original) instances on the following schedule: Expected deployment start: Monday, August 10, 2026 Expected final deployment and download available: Sunday, August 23, 2026 ",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#August_06_2026",
       "live": true
     },
     {
@@ -501,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-08-05",
       "title": "Get ready for new creative assets on the App Store",
@@ -511,7 +551,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-08-05",
       "title": "Hello Developer: August 2026",
@@ -601,7 +641,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-07-29",
       "title": "Release Notes for Safari Technology Preview 249",
@@ -621,7 +661,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-07-27",
       "title": "WebKit Features for Safari 26.6",
@@ -641,7 +681,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-07-22",
       "title": "Release Notes for Safari Technology Preview 248",
@@ -691,7 +731,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-07-09",
       "title": "Age rating questionnaire now includes social media questions",
@@ -711,7 +751,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-07-08",
       "title": "Layer Lens v1.2: See Exactly Where Your Email Goes in An Analytics Stack",
@@ -731,17 +771,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-07-07",
-      "title": "Hello Developer: July 2026",
-      "summary": "In this edition: Try an all-new search tool on the Apple Developer website. Download design kits for Figma and Sketch. Explore the biggest updates from WWDC26 in new activities around the world and online. Read about Apple Design Award winn",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=grx7lcto",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "Introducing the Safari MCP server for web developers",
@@ -751,7 +781,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "Release Notes for Safari Technology Preview 247",
@@ -821,7 +851,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-06-17",
       "title": "Release Notes for Safari Technology Preview 246",
@@ -831,7 +861,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-06-15",
       "title": "Building a Firebase Analytics Error Tracking Dashboard",
@@ -841,17 +871,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-06-15",
-      "title": "The golden rule of Customizable Select",
-      "summary": "Customizable select is coming to Safari 27.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18117/the-golden-rule-of-customizable-select/",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-06-12",
       "title": "Introducing Layer Lens: Search Your GTM & GA4 Data in Real Time",
@@ -868,16 +888,6 @@
       "summary": "values for improved source analysis Source grouping is a new dimension concept that consolidates source values for common online platforms - Facebook, Instagram, and TikTok A single value for a given source is vital for performance and attr",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-06-10",
-      "title": "World Cup Sweepstake Generator",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/world-cup-sweepstake-generator-e4649cd00b20?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
