@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-27T15:13:29.323013+00:00",
+  "generated_at": "2026-08-27T22:59:34.704425+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 105,
+  "count": 106,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -121,6 +121,16 @@
   ],
   "signals": [
     {
+      "id": "live-BigQuery Release Notes-0",
+      "cat": "bigquery",
+      "date": "2026-08-27",
+      "title": "August 27, 2026",
+      "summary": "Feature The Data Engineering Agent is now HIPAA compliant . For more information, see HIPAA compliance on Google Cloud .",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#August_27_2026",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-08-27",
@@ -158,6 +168,16 @@
       "summary": "A reputation crisis can shape how your brand appears in search and AI for years. Learn how to contain the damage and build digital resilience. The post How to keep a crisis from defining your brand online appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/how-to-keep-a-crisis-from-defining-your-brand-online/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-08-27",
+      "title": "Tax and price updates for apps, In-App Purchases, and subscriptions",
+      "summary": "The App Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts. From time to time, we may need to adjust prices or your proceeds due to changes in tax regula",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=artln8br",
       "live": true
     },
     {
@@ -231,11 +251,11 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-08-26",
       "title": "Surprise and shine",
-      "summary": "Join us for a special Apple Event on September 9, at 10 a.m. PT. Watch on apple.com , Apple TV, or YouTube Live.",
+      "summary": "Join us for a special Apple Event on September 9 at 10 a.m. PT. Watch on apple.com , Apple TV, or YouTube Live.",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=s6spdug0",
       "live": true
@@ -281,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-08-24",
       "title": "Update: New domain for Sign in with Apple",
@@ -371,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-08-18",
       "title": "Changes for apps in the European Union",
@@ -381,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-08-18",
       "title": "Updated Apple Developer Program License Agreement now available",
@@ -461,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-08-12",
       "title": "Updates to age ratings for the Republic of Korea",
@@ -541,7 +561,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-08-05",
       "title": "Get ready for new creative assets on the App Store",
@@ -551,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-08-05",
       "title": "Hello Developer: August 2026",
@@ -728,16 +748,6 @@
       "summary": "a direct, native product linking flow with AdMob within the Google Analytics Admin interface You will see a new \"AdMob Links\" option under the \"Product Links\" section in your Google Analytics Admin console. You can now manage connections be",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-07-09",
-      "title": "Age rating questionnaire now includes social media questions",
-      "summary": "As announced in June , new Time Allowances in iOS 27, iPadOS 27, and macOS 27, or later, give parents more flexible ways to manage the time their kids spend in apps across categories, including Entertainment, Games, and Social Media. To sup",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=tlur8uvi",
       "live": true
     },
     {
