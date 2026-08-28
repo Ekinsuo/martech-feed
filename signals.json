@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-28T16:36:28.519375+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 105,
+  "generated_at": "2026-08-28T23:05:25.800884+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 96,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "name": "Looker Studio Release Notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -121,6 +122,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-08-28",
+      "title": "August 28, 2026",
+      "summary": "Application Integration Announcement Upcoming authorization changes for integration runs Application Integration is updating how identities are handled for integration runs. Every run will act as either the person who triggered it or a run-",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_28_2026",
+      "live": true
+    },
+    {
       "id": "live-Simo Ahava-0",
       "cat": "general",
       "date": "2026-08-28",
@@ -131,47 +142,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
-      "date": "2026-08-28",
-      "title": "Marketers know AI is using bad data to make decisions",
-      "summary": "Marketers are giving AI more authority even as bad CRM data undermines revenue measurement, reporting, and the decisions AI makes. The post Marketers know AI is using bad data to make decisions appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketers-know-ai-is-using-bad-data-to-make-decisions/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-08-28",
-      "title": "Stop measuring your brand and start listening",
-      "summary": "The most useful brand feedback often comes from what customers say and do when nobody is asking them to rate the experience. The post Stop measuring your brand and start listening appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/stop-measuring-your-brand-and-start-listening/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-08-28",
-      "title": "Anthropic partnership makes Salesforce’s interface optional",
-      "summary": "Claudeforce puts Salesforce data and workflows inside Claude, pointing toward a future where AI becomes the interface to enterprise software. The post Anthropic partnership makes Salesforce s interface optional appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/anthropic-partnership-makes-salesforces-interface-optional/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-08-28",
-      "title": "The AI performance shake-up: What’s really driving results across channels now",
-      "summary": "When algorithms hide your campaign levers, tracking true impact gets tricky. On Sept. 2, we'll discuss how to regain visibility and drive real growth. The post The AI performance shake-up: What’s really driving results across channels now a",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-08-27",
       "title": "August 27, 2026",
@@ -191,46 +162,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-08-27",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Why replace the CEO with AI when you can replace the entire C-suite? The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-27",
-      "title": "Integrate buys CaliberMind and hopes to close the B2B demand gen loop",
-      "summary": "Is the problem connecting marketing, pipeline, and revenue? Or is it the crazy ways businesses buy, which no technology can fix? The post Integrate buys CaliberMind and hopes to close the B2B demand gen loop appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/integrate-buys-calibermind-and-hopes-to-close-the-b2b-demand-gen-loop/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-27",
-      "title": "Better data starts with treating people like people",
-      "summary": "From a McDonald’s order to a night at Madison Square Garden, ordinary experiences create detailed profiles people rarely see or can correct. The post Better data starts with treating people like people appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/better-data-starts-with-treating-people-like-people/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-27",
-      "title": "How to keep a crisis from defining your brand online",
-      "summary": "A reputation crisis can shape how your brand appears in search and AI for years. Learn how to contain the damage and build digital resilience. The post How to keep a crisis from defining your brand online appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-keep-a-crisis-from-defining-your-brand-online/",
-      "live": true
-    },
-    {
       "id": "live-Apple Developer News-0",
       "cat": "apple",
       "date": "2026-08-27",
@@ -241,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-08-26",
       "title": "August 26, 2026",
@@ -281,7 +212,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-08-25",
       "title": "August 25, 2026",
@@ -311,7 +242,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-08-24",
       "title": "August 24, 2026",
@@ -331,7 +262,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-08-21",
       "title": "August 21, 2026",
@@ -351,7 +282,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-08-20",
       "title": "August 20, 2026",
@@ -401,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-08-18",
       "title": "August 18, 2026",
@@ -431,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-08-17",
       "title": "August 17, 2026",
@@ -451,7 +382,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-08-13",
       "title": "August 13, 2026",
@@ -471,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-08-12",
       "title": "August 12, 2026",
@@ -511,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-08-11",
       "title": "August 11, 2026",
@@ -531,16 +462,6 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
-      "cat": "general",
-      "date": "2026-08-10",
-      "title": "August 10, 2026",
-      "summary": "BigQuery Feature BigQuery now supports the gemini-3.1-flash-lite and gemini-3.5-flash GA models, which are available for the us , eu , and global multi-regional endpoints. You can use these models in all generative AI functions. For informa",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_10_2026",
-      "live": true
-    },
-    {
       "id": "scrape-GA4 — What's new-14",
       "cat": "ga4",
       "date": "2026-08-10",
@@ -551,7 +472,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-2",
+      "id": "live-Looker Release Notes-3",
       "cat": "looker",
       "date": "2026-08-06",
       "title": "August 06, 2026",
@@ -561,7 +482,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-3",
+      "id": "live-Looker Release Notes-4",
       "cat": "looker",
       "date": "2026-08-05",
       "title": "August 05, 2026",
@@ -591,7 +512,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-08-04",
       "title": "August 04, 2026",
@@ -601,7 +522,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-08-03",
       "title": "August 03, 2026",
@@ -621,7 +542,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-07-30",
       "title": "July 30, 2026",
@@ -688,16 +609,6 @@
       "summary": "Safari 26.6 is here.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18178/webkit-features-for-safari-26-6/",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-07-22",
-      "title": "July 22, 2026",
-      "summary": "Deployment dates Security A Cross-Site Scripting (XSS) vulnerability was discovered in Looker. An attacker could craft a malicious URL that, when opened by a Looker administrator, would allow the attacker to execute arbitrary scripts on the",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_22_2026",
       "live": true
     },
     {
