@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-27T22:59:34.704425+00:00",
+  "generated_at": "2026-08-28T16:36:28.519375+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 106,
+  "count": 105,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
@@ -121,17 +121,77 @@
   ],
   "signals": [
     {
-      "id": "live-BigQuery Release Notes-0",
-      "cat": "bigquery",
-      "date": "2026-08-27",
-      "title": "August 27, 2026",
-      "summary": "Feature The Data Engineering Agent is now HIPAA compliant . For more information, see HIPAA compliance on Google Cloud .",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#August_27_2026",
+      "id": "live-Simo Ahava-0",
+      "cat": "general",
+      "date": "2026-08-28",
+      "title": "#GTMTips: The GTM Template Status Page",
+      "summary": "There&rsquo;s a somewhat understated feature in the Google Tag Manager Community Template Gallery , which should certainly prove useful, especially to template authors. The template status page shows a list of all the GitHub commits handled",
+      "src": "Simo Ahava",
+      "url": "https://www.simoahava.com/gtmtips/gtm-template-status-page/",
       "live": true
     },
     {
       "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-28",
+      "title": "Marketers know AI is using bad data to make decisions",
+      "summary": "Marketers are giving AI more authority even as bad CRM data undermines revenue measurement, reporting, and the decisions AI makes. The post Marketers know AI is using bad data to make decisions appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketers-know-ai-is-using-bad-data-to-make-decisions/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-28",
+      "title": "Stop measuring your brand and start listening",
+      "summary": "The most useful brand feedback often comes from what customers say and do when nobody is asking them to rate the experience. The post Stop measuring your brand and start listening appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/stop-measuring-your-brand-and-start-listening/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-28",
+      "title": "Anthropic partnership makes Salesforce’s interface optional",
+      "summary": "Claudeforce puts Salesforce data and workflows inside Claude, pointing toward a future where AI becomes the interface to enterprise software. The post Anthropic partnership makes Salesforce s interface optional appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/anthropic-partnership-makes-salesforces-interface-optional/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-08-28",
+      "title": "The AI performance shake-up: What’s really driving results across channels now",
+      "summary": "When algorithms hide your campaign levers, tracking true impact gets tricky. On Sept. 2, we'll discuss how to regain visibility and drive real growth. The post The AI performance shake-up: What’s really driving results across channels now a",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-08-27",
+      "title": "August 27, 2026",
+      "summary": "Apigee X Announcement On August 27th, 2026, we released an updated version of Apigee (1-18-0-apigee-4). Note: Rollouts of this release began today and may take four or more business days to be completed across all Google Cloud zones. Your i",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_27_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-08-27",
+      "title": "October 2026 changes to the Display & Video 360 API and Structured Data Files",
+      "summary": "Today we’re announcing three unversioned changes to the Display & Video 360 API and Structured Data Files that will take effect in October 2026 and may impact your existing integrations. These changes will take place on the following dates ",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4570583730470730028",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-08-27",
       "title": "The latest AI-powered martech news and releases",
@@ -141,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-27",
       "title": "Integrate buys CaliberMind and hopes to close the B2B demand gen loop",
@@ -151,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-27",
       "title": "Better data starts with treating people like people",
@@ -161,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-27",
       "title": "How to keep a crisis from defining your brand online",
@@ -201,46 +261,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-08-26",
-      "title": "Build content briefs around people, not keywords",
-      "summary": "Better content briefs start with the situations that drive people to search, then use keywords to support the journey, not define it. The post Build content briefs around people, not keywords appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/build-content-briefs-around-people-not-keywords/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-26",
-      "title": "The AI governance test most marketers are missing",
-      "summary": "When AI gets a marketing decision wrong, the fix could belong in the rule, the control, the implementation or the authority behind it. Here's how to tell. The post The AI governance test most marketers are missing appeared first on MarTech ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-ai-governance-test-most-marketers-are-missing/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-26",
-      "title": "Lost in translation: Why content and data teams can’t speak the same language",
-      "summary": "Cross-team miscommunication halts campaign execution. On Sept. 2, learn how content and data teams can align signals, build shared context, and drive outcomes. The post Lost in translation: Why content and data teams can’t speak the same la",
-      "src": "MarTech.org",
-      "url": "https://martech.org/lost-in-translation-why-content-and-data-teams-cant-speak-the-same-language/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-26",
-      "title": "What it takes for AI to find, trust, and act on your brand",
-      "summary": "A practical model for connecting the information, architecture, measurement and transaction capabilities AI discovery requires. The post What it takes for AI to find, trust, and act on your brand appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/what-it-takes-for-ai-to-find-trust-and-act-on-your-brand/",
-      "live": true
-    },
-    {
       "id": "live-WebKit Blog (ITP / Safari)-0",
       "cat": "privacy",
       "date": "2026-08-26",
@@ -271,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-08-25",
       "title": "Google Ads API Developer Assistant v4.0.0",
@@ -341,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-08-20",
       "title": "Google Ads language targeting changes starting September 2026",
@@ -361,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-08-19",
       "title": "Announcing v25.1 of the Google Ads API",
@@ -421,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-0",
+      "id": "live-Simo Ahava-1",
       "cat": "general",
       "date": "2026-08-14",
       "title": "#GTMTips: Split GA Events Between Client-Side And Server-Side Dispatch",
@@ -461,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-08-12",
       "title": "Migrate Campaign-level Broad Match and Automatically Created Assets to AI Max",
@@ -471,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-08-12",
       "title": "Query report data with the Campaign Manager 360 API",
@@ -528,16 +548,6 @@
       "summary": "validation report to help you verify and improve the quality of your campaign data imports The campaign data import validation report assists you in assessing your non-Google campaign data and imported campaign data. This helps you pinpoint",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
-      "date": "2026-08-07",
-      "title": "August 07, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature You can now sync tables from BigQuery into your AlloyDB instance, either as a one-time operation or on a periodic schedule. This feature (in Preview ) lets you enable operational analytics that benefit from lo",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_07_2026",
       "live": true
     },
     {
@@ -601,7 +611,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-08-03",
       "title": "Google Ads API pilot: Secure API Access to your Manager Accounts",
@@ -621,7 +631,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-07-30",
       "title": "Data Manager API updates: RemoveAllAudienceMembers method, ingestion field warnings, expanded address data",
@@ -648,16 +658,6 @@
       "summary": "We’ve launched a new diagnostic to alert users of issues with campaign data accuracy due to missing URL parameters Properties where aggregate identifiers (GBRAID and gad_) are missing from the URL will see a new diagnostic, including the pr",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-07-29",
-      "title": "Launching Structured Data Files v10.1",
-      "summary": "Today we’re announcing the general availability of Structured Data Files v10.1 . All users can now use v10.1 when downloading and uploading SDFs in the Display & Video 360 interface. SDF v10.1 includes the following changes: The ability to ",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/3956869784443149495",
       "live": true
     },
     {
@@ -821,7 +821,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-1",
+      "id": "live-Simo Ahava-2",
       "cat": "general",
       "date": "2026-06-29",
       "title": "Google Tag Manager UI Updates",
@@ -961,7 +961,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-2",
+      "id": "live-Simo Ahava-3",
       "cat": "general",
       "date": "2026-03-13",
       "title": "Add IPv6 Support To Your Server-side GTM Load Balancer",
@@ -971,7 +971,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-3",
+      "id": "live-Simo Ahava-4",
       "cat": "general",
       "date": "2025-12-04",
       "title": "Run Server-side Google Tag Manager On Localhost",
@@ -1031,7 +1031,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-4",
+      "id": "live-Simo Ahava-5",
       "cat": "general",
       "date": "2025-08-29",
       "title": "#GTMTips: How To Load Google Scripts From A Server Container",
@@ -1051,7 +1051,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-5",
+      "id": "live-Simo Ahava-6",
       "cat": "general",
       "date": "2025-06-18",
       "title": "Common Mistakes When Working With Click Identifiers",
@@ -1081,23 +1081,13 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-6",
+      "id": "live-Simo Ahava-7",
       "cat": "general",
       "date": "2025-05-07",
       "title": "Basic Consent Mode: The Guide",
       "summary": "Google&rsquo;s Consent Mode is a way to control how tags react to the user&rsquo;s consent for different tracking purposes. It is specifically designed to work with Google&rsquo;s tags , but especially through Google Tag Manager, you can us",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/analytics/basic-consent-mode-the-guide/",
-      "live": true
-    },
-    {
-      "id": "live-Simo Ahava-7",
-      "cat": "general",
-      "date": "2025-03-12",
-      "title": "Clarification On GTM Auto-Loading Google Tag For Ads And Floodlight Events",
-      "summary": "Google Tag Manager users received an email on March 11th, where Google announced a very cryptic update to Google Tag Manager: As is typical with Google&rsquo;s email communications, the email raised more questions than it answered. Even tho",
-      "src": "Simo Ahava",
-      "url": "https://www.simoahava.com/analytics/clarification-on-google-tag-manager-google-tag-update/",
       "live": true
     },
     {
