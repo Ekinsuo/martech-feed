@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-28T23:05:25.800884+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 96,
+  "generated_at": "2026-08-29T11:03:35.509734+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -142,6 +141,46 @@
       "live": true
     },
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-28",
+      "title": "Marketers know AI is using bad data to make decisions",
+      "summary": "Marketers are giving AI more authority even as bad CRM data undermines revenue measurement, reporting, and the decisions AI makes. The post Marketers know AI is using bad data to make decisions appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketers-know-ai-is-using-bad-data-to-make-decisions/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-28",
+      "title": "Stop measuring your brand and start listening",
+      "summary": "The most useful brand feedback often comes from what customers say and do when nobody is asking them to rate the experience. The post Stop measuring your brand and start listening appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/stop-measuring-your-brand-and-start-listening/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-28",
+      "title": "Anthropic partnership makes Salesforce’s interface optional",
+      "summary": "Claudeforce puts Salesforce data and workflows inside Claude, pointing toward a future where AI becomes the interface to enterprise software. The post Anthropic partnership makes Salesforce s interface optional appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/anthropic-partnership-makes-salesforces-interface-optional/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-08-28",
+      "title": "The AI performance shake-up: What’s really driving results across channels now",
+      "summary": "When algorithms hide your campaign levers, tracking true impact gets tricky. On Sept. 2, we'll discuss how to regain visibility and drive real growth. The post The AI performance shake-up: What’s really driving results across channels now a",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-08-27",
@@ -159,6 +198,46 @@
       "summary": "Today we’re announcing three unversioned changes to the Display & Video 360 API and Structured Data Files that will take effect in October 2026 and may impact your existing integrations. These changes will take place on the following dates ",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4570583730470730028",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-08-27",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Why replace the CEO with AI when you can replace the entire C-suite? The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-08-27",
+      "title": "Integrate buys CaliberMind and hopes to close the B2B demand gen loop",
+      "summary": "Is the problem connecting marketing, pipeline, and revenue? Or is it the crazy ways businesses buy, which no technology can fix? The post Integrate buys CaliberMind and hopes to close the B2B demand gen loop appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/integrate-buys-calibermind-and-hopes-to-close-the-b2b-demand-gen-loop/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-08-27",
+      "title": "Better data starts with treating people like people",
+      "summary": "From a McDonald’s order to a night at Madison Square Garden, ordinary experiences create detailed profiles people rarely see or can correct. The post Better data starts with treating people like people appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/better-data-starts-with-treating-people-like-people/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-08-27",
+      "title": "How to keep a crisis from defining your brand online",
+      "summary": "A reputation crisis can shape how your brand appears in search and AI for years. Learn how to contain the damage and build digital resilience. The post How to keep a crisis from defining your brand online appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-keep-a-crisis-from-defining-your-brand-online/",
       "live": true
     },
     {
