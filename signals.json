@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T11:03:35.509734+00:00",
+  "generated_at": "2026-08-29T17:14:05.633267+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -121,7 +121,7 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-08-28",
       "title": "August 28, 2026",
@@ -181,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-08-27",
       "title": "August 27, 2026",
@@ -251,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-08-26",
       "title": "August 26, 2026",
@@ -291,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-08-25",
       "title": "August 25, 2026",
@@ -321,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-08-24",
       "title": "August 24, 2026",
@@ -341,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-08-21",
       "title": "August 21, 2026",
@@ -361,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-08-20",
       "title": "August 20, 2026",
@@ -411,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-08-18",
       "title": "August 18, 2026",
@@ -441,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-08-17",
       "title": "August 17, 2026",
@@ -461,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-08-13",
       "title": "August 13, 2026",
@@ -481,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-08-12",
       "title": "August 12, 2026",
@@ -521,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-08-11",
       "title": "August 11, 2026",
