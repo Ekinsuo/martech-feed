@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T10:49:13.777899+00:00",
+  "generated_at": "2026-08-31T19:32:19.599517+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -121,7 +121,47 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-08-31",
+      "title": "August 31, 2026",
+      "summary": "BigQuery Feature You can now create, store , and manage pipelines in Git folders. This feature is in Preview . Feature Using folders to create, store, and manage pipelines is generally available . Datastream Feature You can now create a Dat",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#August_31_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-08-31",
+      "title": "The only way to know what your ads really did",
+      "summary": "Platforms claim too much credit and backends often give too little. Holdout tests can show how much revenue advertising truly generated. The post The only way to know what your ads really did appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-only-way-to-know-what-your-ads-really-did/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-08-31",
+      "title": "Best-in-class martech depends on your business context",
+      "summary": "Research across 953 martech stacks reveals when more functionality helps, when execution matters more, and when less can be better. The post Best-in-class martech depends on your business context appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/best-in-class-martech-depends-on-your-business-context/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-08-31",
+      "title": "The terrifying loophole in your autonomous tech stack",
+      "summary": "AI agents pass data back and forth to run your campaigns. Here is how to prevent proprietary leaks and privacy failures The post The terrifying loophole in your autonomous tech stack appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-terrifying-loophole-in-your-autonomous-tech-stack/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-08-28",
       "title": "August 28, 2026",
@@ -141,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-08-28",
       "title": "Marketers know AI is using bad data to make decisions",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-08-28",
       "title": "Stop measuring your brand and start listening",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-28",
       "title": "Anthropic partnership makes Salesforce’s interface optional",
@@ -171,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-28",
       "title": "The AI performance shake-up: What’s really driving results across channels now",
@@ -181,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-08-27",
       "title": "August 27, 2026",
@@ -201,43 +241,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-27",
       "title": "The latest AI-powered martech news and releases",
       "summary": "Why replace the CEO with AI when you can replace the entire C-suite? The post The latest AI-powered martech news and releases appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-27",
-      "title": "Integrate buys CaliberMind and hopes to close the B2B demand gen loop",
-      "summary": "Is the problem connecting marketing, pipeline, and revenue? Or is it the crazy ways businesses buy, which no technology can fix? The post Integrate buys CaliberMind and hopes to close the B2B demand gen loop appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/integrate-buys-calibermind-and-hopes-to-close-the-b2b-demand-gen-loop/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-27",
-      "title": "Better data starts with treating people like people",
-      "summary": "From a McDonald’s order to a night at Madison Square Garden, ordinary experiences create detailed profiles people rarely see or can correct. The post Better data starts with treating people like people appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/better-data-starts-with-treating-people-like-people/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-27",
-      "title": "How to keep a crisis from defining your brand online",
-      "summary": "A reputation crisis can shape how your brand appears in search and AI for years. Learn how to contain the damage and build digital resilience. The post How to keep a crisis from defining your brand online appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-keep-a-crisis-from-defining-your-brand-online/",
       "live": true
     },
     {
@@ -251,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-08-26",
       "title": "August 26, 2026",
@@ -291,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-08-25",
       "title": "August 25, 2026",
@@ -321,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-08-24",
       "title": "August 24, 2026",
@@ -341,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-08-21",
       "title": "August 21, 2026",
@@ -361,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-08-20",
       "title": "August 20, 2026",
@@ -411,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-08-18",
       "title": "August 18, 2026",
@@ -441,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-08-17",
       "title": "August 17, 2026",
@@ -461,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-08-13",
       "title": "August 13, 2026",
@@ -481,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-08-12",
       "title": "August 12, 2026",
@@ -518,16 +528,6 @@
       "summary": "Apple generates appropriate age ratings based on your answers to the age rating questionnaire in App Store Connect. In compliance with local regulatory requirements, apps in the Games and Entertainment categories distributed on the App Stor",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=oj3r9pvw",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-19",
-      "cat": "general",
-      "date": "2026-08-11",
-      "title": "August 11, 2026",
-      "summary": "Access Approval Feature Datastream is generally available (GA) . Access Transparency Feature Datastream is generally available (GA) . Apigee hybrid Announcement v1.16.9 On August 11, 2026 we released an updated version of the Apigee hybrid ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_11_2026",
       "live": true
     },
     {
