@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T19:32:19.599517+00:00",
+  "generated_at": "2026-09-01T09:23:11.874218+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -125,9 +125,19 @@
       "cat": "general",
       "date": "2026-08-31",
       "title": "August 31, 2026",
-      "summary": "BigQuery Feature You can now create, store , and manage pipelines in Git folders. This feature is in Preview . Feature Using folders to create, store, and manage pipelines is generally available . Datastream Feature You can now create a Dat",
+      "summary": "BigQuery Feature You can now create, store , and manage pipelines in Git folders. This feature is in Preview . Feature BigQuery now supports TabFM , Google's pre-trained foundation model for tabular data. TabFM enables zero-shot regression ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_31_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-08-31",
+      "title": "Making Google Ads More Secure with Updates to Developer Policies",
+      "summary": "We are updating our Google Ads Developer Policies formerly the “Google Ads API Policy”, to support developers in building robust, high-quality integrations as new AI capabilities continue to shape the advertising industry. These updates est",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1363402498929547325",
       "live": true
     },
     {
@@ -231,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-08-27",
       "title": "October 2026 changes to the Display & Video 360 API and Structured Data Files",
@@ -311,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-08-25",
       "title": "Google Ads API Developer Assistant v4.0.0",
@@ -381,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-08-20",
       "title": "Google Ads language targeting changes starting September 2026",
@@ -401,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-08-19",
       "title": "Announcing v25.1 of the Google Ads API",
@@ -501,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-08-12",
       "title": "Migrate Campaign-level Broad Match and Automatically Created Assets to AI Max",
@@ -511,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-08-12",
       "title": "Query report data with the Campaign Manager 360 API",
@@ -611,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-08-03",
       "title": "Google Ads API pilot: Secure API Access to your Manager Accounts",
@@ -628,16 +638,6 @@
       "summary": "Deployment dates Announcement From July 27 through July 30, 2026, the following features will be automatically enabled for Looker (original) instances running Looker 26.12. Feature Looker admins now have the ability to configure a Looker in",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_30_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-07-30",
-      "title": "Data Manager API updates: RemoveAllAudienceMembers method, ingestion field warnings, expanded address data",
-      "summary": "The latest release of the Data Manager API introduces features that simplify audience management, enhance ingestion workflows with field-level warnings, and enable more granular user-provided data for Google Analytics. Remove all audience m",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/8022189612344399816",
       "live": true
     },
     {
