@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T09:23:11.874218+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 104,
+  "generated_at": "2026-09-01T17:21:04.910262+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 97,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -94,8 +94,9 @@
     {
       "name": "EDPB — GDPR news",
       "cat": "privacy",
-      "ok": true,
-      "items": 7
+      "ok": false,
+      "items": 0,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn"
     },
     {
       "name": "GTM / Tag Gateway — Release notes",
@@ -121,7 +122,37 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-01",
+      "title": "Stop treating lead quality and volume as opposites",
+      "summary": "Getting more leads and getting better leads require different signals, tactics, and metrics. The business objective should determine which comes first. The post Stop treating lead quality and volume as opposites appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/stop-treating-lead-quality-and-volume-as-opposites/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-01",
+      "title": "Your influencer marketing strategy is broken",
+      "summary": "Reach alone says little about a creator’s ability to drive sales, especially as algorithms put content in front of more non-followers. The post Your influencer marketing strategy is broken appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-influencer-marketing-strategy-is-broken/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-09-01",
+      "title": "The hidden costs distorting your AI ROI",
+      "summary": "Integration, oversight, data preparation, and displaced work can turn an impressive AI productivity gain into a much smaller financial return. The post The hidden costs distorting your AI ROI appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-hidden-costs-distorting-your-ai-roi/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-08-31",
       "title": "August 31, 2026",
@@ -141,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-08-31",
       "title": "The only way to know what your ads really did",
@@ -151,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-08-31",
       "title": "Best-in-class martech depends on your business context",
@@ -161,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-31",
       "title": "The terrifying loophole in your autonomous tech stack",
@@ -171,7 +202,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-08-28",
       "title": "August 28, 2026",
@@ -191,7 +222,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-28",
       "title": "Marketers know AI is using bad data to make decisions",
@@ -201,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-28",
       "title": "Stop measuring your brand and start listening",
@@ -211,27 +242,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-08-28",
-      "title": "Anthropic partnership makes Salesforce’s interface optional",
-      "summary": "Claudeforce puts Salesforce data and workflows inside Claude, pointing toward a future where AI becomes the interface to enterprise software. The post Anthropic partnership makes Salesforce s interface optional appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/anthropic-partnership-makes-salesforces-interface-optional/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-28",
-      "title": "The AI performance shake-up: What’s really driving results across channels now",
-      "summary": "When algorithms hide your campaign levers, tracking true impact gets tricky. On Sept. 2, we'll discuss how to regain visibility and drive real growth. The post The AI performance shake-up: What’s really driving results across channels now a",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-08-27",
       "title": "August 27, 2026",
@@ -251,16 +262,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-27",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Why replace the CEO with AI when you can replace the entire C-suite? The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
       "id": "live-Apple Developer News-0",
       "cat": "apple",
       "date": "2026-08-27",
@@ -271,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-08-26",
       "title": "August 26, 2026",
@@ -311,7 +312,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-08-25",
       "title": "August 25, 2026",
@@ -341,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-08-24",
       "title": "August 24, 2026",
@@ -361,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-08-21",
       "title": "August 21, 2026",
@@ -381,7 +382,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-08-20",
       "title": "August 20, 2026",
@@ -431,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-08-18",
       "title": "August 18, 2026",
@@ -461,7 +462,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-08-17",
       "title": "August 17, 2026",
@@ -481,7 +482,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-08-13",
       "title": "August 13, 2026",
@@ -501,7 +502,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
+      "id": "live-Google Cloud — All release notes-20",
       "cat": "general",
       "date": "2026-08-12",
       "title": "August 12, 2026",
@@ -641,16 +642,6 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-0",
-      "cat": "privacy",
-      "date": "2026-07-30",
-      "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: overview of topics available",
-      "summary": "Brussels, 30 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming guidelines on the interplay between competition and data protection . The event will take place on 1",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law-0_en",
-      "live": true
-    },
-    {
       "id": "scrape-GA4 — What's new-15",
       "cat": "ga4",
       "date": "2026-07-30",
@@ -711,26 +702,6 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-2",
-      "cat": "privacy",
-      "date": "2026-07-17",
-      "title": "EDPB calls for legal basis for cross-regulatory information sharing",
-      "summary": "Dublin, 17 July– At a high-level meeting in Dublin on 16 and 17 July 2026, the European Data Protection Board (EDPB) called for a clear legal basis for the sharing of information among regulators with different competences. The Board also d",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-3",
-      "cat": "privacy",
-      "date": "2026-07-14",
-      "title": "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
-      "summary": "Brussels, 14 July–The EDPB has published its binding decision of 28 May 2026 under Art.65(1)(a) GDPR*. The decision concerns a dispute submitted by the Belgian Data Protection Authority (DPA) about a complaint against Vlaamse Radio-en Telev",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en",
-      "live": true
-    },
-    {
       "id": "scrape-GA4 — What's new-17",
       "cat": "ga4",
       "date": "2026-07-13",
@@ -761,16 +732,6 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
-      "cat": "privacy",
-      "date": "2026-07-08",
-      "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
-      "summary": "Brussels, 8 July– During its latest plenary, the EDPB has adopted guidelines on anonymisation and guidelines on web scraping in the context of generative AI. In addition, the Board has adopted the final version of its guidelines on the proc",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
-      "live": true
-    },
-    {
       "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-07-01",
@@ -791,16 +752,6 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
-      "cat": "privacy",
-      "date": "2026-07-01",
-      "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
-      "summary": "Brussels/Frankfurt, 1 July – The EDPB and the Anti-Money Laundering Authority (AMLA) are working together to bring greater clarity to a question of growing importance for industry and authorities alike: how to share information to fight fin",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en",
-      "live": true
-    },
-    {
       "id": "scrape-GTM / Tag Gateway — Release notes-1",
       "cat": "gtm",
       "date": "2026-07-01",
@@ -818,26 +769,6 @@
       "summary": "In preparation for the upcoming major integration between Google Tag and Google Tag Manager , Google has rolled out some user interface changes to your GTM containers. The changes simplify the UI quite a bit, with the biggest changes landin",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/analytics/google-tag-manager-ui-updates/",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-6",
-      "cat": "privacy",
-      "date": "2026-06-25",
-      "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
-      "summary": "Brussels, 25 June - The EDPB has published an update of the One-Stop-Shop (OSS) case digest on right to object and right to erasure . This project has been developed in the framework of the of the Support Pool of Experts programme, which ai",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-06-24",
-      "title": "Supporting GDPR consistency: EDPB launches dedicated form",
-      "summary": "Brussels, 24 June – The EDPB has launched a dedicated contact form for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments set out in the EDPB Helsinki State",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
       "live": true
     },
     {
