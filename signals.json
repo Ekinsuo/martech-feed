@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T17:21:04.910262+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 97,
+  "generated_at": "2026-09-02T08:45:37.363231+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -94,9 +94,8 @@
     {
       "name": "EDPB — GDPR news",
       "cat": "privacy",
-      "ok": false,
-      "items": 0,
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn"
+      "ok": true,
+      "items": 7
     },
     {
       "name": "GTM / Tag Gateway — Release notes",
@@ -121,6 +120,16 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-09-01",
+      "title": "September 01, 2026",
+      "summary": "Apigee UI Announcement On September 1, 2026, we released an updated version of the Apigee UI. Fixed Bug ID Description 547582067 Revisions can now be imported for API proxies and shared flows in a space Importing a revision in the Apigee UI",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#September_01_2026",
+      "live": true
+    },
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
@@ -149,6 +158,26 @@
       "summary": "Integration, oversight, data preparation, and displaced work can turn an impressive AI productivity gain into a much smaller financial return. The post The hidden costs distorting your AI ROI appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/the-hidden-costs-distorting-your-ai-roi/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-09-01",
+      "title": "Upcoming changes to Rosetta support for Intel-based macOS apps",
+      "summary": "In 2020, we introduced Apple silicon for Mac computers, providing Rosetta as a translation layer during the transition period. As announced at WWDC last year , we’re now concluding this transition. What this means for developers who have ma",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=w5ngl9k2",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-1",
+      "cat": "apple",
+      "date": "2026-09-01",
+      "title": "“The impact was the biggest surprise“: Swiggy’s transition to native pays off",
+      "summary": "Swiggy began as a humble food delivery service. Today, it’s India’s leading on-demand convenience platform, one that offers everything from groceries via Instamart to restaurant bookings via Dineout . And since 2024, it’s been powered by na",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=o5spbekm",
       "live": true
     },
     {
@@ -262,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-08-27",
       "title": "Tax and price updates for apps, In-App Purchases, and subscriptions",
@@ -302,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-08-26",
       "title": "Surprise and shine",
@@ -352,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-08-24",
       "title": "Update: New domain for Sign in with Apple",
@@ -442,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-08-18",
       "title": "Changes for apps in the European Union",
@@ -452,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-08-18",
       "title": "Updated Apple Developer Program License Agreement now available",
@@ -502,16 +531,6 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-20",
-      "cat": "general",
-      "date": "2026-08-12",
-      "title": "August 12, 2026",
-      "summary": "Access Approval Feature Agent Identity is generally available (GA) . Access Transparency Feature Agent Identity is generally available (GA) . Apigee API hub Feature Configure and deploy MCP servers with gcloud CLI You can use the gcloud api",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_12_2026",
-      "live": true
-    },
-    {
       "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-08-12",
@@ -532,7 +551,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-08-12",
       "title": "Updates to age ratings for the Republic of Korea",
@@ -582,26 +601,6 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
-      "cat": "apple",
-      "date": "2026-08-05",
-      "title": "Get ready for new creative assets on the App Store",
-      "summary": "As we announced in June , Apple is introducing new ways to market your apps and games on the App Store. With these new assets, you can go beyond in-use visuals to highlight your brand, seasonal offerings, exciting new content, and more. You",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=kug6m2ea",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-08-05",
-      "title": "Hello Developer: August 2026",
-      "summary": "In this edition: Check out an all-new video from Cupertino to dive deeper into the biggest updates from WWDC26. Download templates and get started building App Store assets for iOS 27. Discover best practices for integrating visual intellig",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=vrvvlonn",
-      "live": true
-    },
-    {
       "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-08-04",
@@ -639,6 +638,16 @@
       "summary": "Deployment dates Announcement From July 27 through July 30, 2026, the following features will be automatically enabled for Looker (original) instances running Looker 26.12. Feature Looker admins now have the ability to configure a Looker in",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_30_2026",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-07-30",
+      "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: overview of topics available",
+      "summary": "Brussels, 30 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming guidelines on the interplay between competition and data protection . The event will take place on 1",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law-0_en",
       "live": true
     },
     {
@@ -702,6 +711,26 @@
       "live": true
     },
     {
+      "id": "live-EDPB — GDPR news-2",
+      "cat": "privacy",
+      "date": "2026-07-17",
+      "title": "EDPB calls for legal basis for cross-regulatory information sharing",
+      "summary": "Dublin, 17 July– At a high-level meeting in Dublin on 16 and 17 July 2026, the European Data Protection Board (EDPB) called for a clear legal basis for the sharing of information among regulators with different competences. The Board also d",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-3",
+      "cat": "privacy",
+      "date": "2026-07-14",
+      "title": "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
+      "summary": "Brussels, 14 July–The EDPB has published its binding decision of 28 May 2026 under Art.65(1)(a) GDPR*. The decision concerns a dispute submitted by the Belgian Data Protection Authority (DPA) about a complaint against Vlaamse Radio-en Telev",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en",
+      "live": true
+    },
+    {
       "id": "scrape-GA4 — What's new-17",
       "cat": "ga4",
       "date": "2026-07-13",
@@ -732,6 +761,16 @@
       "live": true
     },
     {
+      "id": "live-EDPB — GDPR news-4",
+      "cat": "privacy",
+      "date": "2026-07-08",
+      "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
+      "summary": "Brussels, 8 July– During its latest plenary, the EDPB has adopted guidelines on anonymisation and guidelines on web scraping in the context of generative AI. In addition, the Board has adopted the final version of its guidelines on the proc",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
+      "live": true
+    },
+    {
       "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-07-01",
@@ -752,6 +791,16 @@
       "live": true
     },
     {
+      "id": "live-EDPB — GDPR news-5",
+      "cat": "privacy",
+      "date": "2026-07-01",
+      "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
+      "summary": "Brussels/Frankfurt, 1 July – The EDPB and the Anti-Money Laundering Authority (AMLA) are working together to bring greater clarity to a question of growing importance for industry and authorities alike: how to share information to fight fin",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en",
+      "live": true
+    },
+    {
       "id": "scrape-GTM / Tag Gateway — Release notes-1",
       "cat": "gtm",
       "date": "2026-07-01",
@@ -769,6 +818,26 @@
       "summary": "In preparation for the upcoming major integration between Google Tag and Google Tag Manager , Google has rolled out some user interface changes to your GTM containers. The changes simplify the UI quite a bit, with the biggest changes landin",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/analytics/google-tag-manager-ui-updates/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-6",
+      "cat": "privacy",
+      "date": "2026-06-25",
+      "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
+      "summary": "Brussels, 25 June - The EDPB has published an update of the One-Stop-Shop (OSS) case digest on right to object and right to erasure . This project has been developed in the framework of the of the Support Pool of Experts programme, which ai",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-7",
+      "cat": "privacy",
+      "date": "2026-06-24",
+      "title": "Supporting GDPR consistency: EDPB launches dedicated form",
+      "summary": "Brussels, 24 June – The EDPB has launched a dedicated contact form for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments set out in the EDPB Helsinki State",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
       "live": true
     },
     {
