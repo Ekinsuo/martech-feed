@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T08:45:37.363231+00:00",
+  "generated_at": "2026-09-02T17:12:37.518425+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -121,6 +121,36 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-02",
+      "title": "Marketers are media measurement’s biggest problem",
+      "summary": "Stop customizing your way around fragmented data. Start unifying it for your own reporting and for an industry waiting on you to lead. The post Marketers are media measurement’s biggest problem appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketers-are-media-measurements-biggest-problem/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-02",
+      "title": "OpenAI’s audacious ad revenue claim",
+      "summary": "OpenAI is making ChatGPT ads easier to buy. That's a long way from proving advertisers will spend the $100 billion it projects for 2030. The post OpenAI s audacious ad revenue claim appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/openais-audacious-claim-about-ad-revenue/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-09-02",
+      "title": "Fixing Top-Level Await in Safari",
+      "summary": "WebKit for Safari 27 adds full spec compliance for top-level `await`.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18227/fixing-top-level-await-in-safari/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-09-01",
@@ -131,7 +161,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-09-01",
       "title": "Stop treating lead quality and volume as opposites",
@@ -141,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-09-01",
       "title": "Your influencer marketing strategy is broken",
@@ -151,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-09-01",
       "title": "The hidden costs distorting your AI ROI",
@@ -201,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-08-31",
       "title": "The only way to know what your ads really did",
@@ -211,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-31",
       "title": "Best-in-class martech depends on your business context",
@@ -221,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-31",
       "title": "The terrifying loophole in your autonomous tech stack",
@@ -248,26 +278,6 @@
       "summary": "There&rsquo;s a somewhat understated feature in the Google Tag Manager Community Template Gallery , which should certainly prove useful, especially to template authors. The template status page shows a list of all the GitHub commits handled",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/gtmtips/gtm-template-status-page/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-28",
-      "title": "Marketers know AI is using bad data to make decisions",
-      "summary": "Marketers are giving AI more authority even as bad CRM data undermines revenue measurement, reporting, and the decisions AI makes. The post Marketers know AI is using bad data to make decisions appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketers-know-ai-is-using-bad-data-to-make-decisions/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-28",
-      "title": "Stop measuring your brand and start listening",
-      "summary": "The most useful brand feedback often comes from what customers say and do when nobody is asking them to rate the experience. The post Stop measuring your brand and start listening appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/stop-measuring-your-brand-and-start-listening/",
       "live": true
     },
     {
@@ -321,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-08-26",
       "title": "Release Notes for Safari Technology Preview 251",
@@ -521,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-08-13",
       "title": "Release Notes for Safari Technology Preview 250",
@@ -661,7 +671,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-07-29",
       "title": "Release Notes for Safari Technology Preview 249",
@@ -681,7 +691,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-07-27",
       "title": "WebKit Features for Safari 26.6",
@@ -691,7 +701,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-07-22",
       "title": "Release Notes for Safari Technology Preview 248",
@@ -771,7 +781,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "Introducing the Safari MCP server for web developers",
@@ -781,7 +791,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "Release Notes for Safari Technology Preview 247",
@@ -848,16 +858,6 @@
       "summary": "that were previously undercounted in server-to-server setups due to a lack of browser cookie context Server-side data is intelligently joined with parallel browser signals, such as cookies, when a GCLID is present so that Floodlight can mor",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-06-17",
-      "title": "Release Notes for Safari Technology Preview 246",
-      "summary": "Safari Technology Preview Release 246 is now available for download for macOS Golden Gate and macOS Tahoe.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18128/release-notes-for-safari-technology-preview-246/",
       "live": true
     },
     {
