@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T08:54:55.195886+00:00",
+  "generated_at": "2026-09-03T17:04:36.082469+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 102,
@@ -121,6 +121,36 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-03",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Adobe’s acquisition of Rilo adds AI workflow orchestration to its growing effort to automate the work surrounding enterprise marketing. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-03",
+      "title": "Google loses the ad monopoly case, but keeps the monopoly",
+      "summary": "A federal judge found Google illegally monopolized key ad-tech markets, but rejected the remedy that could have fundamentally reshaped them. The post Google loses the ad monopoly case, but keeps the monopoly appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/google-loses-the-ad-monopoly-case-but-keeps-the-monopoly/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-09-03",
+      "title": "Rapid AI changes mean GEO is a weekly job now",
+      "summary": "AI answers keep changing, so PR, SEO, and content need a shared view of what buyers ask, which sources get cited, and what moves each week. The post Rapid AI changes mean GEO is a weekly job now appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/rapid-ai-changes-mean-geo-is-a-weekly-job-now/",
+      "live": true
+    },
+    {
       "id": "live-EDPB — GDPR news-0",
       "cat": "privacy",
       "date": "2026-09-03",
@@ -131,7 +161,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-09-02",
       "title": "September 02, 2026",
@@ -151,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-09-02",
       "title": "What’s next in content operations? Agents (what else?)",
@@ -161,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-09-02",
       "title": "Marketers are media measurement’s biggest problem",
@@ -171,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-09-02",
       "title": "OpenAI’s audacious ad revenue claim",
@@ -201,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-09-01",
       "title": "September 01, 2026",
@@ -211,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-09-01",
       "title": "Stop treating lead quality and volume as opposites",
@@ -221,23 +251,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-09-01",
       "title": "Your influencer marketing strategy is broken",
       "summary": "Reach alone says little about a creator’s ability to drive sales, especially as algorithms put content in front of more non-followers. The post Your influencer marketing strategy is broken appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/your-influencer-marketing-strategy-is-broken/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-09-01",
-      "title": "The hidden costs distorting your AI ROI",
-      "summary": "Integration, oversight, data preparation, and displaced work can turn an impressive AI productivity gain into a much smaller financial return. The post The hidden costs distorting your AI ROI appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-hidden-costs-distorting-your-ai-roi/",
       "live": true
     },
     {
@@ -261,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-08-31",
       "title": "August 31, 2026",
@@ -281,27 +301,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-08-31",
-      "title": "The only way to know what your ads really did",
-      "summary": "Platforms claim too much credit and backends often give too little. Holdout tests can show how much revenue advertising truly generated. The post The only way to know what your ads really did appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-only-way-to-know-what-your-ads-really-did/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-31",
-      "title": "Best-in-class martech depends on your business context",
-      "summary": "Research across 953 martech stacks reveals when more functionality helps, when execution matters more, and when less can be better. The post Best-in-class martech depends on your business context appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/best-in-class-martech-depends-on-your-business-context/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-08-28",
       "title": "August 28, 2026",
@@ -321,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-08-27",
       "title": "August 27, 2026",
@@ -351,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-08-26",
       "title": "August 26, 2026",
@@ -391,11 +391,11 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-08-25",
       "title": "August 25, 2026",
-      "summary": "BigQuery Feature BigQuery data governance tags are supported in Terraform. This feature is in Preview . Cloud Run Feature Cloud Run instances are available in Preview . Instances are specifically designed for running long-lived and individu",
+      "summary": "Access Approval Feature Gemini Data Analytics is generally available ( GA ). Access Transparency Feature Gemini Data Analytics is generally available ( GA ). BigQuery Feature BigQuery data governance tags are supported in Terraform. This fe",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#August_25_2026",
       "live": true
@@ -421,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-08-24",
       "title": "August 24, 2026",
@@ -441,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-08-21",
       "title": "August 21, 2026",
@@ -461,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-08-20",
       "title": "August 20, 2026",
@@ -511,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-08-18",
       "title": "August 18, 2026",
@@ -541,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-08-17",
       "title": "August 17, 2026",
