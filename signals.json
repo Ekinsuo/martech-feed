@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-02T17:12:37.518425+00:00",
+  "generated_at": "2026-09-03T08:54:55.195886+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 104,
+  "count": 102,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 5
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,7 +121,47 @@
   ],
   "signals": [
     {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-09-03",
+      "title": "Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)",
+      "summary": "Background information Date of final decision: 28 August 2026 National case Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 32 (Security of processing), Article 33 (Notification of a personal data",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/data-protection-commission-announces-final-decision-following-inquiry-into-the-health-service_en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-09-02",
+      "title": "September 02, 2026",
+      "summary": "AlloyDB for PostgreSQL Feature AlloyDB real-time data access to BigQuery (in Preview ) now offers limit pushdown and runtime projects: Limit pushdown: when you query foreign tables, some LIMIT and OFFSET clauses are automatically pushed dow",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#September_02_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-09-02",
+      "title": "Google Ads API v22 sunset reminder",
+      "summary": "Google Ads API v22 will sunset on October 7, 2026. Starting on this date, all v22 API requests will begin to fail. Migrate to a newer version prior to October 7, 2026 to ensure your API access is unaffected. Here are some resources to help ",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1518248525584001928",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-02",
+      "title": "What’s next in content operations? Agents (what else?)",
+      "summary": "Orange Logic SVP Misti Vogt tells us why old ways of managing digital assets are failing, and why the future of content operations belongs to agentic systems. The post What’s next in content operations? Agents (what else?) appeared first on",
+      "src": "MarTech.org",
+      "url": "https://martech.org/whats-next-in-content-operations-agents-what-else/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
       "cat": "general",
       "date": "2026-09-02",
       "title": "Marketers are media measurement’s biggest problem",
@@ -131,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-09-02",
       "title": "OpenAI’s audacious ad revenue claim",
@@ -151,7 +191,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-09-02",
+      "title": "Hello Developer: September 2026",
+      "summary": "In this edition: Get ready for a special Apple Event, take advantage of Analytics in App Store Connect, and sign up for new developer events in Cupertino. Read now",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=ote61lrx",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-09-01",
       "title": "September 01, 2026",
@@ -161,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-09-01",
       "title": "Stop treating lead quality and volume as opposites",
@@ -171,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-09-01",
       "title": "Your influencer marketing strategy is broken",
@@ -181,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-09-01",
       "title": "The hidden costs distorting your AI ROI",
@@ -191,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-09-01",
       "title": "Upcoming changes to Rosetta support for Intel-based macOS apps",
@@ -201,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-09-01",
       "title": "“The impact was the biggest surprise“: Swiggy’s transition to native pays off",
@@ -211,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-08-31",
       "title": "August 31, 2026",
@@ -221,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-08-31",
       "title": "Making Google Ads More Secure with Updates to Developer Policies",
@@ -231,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-08-31",
       "title": "The only way to know what your ads really did",
@@ -241,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-08-31",
       "title": "Best-in-class martech depends on your business context",
@@ -251,17 +301,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-08-31",
-      "title": "The terrifying loophole in your autonomous tech stack",
-      "summary": "AI agents pass data back and forth to run your campaigns. Here is how to prevent proprietary leaks and privacy failures The post The terrifying loophole in your autonomous tech stack appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-terrifying-loophole-in-your-autonomous-tech-stack/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-08-28",
       "title": "August 28, 2026",
@@ -281,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-08-27",
       "title": "August 27, 2026",
@@ -291,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-08-27",
       "title": "October 2026 changes to the Display & Video 360 API and Structured Data Files",
@@ -301,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-08-27",
       "title": "Tax and price updates for apps, In-App Purchases, and subscriptions",
@@ -311,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-08-26",
       "title": "August 26, 2026",
@@ -341,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-08-26",
       "title": "Surprise and shine",
@@ -351,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-08-25",
       "title": "August 25, 2026",
@@ -361,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-08-25",
       "title": "Google Ads API Developer Assistant v4.0.0",
@@ -381,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-08-24",
       "title": "August 24, 2026",
@@ -391,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-08-24",
       "title": "Update: New domain for Sign in with Apple",
@@ -401,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-08-21",
       "title": "August 21, 2026",
@@ -421,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-08-20",
       "title": "August 20, 2026",
@@ -431,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-08-20",
       "title": "Google Ads language targeting changes starting September 2026",
@@ -451,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-08-19",
       "title": "Announcing v25.1 of the Google Ads API",
@@ -471,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-08-18",
       "title": "August 18, 2026",
@@ -481,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-08-18",
       "title": "Changes for apps in the European Union",
@@ -491,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-08-18",
       "title": "Updated Apple Developer Program License Agreement now available",
@@ -501,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-08-17",
       "title": "August 17, 2026",
@@ -521,16 +561,6 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
-      "cat": "general",
-      "date": "2026-08-13",
-      "title": "August 13, 2026",
-      "summary": "Apigee X Announcement On August 13th, 2026, we began maintenance updates of Apigee instances configured for maintenance windows . If you set a preferred window for maintenance for your instance, and your instance version is below 1-18-0-api",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_13_2026",
-      "live": true
-    },
-    {
       "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-08-13",
@@ -541,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-08-12",
       "title": "Migrate Campaign-level Broad Match and Automatically Created Assets to AI Max",
@@ -551,23 +581,13 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-08-12",
       "title": "Query report data with the Campaign Manager 360 API",
       "summary": "You can now use the reportData.query endpoint in the Campaign Manager 360 API to synchronously query your campaign performance data and retrieve structured JSON data directly in the response. The new reportData.query endpoint offers a simpl",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4794231048859903119",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-08-12",
-      "title": "Updates to age ratings for the Republic of Korea",
-      "summary": "Apple generates appropriate age ratings based on your answers to the age rating questionnaire in App Store Connect. In compliance with local regulatory requirements, apps in the Games and Entertainment categories distributed on the App Stor",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=oj3r9pvw",
       "live": true
     },
     {
@@ -591,7 +611,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-3",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-08-06",
       "title": "August 06, 2026",
@@ -601,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-08-05",
       "title": "August 05, 2026",
@@ -611,7 +631,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-08-04",
       "title": "August 04, 2026",
@@ -621,37 +641,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
-      "cat": "looker",
-      "date": "2026-08-03",
-      "title": "August 03, 2026",
-      "summary": "Looker (Google Cloud core) and Looker (original) changes Feature A localized processing option for Conversational Analytics is now available for European Union (EU) based customers, enabling data processing within the EU jurisdiction by rou",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#August_03_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-08-03",
-      "title": "Google Ads API pilot: Secure API Access to your Manager Accounts",
-      "summary": "The Google Ads API is piloting a security feature designed for securing API access to Google Ads manager accounts. We are seeking developers who would like to participate in this pilot project and provide us with feedback. What are we offer",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4774123560152328684",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-07-30",
-      "title": "July 30, 2026",
-      "summary": "Deployment dates Announcement From July 27 through July 30, 2026, the following features will be automatically enabled for Looker (original) instances running Looker 26.12. Feature Looker admins now have the ability to configure a Looker in",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#July_30_2026",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-07-30",
       "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: overview of topics available",
@@ -721,7 +711,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-2",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-07-17",
       "title": "EDPB calls for legal basis for cross-regulatory information sharing",
@@ -731,7 +721,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-07-14",
       "title": "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
@@ -771,7 +761,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-07-08",
       "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
@@ -801,7 +791,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
@@ -831,23 +821,13 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
+      "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-06-25",
       "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
       "summary": "Brussels, 25 June - The EDPB has published an update of the One-Stop-Shop (OSS) case digest on right to object and right to erasure . This project has been developed in the framework of the of the Support Pool of Experts programme, which ai",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-06-24",
-      "title": "Supporting GDPR consistency: EDPB launches dedicated form",
-      "summary": "Brussels, 24 June – The EDPB has launched a dedicated contact form for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments set out in the EDPB Helsinki State",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
       "live": true
     },
     {
