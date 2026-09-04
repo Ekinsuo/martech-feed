@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T08:49:36.879044+00:00",
+  "generated_at": "2026-09-04T16:53:59.017178+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,6 +121,46 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-04",
+      "title": "Marketing without signals: How to perform when the data disappears",
+      "summary": "Navigating signal loss without losing momentum is a hurdle for every marketing leader. At the MarTech Conference we talked about building control with the data you already own. The post Marketing without signals: How to perform when the dat",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-04",
+      "title": "10 Salesforce Winter ’27 updates marketers need to know",
+      "summary": "From Agentforce campaign creation to cleaner reporting, these are the Winter ’27 changes with the biggest impact on marketing teams. The post 10 Salesforce Winter ’27 updates marketers need to know appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/10-salesforce-winter-27-updates-marketers-need-to-know/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-09-04",
+      "title": "Software buyers are moving faster than software sellers",
+      "summary": "AI is accelerating software decisions while quotes, approvals, and sales handoffs discourage buyers ready to spend. The post Software buyers are moving faster than software sellers appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/software-buyers-are-moving-faster-than-software-sellers/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-09-04",
+      "title": "The next CDP decision goes beyond the CDP",
+      "summary": "As composability becomes standard, the real question is where customer data, intelligence, and decision-making should live. The post The next CDP decision goes beyond the CDP appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-next-cdp-decision-goes-beyond-the-cdp/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-09-03",
@@ -131,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-09-03",
       "title": "The latest AI-powered martech news and releases",
@@ -141,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-09-03",
       "title": "Google loses the ad monopoly case, but keeps the monopoly",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-09-03",
       "title": "Rapid AI changes mean GEO is a weekly job now",
@@ -201,33 +241,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-09-02",
       "title": "What’s next in content operations? Agents (what else?)",
       "summary": "Orange Logic SVP Misti Vogt tells us why old ways of managing digital assets are failing, and why the future of content operations belongs to agentic systems. The post What’s next in content operations? Agents (what else?) appeared first on",
       "src": "MarTech.org",
       "url": "https://martech.org/whats-next-in-content-operations-agents-what-else/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-09-02",
-      "title": "Marketers are media measurement’s biggest problem",
-      "summary": "Stop customizing your way around fragmented data. Start unifying it for your own reporting and for an industry waiting on you to lead. The post Marketers are media measurement’s biggest problem appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketers-are-media-measurements-biggest-problem/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-09-02",
-      "title": "OpenAI’s audacious ad revenue claim",
-      "summary": "OpenAI is making ChatGPT ads easier to buy. That's a long way from proving advertisers will spend the $100 billion it projects for 2030. The post OpenAI s audacious ad revenue claim appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/openais-audacious-claim-about-ad-revenue/",
       "live": true
     },
     {
@@ -258,26 +278,6 @@
       "summary": "Apigee UI Announcement On September 1, 2026, we released an updated version of the Apigee UI. Fixed Bug ID Description 547582067 Revisions can now be imported for API proxies and shared flows in a space Importing a revision in the Apigee UI",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_01_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-09-01",
-      "title": "Stop treating lead quality and volume as opposites",
-      "summary": "Getting more leads and getting better leads require different signals, tactics, and metrics. The business objective should determine which comes first. The post Stop treating lead quality and volume as opposites appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/stop-treating-lead-quality-and-volume-as-opposites/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-01",
-      "title": "Your influencer marketing strategy is broken",
-      "summary": "Reach alone says little about a creator’s ability to drive sales, especially as algorithms put content in front of more non-followers. The post Your influencer marketing strategy is broken appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-influencer-marketing-strategy-is-broken/",
       "live": true
     },
     {
