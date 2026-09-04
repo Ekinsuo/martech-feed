@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-03T17:04:36.082469+00:00",
+  "generated_at": "2026-09-04T08:49:36.879044+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 102,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,6 +121,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-09-03",
+      "title": "September 03, 2026",
+      "summary": "API Gateway Change New model routing gateways might use a gateway.dev default hostname If you create a gateway that uses model routing on or after September 3, 2026, it might receive a gateway.dev default hostname instead of a run.app one, ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#September_03_2026",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-09-03",
@@ -148,6 +158,16 @@
       "summary": "AI answers keep changing, so PR, SEO, and content need a shared view of what buyers ask, which sources get cited, and what moves each week. The post Rapid AI changes mean GEO is a weekly job now appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/rapid-ai-changes-mean-geo-is-a-weekly-job-now/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-09-03",
+      "title": "Submit your ideas for Interop 2027",
+      "summary": "It’s that exciting time of year again when we start considering Interop proposals for next year!",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18283/submit-your-ideas-for-interop-2027/",
       "live": true
     },
     {
@@ -211,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-09-02",
       "title": "Fixing Top-Level Await in Safari",
@@ -371,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-08-26",
       "title": "Release Notes for Safari Technology Preview 251",
@@ -541,13 +561,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
-      "cat": "general",
+      "id": "live-Looker Release Notes-4",
+      "cat": "looker",
       "date": "2026-08-17",
       "title": "August 17, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature You can now use the Model Context Protocol (MCP) Toolbox for Databases to access AlloyDB observability features and advanced query insights directly in your IDE. Assured Workloads Feature The Data Boundary for",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_17_2026",
+      "summary": "Deployment dates Announcement Looker's Continuous Integration is based on the legacy standalone Spectacles service. Looker will continue to integrate and evolve the Spectacles features into Looker's Continuous Integration, and the legacy st",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#August_17_2026",
       "live": true
     },
     {
@@ -561,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-08-13",
       "title": "Release Notes for Safari Technology Preview 250",
@@ -661,7 +681,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-07-29",
       "title": "Release Notes for Safari Technology Preview 249",
@@ -681,7 +701,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-07-27",
       "title": "WebKit Features for Safari 26.6",
@@ -691,7 +711,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-07-22",
       "title": "Release Notes for Safari Technology Preview 248",
@@ -771,23 +791,13 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "Introducing the Safari MCP server for web developers",
       "summary": "Update: In Safari 27 beta and Safari Technology Preview 247, we’re introducing the Safari MCP server — a Model Context Protocol server for web developers that makes your web development and debugging workflow faster and more powerful.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-07-01",
-      "title": "Release Notes for Safari Technology Preview 247",
-      "summary": "Safari Technology Preview Release 247 is now available for download for macOS Golden Gate and macOS Tahoe.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18133/release-notes-for-safari-technology-preview-247/",
       "live": true
     },
     {
