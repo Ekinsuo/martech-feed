@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T16:20:31.871128+00:00",
+  "generated_at": "2026-09-07T09:18:12.887086+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -120,6 +120,16 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-09-06",
+      "title": "September 06, 2026",
+      "summary": "Google SecOps Feature [Spotlight Feature] Case playbooks This feature is in preview. Google SecOps now supports case playbooks. You can run playbooks or execute manual actions across an entire case container rather than individual alerts, c",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#September_06_2026",
+      "live": true
+    },
     {
       "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
@@ -488,16 +498,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/merchant-center-is-redefining-organic-traffic-on-august-24-4321ee565501?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-17",
-      "cat": "general",
-      "date": "2026-08-20",
-      "title": "August 20, 2026",
-      "summary": "App Engine flexible environment .NET Feature Starting from August 2026, to provide modern security patches and support for MySQL 8.4 and later, the App Engine flexible environment uses Cloud SQL Auth Proxy v2 as the built-in sidecar contain",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_20_2026",
       "live": true
     },
     {
