@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T08:50:55.148181+00:00",
+  "generated_at": "2026-09-08T17:17:15.351454+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,7 +121,47 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-08",
+      "title": "The data trust crisis: Why your customer data is getting worse",
+      "summary": "Unreliable customer data threatens your personalization and ROI. At the MarTech Conference we discussed how to navigate data decay and build a high-trust measurement framework. The post The data trust crisis: Why your customer data is getti",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-08",
+      "title": "Why AI hasn’t solved marketing’s time problem",
+      "summary": "AI makes it easier to produce marketing content, but faster production doesn’t mean more time for strategy, planning, or better work. The post Why AI hasn’t solved marketing’s time problem appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-ai-hasnt-solved-marketings-time-problem/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-09-08",
+      "title": "Your 2027 CTV budget needs evidence now",
+      "summary": "Run a narrow test now to learn what CTV costs against your actual accounts and whether the channel is worth funding next year. The post Your 2027 CTV budget needs evidence now appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-2027-ctv-budget-needs-evidence-now/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-09-08",
+      "title": "Why growing restaurant chains win at local search and AI visibility by SOCi",
+      "summary": "Research finds a measurable digital visibility gap between expanding and shrinking restaurant chains across search, reviews, social, and AI. The post Why growing restaurant chains win at local search and AI visibility appeared first on MarT",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-growing-restaurant-chains-win-at-local-search-and-ai-visibility/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-09-06",
       "title": "September 06, 2026",
@@ -131,17 +171,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-09-04",
       "title": "September 04, 2026",
-      "summary": "Cloud Billing Change Introducing the Incentives page, for tracking spend-based milestone credits, RaMP, and other conditional incentives If you have a custom pricing contract, you might be enrolled in conditional incentives, where you earn ",
+      "summary": "Audit Manager Feature The remote Model Context Protocol (MCP) server for Audit Manager is generally available ( GA ). Cloud Billing Change Introducing the Incentives page, for tracking spend-based milestone credits, RaMP, and other conditio",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_04_2026",
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-09-04",
       "title": "Marketing without signals: How to perform when the data disappears",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-09-04",
       "title": "10 Salesforce Winter ’27 updates marketers need to know",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-09-04",
       "title": "Software buyers are moving faster than software sellers",
@@ -171,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-09-04",
       "title": "The next CDP decision goes beyond the CDP",
@@ -181,43 +221,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-09-03",
       "title": "September 03, 2026",
       "summary": "API Gateway Change New model routing gateways might use a gateway.dev default hostname If you create a gateway that uses model routing on or after September 3, 2026, it might receive a gateway.dev default hostname instead of a run.app one, ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_03_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-09-03",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Adobe’s acquisition of Rilo adds AI workflow orchestration to its growing effort to automate the work surrounding enterprise marketing. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-09-03",
-      "title": "Google loses the ad monopoly case, but keeps the monopoly",
-      "summary": "A federal judge found Google illegally monopolized key ad-tech markets, but rejected the remedy that could have fundamentally reshaped them. The post Google loses the ad monopoly case, but keeps the monopoly appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/google-loses-the-ad-monopoly-case-but-keeps-the-monopoly/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-09-03",
-      "title": "Rapid AI changes mean GEO is a weekly job now",
-      "summary": "AI answers keep changing, so PR, SEO, and content need a shared view of what buyers ask, which sources get cited, and what moves each week. The post Rapid AI changes mean GEO is a weekly job now appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/rapid-ai-changes-mean-geo-is-a-weekly-job-now/",
       "live": true
     },
     {
@@ -241,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-09-02",
       "title": "September 02, 2026",
@@ -258,16 +268,6 @@
       "summary": "Google Ads API v22 will sunset on October 7, 2026. Starting on this date, all v22 API requests will begin to fail. Migrate to a newer version prior to October 7, 2026 to ensure your API access is unaffected. Here are some resources to help ",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1518248525584001928",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-02",
-      "title": "What’s next in content operations? Agents (what else?)",
-      "summary": "Orange Logic SVP Misti Vogt tells us why old ways of managing digital assets are failing, and why the future of content operations belongs to agentic systems. The post What’s next in content operations? Agents (what else?) appeared first on",
-      "src": "MarTech.org",
-      "url": "https://martech.org/whats-next-in-content-operations-agents-what-else/",
       "live": true
     },
     {
@@ -291,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-09-01",
       "title": "September 01, 2026",
@@ -321,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-08-31",
       "title": "August 31, 2026",
@@ -341,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-08-28",
       "title": "August 28, 2026",
@@ -361,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-08-27",
       "title": "August 27, 2026",
@@ -391,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-08-26",
       "title": "August 26, 2026",
@@ -431,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-08-25",
       "title": "August 25, 2026",
@@ -461,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-08-24",
       "title": "August 24, 2026",
@@ -481,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-08-21",
       "title": "August 21, 2026",
