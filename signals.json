@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-09T08:57:05.228457+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 103,
+  "generated_at": "2026-09-09T17:11:37.791657+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 95,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -107,9 +107,10 @@
     {
       "name": "GA4 — What's new",
       "cat": "ga4",
-      "ok": true,
-      "items": 8,
-      "scraped": true
+      "ok": false,
+      "items": 0,
+      "scraped": true,
+      "error": "no datable items"
     },
     {
       "name": "sGTM — Release notes",
@@ -131,6 +132,56 @@
       "live": true
     },
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-09",
+      "title": "Your next CMO will come from marketing operations",
+      "summary": "The CMO role is evolving, from creative to technical, and it may have finally found a C-suite ally in the CIO. The post Your next CMO will come from marketing operations appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-next-cmo-will-come-from-marketing-operations/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-09",
+      "title": "Built for yesterday: Why your data architecture can’t keep up with AI",
+      "summary": "Struggling to power AI with outdated systems? At the September MarTech Conference we discussed how composable data architecture enables real-time decisions without a rebuild. The post Built for yesterday: Why your data architecture can’t ke",
+      "src": "MarTech.org",
+      "url": "https://martech.org/built-for-yesterday-why-your-data-architecture-cant-keep-up-with-ai/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-09-09",
+      "title": "What WYSIWYG editors can teach us about AI and jobs",
+      "summary": "From WYSIWYG editors to vibe coding, technology keeps shifting where human skills matter rather than simply eliminating them. The post What WYSIWYG editors can teach us about AI and jobs appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/what-wysiwyg-editors-can-teach-us-about-ai-and-jobs/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-09-09",
+      "title": "A better way to answer the AI ROI question",
+      "summary": "A three-layer framework separates AI foundations, working systems, and business outcomes without claiming revenue that can’t be proved. The post A better way to answer the AI ROI question appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/a-better-way-to-answer-the-ai-roi-question/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-09-09",
+      "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire 500 000 EUR",
+      "summary": "Background information Date of final decision: 3 September 2026 National case Controller: Hôpital Privé de la Loire Legal Reference: Article 32 (Security of processing), Article 34 (Communication of a personal data breach to the data subjec",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-500-000-eur_en",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-09-08",
@@ -141,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-09-08",
       "title": "The data trust crisis: Why your customer data is getting worse",
@@ -151,7 +202,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-09-08",
       "title": "Why AI hasn’t solved marketing’s time problem",
@@ -161,7 +212,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-09-08",
       "title": "Your 2027 CTV budget needs evidence now",
@@ -171,7 +222,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-09-08",
       "title": "Why growing restaurant chains win at local search and AI visibility by SOCi",
@@ -201,46 +252,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-09-04",
-      "title": "Marketing without signals: How to perform when the data disappears",
-      "summary": "Navigating signal loss without losing momentum is a hurdle for every marketing leader. At the MarTech Conference we talked about building control with the data you already own. The post Marketing without signals: How to perform when the dat",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-09-04",
-      "title": "10 Salesforce Winter ’27 updates marketers need to know",
-      "summary": "From Agentforce campaign creation to cleaner reporting, these are the Winter ’27 changes with the biggest impact on marketing teams. The post 10 Salesforce Winter ’27 updates marketers need to know appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/10-salesforce-winter-27-updates-marketers-need-to-know/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-09-04",
-      "title": "Software buyers are moving faster than software sellers",
-      "summary": "AI is accelerating software decisions while quotes, approvals, and sales handoffs discourage buyers ready to spend. The post Software buyers are moving faster than software sellers appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/software-buyers-are-moving-faster-than-software-sellers/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-04",
-      "title": "The next CDP decision goes beyond the CDP",
-      "summary": "As composability becomes standard, the real question is where customer data, intelligence, and decision-making should live. The post The next CDP decision goes beyond the CDP appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-next-cdp-decision-goes-beyond-the-cdp/",
-      "live": true
-    },
-    {
       "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-09-03",
@@ -261,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-09-03",
       "title": "Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)",
@@ -631,26 +642,6 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-13",
-      "cat": "ga4",
-      "date": "2026-08-11",
-      "title": "Updated conversion window configuration Google Analytics conversions now…",
-      "summary": "custom integer lookback windows for click-through conversions (CTC) and engaged-view conversions (EVC) This update allows Google Analytics to align conversion attribution lookback windows more closely to your unique business cycles. This up",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-14",
-      "cat": "ga4",
-      "date": "2026-08-10",
-      "title": "Campaign data import validation report We’ve launched a new…",
-      "summary": "validation report to help you verify and improve the quality of your campaign data imports The campaign data import validation report assists you in assessing your non-Google campaign data and imported campaign data. This helps you pinpoint",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
       "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-08-06",
@@ -671,23 +662,13 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
+      "id": "live-EDPB — GDPR news-2",
       "cat": "privacy",
       "date": "2026-07-30",
       "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: overview of topics available",
       "summary": "Brussels, 30 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming guidelines on the interplay between competition and data protection . The event will take place on 1",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law-0_en",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-15",
-      "cat": "ga4",
-      "date": "2026-07-30",
-      "title": "New diagnostic in Google Analytics for aggregate parameter issues…",
-      "summary": "We’ve launched a new diagnostic to alert users of issues with campaign data accuracy due to missing URL parameters Properties where aggregate identifiers (GBRAID and gad_) are missing from the URL will see a new diagnostic, including the pr",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
     },
     {
@@ -698,16 +679,6 @@
       "summary": "Safari Technology Preview Release 249 is now available for download for macOS Golden Gate and macOS Tahoe.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18182/release-notes-for-safari-technology-preview-249/",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-16",
-      "cat": "ga4",
-      "date": "2026-07-28",
-      "title": "Campaign data import currency update We've updated campaign data…",
-      "summary": "import to require a currency field whenever you upload cost data This ensures your campaign reporting stays accurate, even if you decide to make changes to your property's currency settings. When importing your campaign data, you can now ch",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
     },
     {
@@ -741,7 +712,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-07-17",
       "title": "EDPB calls for legal basis for cross-regulatory information sharing",
@@ -751,23 +722,13 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-07-14",
       "title": "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
       "summary": "Brussels, 14 July–The EDPB has published its binding decision of 28 May 2026 under Art.65(1)(a) GDPR*. The decision concerns a dispute submitted by the Belgian Data Protection Authority (DPA) about a complaint against Vlaamse Radio-en Telev",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-17",
-      "cat": "ga4",
-      "date": "2026-07-13",
-      "title": "AdMob linking within Google Analytics Google Analytics now offers…",
-      "summary": "a direct, native product linking flow with AdMob within the Google Analytics Admin interface You will see a new \"AdMob Links\" option under the \"Product Links\" section in your Google Analytics Admin console. You can now manage connections be",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
     },
     {
@@ -791,7 +752,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-07-08",
       "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
@@ -811,7 +772,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
+      "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-07-01",
       "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
@@ -838,16 +799,6 @@
       "summary": "In preparation for the upcoming major integration between Google Tag and Google Tag Manager , Google has rolled out some user interface changes to your GTM containers. The changes simplify the UI quite a bit, with the biggest changes landin",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/analytics/google-tag-manager-ui-updates/",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-06-25",
-      "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
-      "summary": "Brussels, 25 June - The EDPB has published an update of the One-Stop-Shop (OSS) case digest on right to object and right to erasure . This project has been developed in the framework of the of the Support Pool of Experts programme, which ai",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
       "live": true
     },
     {
@@ -881,26 +832,6 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-18",
-      "cat": "ga4",
-      "date": "2026-06-11",
-      "title": "New Source Group field with update to Source Platform…",
-      "summary": "values for improved source analysis Source grouping is a new dimension concept that consolidates source values for common online platforms - Facebook, Instagram, and TikTok A single value for a given source is vital for performance and attr",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-19",
-      "cat": "ga4",
-      "date": "2026-06-08",
-      "title": "New Google Business Profile integration You can now centrally…",
-      "summary": "report on your local business, website, and app metrics Link your Google Analytics properties with Google Business Profiles (GBP) directly within the Admin panel. This integration enables the seamless import of high-value first-party GBP da",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
       "id": "scrape-GTM / Tag Gateway — Release notes-3",
       "cat": "gtm",
       "date": "2026-06-03",
@@ -928,16 +859,6 @@
       "summary": "Fastly are now available This release introduces a streamlined integration to configure Google tag gateway for advertisers using Akamai or Fastly as your content delivery network (CDN) You can now authorize Google to automatically detect yo",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-20",
-      "cat": "ga4",
-      "date": "2026-05-13",
-      "title": "New AI Assistant traffic measurement Google Analytics now provides…",
-      "summary": "a dedicated way to measure and analyze traffic originating from popular AI assistants You can now identify how users are discovering your site through chatbots like ChatGPT, Gemini, and Claude via a new AI Assistant channel in your Default ",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
     },
     {
