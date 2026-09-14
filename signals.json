@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-14T09:49:23.844702+00:00",
+  "generated_at": "2026-09-14T18:43:32.371615+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 101,
+  "count": 102,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -121,7 +121,67 @@
   ],
   "signals": [
     {
+      "id": "live-BigQuery Release Notes-0",
+      "cat": "bigquery",
+      "date": "2026-09-14",
+      "title": "September 14, 2026",
+      "summary": "Feature Metadata for BigQuery Graph is automatically ingested and searchable in Knowledge Catalog . This feature is available in preview .",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#September_14_2026",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-09-14",
+      "title": "Exploring Databricks’ Lakehouse Industry Data Models",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/exploring-databricks-lakehouse-industry-data-models-8cc9e8d890ca?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-14",
+      "title": "The AI performance shake-up: What’s really driving results across channels now",
+      "summary": "When algorithms hide your campaign levers, tracking true impact gets tricky. At the MarTech Conference, we discussed how to regain visibility and drive growth. The post The AI performance shake-up: What’s really driving results across chann",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-14",
+      "title": "Who owns your AI agents after they launch?",
+      "summary": "AI agent ownership often falls between teams. Here’s how to assign responsibility for maintenance, oversight, and retirement. The post Who owns your AI agents after they launch? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/who-owns-your-ai-agents-after-they-launch/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-09-14",
+      "title": "The ultimate battle for your digital storefront",
+      "summary": "AI search engines are rewriting the rules of retail. Here is how to keep your brand visible when algorithms replace human shoppers. The post The ultimate battle for your digital storefront appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-ultimate-battle-for-your-digital-storefront/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-09-14",
+      "title": "AI exposes what your brand guidelines leave unsaid",
+      "summary": "Brand teams have always relied on people to interpret vague guidelines. AI turns those hidden assumptions into a problem that can scale fast. The post AI exposes what your brand guidelines leave unsaid appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-exposes-what-your-brand-guidelines-leave-unsaid/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-09-11",
       "title": "Lost in translation: Why content and data teams can’t speak the same language",
@@ -131,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-09-11",
       "title": "FTC puts personalized pricing practices on notice",
@@ -141,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-09-11",
       "title": "AI is changing media faster than marketers can measure it",
@@ -151,23 +211,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-09-11",
       "title": "AI can scale your promises faster than you can build trust",
       "summary": "Your AI strategy shouldn’t be judged by how much marketing it produces. Look at whether it makes the next customer interaction easier to earn. The post AI can scale your promises faster than you can build trust appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/ai-can-scale-your-promises-faster-than-you-can-build-trust/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-09-11",
-      "title": "The real AI decision every CMO is making this quarter",
-      "summary": "AI is making common marketing capabilities easier to buy. The harder question is which company-specific workflows are worth owning. The post The real AI decision every CMO is making this quarter appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-real-ai-decision-every-cmo-is-making-this-quarter/",
       "live": true
     },
     {
@@ -191,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-09-10",
       "title": "September 10, 2026",
@@ -211,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-09-10",
       "title": "Google Analytics now has native, drag-and-drop dashboards",
@@ -221,37 +271,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-09-10",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Anthropic has a blueprint for AI agents that can shop and buy for consumers, but trust, pricing, and accountability are in the way. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-09-10",
-      "title": "The engagement illusion: What actually gets attention (and what gets ignored)",
-      "summary": "AI makes producing content fast, but earning true attention is harder than ever. At the September MarTech Conference, we discussed cutting through the noise to create meaningful engagement. The post The engagement illusion: What actually ge",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-engagement-illusion-what-actually-gets-attention-and-what-gets-ignored/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-10",
-      "title": "The answer to your martech problem depends on the problem",
-      "summary": "Buying more, improving how teams use what they have, and cutting the stack can all work — but not for the same reasons. The post The answer to your martech problem depends on the problem appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-answer-to-your-martech-problem-depends-on-the-problem/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-09-09",
       "title": "September 09, 2026",
@@ -311,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-09-08",
       "title": "September 08, 2026",
@@ -321,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-09-06",
       "title": "September 06, 2026",
@@ -331,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-09-04",
       "title": "September 04, 2026",
@@ -341,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-09-03",
       "title": "September 03, 2026",
@@ -371,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-09-02",
       "title": "September 02, 2026",
@@ -411,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-09-01",
       "title": "September 01, 2026",
@@ -441,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-08-31",
       "title": "August 31, 2026",
@@ -461,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-08-28",
       "title": "August 28, 2026",
@@ -481,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-08-27",
       "title": "August 27, 2026",
@@ -511,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-08-26",
       "title": "August 26, 2026",
@@ -521,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-08-26",
       "title": "ChatGPT ads expand to Europe, with a new measurement pixel and Conversions API",
@@ -561,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-08-25",
       "title": "BigQuery pipelines can now document themselves",
@@ -581,7 +601,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-08-21",
       "title": "Merchant Center is redefining “organic traffic” on August 24",
@@ -601,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-08-20",
       "title": "The App Tracking Transparency prompt was never neutral. Germany just made Apple prove it.",
@@ -621,7 +641,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-08-19",
       "title": "The GA4 session_start Conundrum: How to Work With Impacted Data",
@@ -811,7 +831,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-07-08",
       "title": "Layer Lens v1.2: See Exactly Where Your Email Goes in An Analytics Stack",
@@ -858,16 +878,6 @@
       "summary": "that were previously undercounted in server-to-server setups due to a lack of browser cookie context Server-side data is intelligently joined with parallel browser signals, such as cookies, when a GCLID is present so that Floodlight can mor",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-06-15",
-      "title": "Building a Firebase Analytics Error Tracking Dashboard",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/building-a-firebase-analytics-error-tracking-dashboard-4e481ae3e9ce?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
