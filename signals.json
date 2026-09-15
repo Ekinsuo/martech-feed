@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-15T09:23:25.049474+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 93,
+  "generated_at": "2026-09-15T17:41:51.059373+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 101,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -122,6 +121,66 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-09-15",
+      "title": "Google is testing payments to publishers for content used in AI answers",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/google-is-testing-payments-to-publishers-for-content-used-in-ai-answers-4bac2ff6482a?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-15",
+      "title": "Salesforce bets CRM experience can give its AI an edge",
+      "summary": "Koa puts decades of Salesforce’s CRM knowledge into a reasoning model built to handle the operational work behind customer interactions. The post Salesforce bets CRM experience can give its AI an edge appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/salesforce-bets-crm-experience-can-give-its-ai-an-edge/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-15",
+      "title": "The next martech strategy starts with the operating environment",
+      "summary": "The people who “just know how things work” have been the hidden infrastructure of martech. AI is making that impossible to ignore. The post The next martech strategy starts with the operating environment appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-next-martech-strategy-starts-with-the-operating-environment/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-09-15",
+      "title": "ChatGPT Ads are a tactical bet, not a platform strategy",
+      "summary": "Marketers have a short-term opportunity to test inexpensive inventory while keeping most of their resources on Google. The post ChatGPT Ads are a tactical bet, not a platform strategy appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/chatgpt-ads-are-a-tactical-bet-not-a-platform-strategy/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-09-15",
+      "title": "Why marketing keeps redrawing its org chart",
+      "summary": "Every marketing org structure solves a different problem. The challenge is knowing when your current model has stopped solving yours. The post Why marketing keeps redrawing its org chart appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-marketing-keeps-redrawing-its-org-chart/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-09-15",
+      "title": "3 ways to make AI safer in a live ad account by Optmyzr",
+      "summary": "Automation layering techniques can be deployed to successfully make AI-driven PPC safer. The post 3 ways to make AI safer in a live ad account appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/3-ways-to-make-ai-safer-in-a-live-ad-account/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-09-14",
@@ -132,13 +191,43 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-09-14",
       "title": "Exploring Databricks’ Lakehouse Industry Data Models",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/exploring-databricks-lakehouse-industry-data-models-8cc9e8d890ca?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-09-14",
+      "title": "The AI performance shake-up: What’s really driving results across channels now",
+      "summary": "When algorithms hide your campaign levers, tracking true impact gets tricky. At the MarTech Conference, we discussed how to regain visibility and drive growth. The post The AI performance shake-up: What’s really driving results across chann",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-09-14",
+      "title": "Who owns your AI agents after they launch?",
+      "summary": "AI agent ownership often falls between teams. Here’s how to assign responsibility for maintenance, oversight, and retirement. The post Who owns your AI agents after they launch? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/who-owns-your-ai-agents-after-they-launch/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-09-14",
+      "title": "The ultimate battle for your digital storefront",
+      "summary": "AI search engines are rewriting the rules of retail. Here is how to keep your brand visible when algorithms replace human shoppers. The post The ultimate battle for your digital storefront appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-ultimate-battle-for-your-digital-storefront/",
       "live": true
     },
     {
@@ -182,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-09-10",
       "title": "Google Analytics now has native, drag-and-drop dashboards",
@@ -452,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-08-26",
       "title": "ChatGPT ads expand to Europe, with a new measurement pixel and Conversions API",
@@ -492,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-08-25",
       "title": "BigQuery pipelines can now document themselves",
@@ -512,7 +601,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-08-21",
       "title": "Merchant Center is redefining “organic traffic” on August 24",
@@ -532,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-08-20",
       "title": "The App Tracking Transparency prompt was never neutral. Germany just made Apple prove it.",
@@ -552,7 +641,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-08-19",
       "title": "The GA4 session_start Conundrum: How to Work With Impacted Data",
@@ -739,16 +828,6 @@
       "summary": "release fixes how Google Tag Manager handles containers loaded using unsupported paths such as /gtag/js or /gtag/destination Previously, these containers degraded to a restricted state where only Google-provided tags and variables were perm",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-07-08",
-      "title": "Layer Lens v1.2: See Exactly Where Your Email Goes in An Analytics Stack",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/layer-lens-v1-2-see-exactly-where-your-email-goes-in-an-analytics-stack-b614f272cd82?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
