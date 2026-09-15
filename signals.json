@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-14T18:43:32.371615+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 102,
+  "generated_at": "2026-09-15T09:23:25.049474+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 93,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -121,13 +122,13 @@
   ],
   "signals": [
     {
-      "id": "live-BigQuery Release Notes-0",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
       "date": "2026-09-14",
       "title": "September 14, 2026",
-      "summary": "Feature Metadata for BigQuery Graph is automatically ingested and searchable in Knowledge Catalog . This feature is available in preview .",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#September_14_2026",
+      "summary": "Apigee hybrid Announcement hybrid v1.17.0 On September 14, 2026 we released an updated version of the Apigee hybrid software, 1.17.0. For information on upgrading, see Upgrading Apigee hybrid to version v1.17 . For information on new instal",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#September_14_2026",
       "live": true
     },
     {
@@ -138,86 +139,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/exploring-databricks-lakehouse-industry-data-models-8cc9e8d890ca?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
-      "date": "2026-09-14",
-      "title": "The AI performance shake-up: What’s really driving results across channels now",
-      "summary": "When algorithms hide your campaign levers, tracking true impact gets tricky. At the MarTech Conference, we discussed how to regain visibility and drive growth. The post The AI performance shake-up: What’s really driving results across chann",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-09-14",
-      "title": "Who owns your AI agents after they launch?",
-      "summary": "AI agent ownership often falls between teams. Here’s how to assign responsibility for maintenance, oversight, and retirement. The post Who owns your AI agents after they launch? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/who-owns-your-ai-agents-after-they-launch/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-09-14",
-      "title": "The ultimate battle for your digital storefront",
-      "summary": "AI search engines are rewriting the rules of retail. Here is how to keep your brand visible when algorithms replace human shoppers. The post The ultimate battle for your digital storefront appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-ultimate-battle-for-your-digital-storefront/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-09-14",
-      "title": "AI exposes what your brand guidelines leave unsaid",
-      "summary": "Brand teams have always relied on people to interpret vague guidelines. AI turns those hidden assumptions into a problem that can scale fast. The post AI exposes what your brand guidelines leave unsaid appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-exposes-what-your-brand-guidelines-leave-unsaid/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-09-11",
-      "title": "Lost in translation: Why content and data teams can’t speak the same language",
-      "summary": "At the September MarTech Conference, we discussed how content and data teams can align signals, build shared context, and drive outcomes. The post Lost in translation: Why content and data teams can’t speak the same language appeared first ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/lost-in-translation-why-content-and-data-teams-cant-speak-the-same-language/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-09-11",
-      "title": "FTC puts personalized pricing practices on notice",
-      "summary": "The agency isn't banning personalized pricing, but sellers may have to explain when and how customer data affects prices. The post FTC puts personalized pricing practices on notice appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ftc-puts-personalized-pricing-practices-on-notice/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-09-11",
-      "title": "AI is changing media faster than marketers can measure it",
-      "summary": "IAB finds advertisers spending more and adapting to AI-driven discovery, but their ability to measure those new customer journeys is lagging. The post AI is changing media faster than marketers can measure it appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-is-changing-media-faster-than-marketers-can-measure-it/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-11",
-      "title": "AI can scale your promises faster than you can build trust",
-      "summary": "Your AI strategy shouldn’t be judged by how much marketing it produces. Look at whether it makes the next customer interaction easier to earn. The post AI can scale your promises faster than you can build trust appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-can-scale-your-promises-faster-than-you-can-build-trust/",
       "live": true
     },
     {
@@ -528,16 +449,6 @@
       "summary": "The App Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts. From time to time, we may need to adjust prices or your proceeds due to changes in tax regula",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=artln8br",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-17",
-      "cat": "general",
-      "date": "2026-08-26",
-      "title": "August 26, 2026",
-      "summary": "Apigee hybrid Announcement v1.14.8 On August 26, 2026 we released an updated version of the Apigee hybrid software, v1.14.8. For information on upgrading, see Upgrading Apigee hybrid to version v1.14.8 . For information on new installations",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_26_2026",
       "live": true
     },
     {
