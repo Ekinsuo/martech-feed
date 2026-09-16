@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-16T09:16:36.905318+00:00",
+  "generated_at": "2026-09-16T17:39:24.379834+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 102,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,7 +121,27 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-09-16",
+      "title": "September 16, 2026",
+      "summary": "BigQuery Feature You can use the migration lineage service to visualize the data flow and connections in your source database and help you plan a BigQuery data warehouse migration. This feature is in Preview . Datastream Feature Datastream ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#September_16_2026",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-09-16",
+      "title": "How to Build a Data Agent in BigQuery Conversational Analytics",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/how-to-build-a-data-agent-in-bigquery-conversational-analytics-eb15f9266ccc?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-09-16",
       "title": "Explaining BigQuery Conversational Analytics",
@@ -131,7 +151,57 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-16",
+      "title": "HubSpot rebuilds its platform around AI agents",
+      "summary": "A redesigned Breeze Assistant coordinates AI agents while a self-updating CRM supplies the business and customer context they need. The post HubSpot rebuilds its platform around AI agents appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/hubspot-rebuilds-its-platform-around-ai-agents/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-16",
+      "title": "Does anyone understand the CDP market anymore?",
+      "summary": "The CDP space re-invented itself in the past three years through AI agents and M A. BlueConic CEO Melissa Murray Bailey helps us sort it out. The post Does anyone understand the CDP market anymore? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/does-anyone-understand-the-cdp-market-anymore/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-09-16",
+      "title": "The problem with AI doing exactly what you ask",
+      "summary": "AI agents don't need to go rogue to create problems. They can simply pursue a poorly defined objective with remarkable effectiveness. The post The problem with AI doing exactly what you ask appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-problem-with-ai-doing-exactly-what-you-ask/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-09-16",
+      "title": "IAB Tech Lab proposes new rules for programmatic",
+      "summary": "The proposed practices aim to give buyers and sellers clearer rules for using existing standards and reducing friction in programmatic transactions. The post IAB Tech Lab proposes new rules for programmatic appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/iab-tech-lab-proposes-new-rules-for-programmatic/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-09-16",
+      "title": "Companies are measuring AI against the wrong goal",
+      "summary": "AI productivity gains won’t translate into growth unless companies connect their AI strategy to creating more value for customers. The post Companies are measuring AI against the wrong goal appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/companies-are-measuring-ai-against-the-wrong-goal/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-09-15",
       "title": "September 15, 2026",
@@ -141,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-09-15",
       "title": "Google is testing payments to publishers for content used in AI answers",
@@ -151,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-09-15",
       "title": "Salesforce bets CRM experience can give its AI an edge",
@@ -161,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-09-15",
       "title": "The next martech strategy starts with the operating environment",
@@ -171,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-09-15",
       "title": "ChatGPT Ads are a tactical bet, not a platform strategy",
@@ -181,27 +251,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-09-15",
-      "title": "Why marketing keeps redrawing its org chart",
-      "summary": "Every marketing org structure solves a different problem. The challenge is knowing when your current model has stopped solving yours. The post Why marketing keeps redrawing its org chart appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-marketing-keeps-redrawing-its-org-chart/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-09-15",
-      "title": "3 ways to make AI safer in a live ad account by Optmyzr",
-      "summary": "Automation layering techniques can be deployed to successfully make AI-driven PPC safer. The post 3 ways to make AI safer in a live ad account appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/3-ways-to-make-ai-safer-in-a-live-ad-account/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-09-14",
       "title": "September 14, 2026",
@@ -211,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-09-14",
       "title": "Exploring Databricks’ Lakehouse Industry Data Models",
@@ -221,37 +271,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-09-14",
-      "title": "The AI performance shake-up: What’s really driving results across channels now",
-      "summary": "When algorithms hide your campaign levers, tracking true impact gets tricky. At the MarTech Conference, we discussed how to regain visibility and drive growth. The post The AI performance shake-up: What’s really driving results across chann",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-09-14",
-      "title": "Who owns your AI agents after they launch?",
-      "summary": "AI agent ownership often falls between teams. Here’s how to assign responsibility for maintenance, oversight, and retirement. The post Who owns your AI agents after they launch? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/who-owns-your-ai-agents-after-they-launch/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-14",
-      "title": "The ultimate battle for your digital storefront",
-      "summary": "AI search engines are rewriting the rules of retail. Here is how to keep your brand visible when algorithms replace human shoppers. The post The ultimate battle for your digital storefront appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-ultimate-battle-for-your-digital-storefront/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-09-13",
       "title": "September 13, 2026",
@@ -281,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-09-10",
       "title": "September 10, 2026",
@@ -301,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-09-10",
       "title": "Google Analytics now has native, drag-and-drop dashboards",
@@ -311,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-09-09",
       "title": "September 09, 2026",
@@ -371,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-09-08",
       "title": "September 08, 2026",
@@ -381,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-09-06",
       "title": "September 06, 2026",
@@ -391,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-09-04",
       "title": "September 04, 2026",
@@ -401,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-09-03",
       "title": "September 03, 2026",
@@ -431,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-09-02",
       "title": "September 02, 2026",
@@ -471,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-09-01",
       "title": "September 01, 2026",
@@ -501,13 +521,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
-      "cat": "general",
+      "id": "live-Looker Release Notes-4",
+      "cat": "looker",
       "date": "2026-08-31",
       "title": "August 31, 2026",
-      "summary": "BigQuery Feature You can now create, store , and manage pipelines in Git folders. This feature is in Preview . Feature BigQuery now supports TabFM , Google's pre-trained foundation model for tabular data. TabFM enables zero-shot regression ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_31_2026",
+      "summary": "Deployment dates Announcement Localized data processing for European Union (EU)-based customers now applies to all Conversational Analytics data agents, including agents that are associated with Looker Explores, user-defined dashboards, and",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#August_31_2026",
       "live": true
     },
     {
@@ -561,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-08-26",
       "title": "ChatGPT ads expand to Europe, with a new measurement pixel and Conversions API",
@@ -601,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-08-25",
       "title": "BigQuery pipelines can now document themselves",
@@ -621,7 +641,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-08-21",
       "title": "Merchant Center is redefining “organic traffic” on August 24",
@@ -638,16 +658,6 @@
       "summary": "We're making changes to language targeting for Search, AI Max for Search, and Performance Max campaigns in Google Ads, simplifying campaign management while maintaining a high-quality ad experience. Effective late September 2026: For Search",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/8241268561751522389",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-08-20",
-      "title": "The App Tracking Transparency prompt was never neutral. Germany just made Apple prove it.",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/the-app-tracking-transparency-prompt-was-never-neutral-germany-just-made-apple-prove-it-9eee4e5e8a33?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
