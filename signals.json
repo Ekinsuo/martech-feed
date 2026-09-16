@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-15T17:41:51.059373+00:00",
+  "generated_at": "2026-09-16T09:16:36.905318+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 101,
+  "count": 102,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -123,6 +123,26 @@
     {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
+      "date": "2026-09-16",
+      "title": "Explaining BigQuery Conversational Analytics",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/explaining-bigquery-conversational-analytics-6c797ff2cd88?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-09-15",
+      "title": "September 15, 2026",
+      "summary": "Artifact Registry Feature Artifact Registry support for managing Conda packages with Artifact Registry repositories is in Preview . For more information, see Get started with Conda packages . Batch Issue A workaround has been added for the ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#September_15_2026",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-1",
+      "cat": "sgtm",
       "date": "2026-09-15",
       "title": "Google is testing payments to publishers for content used in AI answers",
       "summary": "(no summary — open source)",
@@ -181,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-09-14",
       "title": "September 14, 2026",
@@ -191,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-09-14",
       "title": "Exploring Databricks’ Lakehouse Industry Data Models",
@@ -231,6 +251,16 @@
       "live": true
     },
     {
+      "id": "live-Google Cloud — All release notes-2",
+      "cat": "general",
+      "date": "2026-09-13",
+      "title": "September 13, 2026",
+      "summary": "Agent Platform Workbench Change 20260911.00_p0 Release Change 20260913.00_p0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Fixed Fixed the %%bigquery notebo",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#September_13_2026",
+      "live": true
+    },
+    {
       "id": "live-WebKit Blog (ITP / Safari)-0",
       "cat": "privacy",
       "date": "2026-09-11",
@@ -251,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-09-10",
       "title": "September 10, 2026",
@@ -271,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-09-10",
       "title": "Google Analytics now has native, drag-and-drop dashboards",
@@ -281,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-09-09",
       "title": "September 09, 2026",
@@ -341,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-09-08",
       "title": "September 08, 2026",
@@ -351,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-09-06",
       "title": "September 06, 2026",
@@ -361,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-09-04",
       "title": "September 04, 2026",
@@ -371,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-09-03",
       "title": "September 03, 2026",
@@ -401,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-09-02",
       "title": "September 02, 2026",
@@ -441,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-09-01",
       "title": "September 01, 2026",
@@ -471,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-08-31",
       "title": "August 31, 2026",
@@ -491,13 +521,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
-      "cat": "general",
+      "id": "live-Looker Release Notes-5",
+      "cat": "looker",
       "date": "2026-08-28",
       "title": "August 28, 2026",
-      "summary": "Application Integration Announcement Upcoming authorization changes for integration runs Application Integration is updating how identities are handled for integration runs. Every run will act as either the person who triggered it or a run-",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_28_2026",
+      "summary": "Deployment dates Announcement From August 24 through August 26, 2026, the following features will be automatically enabled for Looker (original) instances running Looker 26.14. Feature The Advanced Unused Content Cleanup feature is now gene",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#August_28_2026",
       "live": true
     },
     {
@@ -508,16 +538,6 @@
       "summary": "There&rsquo;s a somewhat understated feature in the Google Tag Manager Community Template Gallery , which should certainly prove useful, especially to template authors. The template status page shows a list of all the GitHub commits handled",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/gtmtips/gtm-template-status-page/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
-      "date": "2026-08-27",
-      "title": "August 27, 2026",
-      "summary": "Apigee X Announcement On August 27th, 2026, we released an updated version of Apigee (1-18-0-apigee-4). Note: Rollouts of this release began today and may take four or more business days to be completed across all Google Cloud zones. Your i",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#August_27_2026",
       "live": true
     },
     {
@@ -541,7 +561,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-08-26",
       "title": "ChatGPT ads expand to Europe, with a new measurement pixel and Conversions API",
@@ -581,7 +601,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-08-25",
       "title": "BigQuery pipelines can now document themselves",
@@ -601,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-08-21",
       "title": "Merchant Center is redefining “organic traffic” on August 24",
@@ -621,7 +641,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-08-20",
       "title": "The App Tracking Transparency prompt was never neutral. Germany just made Apple prove it.",
@@ -638,16 +658,6 @@
       "summary": "Today we are announcing the release of v25.1 of the Google Ads API . To use the new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us f",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/2951646457172167571",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-08-19",
-      "title": "The GA4 session_start Conundrum: How to Work With Impacted Data",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/the-ga4-session-start-conundrum-how-to-work-with-impacted-data-d592e346222d?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
