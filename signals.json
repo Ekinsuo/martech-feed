@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T09:25:15.922390+00:00",
+  "generated_at": "2026-09-17T17:39:29.608694+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,7 +121,37 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-17",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Adobe is expanding free AI and digital skills training worldwide, giving millions of students, teachers, and marketers tools for the AI era. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-17",
+      "title": "What happens to martech when the CMO disappears?",
+      "summary": "Fewer Fortune 500 companies have CMOs, but marketing isn't going away. Its broader mandate is changing what martech needs to deliver. The post What happens to martech when the CMO disappears? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/what-happens-to-martech-when-the-cmo-disappears/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-09-17",
+      "title": "Why you need to know the ‘nones’ of your business",
+      "summary": "As unattributed customers pile up, marketers need to stop treating them as noise and start figuring out what brought them there. The post Why you need to know the nones of your business appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-you-need-to-know-the-nones-of-your-business/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-09-16",
       "title": "September 16, 2026",
@@ -151,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-09-16",
       "title": "HubSpot rebuilds its platform around AI agents",
@@ -161,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-09-16",
       "title": "Does anyone understand the CDP market anymore?",
@@ -171,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-09-16",
       "title": "The problem with AI doing exactly what you ask",
@@ -181,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-09-16",
       "title": "IAB Tech Lab proposes new rules for programmatic",
@@ -191,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-09-16",
       "title": "Companies are measuring AI against the wrong goal",
@@ -231,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-09-15",
       "title": "September 15, 2026",
@@ -251,37 +281,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-09-15",
-      "title": "Salesforce bets CRM experience can give its AI an edge",
-      "summary": "Koa puts decades of Salesforce’s CRM knowledge into a reasoning model built to handle the operational work behind customer interactions. The post Salesforce bets CRM experience can give its AI an edge appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/salesforce-bets-crm-experience-can-give-its-ai-an-edge/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-09-15",
-      "title": "The next martech strategy starts with the operating environment",
-      "summary": "The people who “just know how things work” have been the hidden infrastructure of martech. AI is making that impossible to ignore. The post The next martech strategy starts with the operating environment appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-next-martech-strategy-starts-with-the-operating-environment/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-15",
-      "title": "ChatGPT Ads are a tactical bet, not a platform strategy",
-      "summary": "Marketers have a short-term opportunity to test inexpensive inventory while keeping most of their resources on Google. The post ChatGPT Ads are a tactical bet, not a platform strategy appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/chatgpt-ads-are-a-tactical-bet-not-a-platform-strategy/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-09-14",
       "title": "September 14, 2026",
@@ -301,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-09-13",
       "title": "September 13, 2026",
@@ -331,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-09-10",
       "title": "September 10, 2026",
@@ -361,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-09-09",
       "title": "September 09, 2026",
@@ -421,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-09-08",
       "title": "September 08, 2026",
@@ -431,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-09-06",
       "title": "September 06, 2026",
@@ -441,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-09-04",
       "title": "September 04, 2026",
@@ -451,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-09-03",
       "title": "September 03, 2026",
@@ -481,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-09-02",
       "title": "September 02, 2026",
@@ -521,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-09-01",
       "title": "September 01, 2026",
