@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T17:39:24.379834+00:00",
+  "generated_at": "2026-09-17T09:25:15.922390+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -125,7 +125,7 @@
       "cat": "general",
       "date": "2026-09-16",
       "title": "September 16, 2026",
-      "summary": "BigQuery Feature You can use the migration lineage service to visualize the data flow and connections in your source database and help you plan a BigQuery data warehouse migration. This feature is in Preview . Datastream Feature Datastream ",
+      "summary": "Backup and DR Feature You can now use auto-protection policies and resource labels to automatically protect Compute Engine instances and Persistent Disks at scale in Backup and DR. This feature allows you to automatically assign a backup pl",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_16_2026",
       "live": true
@@ -198,6 +198,36 @@
       "summary": "AI productivity gains won’t translate into growth unless companies connect their AI strategy to creating more value for customers. The post Companies are measuring AI against the wrong goal appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/companies-are-measuring-ai-against-the-wrong-goal/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-09-16",
+      "title": "Get ready with the latest beta releases",
+      "summary": "The beta versions of iOS 27.2, iPadOS 27.2, macOS 27.2, tvOS 27.2, visionOS 27.2, and watchOS 27.2 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 27.2",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=rfb1rooi",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-1",
+      "cat": "apple",
+      "date": "2026-09-16",
+      "title": "Get your subscriptions ready for iOS 27",
+      "summary": "Discover how you can expand the reach of your subscriptions with new features in iOS 27. You can start preparing today by making sure your apps use StoreKit 2 to handle your Apple In-App Purchases. Request access to Bundles and Suites Offer",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=likeohx4",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-2",
+      "cat": "apple",
+      "date": "2026-09-16",
+      "title": "Updates to App Tracking Transparency in the European Union",
+      "summary": "As part of agreements with select European competition authorities, Apple is introducing changes to its App Tracking Transparency framework in the European Union. Beginning with iOS 27.2 and iPadOS 27.2, developers will have the option to u",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=idsft9ai",
       "live": true
     },
     {
@@ -351,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-09-09",
       "title": "Get ready for iPhone Duo",
@@ -361,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-09-09",
       "title": "App Store submissions now open for the latest OS releases",
@@ -481,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-09-02",
       "title": "Hello Developer: September 2026",
@@ -501,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-09-01",
       "title": "Upcoming changes to Rosetta support for Intel-based macOS apps",
@@ -511,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-09-01",
       "title": "“The impact was the biggest surprise“: Swiggy’s transition to native pays off",
@@ -571,16 +601,6 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
-      "cat": "apple",
-      "date": "2026-08-27",
-      "title": "Tax and price updates for apps, In-App Purchases, and subscriptions",
-      "summary": "The App Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts. From time to time, we may need to adjust prices or your proceeds due to changes in tax regula",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=artln8br",
-      "live": true
-    },
-    {
       "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-08-26",
@@ -601,16 +621,6 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
-      "cat": "apple",
-      "date": "2026-08-26",
-      "title": "Surprise and shine",
-      "summary": "Join us for a special Apple Event on September 9 at 10 a.m. PT. Watch on apple.com , Apple TV, or YouTube Live.",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=s6spdug0",
-      "live": true
-    },
-    {
       "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-08-25",
@@ -628,16 +638,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/bigquery-pipelines-can-now-document-themselves-cf3e50c03f63?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-08-24",
-      "title": "Update: New domain for Sign in with Apple",
-      "summary": "Starting later this year, new Sign in with Apple addresses, previously issued on privaterelay.appleid.com , will be issued on private.icloud.com . Existing addresses on privaterelay.appleid.com will continue to work and forward mail to user",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "live": true
     },
     {
