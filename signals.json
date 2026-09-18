@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-17T17:39:29.608694+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 103,
+  "generated_at": "2026-09-18T08:58:58.673070+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 94,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -121,33 +122,23 @@
   ],
   "signals": [
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-09-17",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Adobe is expanding free AI and digital skills training worldwide, giving millions of students, teachers, and marketers tools for the AI era. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "title": "September 17, 2026",
+      "summary": "BigQuery Feature You can add unit tests to pipelines to validate your SQL transformation logic against mock datasets. Unit tests for pipelines are generally available (GA). Cloud SQL for MySQL Change Cloud SQL for MySQL now automatically en",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#September_17_2026",
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
       "date": "2026-09-17",
-      "title": "What happens to martech when the CMO disappears?",
-      "summary": "Fewer Fortune 500 companies have CMOs, but marketing isn't going away. Its broader mandate is changing what martech needs to deliver. The post What happens to martech when the CMO disappears? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/what-happens-to-martech-when-the-cmo-disappears/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-09-17",
-      "title": "Why you need to know the ‘nones’ of your business",
-      "summary": "As unattributed customers pile up, marketers need to stop treating them as noise and start figuring out what brought them there. The post Why you need to know the nones of your business appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-you-need-to-know-the-nones-of-your-business/",
+      "title": "WebKit Features for Safari 27.0",
+      "summary": "Our Safari release notes have never been as long as they are for this version.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18325/webkit-features-for-safari-27-0/",
       "live": true
     },
     {
@@ -178,56 +169,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/explaining-bigquery-conversational-analytics-6c797ff2cd88?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-09-16",
-      "title": "HubSpot rebuilds its platform around AI agents",
-      "summary": "A redesigned Breeze Assistant coordinates AI agents while a self-updating CRM supplies the business and customer context they need. The post HubSpot rebuilds its platform around AI agents appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/hubspot-rebuilds-its-platform-around-ai-agents/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-09-16",
-      "title": "Does anyone understand the CDP market anymore?",
-      "summary": "The CDP space re-invented itself in the past three years through AI agents and M A. BlueConic CEO Melissa Murray Bailey helps us sort it out. The post Does anyone understand the CDP market anymore? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/does-anyone-understand-the-cdp-market-anymore/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-09-16",
-      "title": "The problem with AI doing exactly what you ask",
-      "summary": "AI agents don't need to go rogue to create problems. They can simply pursue a poorly defined objective with remarkable effectiveness. The post The problem with AI doing exactly what you ask appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-problem-with-ai-doing-exactly-what-you-ask/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-09-16",
-      "title": "IAB Tech Lab proposes new rules for programmatic",
-      "summary": "The proposed practices aim to give buyers and sellers clearer rules for using existing standards and reducing friction in programmatic transactions. The post IAB Tech Lab proposes new rules for programmatic appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/iab-tech-lab-proposes-new-rules-for-programmatic/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-16",
-      "title": "Companies are measuring AI against the wrong goal",
-      "summary": "AI productivity gains won’t translate into growth unless companies connect their AI strategy to creating more value for customers. The post Companies are measuring AI against the wrong goal appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/companies-are-measuring-ai-against-the-wrong-goal/",
       "live": true
     },
     {
@@ -311,7 +252,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-09-11",
       "title": "Release Notes for Safari Technology Preview 252",
@@ -461,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-09-03",
       "title": "Submit your ideas for Interop 2027",
@@ -501,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-09-02",
       "title": "Fixing Top-Level Await in Safari",
@@ -518,16 +459,6 @@
       "summary": "In this edition: Get ready for a special Apple Event, take advantage of Analytics in App Store Connect, and sign up for new developer events in Cupertino. Read now",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=ote61lrx",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-15",
-      "cat": "general",
-      "date": "2026-09-01",
-      "title": "September 01, 2026",
-      "summary": "Apigee UI Announcement On September 1, 2026, we released an updated version of the Apigee UI. Fixed Bug ID Description 547582067 Revisions can now be imported for API proxies and shared flows in a space Importing a revision in the Apigee UI",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_01_2026",
       "live": true
     },
     {
@@ -551,7 +482,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-08-31",
       "title": "August 31, 2026",
@@ -571,7 +502,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-08-28",
       "title": "August 28, 2026",
@@ -611,7 +542,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-08-26",
       "title": "Release Notes for Safari Technology Preview 251",
@@ -671,23 +602,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-08-18",
       "title": "August 18, 2026",
       "summary": "Looker (Google Cloud core) only changes Announcement The latest versions in the Looker (Google Cloud core) release channels are beginning deployment as follows: Latest version in the Rapid channel: Looker 26.14 Latest version in the Regular",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#August_18_2026",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-08-17",
-      "title": "August 17, 2026",
-      "summary": "Deployment dates Announcement Looker's Continuous Integration is based on the legacy standalone Spectacles service. Looker will continue to integrate and evolve the Spectacles features into Looker's Continuous Integration, and the legacy st",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#August_17_2026",
       "live": true
     },
     {
@@ -701,7 +622,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-08-13",
       "title": "Release Notes for Safari Technology Preview 250",
@@ -761,7 +682,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-07-29",
       "title": "Release Notes for Safari Technology Preview 249",
@@ -781,23 +702,13 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-07-27",
       "title": "WebKit Features for Safari 26.6",
       "summary": "Safari 26.6 is here.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18178/webkit-features-for-safari-26-6/",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-07-22",
-      "title": "Release Notes for Safari Technology Preview 248",
-      "summary": "Safari Technology Preview Release 248 is now available for download for macOS Golden Gate and macOS Tahoe.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
       "live": true
     },
     {
