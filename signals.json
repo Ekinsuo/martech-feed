@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18T08:58:58.673070+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 94,
+  "generated_at": "2026-09-18T17:06:57.433851+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 102,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -122,13 +121,73 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-18",
+      "title": "AI is telling consumers not to buy your product",
+      "summary": "Nearly 81% of consumers who use chatbots for online shopping have decided against a purchase based on AI guidance. The post AI is telling consumers not to buy your product appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-is-telling-consumers-not-to-buy-your-product/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-18",
+      "title": "Faster AI can make slow marketing processes worse",
+      "summary": "AI doesn't fix broken workflows — it exposes them. Here's how to eliminate hidden bottlenecks and modernize your team’s operating model. The post Faster AI can make slow marketing processes worse appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/faster-ai-can-make-slow-marketing-processes-worse/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-09-18",
+      "title": "Your marketing automation needs more context",
+      "summary": "When marketing automation forgets recent buyer activity, messaging falls flat. Here's how to give your workflows context and build smarter customer journeys. The post Your marketing automation needs more context appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-marketing-automation-needs-more-context/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-09-17",
       "title": "September 17, 2026",
       "summary": "BigQuery Feature You can add unit tests to pipelines to validate your SQL transformation logic against mock datasets. Unit tests for pipelines are generally available (GA). Cloud SQL for MySQL Change Cloud SQL for MySQL now automatically en",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_17_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-09-17",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Adobe is expanding free AI and digital skills training worldwide, giving millions of students, teachers, and marketers tools for the AI era. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-09-17",
+      "title": "What happens to martech when the CMO disappears?",
+      "summary": "Fewer Fortune 500 companies have CMOs, but marketing isn't going away. Its broader mandate is changing what martech needs to deliver. The post What happens to martech when the CMO disappears? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/what-happens-to-martech-when-the-cmo-disappears/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-09-17",
+      "title": "Why you need to know the ‘nones’ of your business",
+      "summary": "As unattributed customers pile up, marketers need to stop treating them as noise and start figuring out what brought them there. The post Why you need to know the nones of your business appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-you-need-to-know-the-nones-of-your-business/",
       "live": true
     },
     {
@@ -142,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-09-16",
       "title": "September 16, 2026",
@@ -169,6 +228,26 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/explaining-bigquery-conversational-analytics-6c797ff2cd88?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-09-16",
+      "title": "HubSpot rebuilds its platform around AI agents",
+      "summary": "A redesigned Breeze Assistant coordinates AI agents while a self-updating CRM supplies the business and customer context they need. The post HubSpot rebuilds its platform around AI agents appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/hubspot-rebuilds-its-platform-around-ai-agents/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-09-16",
+      "title": "Does anyone understand the CDP market anymore?",
+      "summary": "The CDP space re-invented itself in the past three years through AI agents and M A. BlueConic CEO Melissa Murray Bailey helps us sort it out. The post Does anyone understand the CDP market anymore? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/does-anyone-understand-the-cdp-market-anymore/",
       "live": true
     },
     {
@@ -202,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-09-15",
       "title": "September 15, 2026",
@@ -222,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-09-14",
       "title": "September 14, 2026",
@@ -242,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-09-13",
       "title": "September 13, 2026",
@@ -272,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-09-10",
       "title": "September 10, 2026",
@@ -302,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-09-09",
       "title": "September 09, 2026",
@@ -362,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-09-08",
       "title": "September 08, 2026",
@@ -372,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-09-06",
       "title": "September 06, 2026",
@@ -382,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-09-04",
       "title": "September 04, 2026",
@@ -392,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-09-03",
       "title": "September 03, 2026",
@@ -422,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-09-02",
       "title": "September 02, 2026",
