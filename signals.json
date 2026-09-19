@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T17:06:57.433851+00:00",
+  "generated_at": "2026-09-19T08:46:51.642152+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 102,
@@ -124,6 +124,16 @@
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-09-18",
+      "title": "How to evaluate composable versus packaged CDP",
+      "summary": "Evaluating data warehouse readiness, engineering capacity, and real-time execution speeds determines optimal CDP architecture. The post How to evaluate composable versus packaged CDP appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-evaluate-composable-versus-packaged-cdp/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-18",
       "title": "AI is telling consumers not to buy your product",
       "summary": "Nearly 81% of consumers who use chatbots for online shopping have decided against a purchase based on AI guidance. The post AI is telling consumers not to buy your product appeared first on MarTech .",
       "src": "MarTech.org",
@@ -131,7 +141,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-09-18",
       "title": "Faster AI can make slow marketing processes worse",
@@ -141,7 +151,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-09-18",
       "title": "Your marketing automation needs more context",
@@ -151,17 +161,27 @@
       "live": true
     },
     {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-09-18",
+      "title": "Build for iPhone Duo with new resources",
+      "summary": "Get Xcode 27.1 beta. View downloads and release notes Get Figma and Sketch design kits for iPhone Duo from the Apple Design Resources. Download design kits from the Apple Design Resources Sign up for workshops around the world to learn how ",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=nyuppv9r",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-09-17",
       "title": "September 17, 2026",
-      "summary": "BigQuery Feature You can add unit tests to pipelines to validate your SQL transformation logic against mock datasets. Unit tests for pipelines are generally available (GA). Cloud SQL for MySQL Change Cloud SQL for MySQL now automatically en",
+      "summary": "Apigee hybrid Announcement v1.16.10 On September 17, 2026 we released an updated version of the Apigee hybrid software, v1.16.10. For information on upgrading, see Upgrading Apigee hybrid to version v1.16.10 . For information on new install",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_17_2026",
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-09-17",
       "title": "The latest AI-powered martech news and releases",
@@ -171,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-09-17",
       "title": "What happens to martech when the CMO disappears?",
@@ -181,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-09-17",
       "title": "Why you need to know the ‘nones’ of your business",
@@ -231,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-09-16",
       "title": "HubSpot rebuilds its platform around AI agents",
@@ -241,17 +261,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-16",
-      "title": "Does anyone understand the CDP market anymore?",
-      "summary": "The CDP space re-invented itself in the past three years through AI agents and M A. BlueConic CEO Melissa Murray Bailey helps us sort it out. The post Does anyone understand the CDP market anymore? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/does-anyone-understand-the-cdp-market-anymore/",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-09-16",
       "title": "Get ready with the latest beta releases",
@@ -261,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-09-16",
       "title": "Get your subscriptions ready for iOS 27",
@@ -271,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-09-16",
       "title": "Updates to App Tracking Transparency in the European Union",
@@ -401,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-09-09",
       "title": "Get ready for iPhone Duo",
@@ -411,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-09-09",
       "title": "App Store submissions now open for the latest OS releases",
@@ -531,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-09-02",
       "title": "Hello Developer: September 2026",
@@ -541,23 +551,13 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-09-01",
       "title": "Upcoming changes to Rosetta support for Intel-based macOS apps",
       "summary": "In 2020, we introduced Apple silicon for Mac computers, providing Rosetta as a translation layer during the transition period. As announced at WWDC last year , we’re now concluding this transition. What this means for developers who have ma",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=w5ngl9k2",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-09-01",
-      "title": "“The impact was the biggest surprise“: Swiggy’s transition to native pays off",
-      "summary": "Swiggy began as a humble food delivery service. Today, it’s India’s leading on-demand convenience platform, one that offers everything from groceries via Instamart to restaurant bookings via Dineout . And since 2024, it’s been powered by na",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=o5spbekm",
       "live": true
     },
     {
