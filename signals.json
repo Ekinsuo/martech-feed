@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T09:16:54.928419+00:00",
+  "generated_at": "2026-09-22T17:40:17.180735+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -131,7 +131,47 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-22",
+      "title": "IAB sets new standards for agentic buying and measurement",
+      "summary": "New frameworks aim to standardize how AI agents handle media proposals and how companies structure contracts for advertising measurement. The post IAB sets new standards for agentic buying and measurement appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/iab-sets-new-standards-for-agentic-buying-and-measurement/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-22",
+      "title": "How to build a marketing team with AI coworkers",
+      "summary": "Before adding AI agents to the team, marketers need to decide what they can do alone, what needs review, and who remains accountable. The post How to build a marketing team with AI coworkers appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-build-a-marketing-team-with-ai-coworkers/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-09-22",
+      "title": "When flat marketing budgets threaten growth",
+      "summary": "Find efficiencies across AI, agencies, technology, and staffing while protecting the investments that drive future demand. The post When flat marketing budgets threaten growth appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/when-flat-marketing-budgets-threaten-growth/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-09-22",
+      "title": "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
+      "summary": "Background information Date of final decision: 1 February 2023 National case Controller: SECURITAS DIRECT, S.A. Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-09-21",
       "title": "September 21, 2026",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-09-21",
       "title": "Your site migration needs a paid search playbook",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-09-21",
       "title": "Building an AI governance framework for marketing",
@@ -171,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-09-21",
       "title": "Do you really need so much marketing?",
@@ -181,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-09-21",
       "title": "EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines",
@@ -201,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-09-18",
       "title": "AI is telling consumers not to buy your product",
@@ -211,23 +251,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-09-18",
       "title": "Faster AI can make slow marketing processes worse",
       "summary": "AI doesn't fix broken workflows — it exposes them. Here's how to eliminate hidden bottlenecks and modernize your team’s operating model. The post Faster AI can make slow marketing processes worse appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/faster-ai-can-make-slow-marketing-processes-worse/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-09-18",
-      "title": "Your marketing automation needs more context",
-      "summary": "When marketing automation forgets recent buyer activity, messaging falls flat. Here's how to give your workflows context and build smarter customer journeys. The post Your marketing automation needs more context appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-marketing-automation-needs-more-context/",
       "live": true
     },
     {
@@ -241,33 +271,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-09-17",
       "title": "September 17, 2026",
       "summary": "Apigee hybrid Announcement v1.16.10 On September 17, 2026 we released an updated version of the Apigee hybrid software, v1.16.10. For information on upgrading, see Upgrading Apigee hybrid to version v1.16.10 . For information on new install",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_17_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-09-17",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Adobe is expanding free AI and digital skills training worldwide, giving millions of students, teachers, and marketers tools for the AI era. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-17",
-      "title": "What happens to martech when the CMO disappears?",
-      "summary": "Fewer Fortune 500 companies have CMOs, but marketing isn't going away. Its broader mandate is changing what martech needs to deliver. The post What happens to martech when the CMO disappears? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/what-happens-to-martech-when-the-cmo-disappears/",
       "live": true
     },
     {
@@ -281,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-09-16",
       "title": "September 16, 2026",
@@ -341,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-09-15",
       "title": "September 15, 2026",
@@ -361,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-09-14",
       "title": "September 14, 2026",
@@ -381,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-09-13",
       "title": "September 13, 2026",
@@ -401,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
+      "id": "live-EDPB — GDPR news-2",
       "cat": "privacy",
       "date": "2026-09-11",
       "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR",
@@ -411,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-09-10",
       "title": "September 10, 2026",
@@ -441,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-09-09",
       "title": "September 09, 2026",
@@ -481,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-2",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-09-09",
       "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire 500 000 EUR",
@@ -501,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-09-08",
       "title": "September 08, 2026",
@@ -511,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-09-06",
       "title": "September 06, 2026",
@@ -521,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-09-04",
       "title": "September 04, 2026",
@@ -531,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-09-03",
       "title": "September 03, 2026",
@@ -551,7 +561,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-09-03",
       "title": "Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)",
@@ -771,7 +781,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-07-30",
       "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: overview of topics available",
@@ -831,23 +841,13 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
+      "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-07-17",
       "title": "EDPB calls for legal basis for cross-regulatory information sharing",
       "summary": "Dublin, 17 July– At a high-level meeting in Dublin on 16 and 17 July 2026, the European Data Protection Board (EDPB) called for a clear legal basis for the sharing of information among regulators with different competences. The Board also d",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-07-14",
-      "title": "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
-      "summary": "Brussels, 14 July–The EDPB has published its binding decision of 28 May 2026 under Art.65(1)(a) GDPR*. The decision concerns a dispute submitted by the Belgian Data Protection Authority (DPA) about a complaint against Vlaamse Radio-en Telev",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en",
       "live": true
     },
     {
