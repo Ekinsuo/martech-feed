@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-23T09:17:19.519370+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 103,
+  "generated_at": "2026-09-23T17:52:40.355640+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 95,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -131,7 +132,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-09-22",
       "title": "September 22, 2026",
@@ -151,36 +152,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
-      "date": "2026-09-22",
-      "title": "IAB sets new standards for agentic buying and measurement",
-      "summary": "New frameworks aim to standardize how AI agents handle media proposals and how companies structure contracts for advertising measurement. The post IAB sets new standards for agentic buying and measurement appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/iab-sets-new-standards-for-agentic-buying-and-measurement/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-09-22",
-      "title": "How to build a marketing team with AI coworkers",
-      "summary": "Before adding AI agents to the team, marketers need to decide what they can do alone, what needs review, and who remains accountable. The post How to build a marketing team with AI coworkers appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-build-a-marketing-team-with-ai-coworkers/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-09-22",
-      "title": "When flat marketing budgets threaten growth",
-      "summary": "Find efficiencies across AI, agencies, technology, and staffing while protecting the investments that drive future demand. The post When flat marketing budgets threaten growth appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/when-flat-marketing-budgets-threaten-growth/",
-      "live": true
-    },
-    {
       "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-09-22",
@@ -191,7 +162,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-09-21",
       "title": "September 21, 2026",
@@ -208,36 +179,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/google-adds-diagnostics-a-new-uplift-metric-and-meridian-integration-to-data-manager-07a547d6af40?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-09-21",
-      "title": "Your site migration needs a paid search playbook",
-      "summary": "Google’s organic migration guidance is extensive. Paid search advertisers need clearer answers about what changes, resets, and recalibrates. The post Your site migration needs a paid search playbook appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-site-migration-needs-a-paid-search-playbook/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-09-21",
-      "title": "Building an AI governance framework for marketing",
-      "summary": "Establishing cross-functional oversight spanning legal, security, and ops mitigates copyright and privacy risks. The post Building an AI governance framework for marketing appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/building-an-ai-governance-framework-for-marketing/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-09-21",
-      "title": "Do you really need so much marketing?",
-      "summary": "Every new asset creates more work downstream. Rethink review, approval, and testing before scaling AI output. The post Do you really need so much marketing? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/do-you-really-need-so-much-marketing/",
       "live": true
     },
     {
@@ -261,26 +202,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-09-18",
-      "title": "AI is telling consumers not to buy your product",
-      "summary": "Nearly 81% of consumers who use chatbots for online shopping have decided against a purchase based on AI guidance. The post AI is telling consumers not to buy your product appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-is-telling-consumers-not-to-buy-your-product/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-18",
-      "title": "Faster AI can make slow marketing processes worse",
-      "summary": "AI doesn't fix broken workflows — it exposes them. Here's how to eliminate hidden bottlenecks and modernize your team’s operating model. The post Faster AI can make slow marketing processes worse appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/faster-ai-can-make-slow-marketing-processes-worse/",
-      "live": true
-    },
-    {
       "id": "live-Apple Developer News-0",
       "cat": "apple",
       "date": "2026-09-18",
@@ -291,7 +212,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-09-17",
       "title": "September 17, 2026",
@@ -311,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-09-16",
       "title": "September 16, 2026",
@@ -371,7 +292,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-09-15",
       "title": "September 15, 2026",
@@ -391,7 +312,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-09-14",
       "title": "September 14, 2026",
@@ -411,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-09-13",
       "title": "September 13, 2026",
@@ -441,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-09-10",
       "title": "September 10, 2026",
@@ -471,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-09-09",
       "title": "September 09, 2026",
@@ -531,7 +452,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-09-08",
       "title": "September 08, 2026",
@@ -541,7 +462,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-09-06",
       "title": "September 06, 2026",
@@ -551,7 +472,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-09-04",
       "title": "September 04, 2026",
