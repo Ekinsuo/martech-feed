@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-24T09:17:06.415777+00:00",
+  "generated_at": "2026-09-24T17:52:57.419372+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 103,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,6 +121,46 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-24",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "A new Chrome extension uses AI to identify and hide LinkedIn slop — including the kind written by humans. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-24",
+      "title": "Martech category labels don’t mean anything anymore",
+      "summary": "Six years of DXP homepage snapshots show how quickly martech vendors change their labels — and how little those labels reveal about the product. The post Martech category labels don t mean anything anymore appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/martech-category-labels-dont-mean-anything-anymore/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-09-24",
+      "title": "B2B brands turn to creator video to fight AI slop and aid AI search",
+      "summary": "Creator video gives B2B brands a way to stand out from AI-generated content and build credibility with buyers using AI to research products. The post B2B brands turn to creator video to fight AI slop and aid AI search appeared first on MarT",
+      "src": "MarTech.org",
+      "url": "https://martech.org/b2b-brands-turn-to-creator-video-to-fight-ai-slop-and-aid-ai-search/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-09-24",
+      "title": "How to build cross-sell email flows that drive repeat purchases",
+      "summary": "The first purchase gives you clues about what a customer may need next. Use them to build more relevant post-purchase journeys. The post How to build cross-sell email flows that drive repeat purchases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-build-cross-sell-email-flows-that-drive-repeat-purchases/",
+      "live": true
+    },
+    {
       "id": "live-Google Ads Developer Blog-0",
       "cat": "gads",
       "date": "2026-09-23",
@@ -131,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-09-23",
       "title": "AI search is changing ecommerce forever",
@@ -141,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-09-23",
       "title": "OpenAI testing third-party-style tracking in ChatGPT ads",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-09-23",
       "title": "The real AI advantage is what your company already knows",
@@ -161,23 +201,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-09-23",
       "title": "Marketo co-founder Jon Miller rethinks B2B marketing automation for the AI age",
       "summary": "Legacy marketing automation wasn't built for modern B2B buying groups. Jon Miller’s new platform, Phave, sets out to change that. The post Marketo co-founder Jon Miller rethinks B2B marketing automation for the AI age appeared first on MarT",
       "src": "MarTech.org",
       "url": "https://martech.org/marketo-co-founder-jon-miller-rethinks-b2b-marketing-automation-for-the-ai-age/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-09-23",
-      "title": "Retail media is evolving. Here is what marketers should value now by DoorDash",
-      "summary": "Navigating fragmented retail media networks is exhausting. Discover how to evaluate key partners, prove incrementality, and build a cohesive commerce strategy. The post Retail media is evolving. Here is what marketers should value now appea",
-      "src": "MarTech.org",
-      "url": "https://martech.org/retail-media-is-evolving-here-is-what-marketers-should-value-now/",
       "live": true
     },
     {
@@ -201,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-09-22",
       "title": "September 22, 2026",
@@ -221,36 +251,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-09-22",
-      "title": "IAB sets new standards for agentic buying and measurement",
-      "summary": "New frameworks aim to standardize how AI agents handle media proposals and how companies structure contracts for advertising measurement. The post IAB sets new standards for agentic buying and measurement appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/iab-sets-new-standards-for-agentic-buying-and-measurement/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-09-22",
-      "title": "How to build a marketing team with AI coworkers",
-      "summary": "Before adding AI agents to the team, marketers need to decide what they can do alone, what needs review, and who remains accountable. The post How to build a marketing team with AI coworkers appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-build-a-marketing-team-with-ai-coworkers/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-22",
-      "title": "When flat marketing budgets threaten growth",
-      "summary": "Find efficiencies across AI, agencies, technology, and staffing while protecting the investments that drive future demand. The post When flat marketing budgets threaten growth appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/when-flat-marketing-budgets-threaten-growth/",
-      "live": true
-    },
-    {
       "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-09-22",
@@ -261,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-09-21",
       "title": "September 21, 2026",
@@ -311,11 +311,11 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-09-17",
       "title": "September 17, 2026",
-      "summary": "Apigee hybrid Announcement v1.16.10 On September 17, 2026 we released an updated version of the Apigee hybrid software, v1.16.10. For information on upgrading, see Upgrading Apigee hybrid to version v1.16.10 . For information on new install",
+      "summary": "Anti Money Laundering AI Announcement New minor engine versions released for the retail line of business within the v004.005 , v004.009 , and v004.010 version lines ( aml-retail.default.v004.005.202608-000 , aml-retail.default.v004.009.2026",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_17_2026",
       "live": true
@@ -331,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-09-16",
       "title": "September 16, 2026",
@@ -391,11 +391,11 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-09-15",
       "title": "September 15, 2026",
-      "summary": "Artifact Registry Feature Artifact Registry support for managing Conda packages with Artifact Registry repositories is in Preview . For more information, see Get started with Conda packages . Batch Issue A workaround has been added for the ",
+      "summary": "Artifact Registry Feature Artifact Registry support for managing Conda packages with Artifact Registry repositories is in Preview . For more information, see Get started with Conda packages . Carbon Footprint Change For the July 2026 data r",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_15_2026",
       "live": true
@@ -411,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-09-14",
       "title": "September 14, 2026",
@@ -431,13 +431,23 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-09-13",
       "title": "September 13, 2026",
       "summary": "Agent Platform Workbench Change 20260911.00_p0 Release Change 20260913.00_p0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Fixed Fixed the %%bigquery notebo",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_13_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-10",
+      "cat": "general",
+      "date": "2026-09-11",
+      "title": "September 11, 2026",
+      "summary": "API Gateway Feature Enable Model Context Protocol (MCP) You can now configure API Gateway to act as a remote Model Context Protocol (MCP) server. This Public Preview feature allows you to expose your existing REST APIs to AI agents as tools",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#September_11_2026",
       "live": true
     },
     {
@@ -461,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-09-10",
       "title": "September 10, 2026",
@@ -491,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-09-09",
       "title": "September 09, 2026",
@@ -551,7 +561,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-09-08",
       "title": "September 08, 2026",
@@ -561,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-09-06",
       "title": "September 06, 2026",
@@ -571,13 +581,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
+      "id": "live-Looker Release Notes-3",
+      "cat": "looker",
       "date": "2026-09-04",
       "title": "September 04, 2026",
-      "summary": "Audit Manager Feature The remote Model Context Protocol (MCP) server for Audit Manager is generally available ( GA ). Cloud Billing Change Introducing the Incentives page, for tracking spend-based milestone credits, RaMP, and other conditio",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_04_2026",
+      "summary": "Deployment dates Announcement Looker 26.16 will roll out to Looker (original) instances on the following schedule: Expected deployment start: Tuesday, September 8, 2026 Expected final deployment and download available: Sunday, September 20,",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#September_04_2026",
       "live": true
     },
     {
