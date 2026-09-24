@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-23T17:52:40.355640+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 95,
+  "generated_at": "2026-09-24T09:17:06.415777+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -122,6 +121,76 @@
   ],
   "signals": [
     {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-09-23",
+      "title": "Announcing v25.2 of the Google Ads API",
+      "summary": "Today we are announcing the release of v25.2 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us fo",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4420016533629078699",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-23",
+      "title": "AI search is changing ecommerce forever",
+      "summary": "The catalog and product pages most online retailers publish were built for a bygone era, with six-word queries and a page of blue links. The post AI search is changing ecommerce forever appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-search-is-changing-ecommerce-forever/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-23",
+      "title": "OpenAI testing third-party-style tracking in ChatGPT ads",
+      "summary": "A persistent identifier could improve ChatGPT ad measurement while creating new questions about consent and the personal data behind it. The post OpenAI testing third-party-style tracking in ChatGPT ads appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/openai-testing-third-party-style-tracking-in-chatgpt-ads/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-09-23",
+      "title": "The real AI advantage is what your company already knows",
+      "summary": "AI amplifies what you feed it. Capture customer knowledge, past decisions, and hard-won experience to make that output more valuable. The post The real AI advantage is what your company already knows appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-real-ai-advantage-is-what-your-company-already-knows/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-09-23",
+      "title": "Marketo co-founder Jon Miller rethinks B2B marketing automation for the AI age",
+      "summary": "Legacy marketing automation wasn't built for modern B2B buying groups. Jon Miller’s new platform, Phave, sets out to change that. The post Marketo co-founder Jon Miller rethinks B2B marketing automation for the AI age appeared first on MarT",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketo-co-founder-jon-miller-rethinks-b2b-marketing-automation-for-the-ai-age/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-09-23",
+      "title": "Retail media is evolving. Here is what marketers should value now by DoorDash",
+      "summary": "Navigating fragmented retail media networks is exhausting. Discover how to evaluate key partners, prove incrementality, and build a cohesive commerce strategy. The post Retail media is evolving. Here is what marketers should value now appea",
+      "src": "MarTech.org",
+      "url": "https://martech.org/retail-media-is-evolving-here-is-what-marketers-should-value-now/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-09-23",
+      "title": "Release Notes for Safari Technology Preview 253",
+      "summary": "Safari Technology Preview Release 253 is now available for download for macOS Golden Gate and macOS Tahoe.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18357/release-notes-for-safari-technology-preview-253/",
+      "live": true
+    },
+    {
       "id": "live-EDPB — GDPR news-0",
       "cat": "privacy",
       "date": "2026-09-23",
@@ -149,6 +218,36 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/bigquerys-ai-agents-august-to-september-2026-a-timeline-of-access-and-guardrails-3546d758155f?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-09-22",
+      "title": "IAB sets new standards for agentic buying and measurement",
+      "summary": "New frameworks aim to standardize how AI agents handle media proposals and how companies structure contracts for advertising measurement. The post IAB sets new standards for agentic buying and measurement appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/iab-sets-new-standards-for-agentic-buying-and-measurement/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-09-22",
+      "title": "How to build a marketing team with AI coworkers",
+      "summary": "Before adding AI agents to the team, marketers need to decide what they can do alone, what needs review, and who remains accountable. The post How to build a marketing team with AI coworkers appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-build-a-marketing-team-with-ai-coworkers/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-09-22",
+      "title": "When flat marketing budgets threaten growth",
+      "summary": "Find efficiencies across AI, agencies, technology, and staffing while protecting the investments that drive future demand. The post When flat marketing budgets threaten growth appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/when-flat-marketing-budgets-threaten-growth/",
       "live": true
     },
     {
@@ -222,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-09-17",
       "title": "WebKit Features for Safari 27.0",
@@ -342,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-09-11",
       "title": "Release Notes for Safari Technology Preview 252",
@@ -372,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-09-10",
       "title": "A new onboarding experience for Google Ads API developers",
@@ -482,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-09-03",
       "title": "Submit your ideas for Interop 2027",
@@ -512,7 +611,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-09-02",
       "title": "Google Ads API v22 sunset reminder",
@@ -522,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-09-02",
       "title": "Fixing Top-Level Await in Safari",
@@ -562,7 +661,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-08-31",
       "title": "Making Google Ads More Secure with Updates to Developer Policies",
@@ -592,7 +691,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-08-27",
       "title": "October 2026 changes to the Display & Video 360 API and Structured Data Files",
@@ -612,7 +711,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-08-26",
       "title": "Release Notes for Safari Technology Preview 251",
@@ -622,7 +721,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-08-25",
       "title": "Google Ads API Developer Assistant v4.0.0",
@@ -632,7 +731,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-08-20",
       "title": "Google Ads language targeting changes starting September 2026",
@@ -642,7 +741,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-08-19",
       "title": "Announcing v25.1 of the Google Ads API",
@@ -672,23 +771,13 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-08-13",
       "title": "Release Notes for Safari Technology Preview 250",
       "summary": "Safari Technology Preview Release 250 is now available for download for macOS Golden Gate and macOS Tahoe.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18191/release-notes-for-safari-technology-preview-250/",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-08-12",
-      "title": "Migrate Campaign-level Broad Match and Automatically Created Assets to AI Max",
-      "summary": "The legacy automigrations are divided into two separate phases: Phase 1 ( Campaign-level Broad Match and Automatically Created Assets ), which starts September 1, 2026. Phase 2 (Dynamic Search Ads), which has been rescheduled to February 20",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/3570700793593515721",
       "live": true
     },
     {
@@ -732,7 +821,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-07-29",
       "title": "Release Notes for Safari Technology Preview 249",
@@ -749,16 +838,6 @@
       "summary": "import to require a currency field whenever you upload cost data This ensures your campaign reporting stays accurate, even if you decide to make changes to your property's currency settings. When importing your campaign data, you can now ch",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-07-27",
-      "title": "WebKit Features for Safari 26.6",
-      "summary": "Safari 26.6 is here.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18178/webkit-features-for-safari-26-6/",
       "live": true
     },
     {
