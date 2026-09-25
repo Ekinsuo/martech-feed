@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T09:35:07.666684+00:00",
+  "generated_at": "2026-09-25T17:59:17.354548+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,7 +121,37 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-25",
+      "title": "GTM teams are losing track of their AI agents",
+      "summary": "AI agents are spreading across the GTM stack, but many teams lack the visibility and ownership needed to keep track of what they do. The post GTM teams are losing track of their AI agents appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/gtm-teams-are-losing-track-of-their-ai-agents/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-25",
+      "title": "Why you need to stop treating LLMs like people",
+      "summary": "When you treat LLMs like thinking partners, you end up with vague prompts, hallucinations, and unreliable outputs. The post Why you need to stop treating LLMs like people appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-you-need-to-stop-treating-llms-like-people/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-09-25",
+      "title": "The martech skills you need to survive",
+      "summary": "Build portable expertise, owned relationships, and adaptable skills that help your marketing career gain from AI and platform changes. The post The martech skills you need to survive appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-martech-skills-you-need-to-survive/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-09-24",
       "title": "September 24, 2026",
@@ -131,7 +161,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-09-24",
       "title": "The latest AI-powered martech news and releases",
@@ -141,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-09-24",
       "title": "Martech category labels don’t mean anything anymore",
@@ -151,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-09-24",
       "title": "B2B brands turn to creator video to fight AI slop and aid AI search",
@@ -161,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-09-24",
       "title": "How to build cross-sell email flows that drive repeat purchases",
@@ -181,43 +211,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-09-23",
       "title": "AI search is changing ecommerce forever",
       "summary": "The catalog and product pages most online retailers publish were built for a bygone era, with six-word queries and a page of blue links. The post AI search is changing ecommerce forever appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/ai-search-is-changing-ecommerce-forever/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-09-23",
-      "title": "OpenAI testing third-party-style tracking in ChatGPT ads",
-      "summary": "A persistent identifier could improve ChatGPT ad measurement while creating new questions about consent and the personal data behind it. The post OpenAI testing third-party-style tracking in ChatGPT ads appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/openai-testing-third-party-style-tracking-in-chatgpt-ads/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-09-23",
-      "title": "The real AI advantage is what your company already knows",
-      "summary": "AI amplifies what you feed it. Capture customer knowledge, past decisions, and hard-won experience to make that output more valuable. The post The real AI advantage is what your company already knows appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-real-ai-advantage-is-what-your-company-already-knows/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-23",
-      "title": "Marketo co-founder Jon Miller rethinks B2B marketing automation for the AI age",
-      "summary": "Legacy marketing automation wasn't built for modern B2B buying groups. Jon Miller’s new platform, Phave, sets out to change that. The post Marketo co-founder Jon Miller rethinks B2B marketing automation for the AI age appeared first on MarT",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketo-co-founder-jon-miller-rethinks-b2b-marketing-automation-for-the-ai-age/",
       "live": true
     },
     {
@@ -241,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-09-22",
       "title": "September 22, 2026",
@@ -271,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-09-21",
       "title": "September 21, 2026",
@@ -321,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-09-17",
       "title": "September 17, 2026",
@@ -341,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-09-16",
       "title": "September 16, 2026",
@@ -401,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-09-15",
       "title": "September 15, 2026",
@@ -421,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-09-14",
       "title": "September 14, 2026",
@@ -441,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-09-13",
       "title": "September 13, 2026",
@@ -451,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-09-11",
       "title": "September 11, 2026",
@@ -481,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-09-10",
       "title": "September 10, 2026",
@@ -511,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-09-09",
       "title": "September 09, 2026",
@@ -571,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-09-08",
       "title": "September 08, 2026",
