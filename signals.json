@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-24T17:52:57.419372+00:00",
+  "generated_at": "2026-09-25T09:35:07.666684+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 104,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "name": "Looker Studio Release Notes",
@@ -120,6 +120,16 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-09-24",
+      "title": "September 24, 2026",
+      "summary": "Apigee hybrid Announcement v1.15.8 On September 24, 2026 we released an updated version of the Apigee hybrid software, v1.15.8. For information on upgrading, see Upgrading Apigee hybrid to version v1.15.8 . For information on new installati",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#September_24_2026",
+      "live": true
+    },
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
@@ -395,7 +405,7 @@
       "cat": "general",
       "date": "2026-09-15",
       "title": "September 15, 2026",
-      "summary": "Artifact Registry Feature Artifact Registry support for managing Conda packages with Artifact Registry repositories is in Preview . For more information, see Get started with Conda packages . Carbon Footprint Change For the July 2026 data r",
+      "summary": "Artifact Registry Feature Artifact Registry support for managing Conda packages with Artifact Registry repositories is in Preview . For more information, see Get started with Conda packages . Batch Issue A workaround has been added for the ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_15_2026",
       "live": true
@@ -571,17 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
-      "cat": "general",
-      "date": "2026-09-06",
-      "title": "September 06, 2026",
-      "summary": "Google SecOps Feature [Spotlight Feature] Case playbooks This feature is in preview. Google SecOps now supports case playbooks. You can run playbooks or execute manual actions across an entire case container rather than individual alerts, c",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_06_2026",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-3",
+      "id": "live-Looker Release Notes-4",
       "cat": "looker",
       "date": "2026-09-04",
       "title": "September 04, 2026",
@@ -611,7 +611,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-09-02",
       "title": "September 02, 2026",
@@ -661,7 +661,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-08-31",
       "title": "August 31, 2026",
@@ -681,7 +681,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-08-28",
       "title": "August 28, 2026",
@@ -758,16 +758,6 @@
       "summary": "Today we are announcing the release of v25.1 of the Google Ads API . To use the new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us f",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/2951646457172167571",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-08-18",
-      "title": "August 18, 2026",
-      "summary": "Looker (Google Cloud core) only changes Announcement The latest versions in the Looker (Google Cloud core) release channels are beginning deployment as follows: Latest version in the Rapid channel: Looker 26.14 Latest version in the Regular",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#August_18_2026",
       "live": true
     },
     {
