@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-27T17:49:59.295146+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 103,
+  "generated_at": "2026-09-28T10:51:47.306884+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 95,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -121,83 +122,13 @@
   ],
   "signals": [
     {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
-      "date": "2026-09-25",
-      "title": "GTM teams are losing track of their AI agents",
-      "summary": "AI agents are spreading across the GTM stack, but many teams lack the visibility and ownership needed to keep track of what they do. The post GTM teams are losing track of their AI agents appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/gtm-teams-are-losing-track-of-their-ai-agents/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-09-25",
-      "title": "Why you need to stop treating LLMs like people",
-      "summary": "When you treat LLMs like thinking partners, you end up with vague prompts, hallucinations, and unreliable outputs. The post Why you need to stop treating LLMs like people appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-you-need-to-stop-treating-llms-like-people/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-09-25",
-      "title": "The martech skills you need to survive",
-      "summary": "Build portable expertise, owned relationships, and adaptable skills that help your marketing career gain from AI and platform changes. The post The martech skills you need to survive appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-martech-skills-you-need-to-survive/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-09-24",
       "title": "September 24, 2026",
       "summary": "Apigee hybrid Announcement v1.15.8 On September 24, 2026 we released an updated version of the Apigee hybrid software, v1.15.8. For information on upgrading, see Upgrading Apigee hybrid to version v1.15.8 . For information on new installati",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_24_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-09-24",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "A new Chrome extension uses AI to identify and hide LinkedIn slop — including the kind written by humans. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-09-24",
-      "title": "Martech category labels don’t mean anything anymore",
-      "summary": "Six years of DXP homepage snapshots show how quickly martech vendors change their labels — and how little those labels reveal about the product. The post Martech category labels don t mean anything anymore appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/martech-category-labels-dont-mean-anything-anymore/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-09-24",
-      "title": "B2B brands turn to creator video to fight AI slop and aid AI search",
-      "summary": "Creator video gives B2B brands a way to stand out from AI-generated content and build credibility with buyers using AI to research products. The post B2B brands turn to creator video to fight AI slop and aid AI search appeared first on MarT",
-      "src": "MarTech.org",
-      "url": "https://martech.org/b2b-brands-turn-to-creator-video-to-fight-ai-slop-and-aid-ai-search/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-09-24",
-      "title": "How to build cross-sell email flows that drive repeat purchases",
-      "summary": "The first purchase gives you clues about what a customer may need next. Use them to build more relevant post-purchase journeys. The post How to build cross-sell email flows that drive repeat purchases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-build-cross-sell-email-flows-that-drive-repeat-purchases/",
       "live": true
     },
     {
@@ -208,16 +139,6 @@
       "summary": "Today we are announcing the release of v25.2 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us fo",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4420016533629078699",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-23",
-      "title": "AI search is changing ecommerce forever",
-      "summary": "The catalog and product pages most online retailers publish were built for a bygone era, with six-word queries and a page of blue links. The post AI search is changing ecommerce forever appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-search-is-changing-ecommerce-forever/",
       "live": true
     },
     {
@@ -241,7 +162,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-09-22",
       "title": "September 22, 2026",
@@ -271,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-09-21",
       "title": "September 21, 2026",
@@ -321,7 +242,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-09-17",
       "title": "September 17, 2026",
@@ -341,7 +262,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-09-16",
       "title": "September 16, 2026",
@@ -401,7 +322,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-09-15",
       "title": "September 15, 2026",
@@ -421,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-09-14",
       "title": "September 14, 2026",
@@ -441,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-09-13",
       "title": "September 13, 2026",
@@ -451,7 +372,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-09-11",
       "title": "September 11, 2026",
@@ -481,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-09-10",
       "title": "September 10, 2026",
@@ -511,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-09-09",
       "title": "September 09, 2026",
@@ -571,7 +492,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-09-08",
       "title": "September 08, 2026",
@@ -804,7 +725,7 @@
       "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-07-30",
-      "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: overview of topics available",
+      "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: agenda now available",
       "summary": "Brussels, 30 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming guidelines on the interplay between competition and data protection . The event will take place on 1",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law-0_en",
