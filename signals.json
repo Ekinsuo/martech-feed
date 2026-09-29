@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T10:39:04.081549+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 95,
+  "generated_at": "2026-09-29T18:42:37.803805+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "name": "Looker Studio Release Notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -124,6 +123,56 @@
     {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
+      "date": "2026-09-29",
+      "title": "September 29, 2026",
+      "summary": "API Gateway Feature Configure streaming for LLM responses and other traffic You can now create API Gateway gateways that stream requests and responses instead of buffering them. This Public Preview feature supports incremental response deli",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#September_29_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-09-29",
+      "title": "Braze expands AI from content creation to campaign operations",
+      "summary": "New tools give marketers easier access to AI decisioning, automate campaign checks, and connect Braze with external LLMs such as Claude. The post Braze expands AI from content creation to campaign operations appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/braze-expands-ai-from-content-creation-to-campaign-operations/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-09-29",
+      "title": "4 reasons your brand guidelines must become a brand system",
+      "summary": "Brand guidelines can tell people what’s allowed. A brand system helps them understand why it works — and when to adapt it. The post 4 reasons your brand guidelines must become a brand system appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/4-reasons-your-brand-guidelines-must-become-a-brand-system/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-09-29",
+      "title": "Shoppers will spend more and buy less this holiday season",
+      "summary": "Holiday sales could grow even as consumers trade down, stretch purchases across the season, and use discounts to stock up on essentials. The post Shoppers will spend more and buy less this holiday season appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/shoppers-will-spend-more-and-buy-less-this-holiday-season/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-09-29",
+      "title": "How to build a visual SEO strategy for AI search",
+      "summary": "Move beyond optimizing individual images by connecting visual assets to authoritative entity data and keeping those signals consistent. The post How to build a visual SEO strategy for AI search appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-build-a-visual-seo-strategy-for-ai-search/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
+      "cat": "general",
       "date": "2026-09-28",
       "title": "September 28, 2026",
       "summary": "Agent Platform Workbench Change 20260927.00_p0 Release Change Installed latest packages from upstream dependencies. Security Bulk security patch remediating Critical and High-severity CVEs in the Workbench custom container images. Change 20",
@@ -132,7 +181,47 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-09-28",
+      "title": "Optimizing content for generative engine search models",
+      "summary": "Adjusting content and technical strategies preserves brand authority as search shifts to AI answer engines. The post Optimizing content for generative engine search models appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/optimizing-content-for-generative-engine-search-models/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-09-28",
+      "title": "6 sales alignment plays from ABM leaders at Snowflake, Datadog, and Unisys",
+      "summary": "From account selection and actionable signals to AI-powered workflows, these plays show how ABM teams can make sales alignment an operating discipline. The post 6 sales alignment plays from ABM leaders at Snowflake, Datadog, and Unisys appe",
+      "src": "MarTech.org",
+      "url": "https://martech.org/6-sales-alignment-plays-from-abm-leaders-at-snowflake-datadog-and-unisys/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-09-28",
+      "title": "What marketing job postings say about AI skills",
+      "summary": "Research shows employers want marketers who can turn processes into working AI automations. The post What marketing job postings say about AI skills appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/what-marketing-job-postings-say-about-ai-skills/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-09-28",
+      "title": "AI made marketing faster than it made marketing better",
+      "summary": "AI can accelerate production, but it can’t decide what’s worth making, who it’s for, or how success should be measured. The post AI made marketing faster than it made marketing better appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-made-marketing-faster-than-it-made-marketing-better/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-09-24",
       "title": "September 24, 2026",
@@ -172,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-09-22",
       "title": "September 22, 2026",
@@ -202,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-09-21",
       "title": "September 21, 2026",
@@ -252,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-09-17",
       "title": "September 17, 2026",
@@ -282,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-09-16",
       "title": "September 16, 2026",
@@ -342,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-09-15",
       "title": "September 15, 2026",
@@ -362,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-09-14",
       "title": "September 14, 2026",
@@ -382,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-09-13",
       "title": "September 13, 2026",
@@ -392,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-09-11",
       "title": "September 11, 2026",
@@ -422,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-09-10",
       "title": "September 10, 2026",
@@ -452,13 +541,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
+      "id": "live-Looker Release Notes-3",
+      "cat": "looker",
       "date": "2026-09-09",
       "title": "September 09, 2026",
-      "summary": "Agent Platform Workbench Feature New configuration options for scheduled notebook runs When you schedule a notebook run from an Agent Platform Workbench instance, you can now configure the following: Execution identity. You can choose your ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_09_2026",
+      "summary": "Looker (Google Cloud core) and Looker (original) changes Deprecated The deprecation of the Looker Mobile (Legacy) application has been postponed to January 31, 2027. Starting on January 31, 2027, support for the Looker Mobile (Legacy) app w",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#September_09_2026",
       "live": true
     },
     {
