@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T18:42:37.803805+00:00",
+  "generated_at": "2026-09-30T10:27:50.331585+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 104,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "name": "Looker Studio Release Notes",
@@ -171,6 +171,16 @@
       "live": true
     },
     {
+      "id": "scrape-GA4 — What's new-16",
+      "cat": "ga4",
+      "date": "2026-09-29",
+      "title": "Improved app conversion management and reporting capabilities for Google…",
+      "summary": "Ads customers We're extending our cross-channel reporting features and conversion management tools to support app conversions App conversions are now fully supported in your conversion reports, including performance, attribution analysis, a",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-09-28",
@@ -225,7 +235,7 @@
       "cat": "general",
       "date": "2026-09-24",
       "title": "September 24, 2026",
-      "summary": "Apigee hybrid Announcement v1.15.8 On September 24, 2026 we released an updated version of the Apigee hybrid software, v1.15.8. For information on upgrading, see Upgrading Apigee hybrid to version v1.15.8 . For information on new installati",
+      "summary": "Access Approval Feature Fault Injection Testing is generally available ( GA ). Access Transparency Feature Fault Injection Testing is generally available ( GA ). Apigee hybrid Announcement v1.15.8 On September 24, 2026 we released an update",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_24_2026",
       "live": true
@@ -321,7 +331,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-15",
+      "id": "scrape-GA4 — What's new-17",
       "cat": "ga4",
       "date": "2026-09-21",
       "title": "Hostname filters Google Analytics now supports Include data filters…",
@@ -541,7 +551,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-3",
+      "id": "live-Looker Release Notes-4",
       "cat": "looker",
       "date": "2026-09-09",
       "title": "September 09, 2026",
@@ -591,7 +601,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-16",
+      "id": "scrape-GA4 — What's new-18",
       "cat": "ga4",
       "date": "2026-09-09",
       "title": "Dashboards Dashboards are now available in Google Analytics",
@@ -601,7 +611,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-09-04",
       "title": "September 04, 2026",
@@ -631,7 +641,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-09-02",
       "title": "September 02, 2026",
@@ -681,7 +691,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-08-31",
       "title": "August 31, 2026",
@@ -698,16 +708,6 @@
       "summary": "We are updating our Google Ads Developer Policies formerly the “Google Ads API Policy”, to support developers in building robust, high-quality integrations as new AI capabilities continue to shape the advertising industry. These updates est",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1363402498929547325",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-08-28",
-      "title": "August 28, 2026",
-      "summary": "Deployment dates Announcement From August 24 through August 26, 2026, the following features will be automatically enabled for Looker (original) instances running Looker 26.14. Feature The Advanced Unused Content Cleanup feature is now gene",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#August_28_2026",
       "live": true
     },
     {
@@ -801,7 +801,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-17",
+      "id": "scrape-GA4 — What's new-19",
       "cat": "ga4",
       "date": "2026-08-11",
       "title": "Updated conversion window configuration Google Analytics conversions now…",
@@ -811,7 +811,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-18",
+      "id": "scrape-GA4 — What's new-20",
       "cat": "ga4",
       "date": "2026-08-10",
       "title": "Campaign data import validation report We’ve launched a new…",
@@ -831,7 +831,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-19",
+      "id": "scrape-GA4 — What's new-21",
       "cat": "ga4",
       "date": "2026-07-30",
       "title": "New diagnostic in Google Analytics for aggregate parameter issues…",
@@ -851,7 +851,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-20",
+      "id": "scrape-GA4 — What's new-22",
       "cat": "ga4",
       "date": "2026-07-28",
       "title": "Campaign data import currency update We've updated campaign data…",
@@ -871,7 +871,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-21",
+      "id": "scrape-GA4 — What's new-23",
       "cat": "ga4",
       "date": "2026-07-13",
       "title": "AdMob linking within Google Analytics Google Analytics now offers…",
@@ -918,16 +918,6 @@
       "summary": "that were previously undercounted in server-to-server setups due to a lack of browser cookie context Server-side data is intelligently joined with parallel browser signals, such as cookies, when a GCLID is present so that Floodlight can mor",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-22",
-      "cat": "ga4",
-      "date": "2026-06-11",
-      "title": "New Source Group field with update to Source Platform…",
-      "summary": "values for improved source analysis Source grouping is a new dimension concept that consolidates source values for common online platforms - Facebook, Instagram, and TikTok A single value for a given source is vital for performance and attr",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
     },
     {
