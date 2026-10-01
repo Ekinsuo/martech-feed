@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T10:55:20.913444+00:00",
+  "generated_at": "2026-10-01T18:56:20.351848+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 103,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -121,6 +121,66 @@
   ],
   "signals": [
     {
+      "id": "live-BigQuery Release Notes-0",
+      "cat": "bigquery",
+      "date": "2026-10-01",
+      "title": "October 01, 2026",
+      "summary": "Feature BigQuery pipelines provides support for automated metadata enrichment and Knowledge Catalog data quality scorecard integration. In addition, the Data Engineering Agent can proactively generate semantic metadata for your pipeline ass",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_01_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-01",
+      "title": "7 AI search myths busted by data",
+      "summary": "AI is changing search, but some of the loudest claims about traffic, content, measurement, and SEO jobs don’t hold up when you check the numbers. The post 7 AI search myths busted by data appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/7-ai-search-myths-busted-by-data/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-01",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Payments, identity, authorization, infrastructure, and trust could keep autonomous purchasing “just around the corner” for years. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-01",
+      "title": "Marketing on LinkedIn: What you need to know",
+      "summary": "Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new Creator Discovery feature. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/linkedin-the-marketers-guide/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-01",
+      "title": "Get more from AI without spending more",
+      "summary": "AI usage gets expensive fast. Better prompting, reusable frameworks, prompt logs, and guardrails help teams get more, and spend less. The post Get more from AI without spending more appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/get-more-from-ai-without-spending-more/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-10-01",
+      "title": "Upcoming expiration of Developer ID Certification Authority (Sub-CA)",
+      "summary": "The original Developer ID Certification Authority (Sub-CA) expires on February 1, 2027. Certificates issued by this authority will stop working on that date. What to do: Check if you’re affected. In Certificates, Identifiers & Profiles , lo",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=w4atic4c",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-09-30",
@@ -131,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-09-30",
       "title": "Salesforce buys AI customer research startup Listen Labs",
@@ -141,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-09-30",
       "title": "States are rewriting the rules of social media",
@@ -151,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-09-30",
       "title": "B2B marketing attribution is messy. Can it be fixed?",
@@ -161,23 +221,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-09-30",
       "title": "Stop building strategy around your martech stack",
       "summary": "A bloated martech stack can create more noise than capability. Identify the gaps worth solving before buying another tool. The post Stop building strategy around your martech stack appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/stop-building-strategy-around-your-martech-stack/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-09-30",
-      "title": "What 714 suppression campaigns show about pushing down negative results by Erase.com",
-      "summary": "Starting position and top 10 placements decided the outcome, not publishing volume. Plus why Page 2 isn't far enough for AI Overviews. The post What 714 suppression campaigns show about pushing down negative results appeared first on MarTec",
-      "src": "MarTech.org",
-      "url": "https://martech.org/what-714-suppression-campaigns-show-about-pushing-down-negative-results/",
       "live": true
     },
     {
@@ -188,36 +238,6 @@
       "summary": "API Gateway Feature Configure streaming for LLM responses and other traffic You can now create API Gateway gateways that stream requests and responses instead of buffering them. This Public Preview feature supports incremental response deli",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_29_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-09-29",
-      "title": "Braze expands AI from content creation to campaign operations",
-      "summary": "New tools give marketers easier access to AI decisioning, automate campaign checks, and connect Braze with external LLMs such as Claude. The post Braze expands AI from content creation to campaign operations appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/braze-expands-ai-from-content-creation-to-campaign-operations/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-09-29",
-      "title": "4 reasons your brand guidelines must become a brand system",
-      "summary": "Brand guidelines can tell people what’s allowed. A brand system helps them understand why it works — and when to adapt it. The post 4 reasons your brand guidelines must become a brand system appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/4-reasons-your-brand-guidelines-must-become-a-brand-system/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-29",
-      "title": "Shoppers will spend more and buy less this holiday season",
-      "summary": "Holiday sales could grow even as consumers trade down, stretch purchases across the season, and use discounts to stock up on essentials. The post Shoppers will spend more and buy less this holiday season appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/shoppers-will-spend-more-and-buy-less-this-holiday-season/",
       "live": true
     },
     {
@@ -351,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-09-18",
       "title": "Build for iPhone Duo with new resources",
@@ -421,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-09-16",
       "title": "Get ready with the latest beta releases",
@@ -431,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-09-16",
       "title": "Get your subscriptions ready for iOS 27",
@@ -441,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-09-16",
       "title": "Updates to App Tracking Transparency in the European Union",
@@ -495,7 +515,7 @@
       "cat": "general",
       "date": "2026-09-13",
       "title": "September 13, 2026",
-      "summary": "Agent Platform Workbench Change 20260911.00_p0 Release Change 20260913.00_p0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Fixed Fixed the %%bigquery notebo",
+      "summary": "Access Approval Feature Application Design Center is generally available (GA) . Access Transparency Feature Application Design Center is generally available (GA) . Agent Platform Workbench Change 20260911.00_p0 Release Change 20260913.00_p0",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_13_2026",
       "live": true
@@ -581,7 +601,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-09-09",
       "title": "Get ready for iPhone Duo",
@@ -591,7 +611,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-09-09",
       "title": "App Store submissions now open for the latest OS releases",
@@ -681,23 +701,13 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-09-02",
       "title": "Hello Developer: September 2026",
       "summary": "In this edition: Get ready for a special Apple Event, take advantage of Analytics in App Store Connect, and sign up for new developer events in Cupertino. Read now",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=ote61lrx",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-09-01",
-      "title": "Upcoming changes to Rosetta support for Intel-based macOS apps",
-      "summary": "In 2020, we introduced Apple silicon for Mac computers, providing Rosetta as a translation layer during the transition period. As announced at WWDC last year , we’re now concluding this transition. What this means for developers who have ma",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=w5ngl9k2",
       "live": true
     },
     {
