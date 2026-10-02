@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T10:28:43.138835+00:00",
+  "generated_at": "2026-10-02T18:32:25.181544+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 103,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -121,6 +121,56 @@
   ],
   "signals": [
     {
+      "id": "live-BigQuery Release Notes-0",
+      "cat": "bigquery",
+      "date": "2026-10-02",
+      "title": "October 02, 2026",
+      "summary": "Feature The Rust SDK for BigQuery is now generally available (GA). Feature The Data Engineering Agent now supports the gemini-3.7-flash model for the us , eu , and global multi-regional endpoints.",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_02_2026",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-10-02",
+      "title": "“Finally, a Conversions API setup that doesn’t require web developers” — Read this before acting",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/finally-a-conversions-api-setup-that-doesnt-require-web-developers-read-this-before-acting-97e5abc3399e?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-02",
+      "title": "B2B marketing doesn’t have an ROI problem. It has an evidence problem.",
+      "summary": "Connect buyer journeys, marketing influence, and revenue across the B2B sales cycle — beyond campaign-level reporting. The post B2B marketing doesn’t have an ROI problem. It has an evidence problem. appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/b2b-marketing-doesnt-have-an-roi-problem-it-has-an-evidence-problem/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-02",
+      "title": "AI is making customers expect more and tolerate less",
+      "summary": "Faster service is part of AI’s promise. Customers aren't impressed when speed comes with unresolved problems and no easy way to reach a person. The post AI is making customers expect more and tolerate less appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-is-making-customers-expect-more-and-tolerate-less/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-10-02",
+      "title": "Updates to Full Disk Access in macOS",
+      "summary": "We give developers powerful APIs to build incredible capabilities into their apps for Apple products, backed by a set of controls designed to protect users’ private data. Full Disk Access largely sidesteps these controls in order to allow b",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-10-01",
@@ -131,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-10-01",
       "title": "7 AI search myths busted by data",
@@ -141,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-10-01",
       "title": "The latest AI-powered martech news and releases",
@@ -151,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-10-01",
       "title": "Marketing on LinkedIn: What you need to know",
@@ -161,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-10-01",
       "title": "Get more from AI without spending more",
@@ -171,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-10-01",
       "title": "Upcoming expiration of Developer ID Certification Authority (Sub-CA)",
@@ -191,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-09-30",
       "title": "Salesforce buys AI customer research startup Listen Labs",
@@ -201,33 +251,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-09-30",
       "title": "States are rewriting the rules of social media",
       "summary": "Meta’s settlement, TikTok’s Alabama deal, and cases against YouTube show states building new rules for how platforms operate and sell advertising. The post States are rewriting the rules of social media appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/states-are-starting-to-rewrite-the-rules-of-social-media/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-09-30",
-      "title": "B2B marketing attribution is messy. Can it be fixed?",
-      "summary": "Tracking B2B revenue shouldn’t feel like chasing moving targets. Integrate's Mehul Nagrani breaks down attribution reality and future of B2B demand gen. The post B2B marketing attribution is messy. Can it be fixed? appeared first on MarTech",
-      "src": "MarTech.org",
-      "url": "https://martech.org/b2b-marketing-attribution-is-messy-can-it-be-fixed/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-30",
-      "title": "Stop building strategy around your martech stack",
-      "summary": "A bloated martech stack can create more noise than capability. Identify the gaps worth solving before buying another tool. The post Stop building strategy around your martech stack appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/stop-building-strategy-around-your-martech-stack/",
       "live": true
     },
     {
@@ -311,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-09-22",
       "title": "BigQuery’s AI agents, August to September 2026: A timeline of access and guardrails",
@@ -341,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-09-21",
       "title": "Google adds diagnostics, a new uplift metric and Meridian integration to Data Manager",
@@ -371,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-09-18",
       "title": "Build for iPhone Duo with new resources",
@@ -421,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-09-16",
       "title": "How to Build a Data Agent in BigQuery Conversational Analytics",
@@ -431,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-09-16",
       "title": "Explaining BigQuery Conversational Analytics",
@@ -441,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-09-16",
       "title": "Get ready with the latest beta releases",
@@ -451,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-09-16",
       "title": "Get your subscriptions ready for iOS 27",
@@ -461,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-09-16",
       "title": "Updates to App Tracking Transparency in the European Union",
@@ -481,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-09-15",
       "title": "Google is testing payments to publishers for content used in AI answers",
@@ -501,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-09-14",
       "title": "Exploring Databricks’ Lakehouse Industry Data Models",
@@ -561,7 +591,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-09-10",
       "title": "Google Analytics now has native, drag-and-drop dashboards",
@@ -591,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-09-09",
       "title": "Get ready for iPhone Duo",
@@ -601,7 +631,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-09-09",
       "title": "App Store submissions now open for the latest OS releases",
@@ -691,16 +721,6 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-09-02",
-      "title": "Hello Developer: September 2026",
-      "summary": "In this edition: Get ready for a special Apple Event, take advantage of Analytics in App Store Connect, and sign up for new developer events in Cupertino. Read now",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=ote61lrx",
-      "live": true
-    },
-    {
       "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-08-31",
@@ -728,16 +748,6 @@
       "summary": "Today we’re announcing three unversioned changes to the Display & Video 360 API and Structured Data Files that will take effect in October 2026 and may impact your existing integrations. These changes will take place on the following dates ",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4570583730470730028",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-08-26",
-      "title": "ChatGPT ads expand to Europe, with a new measurement pixel and Conversions API",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/chatgpt-ads-expand-to-europe-with-a-new-measurement-pixel-and-conversions-api-23e3ce961f14?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
