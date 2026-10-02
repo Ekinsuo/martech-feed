@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T18:56:20.351848+00:00",
+  "generated_at": "2026-10-02T10:28:43.138835+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 104,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
@@ -121,13 +121,13 @@
   ],
   "signals": [
     {
-      "id": "live-BigQuery Release Notes-0",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
       "date": "2026-10-01",
       "title": "October 01, 2026",
-      "summary": "Feature BigQuery pipelines provides support for automated metadata enrichment and Knowledge Catalog data quality scorecard integration. In addition, the Data Engineering Agent can proactively generate semantic metadata for your pipeline ass",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_01_2026",
+      "summary": "BigQuery Change An updated version of the Simba JDBC driver for BigQuery is now available. Feature Chatting with graphs in conversational analytics is now generally available . You can use a combination of multiple graphs, tables, views, an",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_01_2026",
       "live": true
     },
     {
@@ -181,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-09-30",
       "title": "September 30, 2026",
@@ -231,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-09-29",
       "title": "September 29, 2026",
@@ -251,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-09-28",
       "title": "September 28, 2026",
@@ -261,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-09-24",
       "title": "September 24, 2026",
@@ -301,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-09-22",
       "title": "September 22, 2026",
@@ -331,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-09-21",
       "title": "September 21, 2026",
@@ -381,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-09-17",
       "title": "September 17, 2026",
@@ -411,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-09-16",
       "title": "September 16, 2026",
@@ -471,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-09-15",
       "title": "September 15, 2026",
@@ -491,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-09-14",
       "title": "September 14, 2026",
@@ -511,23 +511,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-09-13",
       "title": "September 13, 2026",
       "summary": "Access Approval Feature Application Design Center is generally available (GA) . Access Transparency Feature Application Design Center is generally available (GA) . Agent Platform Workbench Change 20260911.00_p0 Release Change 20260913.00_p0",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_13_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
-      "date": "2026-09-11",
-      "title": "September 11, 2026",
-      "summary": "API Gateway Feature Enable Model Context Protocol (MCP) You can now configure API Gateway to act as a remote Model Context Protocol (MCP) server. This Public Preview feature allows you to expose your existing REST APIs to AI agents as tools",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_11_2026",
       "live": true
     },
     {
