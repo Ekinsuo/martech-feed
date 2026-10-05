@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T11:25:30.869438+00:00",
+  "generated_at": "2026-10-05T21:14:11.669380+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,7 +121,57 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-10-05",
+      "title": "October 05, 2026",
+      "summary": "BigQuery Feature Iceberg external tables and Iceberg managed tables now support flexible column names by default. This feature is generally available (GA). Feature The gemini-embedding-2 model works well for embedding long strings, includin",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_05_2026",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-10-05",
+      "title": "BigQuery Adds AI.KEY_DRIVERS and a New Security Center",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquery-adds-ai-key-drivers-and-a-new-security-center-843b10b27532?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-05",
+      "title": "Apprenticeships are the key to saving early-career marketing roles",
+      "summary": "Junior roles face an unprecedented AI squeeze. Here is how to build structured apprenticeships to preserve the supply of marketing talent. The post Apprenticeships are the key to saving early-career marketing roles appeared first on MarTech",
+      "src": "MarTech.org",
+      "url": "https://martech.org/apprenticeships-are-the-key-to-saving-early-career-marketing-roles/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-05",
+      "title": "How to turn customer signals into smarter email automation",
+      "summary": "Use customer behavior, inaction, and contextual signals to build more relevant email automations and triggered campaigns. The post How to turn customer signals into smarter email automation appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-turn-customer-signals-into-smarter-email-automation/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-05",
+      "title": "How to maximize ROI with first-party data strategies",
+      "summary": "Signal loss is forcing a shift to value-exchange collection and native identity resolution to protect pipeline revenue. The post How to maximize ROI with first-party data strategies appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-maximize-roi-with-first-party-data-strategies/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-10-05",
       "title": "AI usage surges 6X for local search, fragmenting the digital ecosystem by SOCi",
@@ -141,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-10-02",
       "title": "“Finally, a Conversions API setup that doesn’t require web developers” — Read this before acting",
@@ -151,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-10-02",
       "title": "B2B marketing doesn’t have an ROI problem. It has an evidence problem.",
@@ -161,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-10-02",
       "title": "AI is making customers expect more and tolerate less",
@@ -191,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-10-01",
       "title": "7 AI search myths busted by data",
@@ -201,33 +251,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-10-01",
       "title": "The latest AI-powered martech news and releases",
       "summary": "Payments, identity, authorization, infrastructure, and trust could keep autonomous purchasing “just around the corner” for years. The post The latest AI-powered martech news and releases appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-01",
-      "title": "Marketing on LinkedIn: What you need to know",
-      "summary": "Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new Creator Discovery feature. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/linkedin-the-marketers-guide/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-01",
-      "title": "Get more from AI without spending more",
-      "summary": "AI usage gets expensive fast. Better prompting, reusable frameworks, prompt logs, and guardrails help teams get more, and spend less. The post Get more from AI without spending more appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/get-more-from-ai-without-spending-more/",
       "live": true
     },
     {
@@ -248,16 +278,6 @@
       "summary": "API Gateway Feature Authenticate MCP tool discovery with an API key API key authentication is now supported for the Model Context Protocol (MCP) tools/list method. You can name an API key security scheme in tools-list.security , in addition",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_30_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-09-30",
-      "title": "Salesforce buys AI customer research startup Listen Labs",
-      "summary": "The AI research startup will bring customer interviews, analysis, and simulated customer behavior closer to Salesforce’s CRM and AI agents. The post Salesforce buys AI customer research startup Listen Labs appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/salesforce-buys-ai-customer-research-startup-listen-labs/",
       "live": true
     },
     {
@@ -324,7 +344,7 @@
       "id": "live-EDPB — GDPR news-0",
       "cat": "privacy",
       "date": "2026-09-23",
-      "title": "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
+      "title": "The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data",
       "summary": "Background information Date of final decision: 21 September 2026 National case Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transparent information, co",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
@@ -335,13 +355,13 @@
       "cat": "general",
       "date": "2026-09-22",
       "title": "September 22, 2026",
-      "summary": "BigQuery Feature You can now publish a BigQuery data agent in Gemini Enterprise by registering the agent with Agent Registry and importing it using default Google-managed credentials. When BigQuery and Gemini Enterprise are in the same Goog",
+      "summary": "Access Approval Feature Developer Connect is generally available ( GA ). Access Transparency Feature Developer Connect is generally available ( GA ). BigQuery Feature You can now publish a BigQuery data agent in Gemini Enterprise by registe",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_22_2026",
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-09-22",
       "title": "BigQuery’s AI agents, August to September 2026: A timeline of access and guardrails",
@@ -354,10 +374,10 @@
       "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-09-22",
-      "title": "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
+      "title": "The Spanish DPA fined Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
       "summary": "Background information Date of final decision: 1 February 2023 National case Controller: SECURITAS DIRECT, S.A. Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data",
       "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en",
+      "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en",
       "live": true
     },
     {
@@ -371,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-09-21",
       "title": "Google adds diagnostics, a new uplift metric and Meridian integration to Data Manager",
@@ -451,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-09-16",
       "title": "How to Build a Data Agent in BigQuery Conversational Analytics",
@@ -461,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-09-16",
       "title": "Explaining BigQuery Conversational Analytics",
@@ -511,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-09-15",
       "title": "Google is testing payments to publishers for content used in AI answers",
@@ -521,17 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-19",
-      "cat": "general",
-      "date": "2026-09-14",
-      "title": "September 14, 2026",
-      "summary": "Agent Platform Workbench Change M150 Release Change Installed latest packages from upstream dependencies. Apigee hybrid Announcement hybrid v1.17.0 On September 14, 2026 we released an updated version of the Apigee hybrid software, 1.17.0. ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_14_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-09-14",
       "title": "Exploring Databricks’ Lakehouse Industry Data Models",
@@ -554,10 +564,10 @@
       "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-09-11",
-      "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR",
+      "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA EUR 300 000",
       "summary": "Background information Date of final decision: 21 July 2026 National case Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 17 (Right to erasur",
       "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-300-000-eur_en",
+      "url": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-eur-300-000_en",
       "live": true
     },
     {
@@ -578,16 +588,6 @@
       "summary": "To improve the developer onboarding and usage experience, we built a new homepage for the Google Ads API in the Google Cloud Console . Basic Access applications are now automated for developers who have completed brand verification . This b",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6417612083648371848",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-09-10",
-      "title": "Google Analytics now has native, drag-and-drop dashboards",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/google-analytics-now-has-native-drag-and-drop-dashboards-781610db116a?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -634,10 +634,10 @@
       "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-09-09",
-      "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire 500 000 EUR",
+      "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire EUR 500 000",
       "summary": "Background information Date of final decision: 3 September 2026 National case Controller: Hôpital Privé de la Loire Legal Reference: Article 32 (Security of processing), Article 34 (Communication of a personal data breach to the data subjec",
       "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-500-000-eur_en",
+      "url": "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-eur-500-000_en",
       "live": true
     },
     {
