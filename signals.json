@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T17:41:33.392553+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 95,
+  "generated_at": "2026-10-05T11:25:30.869438+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -122,7 +121,17 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-05",
+      "title": "AI usage surges 6X for local search, fragmenting the digital ecosystem by SOCi",
+      "summary": "Local search behavior now straddles multiple platforms, with consumers traversing a 'verification loop' to find actionable information. The post AI usage surges 6X for local search, fragmenting the digital ecosystem appeared first on MarTec",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-usage-surges-6x-for-local-search-fragmenting-the-digital-ecosystem/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-10-02",
       "title": "October 02, 2026",
@@ -142,6 +151,26 @@
       "live": true
     },
     {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-02",
+      "title": "B2B marketing doesn’t have an ROI problem. It has an evidence problem.",
+      "summary": "Connect buyer journeys, marketing influence, and revenue across the B2B sales cycle — beyond campaign-level reporting. The post B2B marketing doesn’t have an ROI problem. It has an evidence problem. appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/b2b-marketing-doesnt-have-an-roi-problem-it-has-an-evidence-problem/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-02",
+      "title": "AI is making customers expect more and tolerate less",
+      "summary": "Faster service is part of AI’s promise. Customers aren't impressed when speed comes with unresolved problems and no easy way to reach a person. The post AI is making customers expect more and tolerate less appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-is-making-customers-expect-more-and-tolerate-less/",
+      "live": true
+    },
+    {
       "id": "live-Apple Developer News-0",
       "cat": "apple",
       "date": "2026-10-02",
@@ -152,13 +181,53 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-01",
       "title": "October 01, 2026",
       "summary": "BigQuery Change An updated version of the Simba JDBC driver for BigQuery is now available. Feature Chatting with graphs in conversational analytics is now generally available . You can use a combination of multiple graphs, tables, views, an",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_01_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-01",
+      "title": "7 AI search myths busted by data",
+      "summary": "AI is changing search, but some of the loudest claims about traffic, content, measurement, and SEO jobs don’t hold up when you check the numbers. The post 7 AI search myths busted by data appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/7-ai-search-myths-busted-by-data/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-10-01",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Payments, identity, authorization, infrastructure, and trust could keep autonomous purchasing “just around the corner” for years. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-10-01",
+      "title": "Marketing on LinkedIn: What you need to know",
+      "summary": "Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new Creator Discovery feature. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/linkedin-the-marketers-guide/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-10-01",
+      "title": "Get more from AI without spending more",
+      "summary": "AI usage gets expensive fast. Better prompting, reusable frameworks, prompt logs, and guardrails help teams get more, and spend less. The post Get more from AI without spending more appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/get-more-from-ai-without-spending-more/",
       "live": true
     },
     {
@@ -172,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-09-30",
       "title": "September 30, 2026",
@@ -182,7 +251,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-09-30",
+      "title": "Salesforce buys AI customer research startup Listen Labs",
+      "summary": "The AI research startup will bring customer interviews, analysis, and simulated customer behavior closer to Salesforce’s CRM and AI agents. The post Salesforce buys AI customer research startup Listen Labs appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/salesforce-buys-ai-customer-research-startup-listen-labs/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-09-29",
       "title": "September 29, 2026",
@@ -202,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-09-28",
       "title": "September 28, 2026",
@@ -212,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-09-24",
       "title": "September 24, 2026",
@@ -252,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-09-22",
       "title": "September 22, 2026",
@@ -282,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-09-21",
       "title": "September 21, 2026",
@@ -332,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-09-17",
       "title": "September 17, 2026",
@@ -362,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-09-16",
       "title": "September 16, 2026",
@@ -422,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-09-15",
       "title": "September 15, 2026",
@@ -442,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-09-14",
       "title": "September 14, 2026",
