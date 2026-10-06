@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T21:14:11.669380+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 103,
+  "generated_at": "2026-10-06T11:14:22.467069+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 95,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -125,7 +126,7 @@
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
-      "summary": "BigQuery Feature Iceberg external tables and Iceberg managed tables now support flexible column names by default. This feature is generally available (GA). Feature The gemini-embedding-2 model works well for embedding long strings, includin",
+      "summary": "Agent Platform Workbench Change 20261004.00_p0 Release Change Installed latest packages from upstream dependencies. Change The BigQuery JupyterLab plugin is now enabled independently of the Dataproc plugin: it is enabled by default and can ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_05_2026",
       "live": true
@@ -141,43 +142,33 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
       "date": "2026-10-05",
-      "title": "Apprenticeships are the key to saving early-career marketing roles",
-      "summary": "Junior roles face an unprecedented AI squeeze. Here is how to build structured apprenticeships to preserve the supply of marketing talent. The post Apprenticeships are the key to saving early-career marketing roles appeared first on MarTech",
-      "src": "MarTech.org",
-      "url": "https://martech.org/apprenticeships-are-the-key-to-saving-early-career-marketing-roles/",
+      "title": "Prepare and submit your apps for iPhone Duo",
+      "summary": "iPhone Duo will be available to customers starting October 23, 2026. To get your apps and games ready today, you can: Build or recompile with Xcode Recompile existing apps with Xcode 27.1, which adds development support for iPhone Duo. Use ",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=kkphp5qo",
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
+      "id": "live-Apple Developer News-1",
+      "cat": "apple",
       "date": "2026-10-05",
-      "title": "How to turn customer signals into smarter email automation",
-      "summary": "Use customer behavior, inaction, and contextual signals to build more relevant email automations and triggered campaigns. The post How to turn customer signals into smarter email automation appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-turn-customer-signals-into-smarter-email-automation/",
+      "title": "Showcase your apps with new assets on the App Store",
+      "summary": "Make your apps and games stand out with new creative assets on the App Store and asset management tools in App Store Connect. Market your app or game in new ways Use new creative assets on your product page headers and in search result asse",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=ljpl7kyn",
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
-      "date": "2026-10-05",
-      "title": "How to maximize ROI with first-party data strategies",
-      "summary": "Signal loss is forcing a shift to value-exchange collection and native identity resolution to protect pipeline revenue. The post How to maximize ROI with first-party data strategies appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-maximize-roi-with-first-party-data-strategies/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-10-05",
-      "title": "AI usage surges 6X for local search, fragmenting the digital ecosystem by SOCi",
-      "summary": "Local search behavior now straddles multiple platforms, with consumers traversing a 'verification loop' to find actionable information. The post AI usage surges 6X for local search, fragmenting the digital ecosystem appeared first on MarTec",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-usage-surges-6x-for-local-search-fragmenting-the-digital-ecosystem/",
+      "date": "2026-10-04",
+      "title": "October 04, 2026",
+      "summary": "Agent Platform Workbench Change 20261004-2230-rc0 Release Change 20261004-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Change The BigQuery Jupyter",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_04_2026",
       "live": true
     },
     {
@@ -201,27 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-02",
-      "title": "B2B marketing doesn’t have an ROI problem. It has an evidence problem.",
-      "summary": "Connect buyer journeys, marketing influence, and revenue across the B2B sales cycle — beyond campaign-level reporting. The post B2B marketing doesn’t have an ROI problem. It has an evidence problem. appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/b2b-marketing-doesnt-have-an-roi-problem-it-has-an-evidence-problem/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-02",
-      "title": "AI is making customers expect more and tolerate less",
-      "summary": "Faster service is part of AI’s promise. Customers aren't impressed when speed comes with unresolved problems and no easy way to reach a person. The post AI is making customers expect more and tolerate less appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-is-making-customers-expect-more-and-tolerate-less/",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-10-02",
       "title": "Updates to Full Disk Access in macOS",
@@ -241,27 +212,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-01",
-      "title": "7 AI search myths busted by data",
-      "summary": "AI is changing search, but some of the loudest claims about traffic, content, measurement, and SEO jobs don’t hold up when you check the numbers. The post 7 AI search myths busted by data appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/7-ai-search-myths-busted-by-data/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-01",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Payments, identity, authorization, infrastructure, and trust could keep autonomous purchasing “just around the corner” for years. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-10-01",
       "title": "Upcoming expiration of Developer ID Certification Authority (Sub-CA)",
@@ -421,7 +372,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-09-18",
       "title": "Build for iPhone Duo with new resources",
@@ -491,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-09-16",
       "title": "Get ready with the latest beta releases",
@@ -501,7 +452,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-09-16",
       "title": "Get your subscriptions ready for iOS 27",
@@ -511,23 +462,13 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-09-16",
       "title": "Updates to App Tracking Transparency in the European Union",
       "summary": "As part of agreements with select European competition authorities, Apple is introducing changes to its App Tracking Transparency framework in the European Union. Beginning with iOS 27.2 and iPadOS 27.2, developers will have the option to u",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=idsft9ai",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-18",
-      "cat": "general",
-      "date": "2026-09-15",
-      "title": "September 15, 2026",
-      "summary": "Artifact Registry Feature Artifact Registry support for managing Conda packages with Artifact Registry repositories is in Preview . For more information, see Get started with Conda packages . Batch Issue A workaround has been added for the ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_15_2026",
       "live": true
     },
     {
@@ -608,26 +549,6 @@
       "summary": "Google Tag Manager has a new, AI-powered feature. It&rsquo;s not flashy, it&rsquo;s not prominent, and it&rsquo;s not something you&rsquo;d make a big deal out of. However, it contributes to an absolutely vital part of container management ",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/gtmtips/automatically-generate-version-information-in-gtm/",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-6",
-      "cat": "apple",
-      "date": "2026-09-09",
-      "title": "Get ready for iPhone Duo",
-      "summary": "Start getting ready for iPhone Duo today. Watch new videos, sign up for Group Labs, and take part in Q&As on the Apple Developer Forums. Explore now",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=vn8abkxx",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-09-09",
-      "title": "App Store submissions now open for the latest OS releases",
-      "summary": "iOS 27, iPadOS 27, macOS 27, tvOS 27, visionOS 27, and watchOS 27 will soon be available to customers worldwide, which means you can now submit apps and games that take advantage of the latest Apple technologies and innovations like Apple I",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=k1mtkt1k",
       "live": true
     },
     {
