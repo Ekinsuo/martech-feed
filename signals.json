@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T11:14:22.467069+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 95,
+  "generated_at": "2026-10-06T18:56:58.600304+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -122,7 +121,57 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-06",
+      "title": "Treasure AI takes on two martech headaches at once",
+      "summary": "Personalization Studio targets marketers’ dependence on technical teams. A new pricing model ties email costs more closely to engagement. The post Treasure AI takes on two martech headaches at once appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/treasure-ai-takes-on-two-martech-headaches-at-once/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-06",
+      "title": "How to strengthen your brand story to improve AEO visibility",
+      "summary": "What others say about your brand can influence how it appears in AI answers. Learn how to audit, update, and reinforce your brand story across the web. The post How to strengthen your brand story to improve AEO visibility appeared first on ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-strengthen-your-brand-story-to-improve-aeo-visibility/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-06",
+      "title": "OpenAI adds visuals to ChatGPT ads",
+      "summary": "OpenAI is expanding ChatGPT ads with visual formats and better measurement, but bots are already inflating click through numbers. The post OpenAI adds visuals to ChatGPT ads appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/openai-ads-visuals-to-chatgpt-ad/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-06",
+      "title": "How to tell if AI advice is worth your attention",
+      "summary": "Before adopting the latest AI tactic, look for evidence, experience, and results you can replicate — and make sure the solution solves a real problem. The post How to tell if AI advice is worth your attention appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-tell-if-ai-advice-is-worth-your-attention/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-10-06",
+      "title": "Hello Developer: October 2026",
+      "summary": "In this edition: Get tips on submitting your iPhone Duo app. Sign up for new iPhone Duo Group Labs. Join us for a new developer event on speed and efficiency. Explore localized documentation. Browse new App Store creative assets. Read now",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=gv788oj6",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
@@ -142,7 +191,47 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-10-05",
+      "title": "Apprenticeships are the key to saving early-career marketing roles",
+      "summary": "Junior roles face an unprecedented AI squeeze. Here is how to build structured apprenticeships to preserve the supply of marketing talent. The post Apprenticeships are the key to saving early-career marketing roles appeared first on MarTech",
+      "src": "MarTech.org",
+      "url": "https://martech.org/apprenticeships-are-the-key-to-saving-early-career-marketing-roles/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-10-05",
+      "title": "How to turn customer signals into smarter email automation",
+      "summary": "Use customer behavior, inaction, and contextual signals to build more relevant email automations and triggered campaigns. The post How to turn customer signals into smarter email automation appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-turn-customer-signals-into-smarter-email-automation/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-10-05",
+      "title": "How to maximize ROI with first-party data strategies",
+      "summary": "Signal loss is forcing a shift to value-exchange collection and native identity resolution to protect pipeline revenue. The post How to maximize ROI with first-party data strategies appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-maximize-roi-with-first-party-data-strategies/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-10-05",
+      "title": "AI usage surges 6X for local search, fragmenting the digital ecosystem by SOCi",
+      "summary": "Local search behavior now straddles multiple platforms, with consumers traversing a 'verification loop' to find actionable information. The post AI usage surges 6X for local search, fragmenting the digital ecosystem appeared first on MarTec",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-usage-surges-6x-for-local-search-fragmenting-the-digital-ecosystem/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-10-05",
       "title": "Prepare and submit your apps for iPhone Duo",
@@ -152,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-10-05",
       "title": "Showcase your apps with new assets on the App Store",
@@ -162,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-04",
       "title": "October 04, 2026",
@@ -172,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-02",
       "title": "October 02, 2026",
@@ -192,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-10-02",
       "title": "Updates to Full Disk Access in macOS",
@@ -202,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-01",
       "title": "October 01, 2026",
@@ -212,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-10-01",
       "title": "Upcoming expiration of Developer ID Certification Authority (Sub-CA)",
@@ -222,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-09-30",
       "title": "September 30, 2026",
@@ -232,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-09-29",
       "title": "September 29, 2026",
@@ -252,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-09-28",
       "title": "September 28, 2026",
@@ -262,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-09-24",
       "title": "September 24, 2026",
@@ -302,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-09-22",
       "title": "September 22, 2026",
@@ -332,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-09-21",
       "title": "September 21, 2026",
@@ -372,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-09-18",
       "title": "Build for iPhone Duo with new resources",
@@ -382,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-09-17",
       "title": "September 17, 2026",
@@ -412,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-09-16",
       "title": "September 16, 2026",
@@ -442,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-09-16",
       "title": "Get ready with the latest beta releases",
@@ -452,23 +541,13 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-09-16",
       "title": "Get your subscriptions ready for iOS 27",
       "summary": "Discover how you can expand the reach of your subscriptions with new features in iOS 27. You can start preparing today by making sure your apps use StoreKit 2 to handle your Apple In-App Purchases. Request access to Bundles and Suites Offer",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=likeohx4",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-09-16",
-      "title": "Updates to App Tracking Transparency in the European Union",
-      "summary": "As part of agreements with select European competition authorities, Apple is introducing changes to its App Tracking Transparency framework in the European Union. Beginning with iOS 27.2 and iPadOS 27.2, developers will have the option to u",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=idsft9ai",
       "live": true
     },
     {
