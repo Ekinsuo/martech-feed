@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T11:02:47.319849+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 103,
+  "generated_at": "2026-10-07T19:24:03.754904+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 95,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -121,6 +122,66 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-10-07",
+      "title": "How to use BigQuery’s AI Functions",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/how-to-use-bigquerys-ai-functions-87e12499da5e?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-1",
+      "cat": "sgtm",
+      "date": "2026-10-07",
+      "title": "BigQuery Working Examples: AI.KEY_DRIVERS",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-key-drivers-7e1ffeffe435?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-2",
+      "cat": "sgtm",
+      "date": "2026-10-07",
+      "title": "BigQuery Working Examples: AI.FORECAST",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-forecast-64d81558cf5b?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-3",
+      "cat": "sgtm",
+      "date": "2026-10-07",
+      "title": "BigQuery Working Examples: AI.CAUSAL_EFFECT",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-causal-effect-69b213a69770?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-4",
+      "cat": "sgtm",
+      "date": "2026-10-07",
+      "title": "BigQuery Working Examples: ML.CORRELATION",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ml-correlation-a018c95a4206?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-5",
+      "cat": "sgtm",
+      "date": "2026-10-07",
+      "title": "BigQuery Working Examples: ML.METRICS",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ml-metrics-eae526556230?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-10-06",
@@ -128,46 +189,6 @@
       "summary": "AI Hypercomputer Feature Generally available : When you reserve compute resources for creating GPU instances through your account team, you can include a Hyperdisk pool in the same request or in a subsequent request. This option helps ensur",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_06_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
-      "date": "2026-10-06",
-      "title": "Treasure AI takes on two martech headaches at once",
-      "summary": "Personalization Studio targets marketers’ dependence on technical teams. A new pricing model ties email costs more closely to engagement. The post Treasure AI takes on two martech headaches at once appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/treasure-ai-takes-on-two-martech-headaches-at-once/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-10-06",
-      "title": "How to strengthen your brand story to improve AEO visibility",
-      "summary": "What others say about your brand can influence how it appears in AI answers. Learn how to audit, update, and reinforce your brand story across the web. The post How to strengthen your brand story to improve AEO visibility appeared first on ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-strengthen-your-brand-story-to-improve-aeo-visibility/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-10-06",
-      "title": "OpenAI adds visuals to ChatGPT ads",
-      "summary": "OpenAI is expanding ChatGPT ads with visual formats and better measurement, but bots are already inflating click through numbers. The post OpenAI adds visuals to ChatGPT ads appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/openai-ads-visuals-to-chatgpt-ad/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-10-06",
-      "title": "How to tell if AI advice is worth your attention",
-      "summary": "Before adopting the latest AI tactic, look for evidence, experience, and results you can replicate — and make sure the solution solves a real problem. The post How to tell if AI advice is worth your attention appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-tell-if-ai-advice-is-worth-your-attention/",
       "live": true
     },
     {
@@ -191,53 +212,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-05",
       "title": "BigQuery Adds AI.KEY_DRIVERS and a New Security Center",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/bigquery-adds-ai-key-drivers-and-a-new-security-center-843b10b27532?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-05",
-      "title": "Apprenticeships are the key to saving early-career marketing roles",
-      "summary": "Junior roles face an unprecedented AI squeeze. Here is how to build structured apprenticeships to preserve the supply of marketing talent. The post Apprenticeships are the key to saving early-career marketing roles appeared first on MarTech",
-      "src": "MarTech.org",
-      "url": "https://martech.org/apprenticeships-are-the-key-to-saving-early-career-marketing-roles/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-05",
-      "title": "How to turn customer signals into smarter email automation",
-      "summary": "Use customer behavior, inaction, and contextual signals to build more relevant email automations and triggered campaigns. The post How to turn customer signals into smarter email automation appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-turn-customer-signals-into-smarter-email-automation/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-05",
-      "title": "How to maximize ROI with first-party data strategies",
-      "summary": "Signal loss is forcing a shift to value-exchange collection and native identity resolution to protect pipeline revenue. The post How to maximize ROI with first-party data strategies appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-maximize-roi-with-first-party-data-strategies/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-05",
-      "title": "AI usage surges 6X for local search, fragmenting the digital ecosystem by SOCi",
-      "summary": "Local search behavior now straddles multiple platforms, with consumers traversing a 'verification loop' to find actionable information. The post AI usage surges 6X for local search, fragmenting the digital ecosystem appeared first on MarTec",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-usage-surges-6x-for-local-search-fragmenting-the-digital-ecosystem/",
       "live": true
     },
     {
@@ -281,7 +262,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-02",
       "title": "“Finally, a Conversions API setup that doesn’t require web developers” — Read this before acting",
@@ -411,16 +392,6 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
-      "cat": "sgtm",
-      "date": "2026-09-22",
-      "title": "BigQuery’s AI agents, August to September 2026: A timeline of access and guardrails",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/bigquerys-ai-agents-august-to-september-2026-a-timeline-of-access-and-guardrails-3546d758155f?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
       "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-09-22",
@@ -438,16 +409,6 @@
       "summary": "Access Context Manager Feature Access Context Manager supports extended session length for Workforce Identity Federation. This feature is in Preview for Looker (Google Cloud core) customers. For more information, see Configure extended sess",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_21_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-3",
-      "cat": "sgtm",
-      "date": "2026-09-21",
-      "title": "Google adds diagnostics, a new uplift metric and Meridian integration to Data Manager",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/google-adds-diagnostics-a-new-uplift-metric-and-meridian-integration-to-data-manager-07a547d6af40?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -511,26 +472,6 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
-      "cat": "sgtm",
-      "date": "2026-09-16",
-      "title": "How to Build a Data Agent in BigQuery Conversational Analytics",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/how-to-build-a-data-agent-in-bigquery-conversational-analytics-eb15f9266ccc?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-5",
-      "cat": "sgtm",
-      "date": "2026-09-16",
-      "title": "Explaining BigQuery Conversational Analytics",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/explaining-bigquery-conversational-analytics-6c797ff2cd88?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
       "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-09-16",
@@ -548,26 +489,6 @@
       "summary": "Discover how you can expand the reach of your subscriptions with new features in iOS 27. You can start preparing today by making sure your apps use StoreKit 2 to handle your Apple In-App Purchases. Request access to Bundles and Suites Offer",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=likeohx4",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-6",
-      "cat": "sgtm",
-      "date": "2026-09-15",
-      "title": "Google is testing payments to publishers for content used in AI answers",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/google-is-testing-payments-to-publishers-for-content-used-in-ai-answers-4bac2ff6482a?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-09-14",
-      "title": "Exploring Databricks’ Lakehouse Industry Data Models",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/exploring-databricks-lakehouse-industry-data-models-8cc9e8d890ca?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
