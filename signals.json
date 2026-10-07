@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:56:58.600304+00:00",
+  "generated_at": "2026-10-07T11:02:47.319849+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -120,6 +120,16 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-10-06",
+      "title": "October 06, 2026",
+      "summary": "AI Hypercomputer Feature Generally available : When you reserve compute resources for creating GPU instances through your account team, you can include a Hyperdisk pool in the same request or in a subsequent request. This option helps ensur",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_06_2026",
+      "live": true
+    },
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
@@ -498,16 +508,6 @@
       "summary": "submit page with an AI-suggested version summary The AI summarizes the changes in the workspace and automatically proposes a Version Name and Version Description",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-18",
-      "cat": "general",
-      "date": "2026-09-16",
-      "title": "September 16, 2026",
-      "summary": "Backup and DR Feature You can now use auto-protection policies and resource labels to automatically protect Compute Engine instances and Persistent Disks at scale in Backup and DR. This feature allows you to automatically assign a backup pl",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_16_2026",
       "live": true
     },
     {
