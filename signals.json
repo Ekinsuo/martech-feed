@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T19:24:03.754904+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 95,
+  "generated_at": "2026-10-08T11:19:58.235622+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "name": "Looker Studio Release Notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -121,6 +120,26 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-08",
+      "title": "Agentic media buying needs malware guardrails: A PropellerAds view by PropellerAds",
+      "summary": "As AI takes on more campaign decisions, traffic-quality and security signals need to become part of the optimization logic. The post Agentic media buying needs malware guardrails: A PropellerAds view appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/agentic-media-buying-needs-malware-guardrails-a-propellerads-view/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-10-07",
+      "title": "October 07, 2026",
+      "summary": "Apigee hybrid Announcement v1.14.9 On October 7, 2026 we released an updated version of the Apigee hybrid software, v1.14.9. For information on upgrading, see Upgrading Apigee hybrid to version v1.14.9 . For information on new installations",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_07_2026",
+      "live": true
+    },
     {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
@@ -182,13 +201,83 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-07",
+      "title": "Classic marketing automation is dead: What’s next?",
+      "summary": "Rule-based automation is giving way to truly autonomous marketing. Discover how human-in-the-loop design frees your team to focus on real business outcomes. The post Classic marketing automation is dead: What’s next? appeared first on MarTe",
+      "src": "MarTech.org",
+      "url": "https://martech.org/classic-marketing-automation-is-dead-whats-next/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-07",
+      "title": "When marketing automation moves too fast",
+      "summary": "Hyper-efficient funnels may boost short-term performance while eroding trust and marketer agency. Here’s where to draw the line. The post When marketing automation moves too fast appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/when-marketing-automation-moves-too-fast/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-07",
+      "title": "20 years and billions of dollars later, CX still has the same problem",
+      "summary": "Despite decades of CX investment, companies still struggle to deliver the experiences they think they do. Here’s what’s getting in the way. The post 20 years and billions of dollars later, CX still has the same problem appeared first on Mar",
+      "src": "MarTech.org",
+      "url": "https://martech.org/20-years-and-billions-of-dollars-later-cx-still-has-the-same-problem/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-10-07",
+      "title": "Stop letting AI make your marketing decisions by Brick Marketing",
+      "summary": "AI can support marketing implementation, but experienced marketers must guide strategy, evaluate work and stay accountable for results. The post Stop letting AI make your marketing decisions appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/stop-letting-ai-make-your-marketing-decisions/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-06",
       "title": "October 06, 2026",
       "summary": "AI Hypercomputer Feature Generally available : When you reserve compute resources for creating GPU instances through your account team, you can include a Hyperdisk pool in the same request or in a subsequent request. This option helps ensur",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_06_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-10-06",
+      "title": "Treasure AI takes on two martech headaches at once",
+      "summary": "Personalization Studio targets marketers’ dependence on technical teams. A new pricing model ties email costs more closely to engagement. The post Treasure AI takes on two martech headaches at once appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/treasure-ai-takes-on-two-martech-headaches-at-once/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-10-06",
+      "title": "How to strengthen your brand story to improve AEO visibility",
+      "summary": "What others say about your brand can influence how it appears in AI answers. Learn how to audit, update, and reinforce your brand story across the web. The post How to strengthen your brand story to improve AEO visibility appeared first on ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-strengthen-your-brand-story-to-improve-aeo-visibility/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-10-06",
+      "title": "OpenAI adds visuals to ChatGPT ads",
+      "summary": "OpenAI is expanding ChatGPT ads with visual formats and better measurement, but bots are already inflating click through numbers. The post OpenAI adds visuals to ChatGPT ads appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/openai-ads-visuals-to-chatgpt-ad/",
       "live": true
     },
     {
@@ -202,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
@@ -242,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-10-04",
       "title": "October 04, 2026",
@@ -252,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-02",
       "title": "October 02, 2026",
@@ -282,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-01",
       "title": "October 01, 2026",
@@ -302,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-09-30",
       "title": "September 30, 2026",
@@ -312,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-09-29",
       "title": "September 29, 2026",
@@ -332,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-09-28",
       "title": "September 28, 2026",
@@ -342,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-09-24",
       "title": "September 24, 2026",
@@ -382,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-09-22",
       "title": "September 22, 2026",
@@ -402,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-09-21",
       "title": "September 21, 2026",
@@ -442,13 +531,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
-      "cat": "general",
+      "id": "live-Looker Release Notes-3",
+      "cat": "looker",
       "date": "2026-09-17",
       "title": "September 17, 2026",
-      "summary": "Anti Money Laundering AI Announcement New minor engine versions released for the retail line of business within the v004.005 , v004.009 , and v004.010 version lines ( aml-retail.default.v004.005.202608-000 , aml-retail.default.v004.009.2026",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_17_2026",
+      "summary": "Deployment dates Announcement Looker 26.18 will roll out to Looker (original) instances on the following schedule: Expected deployment start: Monday, September 21, 2026 Expected final deployment and download available: Sunday, October 4, 20",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#September_17_2026",
       "live": true
     },
     {
