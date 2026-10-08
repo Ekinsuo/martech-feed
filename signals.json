@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T11:19:58.235622+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 104,
+  "generated_at": "2026-10-08T19:19:29.015619+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 97,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -95,7 +96,7 @@
       "name": "EDPB — GDPR news",
       "cat": "privacy",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "name": "GTM / Tag Gateway — Release notes",
@@ -121,21 +122,61 @@
   ],
   "signals": [
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-10-08",
-      "title": "Agentic media buying needs malware guardrails: A PropellerAds view by PropellerAds",
-      "summary": "As AI takes on more campaign decisions, traffic-quality and security signals need to become part of the optimization logic. The post Agentic media buying needs malware guardrails: A PropellerAds view appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/agentic-media-buying-needs-malware-guardrails-a-propellerads-view/",
+      "title": "October 08, 2026",
+      "summary": "BigQuery Feature You can use Gemini assistance in the BigQuery Studio SQL editor through an inline action button when you select text. For more information, see Write SQL with Gemini assistance . This feature is generally available (GA). Cl",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_08_2026",
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-10-08",
+      "title": "Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
+      "summary": "Background information Date of final decision: 22/09/2026 National case Legal Reference(s): Article 32 (Security of processing) Decision: Administrative fine Website topics: Cybersecurity, personal data breaches Summary of the Decision Orig",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/swedish-dpa-fines-miljodata-i-karlskrona-approximately-eur-160-000-for-insufficient-technical_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-1",
+      "cat": "privacy",
+      "date": "2026-10-08",
+      "title": "Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs",
+      "summary": "Background information Date of final decision: 28/07/2026 National case Controller: Ministry of Social Cohesion and Family Affairs Legal Reference(s): Article 25 (Data protection by design and by default), Article 28 (Processor), Article 32",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-2",
+      "cat": "privacy",
+      "date": "2026-10-08",
+      "title": "Dutch DPA fines Uber EUR 824 990 000 for unlawful automated decision-making and insufficient information on profiling",
+      "summary": "Background information Cross-border case Legal Reference(s): Article 22 (Automated individual decision making, including profiling) and Article 13 (Information to be provided where personal data are collected from the data subject) Decision",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
+      "live": true
+    },
+    {
+      "id": "scrape-sGTM — Release notes-0",
+      "cat": "sgtm",
+      "date": "2026-10-08",
+      "title": ") Updated base image version for security updates",
+      "summary": "4.4.0 (",
+      "src": "sGTM — Release notes",
+      "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-07",
       "title": "October 07, 2026",
-      "summary": "Apigee hybrid Announcement v1.14.9 On October 7, 2026 we released an updated version of the Apigee hybrid software, v1.14.9. For information on upgrading, see Upgrading Apigee hybrid to version v1.14.9 . For information on new installations",
+      "summary": "Anti Money Laundering AI Announcement New minor engine version released for the commercial line of business within the v004.005 version line ( aml-commercial.default.v004.005.202609-000 ). This version extends support for the major engine v",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_07_2026",
       "live": true
@@ -201,83 +242,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-10-07",
-      "title": "Classic marketing automation is dead: What’s next?",
-      "summary": "Rule-based automation is giving way to truly autonomous marketing. Discover how human-in-the-loop design frees your team to focus on real business outcomes. The post Classic marketing automation is dead: What’s next? appeared first on MarTe",
-      "src": "MarTech.org",
-      "url": "https://martech.org/classic-marketing-automation-is-dead-whats-next/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-10-07",
-      "title": "When marketing automation moves too fast",
-      "summary": "Hyper-efficient funnels may boost short-term performance while eroding trust and marketer agency. Here’s where to draw the line. The post When marketing automation moves too fast appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/when-marketing-automation-moves-too-fast/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-10-07",
-      "title": "20 years and billions of dollars later, CX still has the same problem",
-      "summary": "Despite decades of CX investment, companies still struggle to deliver the experiences they think they do. Here’s what’s getting in the way. The post 20 years and billions of dollars later, CX still has the same problem appeared first on Mar",
-      "src": "MarTech.org",
-      "url": "https://martech.org/20-years-and-billions-of-dollars-later-cx-still-has-the-same-problem/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-07",
-      "title": "Stop letting AI make your marketing decisions by Brick Marketing",
-      "summary": "AI can support marketing implementation, but experienced marketers must guide strategy, evaluate work and stay accountable for results. The post Stop letting AI make your marketing decisions appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/stop-letting-ai-make-your-marketing-decisions/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-06",
       "title": "October 06, 2026",
       "summary": "AI Hypercomputer Feature Generally available : When you reserve compute resources for creating GPU instances through your account team, you can include a Hyperdisk pool in the same request or in a subsequent request. This option helps ensur",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_06_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-06",
-      "title": "Treasure AI takes on two martech headaches at once",
-      "summary": "Personalization Studio targets marketers’ dependence on technical teams. A new pricing model ties email costs more closely to engagement. The post Treasure AI takes on two martech headaches at once appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/treasure-ai-takes-on-two-martech-headaches-at-once/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-06",
-      "title": "How to strengthen your brand story to improve AEO visibility",
-      "summary": "What others say about your brand can influence how it appears in AI answers. Learn how to audit, update, and reinforce your brand story across the web. The post How to strengthen your brand story to improve AEO visibility appeared first on ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-strengthen-your-brand-story-to-improve-aeo-visibility/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-06",
-      "title": "OpenAI adds visuals to ChatGPT ads",
-      "summary": "OpenAI is expanding ChatGPT ads with visual formats and better measurement, but bots are already inflating click through numbers. The post OpenAI adds visuals to ChatGPT ads appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/openai-ads-visuals-to-chatgpt-ad/",
       "live": true
     },
     {
@@ -291,7 +262,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
@@ -331,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-04",
       "title": "October 04, 2026",
@@ -341,7 +312,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-02",
       "title": "October 02, 2026",
@@ -371,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-01",
       "title": "October 01, 2026",
@@ -391,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-09-30",
       "title": "September 30, 2026",
@@ -401,7 +372,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-09-29",
       "title": "September 29, 2026",
@@ -421,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-09-28",
       "title": "September 28, 2026",
@@ -431,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-09-24",
       "title": "September 24, 2026",
@@ -461,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-09-23",
       "title": "The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data",
@@ -471,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-09-22",
       "title": "September 22, 2026",
@@ -481,7 +452,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-09-22",
       "title": "The Spanish DPA fined Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
@@ -491,17 +462,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
-      "date": "2026-09-21",
-      "title": "September 21, 2026",
-      "summary": "Access Context Manager Feature Access Context Manager supports extended session length for Workforce Identity Federation. This feature is in Preview for Looker (Google Cloud core) customers. For more information, see Configure extended sess",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_21_2026",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-2",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-09-21",
       "title": "EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines",
@@ -591,7 +552,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-09-11",
       "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA EUR 300 000",
@@ -641,7 +602,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-09-09",
       "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire EUR 500 000",
@@ -678,16 +639,6 @@
       "summary": "It’s that exciting time of year again when we start considering Interop proposals for next year!",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18283/submit-your-ideas-for-interop-2027/",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-5",
-      "cat": "privacy",
-      "date": "2026-09-03",
-      "title": "Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)",
-      "summary": "Background information Date of final decision: 28 August 2026 National case Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 32 (Security of processing), Article 33 (Notification of a personal data",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/data-protection-commission-announces-final-decision-following-inquiry-into-the-health-service_en",
       "live": true
     },
     {
@@ -831,16 +782,6 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
-      "cat": "privacy",
-      "date": "2026-07-30",
-      "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: agenda now available",
-      "summary": "Brussels, 30 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming guidelines on the interplay between competition and data protection . The event will take place on 1",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law-0_en",
-      "live": true
-    },
-    {
       "id": "scrape-GA4 — What's new-21",
       "cat": "ga4",
       "date": "2026-07-30",
@@ -868,16 +809,6 @@
       "summary": "import to require a currency field whenever you upload cost data This ensures your campaign reporting stays accurate, even if you decide to make changes to your property's currency settings. When importing your campaign data, you can now ch",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-sGTM — Release notes-0",
-      "cat": "sgtm",
-      "date": "2026-07-22",
-      "title": ") Updated base image version for security updates",
-      "summary": "4.3.0 (",
-      "src": "sGTM — Release notes",
-      "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
       "live": true
     },
     {
