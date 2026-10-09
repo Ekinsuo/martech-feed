@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T11:18:05.421836+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 105,
+  "generated_at": "2026-10-09T18:52:39.752666+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 97,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -121,6 +122,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-10-09",
+      "title": "October 09, 2026",
+      "summary": "Datastream Feature Datastream now supports replicating SQL Server GEOMETRY and GEOGRAPHY spatial data types. For more information, see the following: Map SQL Server data types to Datastream unified types Data type mappings in BigQuery Gemin",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_09_2026",
+      "live": true
+    },
+    {
       "id": "live-EDPB — GDPR news-0",
       "cat": "privacy",
       "date": "2026-10-09",
@@ -161,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-08",
       "title": "October 08, 2026",
@@ -178,46 +189,6 @@
       "summary": "Today we’re announcing the general availability of Structured Data Files v11 . All users can now use v11 when downloading and uploading SDFs in the Display & Video 360 interface. SDF v11 includes the following changes: Expanded the availabi",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/5203242952721643263",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
-      "date": "2026-10-08",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "General AI is generally fine, but a new study shows that for SEO problems you should get a specialist. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-10-08",
-      "title": "More buyer signals won’t tell you what buyers need next",
-      "summary": "Clicks, visits, and engagement scores show what buyers did. Better marketing starts with understanding what they’re trying to accomplish. The post More buyer signals won’t tell you what buyers need next appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/more-buyer-signals-wont-tell-you-what-buyers-need-next/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-10-08",
-      "title": "Brand measurement needs a new source of truth",
-      "summary": "AI makes it possible to combine search, social, ecommerce, and commercial signals for a more continuous view of brand health. The post Brand measurement needs a new source of truth appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/brand-measurement-needs-a-new-source-of-truth/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-10-08",
-      "title": "Agentic media buying needs malware guardrails: A PropellerAds view by PropellerAds",
-      "summary": "As AI takes on more campaign decisions, traffic-quality and security signals need to become part of the optimization logic. The post Agentic media buying needs malware guardrails: A PropellerAds view appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/agentic-media-buying-needs-malware-guardrails-a-propellerads-view/",
       "live": true
     },
     {
@@ -281,7 +252,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-07",
       "title": "October 07, 2026",
@@ -351,47 +322,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-07",
-      "title": "Classic marketing automation is dead: What’s next?",
-      "summary": "Rule-based automation is giving way to truly autonomous marketing. Discover how human-in-the-loop design frees your team to focus on real business outcomes. The post Classic marketing automation is dead: What’s next? appeared first on MarTe",
-      "src": "MarTech.org",
-      "url": "https://martech.org/classic-marketing-automation-is-dead-whats-next/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-07",
-      "title": "When marketing automation moves too fast",
-      "summary": "Hyper-efficient funnels may boost short-term performance while eroding trust and marketer agency. Here’s where to draw the line. The post When marketing automation moves too fast appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/when-marketing-automation-moves-too-fast/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-07",
-      "title": "20 years and billions of dollars later, CX still has the same problem",
-      "summary": "Despite decades of CX investment, companies still struggle to deliver the experiences they think they do. Here’s what’s getting in the way. The post 20 years and billions of dollars later, CX still has the same problem appeared first on Mar",
-      "src": "MarTech.org",
-      "url": "https://martech.org/20-years-and-billions-of-dollars-later-cx-still-has-the-same-problem/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-07",
-      "title": "Stop letting AI make your marketing decisions by Brick Marketing",
-      "summary": "AI can support marketing implementation, but experienced marketers must guide strategy, evaluate work and stay accountable for results. The post Stop letting AI make your marketing decisions appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/stop-letting-ai-make-your-marketing-decisions/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-10-06",
       "title": "October 06, 2026",
@@ -411,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
@@ -451,7 +382,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "scrape-GA4 — What's new-17",
+      "cat": "ga4",
+      "date": "2026-10-05",
+      "title": "User Groups Admin API Google Analytics now supports a…",
+      "summary": "User Groups Admin API, allowing you to manage user group access to your Google Analytics properties and accounts at scale User groups simplify the process of managing access for large teams, and the User Groups API enables you to maintain a",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-04",
       "title": "October 04, 2026",
@@ -461,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-02",
       "title": "October 02, 2026",
@@ -491,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-01",
       "title": "October 01, 2026",
@@ -511,7 +452,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-09-30",
       "title": "September 30, 2026",
@@ -521,7 +462,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-09-29",
       "title": "September 29, 2026",
@@ -531,7 +472,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-16",
+      "id": "scrape-GA4 — What's new-18",
       "cat": "ga4",
       "date": "2026-09-29",
       "title": "Improved app conversion management and reporting capabilities for Google…",
@@ -541,7 +482,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-09-28",
       "title": "September 28, 2026",
@@ -551,7 +492,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-09-24",
       "title": "September 24, 2026",
@@ -591,17 +532,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
-      "date": "2026-09-22",
-      "title": "September 22, 2026",
-      "summary": "Access Approval Feature Developer Connect is generally available ( GA ). Access Transparency Feature Developer Connect is generally available ( GA ). BigQuery Feature You can now publish a BigQuery data agent in Gemini Enterprise by registe",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_22_2026",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-17",
+      "id": "scrape-GA4 — What's new-19",
       "cat": "ga4",
       "date": "2026-09-21",
       "title": "Hostname filters Google Analytics now supports Include data filters…",
@@ -721,7 +652,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-18",
+      "id": "scrape-GA4 — What's new-20",
       "cat": "ga4",
       "date": "2026-09-09",
       "title": "Dashboards Dashboards are now available in Google Analytics",
@@ -851,7 +782,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-19",
+      "id": "scrape-GA4 — What's new-21",
       "cat": "ga4",
       "date": "2026-08-11",
       "title": "Updated conversion window configuration Google Analytics conversions now…",
@@ -861,7 +792,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-20",
+      "id": "scrape-GA4 — What's new-22",
       "cat": "ga4",
       "date": "2026-08-10",
       "title": "Campaign data import validation report We’ve launched a new…",
@@ -871,7 +802,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-21",
+      "id": "scrape-GA4 — What's new-23",
       "cat": "ga4",
       "date": "2026-07-30",
       "title": "New diagnostic in Google Analytics for aggregate parameter issues…",
@@ -881,21 +812,11 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-22",
+      "id": "scrape-GA4 — What's new-24",
       "cat": "ga4",
       "date": "2026-07-28",
       "title": "Campaign data import currency update We've updated campaign data…",
       "summary": "import to require a currency field whenever you upload cost data This ensures your campaign reporting stays accurate, even if you decide to make changes to your property's currency settings. When importing your campaign data, you can now ch",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-23",
-      "cat": "ga4",
-      "date": "2026-07-13",
-      "title": "AdMob linking within Google Analytics Google Analytics now offers…",
-      "summary": "a direct, native product linking flow with AdMob within the Google Analytics Admin interface You will see a new \"AdMob Links\" option under the \"Product Links\" section in your Google Analytics Admin console. You can now manage connections be",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
