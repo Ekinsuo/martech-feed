@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:52:39.752666+00:00",
+  "generated_at": "2026-10-10T10:34:49.180485+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 97,
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -126,7 +126,7 @@
       "cat": "general",
       "date": "2026-10-09",
       "title": "October 09, 2026",
-      "summary": "Datastream Feature Datastream now supports replicating SQL Server GEOMETRY and GEOGRAPHY spatial data types. For more information, see the following: Map SQL Server data types to Datastream unified types Data type mappings in BigQuery Gemin",
+      "summary": "Cloud SQL for MySQL Feature When you enable Knowledge Catalog (formerly Dataplex Universal Catalog) integration on an eligible Cloud SQL for MySQL instance created before April 18, 2026 where the integration is currently turned off, the ins",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_09_2026",
       "live": true
@@ -176,7 +176,7 @@
       "cat": "general",
       "date": "2026-10-08",
       "title": "October 08, 2026",
-      "summary": "BigQuery Feature The following table types now support flexible column names by default: Iceberg external tables and Iceberg managed tables in BigQuery Apache Iceberg tables managed by the Lakehouse runtime catalog This feature is generally",
+      "summary": "Cloud SQL for MySQL Feature Cloud SQL for MySQL now supports the innodb_cloudsql_managed_buffer_pool_tuneup_pct database flag. Managed buffer pool automatically adjusts the InnoDB buffer pool size to reduce out-of-memory events. When instan",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_08_2026",
       "live": true
@@ -492,13 +492,23 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
+      "date": "2026-09-26",
+      "title": "September 26, 2026",
+      "summary": "Backup and DR Security Note: These fixes and updates are available starting with Backup and DR release 11.0.17.496. These fixes are not rolled out to the 11.0.16 release; we recommend upgrading the backup/recovery appliance to version 11.0.",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#September_26_2026",
+      "live": true
+    },
+    {
+      "id": "live-BigQuery Release Notes-7",
+      "cat": "bigquery",
       "date": "2026-09-24",
       "title": "September 24, 2026",
-      "summary": "Access Approval Feature Fault Injection Testing is generally available ( GA ). Access Transparency Feature Fault Injection Testing is generally available ( GA ). Apigee hybrid Announcement v1.15.8 On September 24, 2026 we released an update",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_24_2026",
+      "summary": "Feature In the BigQuery Studio query editor, the Query results table now keeps the row numbers visible on the left as you scroll horizontally. This helps you maintain context and track data across wide tables. This feature is generally avai",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#September_24_2026",
       "live": true
     },
     {
@@ -552,7 +562,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-09-17",
       "title": "September 17, 2026",
@@ -612,7 +622,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-09-10",
       "title": "September 10, 2026",
@@ -632,7 +642,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-09-09",
       "title": "September 09, 2026",
@@ -659,16 +669,6 @@
       "summary": "Dashboards are a highly flexible way to help businesses view their KPIs on a single report. This launch features enhanced UI capabilities, such as intuitive data visualization creation, drag-and-drop functionality, and new report visualizat",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-09-04",
-      "title": "September 04, 2026",
-      "summary": "Deployment dates Announcement Looker 26.16 will roll out to Looker (original) instances on the following schedule: Expected deployment start: Tuesday, September 8, 2026 Expected final deployment and download available: Sunday, September 20,",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#September_04_2026",
       "live": true
     },
     {
