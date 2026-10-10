@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T10:34:49.180485+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 97,
+  "generated_at": "2026-10-10T17:54:32.390357+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 105,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "name": "Looker Studio Release Notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -122,13 +121,43 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-09",
       "title": "October 09, 2026",
-      "summary": "Cloud SQL for MySQL Feature When you enable Knowledge Catalog (formerly Dataplex Universal Catalog) integration on an eligible Cloud SQL for MySQL instance created before April 18, 2026 where the integration is currently turned off, the ins",
+      "summary": "BigQuery Feature The BigQuery Data Engineering Agent is now available in the asia-northeast1 (Tokyo) regional endpoint and supports the gemini-3.5-flash model. For more information, see Where Gemini in BigQuery processes your data . This fe",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_09_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-09",
+      "title": "AI budgets are growing faster than proof of ROI",
+      "summary": "Companies are spending heavily on AI, but most agent projects are still short of full scale and many marketing teams can’t show clear financial value. The post AI budgets are growing faster than proof of ROI appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-budgets-are-growing-faster-than-proof-of-roi/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-09",
+      "title": "Why HIPAA compliance in martech goes beyond BAAs",
+      "summary": "A business associate agreement won't fix risky data flows. Here's what to check across tracking tools, EHR feeds, and ad platforms. The post Why HIPAA compliance in martech goes beyond BAAs appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-09",
+      "title": "Not everyone in marketing should be an AI builder",
+      "summary": "Marketing teams are rewarding AI builders, but they also need maintainers, monitors, and users. Here's why those roles matter. The post Not everyone in marketing should be an AI builder appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/not-everyone-in-marketing-should-be-an-ai-builder/",
       "live": true
     },
     {
@@ -172,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-08",
       "title": "October 08, 2026",
@@ -189,6 +218,46 @@
       "summary": "Today we’re announcing the general availability of Structured Data Files v11 . All users can now use v11 when downloading and uploading SDFs in the Display & Video 360 interface. SDF v11 includes the following changes: Expanded the availabi",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/5203242952721643263",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-08",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "General AI is generally fine, but a new study shows that for SEO problems you should get a specialist. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-10-08",
+      "title": "More buyer signals won’t tell you what buyers need next",
+      "summary": "Clicks, visits, and engagement scores show what buyers did. Better marketing starts with understanding what they’re trying to accomplish. The post More buyer signals won’t tell you what buyers need next appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/more-buyer-signals-wont-tell-you-what-buyers-need-next/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-10-08",
+      "title": "Brand measurement needs a new source of truth",
+      "summary": "AI makes it possible to combine search, social, ecommerce, and commercial signals for a more continuous view of brand health. The post Brand measurement needs a new source of truth appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/brand-measurement-needs-a-new-source-of-truth/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-10-08",
+      "title": "Agentic media buying needs malware guardrails: A PropellerAds view by PropellerAds",
+      "summary": "As AI takes on more campaign decisions, traffic-quality and security signals need to become part of the optimization logic. The post Agentic media buying needs malware guardrails: A PropellerAds view appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/agentic-media-buying-needs-malware-guardrails-a-propellerads-view/",
       "live": true
     },
     {
@@ -252,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-10-07",
       "title": "October 07, 2026",
@@ -322,7 +391,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-10-07",
+      "title": "Classic marketing automation is dead: What’s next?",
+      "summary": "Rule-based automation is giving way to truly autonomous marketing. Discover how human-in-the-loop design frees your team to focus on real business outcomes. The post Classic marketing automation is dead: What’s next? appeared first on MarTe",
+      "src": "MarTech.org",
+      "url": "https://martech.org/classic-marketing-automation-is-dead-whats-next/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-06",
       "title": "October 06, 2026",
@@ -342,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
@@ -392,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-04",
       "title": "October 04, 2026",
@@ -402,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-02",
       "title": "October 02, 2026",
@@ -432,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-01",
       "title": "October 01, 2026",
@@ -452,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-09-30",
       "title": "September 30, 2026",
@@ -462,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-09-29",
       "title": "September 29, 2026",
@@ -482,7 +561,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-09-28",
       "title": "September 28, 2026",
@@ -492,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-09-26",
       "title": "September 26, 2026",
@@ -502,13 +581,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
+      "id": "live-Looker Release Notes-4",
+      "cat": "looker",
       "date": "2026-09-24",
       "title": "September 24, 2026",
-      "summary": "Feature In the BigQuery Studio query editor, the Query results table now keeps the row numbers visible on the left as you scroll horizontally. This helps you maintain context and track data across wide tables. This feature is generally avai",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#September_24_2026",
+      "summary": "Deployment dates Announcement Beginning September 21, 2026, the following features will be automatically enabled for Looker (original) instances running Looker 26.16. Feature Looker now displays an Authorize OAuth Connection dialog when use",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#September_24_2026",
       "live": true
     },
     {
