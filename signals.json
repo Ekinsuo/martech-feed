@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12T11:55:05.664191+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 96,
+  "generated_at": "2026-10-12T21:46:56.429456+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 105,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -102,7 +101,7 @@
       "name": "GTM / Tag Gateway — Release notes",
       "cat": "gtm",
       "ok": true,
-      "items": 7,
+      "items": 8,
       "scraped": true
     },
     {
@@ -122,6 +121,66 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-10-12",
+      "title": "October 12, 2026",
+      "summary": "Agent Platform Workbench Change 20261011.00_p0 Release Change Installed latest packages from upstream dependencies. Fixed Fixed an issue where gcloud and gsutil failed to load with an AttributeError in OpenSSL.crypto due to a version mismat",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_12_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-10-12",
+      "title": "Google Ads API Release and Sunset Schedules for 2026-2027",
+      "summary": "Last year, we shifted to a monthly release schedule for the Google Ads API to provide you faster API access to Ads features available in the Google Ads UI . As we enter a new agentic era where speed and agility are paramount, we are thrille",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/8587091595154253104",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-10-12",
+      "title": "Checkout Page Tracking Scripts Disabled on Some Spotify Stores",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/checkout-page-tracking-scripts-disabled-on-some-spotify-stores-1d6c75b335e4?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-12",
+      "title": "How MOps teams are restructuring for autonomous AI agents",
+      "summary": "Managing autonomous software agents requires shifting marketing operations from manual execution to agent orchestration and systems oversight. The post How MOps teams are restructuring for autonomous AI agents appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-mops-teams-are-restructuring-for-autonomous-ai-agents/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-12",
+      "title": "Your social media following isn’t the asset you think it is",
+      "summary": "Every new piece of content shouldn't mean starting from zero. Learn how to turn fleeting social media attention into ongoing audience relationships. The post Your social media following isn t the asset you think it is appeared first on MarT",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-social-media-following-isnt-the-asset-you-think-it-is/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-12",
+      "title": "The state of AI in marketing: Q4 2026",
+      "summary": "Examining where AI stands in Q4 2026 reveals a key gap: moving beyond basic tools requires systemic change to unlock real business value. The post The state of AI in marketing: Q4 2026 appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-state-of-ai-in-marketing-q4-2026/",
+      "live": true
+    },
+    {
       "id": "live-EDPB — GDPR news-0",
       "cat": "privacy",
       "date": "2026-10-12",
@@ -132,13 +191,53 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "scrape-GTM / Tag Gateway — Release notes-0",
+      "cat": "gtm",
+      "date": "2026-10-12",
+      "title": "Optimizing Google Tag Manager containers This release introduces a…",
+      "summary": "new capability to Google Tag Manager containers to send data directly to Google measurement products This results in faster website performance, improved data collection, centralized settings management and user access directly in your GTM ",
+      "src": "GTM / Tag Gateway — Release notes",
+      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-10-09",
       "title": "October 09, 2026",
       "summary": "BigQuery Feature The BigQuery Data Engineering Agent is now available in the asia-northeast1 (Tokyo) regional endpoint and supports the gemini-3.5-flash model. For more information, see Where Gemini in BigQuery processes your data . This fe",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_09_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-09",
+      "title": "AI budgets are growing faster than proof of ROI",
+      "summary": "Companies are spending heavily on AI, but most agent projects are still short of full scale and many marketing teams can’t show clear financial value. The post AI budgets are growing faster than proof of ROI appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-budgets-are-growing-faster-than-proof-of-roi/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-10-09",
+      "title": "Why HIPAA compliance in martech goes beyond BAAs",
+      "summary": "A business associate agreement won't fix risky data flows. Here's what to check across tracking tools, EHR feeds, and ad platforms. The post Why HIPAA compliance in martech goes beyond BAAs appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-10-09",
+      "title": "Not everyone in marketing should be an AI builder",
+      "summary": "Marketing teams are rewarding AI builders, but they also need maintainers, monitors, and users. Here's why those roles matter. The post Not everyone in marketing should be an AI builder appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/not-everyone-in-marketing-should-be-an-ai-builder/",
       "live": true
     },
     {
@@ -182,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-08",
       "title": "October 08, 2026",
@@ -192,13 +291,33 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-10-08",
       "title": "Launching Structured Data Files v11",
       "summary": "Today we’re announcing the general availability of Structured Data Files v11 . All users can now use v11 when downloading and uploading SDFs in the Display & Video 360 interface. SDF v11 includes the following changes: Expanded the availabi",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/5203242952721643263",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-10-08",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "General AI is generally fine, but a new study shows that for SEO problems you should get a specialist. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-10-08",
+      "title": "More buyer signals won’t tell you what buyers need next",
+      "summary": "Clicks, visits, and engagement scores show what buyers did. Better marketing starts with understanding what they’re trying to accomplish. The post More buyer signals won’t tell you what buyers need next appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/more-buyer-signals-wont-tell-you-what-buyers-need-next/",
       "live": true
     },
     {
@@ -242,7 +361,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-0",
+      "id": "scrape-GTM / Tag Gateway — Release notes-1",
       "cat": "gtm",
       "date": "2026-10-08",
       "title": "Standardizing gtag('config') command behavior for Google Tag Manager Google…",
@@ -262,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-07",
       "title": "October 07, 2026",
@@ -272,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "How to use BigQuery’s AI Functions",
@@ -282,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: AI.KEY_DRIVERS",
@@ -292,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: AI.FORECAST",
@@ -302,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: AI.CAUSAL_EFFECT",
@@ -312,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: ML.CORRELATION",
@@ -322,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: ML.METRICS",
@@ -332,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-06",
       "title": "October 06, 2026",
@@ -352,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
@@ -362,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-05",
       "title": "BigQuery Adds AI.KEY_DRIVERS and a New Security Center",
@@ -402,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-04",
       "title": "October 04, 2026",
@@ -412,23 +531,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-10-02",
       "title": "October 02, 2026",
       "summary": "Apigee X Announcement On October 2, 2026, we released an updated version of Apigee (1-18-0-apigee-6). Note: Rollouts of this release began today and can take four or more business days to complete across all Google Cloud zones. Your instanc",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_02_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-02",
-      "title": "“Finally, a Conversions API setup that doesn’t require web developers” — Read this before acting",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/finally-a-conversions-api-setup-that-doesnt-require-web-developers-read-this-before-acting-97e5abc3399e?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -442,7 +551,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-10-01",
       "title": "October 01, 2026",
@@ -462,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-09-30",
       "title": "September 30, 2026",
@@ -472,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-09-29",
       "title": "September 29, 2026",
@@ -492,23 +601,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-09-28",
       "title": "September 28, 2026",
       "summary": "Agent Platform Workbench Change 20260927.00_p0 Release Change Installed latest packages from upstream dependencies. Security Bulk security patch remediating Critical and High-severity CVEs in the Workbench custom container images. Change 20",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#September_28_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-14",
-      "cat": "general",
-      "date": "2026-09-26",
-      "title": "September 26, 2026",
-      "summary": "Backup and DR Security Note: These fixes and updates are available starting with Backup and DR release 11.0.17.496. These fixes are not rolled out to the 11.0.16 release; we recommend upgrading the backup/recovery appliance to version 11.0.",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_26_2026",
       "live": true
     },
     {
@@ -522,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-09-23",
       "title": "Announcing v25.2 of the Google Ads API",
@@ -582,7 +681,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-1",
+      "id": "scrape-GTM / Tag Gateway — Release notes-2",
       "cat": "gtm",
       "date": "2026-09-17",
       "title": "Suggested version summary This release updates the Tag Manager…",
@@ -632,7 +731,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-09-10",
       "title": "A new onboarding experience for Google Ads API developers",
@@ -682,7 +781,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-09-02",
       "title": "Google Ads API v22 sunset reminder",
@@ -702,7 +801,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-08-31",
       "title": "Making Google Ads More Secure with Updates to Developer Policies",
@@ -722,7 +821,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-08-27",
       "title": "October 2026 changes to the Display & Video 360 API and Structured Data Files",
@@ -742,23 +841,13 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-08-25",
       "title": "Google Ads API Developer Assistant v4.0.0",
       "summary": "A major release of the Google Ads API Developer Assistant is now available. This release transitions the assistant from a standalone project setup to a unified plugin architecture designed to bring specialized Google Ads API capabilities di",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/2384318367406800761",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-08-19",
-      "title": "Announcing v25.1 of the Google Ads API",
-      "summary": "Today we are announcing the release of v25.1 of the Google Ads API . To use the new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us f",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/2951646457172167571",
       "live": true
     },
     {
@@ -822,7 +911,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-2",
+      "id": "scrape-GTM / Tag Gateway — Release notes-3",
       "cat": "gtm",
       "date": "2026-07-09",
       "title": "Updates to container behavior for unsupported installation paths This…",
@@ -832,7 +921,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-3",
+      "id": "scrape-GTM / Tag Gateway — Release notes-4",
       "cat": "gtm",
       "date": "2026-07-01",
       "title": "Improved Google Tag Manager Overview This release updates the…",
@@ -852,7 +941,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-4",
+      "id": "scrape-GTM / Tag Gateway — Release notes-5",
       "cat": "gtm",
       "date": "2026-06-22",
       "title": "Improved measurement of server-to-server conversions This release recovers…",
@@ -862,7 +951,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-5",
+      "id": "scrape-GTM / Tag Gateway — Release notes-6",
       "cat": "gtm",
       "date": "2026-06-03",
       "title": "Google tag gateway for advertisers using Amazon CloudFront is…",
@@ -872,7 +961,7 @@
       "live": true
     },
     {
-      "id": "scrape-GTM / Tag Gateway — Release notes-6",
+      "id": "scrape-GTM / Tag Gateway — Release notes-7",
       "cat": "gtm",
       "date": "2026-06-01",
       "title": "Google tag gateway for advertisers via Google Cloud Platform…",
