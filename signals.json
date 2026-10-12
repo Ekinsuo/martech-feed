@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T18:10:43.175001+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 105,
+  "generated_at": "2026-10-12T11:55:05.664191+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 96,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -101,7 +102,7 @@
       "name": "GTM / Tag Gateway — Release notes",
       "cat": "gtm",
       "ok": true,
-      "items": 8,
+      "items": 7,
       "scraped": true
     },
     {
@@ -121,6 +122,16 @@
   ],
   "signals": [
     {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-10-12",
+      "title": "Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements",
+      "summary": "Background information Date of final decision: 05/06/2026 National case Controller: Wind Tre S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transp",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-09",
@@ -131,37 +142,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
-      "date": "2026-10-09",
-      "title": "AI budgets are growing faster than proof of ROI",
-      "summary": "Companies are spending heavily on AI, but most agent projects are still short of full scale and many marketing teams can’t show clear financial value. The post AI budgets are growing faster than proof of ROI appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-budgets-are-growing-faster-than-proof-of-roi/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-10-09",
-      "title": "Why HIPAA compliance in martech goes beyond BAAs",
-      "summary": "A business associate agreement won't fix risky data flows. Here's what to check across tracking tools, EHR feeds, and ad platforms. The post Why HIPAA compliance in martech goes beyond BAAs appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-10-09",
-      "title": "Not everyone in marketing should be an AI builder",
-      "summary": "Marketing teams are rewarding AI builders, but they also need maintainers, monitors, and users. Here's why those roles matter. The post Not everyone in marketing should be an AI builder appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/not-everyone-in-marketing-should-be-an-ai-builder/",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-10-09",
       "title": "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
@@ -171,7 +152,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
+      "id": "live-EDPB — GDPR news-2",
       "cat": "privacy",
       "date": "2026-10-09",
       "title": "Italian DPA fines security company EUR 39 000 for violations concerning employees’ data",
@@ -181,7 +162,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-2",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-10-09",
       "title": "Italian DPA fines Emirates EUR 180 000 for infringements concerning passengers’ health data",
@@ -191,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-10-09",
       "title": "Italian DPA fines BBVA EUR 5 508 000 for failing to respect a customer’s objection to direct marketing",
@@ -221,46 +202,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-10-08",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "General AI is generally fine, but a new study shows that for SEO problems you should get a specialist. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-08",
-      "title": "More buyer signals won’t tell you what buyers need next",
-      "summary": "Clicks, visits, and engagement scores show what buyers did. Better marketing starts with understanding what they’re trying to accomplish. The post More buyer signals won’t tell you what buyers need next appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/more-buyer-signals-wont-tell-you-what-buyers-need-next/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-08",
-      "title": "Brand measurement needs a new source of truth",
-      "summary": "AI makes it possible to combine search, social, ecommerce, and commercial signals for a more continuous view of brand health. The post Brand measurement needs a new source of truth appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/brand-measurement-needs-a-new-source-of-truth/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-08",
-      "title": "Agentic media buying needs malware guardrails: A PropellerAds view by PropellerAds",
-      "summary": "As AI takes on more campaign decisions, traffic-quality and security signals need to become part of the optimization logic. The post Agentic media buying needs malware guardrails: A PropellerAds view appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/agentic-media-buying-needs-malware-guardrails-a-propellerads-view/",
-      "live": true
-    },
-    {
       "id": "live-WebKit Blog (ITP / Safari)-0",
       "cat": "privacy",
       "date": "2026-10-08",
@@ -271,7 +212,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-10-08",
       "title": "Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
@@ -281,7 +222,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-10-08",
       "title": "Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs",
@@ -291,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
+      "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-10-08",
       "title": "Dutch DPA fines Uber EUR 824 990 000 for unlawful automated decision-making and insufficient information on profiling",
@@ -388,16 +329,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/bigquery-working-examples-ml-metrics-eae526556230?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-07",
-      "title": "Classic marketing automation is dead: What’s next?",
-      "summary": "Rule-based automation is giving way to truly autonomous marketing. Discover how human-in-the-loop design frees your team to focus on real business outcomes. The post Classic marketing automation is dead: What’s next? appeared first on MarTe",
-      "src": "MarTech.org",
-      "url": "https://martech.org/classic-marketing-automation-is-dead-whats-next/",
       "live": true
     },
     {
@@ -608,16 +539,6 @@
       "summary": "Safari Technology Preview Release 253 is now available for download for macOS Golden Gate and macOS Tahoe.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18357/release-notes-for-safari-technology-preview-253/",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-09-23",
-      "title": "The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data",
-      "summary": "Background information Date of final decision: 21 September 2026 National case Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transparent information, co",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
       "live": true
     },
     {
@@ -956,16 +877,6 @@
       "date": "2026-06-01",
       "title": "Google tag gateway for advertisers via Google Cloud Platform…",
       "summary": "is now available This release marks the general availability of the Google tag gateway for advertisers integration with Google Cloud Platform (GCP) This integration allows you to leverage Google Cloud Platform’s Global external Application ",
-      "src": "GTM / Tag Gateway — Release notes",
-      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-GTM / Tag Gateway — Release notes-7",
-      "cat": "gtm",
-      "date": "2026-05-14",
-      "title": "Google tag gateway for advertisers integrations with Akamai and…",
-      "summary": "Fastly are now available This release introduces a streamlined integration to configure Google tag gateway for advertisers using Akamai or Fastly as your content delivery network (CDN) You can now authorize Google to automatically detect yo",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
       "live": true
