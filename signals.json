@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12T21:46:56.429456+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 105,
+  "generated_at": "2026-10-13T11:44:13.119212+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 96,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -94,8 +94,9 @@
     {
       "name": "EDPB — GDPR news",
       "cat": "privacy",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "Remote end closed connection without response"
     },
     {
       "name": "GTM / Tag Gateway — Release notes",
@@ -121,6 +122,36 @@
   ],
   "signals": [
     {
+      "id": "live-Simo Ahava-0",
+      "cat": "general",
+      "date": "2026-10-13",
+      "title": "Optimized Tagging Experience For Google Tag Manager",
+      "summary": "With a recent update, the Google Tag Manager and Google Tag technologies are finally merging. In my many posts about Google Tag, I&rsquo;ve often lamented the fact that while any given Google Tag is essentially a wrapper for an underlying G",
+      "src": "Simo Ahava",
+      "url": "https://www.simoahava.com/analytics/optimized-tagging-experience-google-tag-manager/",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-10-13",
+      "title": "Adobe’s September CJA Release Roundup",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/adobes-september-cja-release-roundup-c05b0d7aebf7?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-13",
+      "title": "Why ‘earned autonomy’ is the sweet spot for AI and customer loyalty in 2027 by SAP",
+      "summary": "New SAP research shows 60% of consumers want shared control with AI. Here's why autonomy has to be earned, not assumed. The post Why earned autonomy is the sweet spot for AI and customer loyalty in 2027 appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-earned-autonomy-is-the-sweet-spot-for-ai-and-customer-loyalty-in-2027/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-10-12",
@@ -141,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-10-12",
       "title": "Checkout Page Tracking Scripts Disabled on Some Spotify Stores",
@@ -151,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-1",
       "cat": "general",
       "date": "2026-10-12",
       "title": "How MOps teams are restructuring for autonomous AI agents",
@@ -161,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-10-12",
       "title": "Your social media following isn’t the asset you think it is",
@@ -171,23 +202,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-10-12",
       "title": "The state of AI in marketing: Q4 2026",
       "summary": "Examining where AI stands in Q4 2026 reveals a key gap: moving beyond basic tools requires systemic change to unlock real business value. The post The state of AI in marketing: Q4 2026 appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/the-state-of-ai-in-marketing-q4-2026/",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-0",
-      "cat": "privacy",
-      "date": "2026-10-12",
-      "title": "Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements",
-      "summary": "Background information Date of final decision: 05/06/2026 National case Controller: Wind Tre S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transp",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en",
       "live": true
     },
     {
@@ -211,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-10-09",
       "title": "AI budgets are growing faster than proof of ROI",
@@ -221,7 +242,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-10-09",
       "title": "Why HIPAA compliance in martech goes beyond BAAs",
@@ -231,53 +252,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-10-09",
       "title": "Not everyone in marketing should be an AI builder",
       "summary": "Marketing teams are rewarding AI builders, but they also need maintainers, monitors, and users. Here's why those roles matter. The post Not everyone in marketing should be an AI builder appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/not-everyone-in-marketing-should-be-an-ai-builder/",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-1",
-      "cat": "privacy",
-      "date": "2026-10-09",
-      "title": "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
-      "summary": "Background information Date of final decision: 23 September 2026 National case Controller: IQVIA Solutions Italy S.r.l Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 9 (Processing of special cate",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-iqvia-eur-7-000-000-for-unlawful-processing-of-patients-health-data_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-2",
-      "cat": "privacy",
-      "date": "2026-10-09",
-      "title": "Italian DPA fines security company EUR 39 000 for violations concerning employees’ data",
-      "summary": "Background information Date of final decision: 6 August 2026 National case Controller: La Patria S.p.A. Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-security-company-eur-39-000-for-violations-concerning-employees-data_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-3",
-      "cat": "privacy",
-      "date": "2026-10-09",
-      "title": "Italian DPA fines Emirates EUR 180 000 for infringements concerning passengers’ health data",
-      "summary": "Background information Date of final decision: 14 May 2026 National case Controller: Emirates Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalit",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-emirates-eur-180-000-for-infringements-concerning-passengers-health-data_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-4",
-      "cat": "privacy",
-      "date": "2026-10-09",
-      "title": "Italian DPA fines BBVA EUR 5 508 000 for failing to respect a customer’s objection to direct marketing",
-      "summary": "Background information Date of final decision: 3 July 2026 National case Controller: Banco Bilbao Vizcaya Argentaria, S.A., Italian branch (BBVA) Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-bbva-eur-5-508-000-for-failing-to-respect-a-customers-objection-to-direct_en",
       "live": true
     },
     {
@@ -301,23 +282,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-10-08",
       "title": "The latest AI-powered martech news and releases",
       "summary": "General AI is generally fine, but a new study shows that for SEO problems you should get a specialist. The post The latest AI-powered martech news and releases appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-08",
-      "title": "More buyer signals won’t tell you what buyers need next",
-      "summary": "Clicks, visits, and engagement scores show what buyers did. Better marketing starts with understanding what they’re trying to accomplish. The post More buyer signals won’t tell you what buyers need next appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/more-buyer-signals-wont-tell-you-what-buyers-need-next/",
       "live": true
     },
     {
@@ -328,36 +299,6 @@
       "summary": "Safari Technology Preview Release 254 is now available for download for macOS Golden Gate and macOS Tahoe.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18420/release-notes-for-safari-technology-preview-254/",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-5",
-      "cat": "privacy",
-      "date": "2026-10-08",
-      "title": "Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
-      "summary": "Background information Date of final decision: 22/09/2026 National case Legal Reference(s): Article 32 (Security of processing) Decision: Administrative fine Website topics: Cybersecurity, personal data breaches Summary of the Decision Orig",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/swedish-dpa-fines-miljodata-i-karlskrona-approximately-eur-160-000-for-insufficient-technical_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-6",
-      "cat": "privacy",
-      "date": "2026-10-08",
-      "title": "Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs",
-      "summary": "Background information Date of final decision: 28/07/2026 National case Controller: Ministry of Social Cohesion and Family Affairs Legal Reference(s): Article 25 (Data protection by design and by default), Article 28 (Processor), Article 32",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-10-08",
-      "title": "Dutch DPA fines Uber EUR 824 990 000 for unlawful automated decision-making and insufficient information on profiling",
-      "summary": "Background information Cross-border case Controller: Uber B.V Legal Reference(s): Article 22 (Automated individual decision making, including profiling) and Article 13 (Information to be provided where personal data are collected from the d",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
       "live": true
     },
     {
@@ -391,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "How to use BigQuery’s AI Functions",
@@ -401,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: AI.KEY_DRIVERS",
@@ -411,7 +352,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: AI.FORECAST",
@@ -421,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: AI.CAUSAL_EFFECT",
@@ -431,7 +372,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: ML.CORRELATION",
@@ -441,7 +382,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: ML.METRICS",
@@ -478,16 +419,6 @@
       "summary": "Agent Platform Workbench Change 20261004.00_p0 Release Change Installed latest packages from upstream dependencies. Change The BigQuery JupyterLab plugin is now enabled independently of the Dataproc plugin: it is enabled by default and can ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_05_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-05",
-      "title": "BigQuery Adds AI.KEY_DRIVERS and a New Security Center",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/bigquery-adds-ai-key-drivers-and-a-new-security-center-843b10b27532?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -611,7 +542,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-09-24",
       "title": "September 24, 2026",
@@ -651,6 +582,16 @@
       "live": true
     },
     {
+      "id": "live-Simo Ahava-1",
+      "cat": "general",
+      "date": "2026-09-20",
+      "title": "#GTMTips: Automatically Generate Version Information In GTM",
+      "summary": "Google Tag Manager has a new, AI-powered feature. It&rsquo;s not flashy, it&rsquo;s not prominent, and it&rsquo;s not something you&rsquo;d make a big deal out of. However, it contributes to an absolutely vital part of container management ",
+      "src": "Simo Ahava",
+      "url": "https://www.simoahava.com/gtmtips/automatically-generate-version-information-in-gtm/",
+      "live": true
+    },
+    {
       "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-09-18",
@@ -661,7 +602,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-09-17",
       "title": "September 17, 2026",
@@ -721,7 +662,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-09-10",
       "title": "September 10, 2026",
@@ -738,26 +679,6 @@
       "summary": "To improve the developer onboarding and usage experience, we built a new homepage for the Google Ads API in the Google Cloud Console . Basic Access applications are now automated for developers who have completed brand verification . This b",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6417612083648371848",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-09-09",
-      "title": "September 09, 2026",
-      "summary": "Looker (Google Cloud core) and Looker (original) changes Deprecated The deprecation of the Looker Mobile (Legacy) application has been postponed to January 31, 2027. Starting on January 31, 2027, support for the Looker Mobile (Legacy) app w",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#September_09_2026",
-      "live": true
-    },
-    {
-      "id": "live-Simo Ahava-0",
-      "cat": "general",
-      "date": "2026-09-09",
-      "title": "#GTMTips: Automatically Generate Version Information In GTM",
-      "summary": "Google Tag Manager has a new, AI-powered feature. It&rsquo;s not flashy, it&rsquo;s not prominent, and it&rsquo;s not something you&rsquo;d make a big deal out of. However, it contributes to an absolutely vital part of container management ",
-      "src": "Simo Ahava",
-      "url": "https://www.simoahava.com/gtmtips/automatically-generate-version-information-in-gtm/",
       "live": true
     },
     {
@@ -811,7 +732,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-1",
+      "id": "live-Simo Ahava-2",
       "cat": "general",
       "date": "2026-08-28",
       "title": "#GTMTips: The GTM Template Status Page",
@@ -851,7 +772,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-2",
+      "id": "live-Simo Ahava-3",
       "cat": "general",
       "date": "2026-08-14",
       "title": "#GTMTips: Split GA Events Between Client-Side And Server-Side Dispatch",
@@ -931,7 +852,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-3",
+      "id": "live-Simo Ahava-4",
       "cat": "general",
       "date": "2026-06-29",
       "title": "Google Tag Manager UI Updates",
@@ -971,7 +892,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-4",
+      "id": "live-Simo Ahava-5",
       "cat": "general",
       "date": "2026-03-13",
       "title": "Add IPv6 Support To Your Server-side GTM Load Balancer",
@@ -981,7 +902,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-5",
+      "id": "live-Simo Ahava-6",
       "cat": "general",
       "date": "2025-12-04",
       "title": "Run Server-side Google Tag Manager On Localhost",
@@ -1041,7 +962,7 @@
       "live": true
     },
     {
-      "id": "live-Simo Ahava-6",
+      "id": "live-Simo Ahava-7",
       "cat": "general",
       "date": "2025-08-29",
       "title": "#GTMTips: How To Load Google Scripts From A Server Container",
@@ -1058,16 +979,6 @@
       "summary": "Fix table issues in README.md",
       "src": "sGTM Pantheon (GitHub commits)",
       "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/c2d297814581f1bbd74aa40a4a855719cc3d0764",
-      "live": true
-    },
-    {
-      "id": "live-Simo Ahava-7",
-      "cat": "general",
-      "date": "2025-06-18",
-      "title": "Common Mistakes When Working With Click Identifiers",
-      "summary": "This is a guest post by Jude Nwachukwu Onyejekwe . He is a prolific content creator, and he curates the DumbData portal, which is full of great, free resources for measurement enthusiasts. In this article, he shares some useful learnings fo",
-      "src": "Simo Ahava",
-      "url": "https://www.simoahava.com/analytics/common-mistakes-click-identifiers/",
       "live": true
     },
     {
