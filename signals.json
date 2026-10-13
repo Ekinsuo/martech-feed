@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-13T11:44:13.119212+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 96,
+  "generated_at": "2026-10-13T19:53:43.418266+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 105,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -94,9 +94,8 @@
     {
       "name": "EDPB — GDPR news",
       "cat": "privacy",
-      "ok": false,
-      "items": 0,
-      "error": "Remote end closed connection without response"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "GTM / Tag Gateway — Release notes",
@@ -122,6 +121,16 @@
   ],
   "signals": [
     {
+      "id": "live-BigQuery Release Notes-0",
+      "cat": "bigquery",
+      "date": "2026-10-13",
+      "title": "October 13, 2026",
+      "summary": "Feature The AI.AGG function is generally available (GA). You can use this function to semantically aggregate unstructured input data based on natural language instructions.",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_13_2026",
+      "live": true
+    },
+    {
       "id": "live-Simo Ahava-0",
       "cat": "general",
       "date": "2026-10-13",
@@ -135,6 +144,16 @@
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
       "date": "2026-10-13",
+      "title": "Google Tag Manager’s New Destination Tags and Optimisations",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/google-tag-managers-new-destination-tags-and-optimisations-6662099dbbb1?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-1",
+      "cat": "sgtm",
+      "date": "2026-10-13",
       "title": "Adobe’s September CJA Release Roundup",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
@@ -145,10 +164,60 @@
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-10-13",
+      "title": "Salesforce buys AI analytics startup Loops",
+      "summary": "Salesforce is buying Loops to help explain why business metrics change, pushing analytics closer to continuous AI-driven interpretation. The post Salesforce buys AI analytics startup Loops appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/salesforce-buys-ai-analytics-startup-loops/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-13",
+      "title": "Google changed its content guidance. Don’t expect a reset.",
+      "summary": "The company wants more human review of AI content, but won't guarantee that following the rules will bring back lost search traffic. The post Google changed its content guidance. Don’t expect a reset. appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/google-changed-its-content-guidance-dont-expect-a-reset/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-13",
+      "title": "AI agents are coming between you and your customers",
+      "summary": "Customer preferences, purchase decisions, and even checkout are moving beyond brands' control. Here's what you can still influence — and how. The post AI agents are coming between you and your customers appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-agents-are-coming-between-you-and-your-customers/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-13",
+      "title": "The benefits of server-side tracking — and what it takes to get them",
+      "summary": "Moving tracking to your server puts you in charge of what vendors receive. But protecting customer data takes more than a technical change. The post The benefits of server-side tracking — and what it takes to get them appeared first on MarT",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-benefits-of-server-side-tracking-and-what-it-takes-to-get-them/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-10-13",
       "title": "Why ‘earned autonomy’ is the sweet spot for AI and customer loyalty in 2027 by SAP",
       "summary": "New SAP research shows 60% of consumers want shared control with AI. Here's why autonomy has to be earned, not assumed. The post Why earned autonomy is the sweet spot for AI and customer loyalty in 2027 appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/why-earned-autonomy-is-the-sweet-spot-for-ai-and-customer-loyalty-in-2027/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-10-13",
+      "title": "EDPB publishes statement on the data protection challenges of smart glasses",
+      "summary": "Brussels, 13 October – During its latest plenary, the EDPB has adopted statement on smart glasses and published the report “The connected gaze. Video recording, surveillance and administering evidence in the age of smart glasses” *, develop",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en",
       "live": true
     },
     {
@@ -172,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-12",
       "title": "Checkout Page Tracking Scripts Disabled on Some Spotify Stores",
@@ -182,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-10-12",
       "title": "How MOps teams are restructuring for autonomous AI agents",
@@ -192,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-10-12",
       "title": "Your social media following isn’t the asset you think it is",
@@ -202,13 +271,23 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-10-12",
       "title": "The state of AI in marketing: Q4 2026",
       "summary": "Examining where AI stands in Q4 2026 reveals a key gap: moving beyond basic tools requires systemic change to unlock real business value. The post The state of AI in marketing: Q4 2026 appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/the-state-of-ai-in-marketing-q4-2026/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-1",
+      "cat": "privacy",
+      "date": "2026-10-12",
+      "title": "Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements",
+      "summary": "Background information Date of final decision: 05/06/2026 National case Controller: Wind Tre S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transp",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en",
       "live": true
     },
     {
@@ -232,33 +311,43 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
+      "id": "live-EDPB — GDPR news-2",
+      "cat": "privacy",
       "date": "2026-10-09",
-      "title": "AI budgets are growing faster than proof of ROI",
-      "summary": "Companies are spending heavily on AI, but most agent projects are still short of full scale and many marketing teams can’t show clear financial value. The post AI budgets are growing faster than proof of ROI appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-budgets-are-growing-faster-than-proof-of-roi/",
+      "title": "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
+      "summary": "Background information Date of final decision: 23 September 2026 National case Controller: IQVIA Solutions Italy S.r.l Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 9 (Processing of special cate",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-iqvia-eur-7-000-000-for-unlawful-processing-of-patients-health-data_en",
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
+      "id": "live-EDPB — GDPR news-3",
+      "cat": "privacy",
       "date": "2026-10-09",
-      "title": "Why HIPAA compliance in martech goes beyond BAAs",
-      "summary": "A business associate agreement won't fix risky data flows. Here's what to check across tracking tools, EHR feeds, and ad platforms. The post Why HIPAA compliance in martech goes beyond BAAs appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/",
+      "title": "Italian DPA fines security company EUR 39 000 for violations concerning employees’ data",
+      "summary": "Background information Date of final decision: 6 August 2026 National case Controller: La Patria S.p.A. Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-security-company-eur-39-000-for-violations-concerning-employees-data_en",
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
+      "id": "live-EDPB — GDPR news-4",
+      "cat": "privacy",
       "date": "2026-10-09",
-      "title": "Not everyone in marketing should be an AI builder",
-      "summary": "Marketing teams are rewarding AI builders, but they also need maintainers, monitors, and users. Here's why those roles matter. The post Not everyone in marketing should be an AI builder appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/not-everyone-in-marketing-should-be-an-ai-builder/",
+      "title": "Italian DPA fines Emirates EUR 180 000 for infringements concerning passengers’ health data",
+      "summary": "Background information Date of final decision: 14 May 2026 National case Controller: Emirates Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalit",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-emirates-eur-180-000-for-infringements-concerning-passengers-health-data_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-5",
+      "cat": "privacy",
+      "date": "2026-10-09",
+      "title": "Italian DPA fines BBVA EUR 5 508 000 for failing to respect a customer’s objection to direct marketing",
+      "summary": "Background information Date of final decision: 3 July 2026 National case Controller: Banco Bilbao Vizcaya Argentaria, S.A., Italian branch (BBVA) Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-bbva-eur-5-508-000-for-failing-to-respect-a-customers-objection-to-direct_en",
       "live": true
     },
     {
@@ -282,16 +371,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-08",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "General AI is generally fine, but a new study shows that for SEO problems you should get a specialist. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
       "id": "live-WebKit Blog (ITP / Safari)-0",
       "cat": "privacy",
       "date": "2026-10-08",
@@ -299,6 +378,26 @@
       "summary": "Safari Technology Preview Release 254 is now available for download for macOS Golden Gate and macOS Tahoe.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18420/release-notes-for-safari-technology-preview-254/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-6",
+      "cat": "privacy",
+      "date": "2026-10-08",
+      "title": "Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
+      "summary": "Background information Date of final decision: 22/09/2026 National case Legal Reference(s): Article 32 (Security of processing) Decision: Administrative fine Website topics: Cybersecurity, personal data breaches Summary of the Decision Orig",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/swedish-dpa-fines-miljodata-i-karlskrona-approximately-eur-160-000-for-insufficient-technical_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-7",
+      "cat": "privacy",
+      "date": "2026-10-08",
+      "title": "Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs",
+      "summary": "Background information Date of final decision: 28/07/2026 National case Controller: Ministry of Social Cohesion and Family Affairs Legal Reference(s): Article 25 (Data protection by design and by default), Article 28 (Processor), Article 32",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en",
       "live": true
     },
     {
@@ -332,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "How to use BigQuery’s AI Functions",
@@ -342,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: AI.KEY_DRIVERS",
@@ -352,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: AI.FORECAST",
@@ -362,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: AI.CAUSAL_EFFECT",
@@ -372,23 +471,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: ML.CORRELATION",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/bigquery-working-examples-ml-correlation-a018c95a4206?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-07",
-      "title": "BigQuery Working Examples: ML.METRICS",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ml-metrics-eae526556230?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
