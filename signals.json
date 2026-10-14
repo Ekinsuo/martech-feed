@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T09:29:09.307522+00:00",
+  "generated_at": "2026-10-14T18:04:12.446812+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -121,7 +121,77 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-10-14",
+      "title": "Google Ads Customer Match Adds IP Address Matching",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/google-ads-customer-match-adds-ip-address-matching-b3967389ec74?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-14",
+      "title": "The CMO role is evolving before our very eyes",
+      "summary": "As brands that eliminate the CMO role gain attention in marketing circles, it's time to ask if it's more evolution than revolution. The post The CMO role is evolving before our very eyes appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-cmo-role-is-evolving-before-our-very-eyes/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-14",
+      "title": "Your AI visibility score may be hiding a problem",
+      "summary": "Brand mentions and source citations often tell very different stories. Marketers need to know which one is weak before choosing a fix. The post Your AI visibility score may be hiding a problem appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-ai-visibility-score-may-be-hiding-a-problem/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-14",
+      "title": "Why website analytics tell an incomplete story of buyer decisions",
+      "summary": "A visit doesn't prove intent, and a conversion doesn't tell the whole story. Learn how to assess your website's contribution to business outcomes. The post Why website analytics tell an incomplete story of buyer decisions appeared first on ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-website-analytics-tell-an-incomplete-story-of-buyer-decisions/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-14",
+      "title": "Marketing has outgrown the organization built to run it",
+      "summary": "Martech connected the work across teams. AI is exposing how poorly authority, governance, and accountability followed. The post Marketing has outgrown the organization built to run it appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketing-has-outgrown-the-organization-built-to-run-it/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-10-14",
+      "title": "AI won’t kill sales jobs — buyers will",
+      "summary": "As buyers put more trust in their own AI agents, sales reps face a new challenge: proving why they still deserve a seat at the table. The post AI won t kill sales jobs — buyers will appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-wont-kill-sales-jobs-buyers-will/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-10-14",
+      "title": "Is real-time marketing finally real? by Optimove",
+      "summary": "Yes, but speed was never the hard part. What matters now is deciding, in the moment, which messages to send and which to hold back. The post Is real-time marketing finally real? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/is-real-time-marketing-finally-real/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-13",
       "title": "October 13, 2026",
@@ -141,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-10-13",
       "title": "Google Tag Manager’s New Destination Tags and Optimisations",
@@ -151,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-13",
       "title": "Adobe’s September CJA Release Roundup",
@@ -161,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-10-13",
       "title": "Salesforce buys AI analytics startup Loops",
@@ -171,43 +241,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-10-13",
       "title": "Google changed its content guidance. Don’t expect a reset.",
       "summary": "The company wants more human review of AI content, but won't guarantee that following the rules will bring back lost search traffic. The post Google changed its content guidance. Don’t expect a reset. appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/google-changed-its-content-guidance-dont-expect-a-reset/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-10-13",
-      "title": "AI agents are coming between you and your customers",
-      "summary": "Customer preferences, purchase decisions, and even checkout are moving beyond brands' control. Here's what you can still influence — and how. The post AI agents are coming between you and your customers appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-agents-are-coming-between-you-and-your-customers/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-10-13",
-      "title": "The benefits of server-side tracking — and what it takes to get them",
-      "summary": "Moving tracking to your server puts you in charge of what vendors receive. But protecting customer data takes more than a technical change. The post The benefits of server-side tracking — and what it takes to get them appeared first on MarT",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-benefits-of-server-side-tracking-and-what-it-takes-to-get-them/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-13",
-      "title": "Why ‘earned autonomy’ is the sweet spot for AI and customer loyalty in 2027 by SAP",
-      "summary": "New SAP research shows 60% of consumers want shared control with AI. Here's why autonomy has to be earned, not assumed. The post Why earned autonomy is the sweet spot for AI and customer loyalty in 2027 appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-earned-autonomy-is-the-sweet-spot-for-ai-and-customer-loyalty-in-2027/",
       "live": true
     },
     {
@@ -231,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-12",
       "title": "October 12, 2026",
@@ -251,43 +291,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-12",
       "title": "Checkout Page Tracking Scripts Disabled on Some Spotify Stores",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/checkout-page-tracking-scripts-disabled-on-some-spotify-stores-1d6c75b335e4?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-12",
-      "title": "How MOps teams are restructuring for autonomous AI agents",
-      "summary": "Managing autonomous software agents requires shifting marketing operations from manual execution to agent orchestration and systems oversight. The post How MOps teams are restructuring for autonomous AI agents appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-mops-teams-are-restructuring-for-autonomous-ai-agents/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-12",
-      "title": "Your social media following isn’t the asset you think it is",
-      "summary": "Every new piece of content shouldn't mean starting from zero. Learn how to turn fleeting social media attention into ongoing audience relationships. The post Your social media following isn t the asset you think it is appeared first on MarT",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-social-media-following-isnt-the-asset-you-think-it-is/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-12",
-      "title": "The state of AI in marketing: Q4 2026",
-      "summary": "Examining where AI stands in Q4 2026 reveals a key gap: moving beyond basic tools requires systemic change to unlock real business value. The post The state of AI in marketing: Q4 2026 appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-state-of-ai-in-marketing-q4-2026/",
       "live": true
     },
     {
@@ -311,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-09",
       "title": "October 09, 2026",
@@ -361,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-08",
       "title": "October 08, 2026",
@@ -431,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-07",
       "title": "October 07, 2026",
@@ -441,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "How to use BigQuery’s AI Functions",
@@ -451,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: AI.KEY_DRIVERS",
@@ -461,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: AI.FORECAST",
@@ -471,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: AI.CAUSAL_EFFECT",
@@ -481,17 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-07",
-      "title": "BigQuery Working Examples: ML.CORRELATION",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ml-correlation-a018c95a4206?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-06",
       "title": "October 06, 2026",
@@ -511,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
@@ -551,7 +551,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-10-04",
       "title": "October 04, 2026",
@@ -561,7 +561,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-10-02",
       "title": "October 02, 2026",
@@ -581,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-10-01",
       "title": "October 01, 2026",
@@ -601,7 +601,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-09-30",
       "title": "September 30, 2026",
@@ -611,7 +611,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-09-29",
       "title": "September 29, 2026",
