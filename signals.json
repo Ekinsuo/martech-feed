@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-13T19:53:43.418266+00:00",
+  "generated_at": "2026-10-14T09:29:09.307522+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 105,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
@@ -121,13 +121,13 @@
   ],
   "signals": [
     {
-      "id": "live-BigQuery Release Notes-0",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
       "date": "2026-10-13",
       "title": "October 13, 2026",
-      "summary": "Feature The AI.AGG function is generally available (GA). You can use this function to semantically aggregate unstructured input data based on natural language instructions.",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_13_2026",
+      "summary": "BigQuery Feature The AI.AGG function is generally available (GA). You can use this function to semantically aggregate unstructured input data based on natural language instructions. Feature BigQuery generative AI functions now support the g",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_13_2026",
       "live": true
     },
     {
@@ -211,6 +211,16 @@
       "live": true
     },
     {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-10-13",
+      "title": "Updated Apple Developer Program License Agreement now available",
+      "summary": "The Apple Developer Program License Agreement has been revised to support new features and updated policies, and to provide clarification. Please review the changes below and sign in to your account to accept the updated terms. Section 3.2:",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=17mwd36z",
+      "live": true
+    },
+    {
       "id": "live-EDPB — GDPR news-0",
       "cat": "privacy",
       "date": "2026-10-13",
@@ -221,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-12",
       "title": "October 12, 2026",
@@ -301,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-09",
       "title": "October 09, 2026",
@@ -351,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-08",
       "title": "October 08, 2026",
@@ -421,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-07",
       "title": "October 07, 2026",
@@ -481,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-06",
       "title": "October 06, 2026",
@@ -491,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-10-06",
       "title": "Hello Developer: October 2026",
@@ -501,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
@@ -511,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-10-05",
       "title": "Prepare and submit your apps for iPhone Duo",
@@ -521,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-10-05",
       "title": "Showcase your apps with new assets on the App Store",
@@ -541,7 +551,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-04",
       "title": "October 04, 2026",
@@ -551,7 +561,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-10-02",
       "title": "October 02, 2026",
@@ -561,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-10-02",
       "title": "Updates to Full Disk Access in macOS",
@@ -571,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-10-01",
       "title": "October 01, 2026",
@@ -581,7 +591,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-10-01",
       "title": "Upcoming expiration of Developer ID Certification Authority (Sub-CA)",
@@ -591,7 +601,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-09-30",
       "title": "September 30, 2026",
@@ -601,7 +611,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-09-29",
       "title": "September 29, 2026",
@@ -618,16 +628,6 @@
       "summary": "Ads customers We're extending our cross-channel reporting features and conversion management tools to support app conversions App conversions are now fully supported in your conversion reports, including performance, attribution analysis, a",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-14",
-      "cat": "general",
-      "date": "2026-09-28",
-      "title": "September 28, 2026",
-      "summary": "Agent Platform Workbench Change 20260927.00_p0 Release Change Installed latest packages from upstream dependencies. Security Bulk security patch remediating Critical and High-severity CVEs in the Workbench custom container images. Change 20",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_28_2026",
       "live": true
     },
     {
@@ -681,7 +681,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-09-18",
       "title": "Build for iPhone Duo with new resources",
@@ -721,23 +721,13 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-09-16",
       "title": "Get ready with the latest beta releases",
       "summary": "The beta versions of iOS 27.2, iPadOS 27.2, macOS 27.2, tvOS 27.2, visionOS 27.2, and watchOS 27.2 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 27.2",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=rfb1rooi",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-09-16",
-      "title": "Get your subscriptions ready for iOS 27",
-      "summary": "Discover how you can expand the reach of your subscriptions with new features in iOS 27. You can start preparing today by making sure your apps use StoreKit 2 to handle your Apple In-App Purchases. Request access to Bundles and Suites Offer",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=likeohx4",
       "live": true
     },
     {
