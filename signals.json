@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T18:04:12.446812+00:00",
+  "generated_at": "2026-10-15T09:07:38.925467+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 104,
+  "count": 105,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "name": "Looker Studio Release Notes",
@@ -123,6 +123,36 @@
     {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
+      "date": "2026-10-15",
+      "title": "Google’s AI Mode Checkout Live on Some Shopify Stores, Causing Some GA4 Issues",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/googles-ai-mode-checkout-live-on-some-shopify-stores-causing-some-ga4-issues-59ecb2259bae?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-10-14",
+      "title": "October 14, 2026",
+      "summary": "Apigee hybrid Announcement v1.16.11 On October 14, 2026 we released an updated version of the Apigee hybrid software, v1.16.11. For information on upgrading, see Upgrading Apigee hybrid to version v1.16.11 . For information on new installat",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_14_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-10-14",
+      "title": "Announcing v26 of the Google Ads API",
+      "summary": "Today we are announcing the release of v26 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. We've published all updated client libraries and code examples. Come join us for a live w",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6792916181324052427",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-1",
+      "cat": "sgtm",
       "date": "2026-10-14",
       "title": "Google Ads Customer Match Adds IP Address Matching",
       "summary": "(no summary — open source)",
@@ -211,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-13",
       "title": "Google Tag Manager’s New Destination Tags and Optimisations",
@@ -221,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-13",
       "title": "Adobe’s September CJA Release Roundup",
@@ -281,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-10-12",
       "title": "Google Ads API Release and Sunset Schedules for 2026-2027",
@@ -291,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-12",
       "title": "Checkout Page Tracking Scripts Disabled on Some Spotify Stores",
@@ -381,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-10-08",
       "title": "Launching Structured Data Files v11",
@@ -451,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "How to use BigQuery’s AI Functions",
@@ -461,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: AI.KEY_DRIVERS",
@@ -471,23 +501,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "BigQuery Working Examples: AI.FORECAST",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-forecast-64d81558cf5b?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-07",
-      "title": "BigQuery Working Examples: AI.CAUSAL_EFFECT",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-causal-effect-69b213a69770?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -611,13 +631,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
-      "cat": "general",
+      "id": "live-Looker Release Notes-4",
+      "cat": "looker",
       "date": "2026-09-29",
       "title": "September 29, 2026",
-      "summary": "API Gateway Feature Configure streaming for LLM responses and other traffic You can now create API Gateway gateways that stream requests and responses instead of buffering them. This Public Preview feature supports incremental response deli",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_29_2026",
+      "summary": "Looker (Google Cloud core) only changes Announcement The latest versions in the Looker (Google Cloud core) release channels are beginning deployment as follows: Latest version in the Rapid channel: Looker 26.18 Latest version in the No Chan",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#September_29_2026",
       "live": true
     },
     {
@@ -641,7 +661,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-09-23",
       "title": "Announcing v25.2 of the Google Ads API",
@@ -751,7 +771,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-09-10",
       "title": "A new onboarding experience for Google Ads API developers",
@@ -781,7 +801,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-09-02",
       "title": "Google Ads API v22 sunset reminder",
@@ -801,7 +821,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-08-31",
       "title": "Making Google Ads More Secure with Updates to Developer Policies",
@@ -821,7 +841,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-08-27",
       "title": "October 2026 changes to the Display & Video 360 API and Structured Data Files",
@@ -838,16 +858,6 @@
       "summary": "Safari Technology Preview Release 251 is now available for download for macOS Golden Gate and macOS Tahoe.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18194/release-notes-for-safari-technology-preview-251/",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-08-25",
-      "title": "Google Ads API Developer Assistant v4.0.0",
-      "summary": "A major release of the Google Ads API Developer Assistant is now available. This release transitions the assistant from a standalone project setup to a unified plugin architecture designed to bring specialized Google Ads API capabilities di",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/2384318367406800761",
       "live": true
     },
     {
