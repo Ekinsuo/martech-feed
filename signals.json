@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:07:38.925467+00:00",
+  "generated_at": "2026-10-15T17:48:38.590767+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -121,7 +121,27 @@
   ],
   "signals": [
     {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-10-15",
+      "title": "Announcing v26 of the Google Ads API",
+      "summary": "Today we are announcing the release of v26 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. We've published all updated client libraries and code examples. Come join us for a live w",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6792916181324052427",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-10-15",
+      "title": "ChatGPT Stops Tagging Outbound Links",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/chatgpt-stops-tagging-outbound-links-73fdeb44f3cf?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-10-15",
       "title": "Google’s AI Mode Checkout Live on Some Shopify Stores, Causing Some GA4 Issues",
@@ -131,7 +151,77 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Tim Hutton-4",
+      "cat": "sgtm",
+      "date": "2026-10-15",
+      "title": "Adobe’s AI Assistant Can Now Audit Your Data Before You Build on It",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/adobes-ai-assistant-can-now-audit-your-data-before-you-build-on-it-89002c816268?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-15",
+      "title": "HubSpot adds spending controls and flexible billing as AI usage grows",
+      "summary": "Consumption-based AI pricing makes marketing budgets unpredictable. Here is how HubSpot’s new spend limits and seat swaps give you control. The post HubSpot adds spending controls and flexible billing as AI usage grows appeared first on Mar",
+      "src": "MarTech.org",
+      "url": "https://martech.org/hubspot-adds-spending-controls-and-flexible-billing-as-ai-usage-grows/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-15",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Anthropic and OpenAI are reporting revenues that may or may not be supported by the facts. Here's why that matters to marketers. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-15",
+      "title": "The best marketing spend is the 5% you spend foolishly",
+      "summary": "Chewy and Eleven Madison Park show how memorable customer moments can turn preference into measurable referral value. The post The best marketing spend is the 5% you spend foolishly appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-best-marketing-spend-is-the-5-you-spend-foolishly/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-15",
+      "title": "Your brand isn’t as differentiated as you think",
+      "summary": "The tools meant to make marketing more effective may be making brands more alike. Here's why differentiation is becoming harder to sustain. The post Your brand isn’t as differentiated as you think appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-brand-isnt-as-differentiated-as-you-think/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-10-15",
+      "title": "In B2B, influencer marketing takes on a different look",
+      "summary": "B2B influencer marketing must be built for longer sales cycles and niche audiences. Learn how to make sustainable brand creation through strategic partnerships. The post In B2B, influencer marketing takes on a different look appeared first ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/in-b2b-influencer-marketing-takes-on-a-different-look/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-10-15",
+      "title": "We analyzed 5,000+ Google Ads accounts: Seasonality adjustments backfire on Black Friday by Optmyzr",
+      "summary": "...and how AI agents can help you get ready for BFCM 2026. The post We analyzed 5,000+ Google Ads accounts: Seasonality adjustments backfire on Black Friday appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/we-analyzed-5000-google-ads-accounts-seasonality-adjustments-backfire-on-black-friday/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-14",
       "title": "October 14, 2026",
@@ -141,17 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
-      "cat": "gads",
-      "date": "2026-10-14",
-      "title": "Announcing v26 of the Google Ads API",
-      "summary": "Today we are announcing the release of v26 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. We've published all updated client libraries and code examples. Come join us for a live w",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6792916181324052427",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-14",
       "title": "Google Ads Customer Match Adds IP Address Matching",
@@ -161,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-10-14",
       "title": "The CMO role is evolving before our very eyes",
@@ -171,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-10-14",
       "title": "Your AI visibility score may be hiding a problem",
@@ -181,47 +261,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-10-14",
-      "title": "Why website analytics tell an incomplete story of buyer decisions",
-      "summary": "A visit doesn't prove intent, and a conversion doesn't tell the whole story. Learn how to assess your website's contribution to business outcomes. The post Why website analytics tell an incomplete story of buyer decisions appeared first on ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-website-analytics-tell-an-incomplete-story-of-buyer-decisions/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-10-14",
-      "title": "Marketing has outgrown the organization built to run it",
-      "summary": "Martech connected the work across teams. AI is exposing how poorly authority, governance, and accountability followed. The post Marketing has outgrown the organization built to run it appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketing-has-outgrown-the-organization-built-to-run-it/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-14",
-      "title": "AI won’t kill sales jobs — buyers will",
-      "summary": "As buyers put more trust in their own AI agents, sales reps face a new challenge: proving why they still deserve a seat at the table. The post AI won t kill sales jobs — buyers will appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-wont-kill-sales-jobs-buyers-will/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-14",
-      "title": "Is real-time marketing finally real? by Optimove",
-      "summary": "Yes, but speed was never the hard part. What matters now is deciding, in the moment, which messages to send and which to hold back. The post Is real-time marketing finally real? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/is-real-time-marketing-finally-real/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-13",
       "title": "October 13, 2026",
@@ -241,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-13",
       "title": "Google Tag Manager’s New Destination Tags and Optimisations",
@@ -251,33 +291,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-13",
       "title": "Adobe’s September CJA Release Roundup",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/adobes-september-cja-release-roundup-c05b0d7aebf7?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-13",
-      "title": "Salesforce buys AI analytics startup Loops",
-      "summary": "Salesforce is buying Loops to help explain why business metrics change, pushing analytics closer to continuous AI-driven interpretation. The post Salesforce buys AI analytics startup Loops appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/salesforce-buys-ai-analytics-startup-loops/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-13",
-      "title": "Google changed its content guidance. Don’t expect a reset.",
-      "summary": "The company wants more human review of AI content, but won't guarantee that following the rules will bring back lost search traffic. The post Google changed its content guidance. Don’t expect a reset. appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/google-changed-its-content-guidance-dont-expect-a-reset/",
       "live": true
     },
     {
@@ -295,13 +315,13 @@
       "cat": "privacy",
       "date": "2026-10-13",
       "title": "EDPB publishes statement on the data protection challenges of smart glasses",
-      "summary": "Brussels, 13 October – During its latest plenary, the EDPB has adopted statement on smart glasses and published the report “The connected gaze. Video recording, surveillance and administering evidence in the age of smart glasses” *, develop",
+      "summary": "Brussels, 13 October – During its latest plenary, the EDPB has adopted statement 1/2026 on smart glasses and published the report “The connected gaze. Video recording, surveillance and administering evidence in the age of smart glasses” *, ",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en",
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-10-12",
       "title": "October 12, 2026",
@@ -321,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-12",
       "title": "Checkout Page Tracking Scripts Disabled on Some Spotify Stores",
@@ -351,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-09",
       "title": "October 09, 2026",
@@ -401,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-08",
       "title": "October 08, 2026",
@@ -471,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-07",
       "title": "October 07, 2026",
@@ -481,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-07",
       "title": "How to use BigQuery’s AI Functions",
@@ -491,27 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
-      "cat": "sgtm",
-      "date": "2026-10-07",
-      "title": "BigQuery Working Examples: AI.KEY_DRIVERS",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-key-drivers-7e1ffeffe435?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-07",
-      "title": "BigQuery Working Examples: AI.FORECAST",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-forecast-64d81558cf5b?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-06",
       "title": "October 06, 2026",
@@ -531,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
@@ -571,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-10-04",
       "title": "October 04, 2026",
@@ -581,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-10-02",
       "title": "October 02, 2026",
@@ -601,7 +601,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-01",
       "title": "October 01, 2026",
@@ -621,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-09-30",
       "title": "September 30, 2026",
