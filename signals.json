@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T17:48:38.590767+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 105,
+  "generated_at": "2026-10-16T08:59:36.438640+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 97,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -121,6 +122,26 @@
   ],
   "signals": [
     {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-10-16",
+      "title": "Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data",
+      "summary": "Background information Date of final decision: 2 October 2026 National case Controller: Xandr Inc. Legal References: Article 6 (Lawfulness of processing), Article 9 (Processing of special categories of personal data) Decision: Administrativ",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/norwegian-dpa-fines-xandr-eur-8-600-000-for-unlawful-processing-of-personal-data_en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-10-15",
+      "title": "October 15, 2026",
+      "summary": "Apigee Edge for Public Cloud Announcement On October 15, 2026, we began releasing Single Sign-On (SSO) updates for Apigee Edge for Public Cloud. Fixed Bug ID Component Description 560310696 SSO Fixed an issue where the Portal SSO endpoint i",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_15_2026",
+      "live": true
+    },
+    {
       "id": "live-Google Ads Developer Blog-0",
       "cat": "gads",
       "date": "2026-10-15",
@@ -161,71 +182,11 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
-      "date": "2026-10-15",
-      "title": "HubSpot adds spending controls and flexible billing as AI usage grows",
-      "summary": "Consumption-based AI pricing makes marketing budgets unpredictable. Here is how HubSpot’s new spend limits and seat swaps give you control. The post HubSpot adds spending controls and flexible billing as AI usage grows appeared first on Mar",
-      "src": "MarTech.org",
-      "url": "https://martech.org/hubspot-adds-spending-controls-and-flexible-billing-as-ai-usage-grows/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-10-15",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Anthropic and OpenAI are reporting revenues that may or may not be supported by the facts. Here's why that matters to marketers. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-10-15",
-      "title": "The best marketing spend is the 5% you spend foolishly",
-      "summary": "Chewy and Eleven Madison Park show how memorable customer moments can turn preference into measurable referral value. The post The best marketing spend is the 5% you spend foolishly appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-best-marketing-spend-is-the-5-you-spend-foolishly/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-10-15",
-      "title": "Your brand isn’t as differentiated as you think",
-      "summary": "The tools meant to make marketing more effective may be making brands more alike. Here's why differentiation is becoming harder to sustain. The post Your brand isn’t as differentiated as you think appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-brand-isnt-as-differentiated-as-you-think/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-15",
-      "title": "In B2B, influencer marketing takes on a different look",
-      "summary": "B2B influencer marketing must be built for longer sales cycles and niche audiences. Learn how to make sustainable brand creation through strategic partnerships. The post In B2B, influencer marketing takes on a different look appeared first ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/in-b2b-influencer-marketing-takes-on-a-different-look/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-15",
-      "title": "We analyzed 5,000+ Google Ads accounts: Seasonality adjustments backfire on Black Friday by Optmyzr",
-      "summary": "...and how AI agents can help you get ready for BFCM 2026. The post We analyzed 5,000+ Google Ads accounts: Seasonality adjustments backfire on Black Friday appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/we-analyzed-5000-google-ads-accounts-seasonality-adjustments-backfire-on-black-friday/",
-      "live": true
-    },
-    {
       "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-14",
       "title": "October 14, 2026",
-      "summary": "Apigee hybrid Announcement v1.16.11 On October 14, 2026 we released an updated version of the Apigee hybrid software, v1.16.11. For information on upgrading, see Upgrading Apigee hybrid to version v1.16.11 . For information on new installat",
+      "summary": "Anti Money Laundering AI Announcement New minor engine version released for the commercial line of business within the v004.011 version line ( aml-commercial.default.v004.011.202610-000 ). This version extends support for the major engine v",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_14_2026",
       "live": true
@@ -238,26 +199,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/google-ads-customer-match-adds-ip-address-matching-b3967389ec74?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-14",
-      "title": "The CMO role is evolving before our very eyes",
-      "summary": "As brands that eliminate the CMO role gain attention in marketing circles, it's time to ask if it's more evolution than revolution. The post The CMO role is evolving before our very eyes appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-cmo-role-is-evolving-before-our-very-eyes/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-14",
-      "title": "Your AI visibility score may be hiding a problem",
-      "summary": "Brand mentions and source citations often tell very different stories. Marketers need to know which one is weak before choosing a fix. The post Your AI visibility score may be hiding a problem appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-ai-visibility-score-may-be-hiding-a-problem/",
       "live": true
     },
     {
@@ -311,7 +252,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-10-13",
       "title": "EDPB publishes statement on the data protection challenges of smart glasses",
@@ -351,7 +292,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
+      "id": "live-EDPB — GDPR news-2",
       "cat": "privacy",
       "date": "2026-10-12",
       "title": "Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements",
@@ -381,7 +322,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-2",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-10-09",
       "title": "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
@@ -391,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-10-09",
       "title": "Italian DPA fines security company EUR 39 000 for violations concerning employees’ data",
@@ -401,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-10-09",
       "title": "Italian DPA fines Emirates EUR 180 000 for infringements concerning passengers’ health data",
@@ -411,7 +352,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-10-09",
       "title": "Italian DPA fines BBVA EUR 5 508 000 for failing to respect a customer’s objection to direct marketing",
@@ -451,23 +392,13 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
-      "cat": "privacy",
-      "date": "2026-10-08",
-      "title": "Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
-      "summary": "Background information Date of final decision: 22/09/2026 National case Legal Reference(s): Article 32 (Security of processing) Decision: Administrative fine Website topics: Cybersecurity, personal data breaches Summary of the Decision Orig",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/swedish-dpa-fines-miljodata-i-karlskrona-approximately-eur-160-000-for-insufficient-technical_en",
-      "live": true
-    },
-    {
       "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-10-08",
-      "title": "Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs",
-      "summary": "Background information Date of final decision: 28/07/2026 National case Controller: Ministry of Social Cohesion and Family Affairs Legal Reference(s): Article 25 (Data protection by design and by default), Article 28 (Processor), Article 32",
+      "title": "Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
+      "summary": "Background information Date of final decision: 22/09/2026 National case Legal Reference(s): Article 32 (Security of processing) Decision: Administrative fine Key words: Cybersecurity, personal data breaches Summary of the Decision Origin of",
       "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en",
+      "url": "https://www.edpb.europa.eu/news/swedish-dpa-fines-miljodata-i-karlskrona-approximately-eur-160-000-for-insufficient-technical_en",
       "live": true
     },
     {
@@ -621,17 +552,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
-      "cat": "general",
+      "id": "live-Looker Release Notes-4",
+      "cat": "looker",
       "date": "2026-09-30",
       "title": "September 30, 2026",
-      "summary": "API Gateway Feature Authenticate MCP tool discovery with an API key API key authentication is now supported for the Model Context Protocol (MCP) tools/list method. You can name an API key security scheme in tools-list.security , in addition",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#September_30_2026",
+      "summary": "Looker (original) only changes Feature Enhanced observability metrics, including user engagement and estimated token usage data on the Token usage tab of the Conversational Analytics System Activity dashboard , are now generally available (",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#September_30_2026",
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-09-29",
       "title": "September 29, 2026",
@@ -651,7 +582,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-09-24",
       "title": "September 24, 2026",
@@ -711,7 +642,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-09-17",
       "title": "September 17, 2026",
@@ -758,16 +689,6 @@
       "summary": "Safari Technology Preview Release 252 is now available for download for macOS Golden Gate and macOS Tahoe.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18304/release-notes-for-safari-technology-preview-252/",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-09-10",
-      "title": "September 10, 2026",
-      "summary": "Looker (Google Cloud core) and Looker (original) changes Feature The Looker extension for VS Code is now generally available, enabling local LookML development and AI-assisted \"vibe coding\" using the Model Context Protocol (MCP) . This upda",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#September_10_2026",
       "live": true
     },
     {
