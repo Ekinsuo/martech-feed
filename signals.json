@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T08:59:36.438640+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 97,
+  "generated_at": "2026-10-16T17:32:03.441382+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 105,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -122,6 +121,56 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-10-16",
+      "title": "Gemini 4 Argon Released",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/gemini-4-argon-released-83d3617326ee?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-16",
+      "title": "HubSpot’s Unbound 2026: The big announcements and updates",
+      "summary": "Unbound 2026 saw big product announcements on the main stage and other news that flew under the radar. Let’s break it all down for you. The post HubSpot s Unbound 2026: The big announcements and updates appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/hubspots-unbound-2026-the-big-announcements-and-updates/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-16",
+      "title": "Adding AI or headcount won’t fix a marketing skills gap",
+      "summary": "AI can increase output while creating more work for your best people. Three practical checks can help you avoid that trap. The post Adding AI or headcount won t fix a marketing skills gap appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/adding-ai-or-headcount-wont-fix-a-marketing-skills-gap/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-16",
+      "title": "Email marketing’s history can guide AI governance",
+      "summary": "Attribution, accuracy, and authenticity offer a starting point for responsible AI use — and for protecting your brand's credibility. The post Email marketing s history can guide AI governance appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/email-marketings-history-can-guide-ai-governance/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-16",
+      "title": "Retail media budgets are growing. Advertisers’ patience isn’t.",
+      "summary": "Advertisers plan to spend more, but slow activation and weak measurement can still cost networks money. The post Retail media budgets are growing. Advertisers patience isn’t. appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/retail-media-budgets-are-growing-advertisers-patience-isnt/",
+      "live": true
+    },
+    {
       "id": "live-EDPB — GDPR news-0",
       "cat": "privacy",
       "date": "2026-10-16",
@@ -136,7 +185,7 @@
       "cat": "general",
       "date": "2026-10-15",
       "title": "October 15, 2026",
-      "summary": "Apigee Edge for Public Cloud Announcement On October 15, 2026, we began releasing Single Sign-On (SSO) updates for Apigee Edge for Public Cloud. Fixed Bug ID Component Description 560310696 SSO Fixed an issue where the Portal SSO endpoint i",
+      "summary": "Apigee Edge for Private Cloud Announcement Released Apigee Edge for Private Cloud 4.54.00. Designated Apigee Edge for Private Cloud 4.54.00.00 a long-term support (LTS) release: 18 months of full support ending April 2028, then 18 months of",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_15_2026",
       "live": true
@@ -152,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-10-15",
       "title": "ChatGPT Stops Tagging Outbound Links",
@@ -162,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-15",
       "title": "Google’s AI Mode Checkout Live on Some Shopify Stores, Causing Some GA4 Issues",
@@ -172,13 +221,53 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-15",
       "title": "Adobe’s AI Assistant Can Now Audit Your Data Before You Build on It",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/adobes-ai-assistant-can-now-audit-your-data-before-you-build-on-it-89002c816268?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-10-15",
+      "title": "HubSpot adds spending controls and flexible billing as AI usage grows",
+      "summary": "Consumption-based AI pricing makes marketing budgets unpredictable. Here is how HubSpot’s new spend limits and seat swaps give you control. The post HubSpot adds spending controls and flexible billing as AI usage grows appeared first on Mar",
+      "src": "MarTech.org",
+      "url": "https://martech.org/hubspot-adds-spending-controls-and-flexible-billing-as-ai-usage-grows/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-10-15",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Anthropic and OpenAI are reporting revenues that may or may not be supported by the facts. Here's why that matters to marketers. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-10-15",
+      "title": "The best marketing spend is the 5% you spend foolishly",
+      "summary": "Chewy and Eleven Madison Park show how memorable customer moments can turn preference into measurable referral value. The post The best marketing spend is the 5% you spend foolishly appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-best-marketing-spend-is-the-5-you-spend-foolishly/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-10-15",
+      "title": "Your brand isn’t as differentiated as you think",
+      "summary": "The tools meant to make marketing more effective may be making brands more alike. Here's why differentiation is becoming harder to sustain. The post Your brand isn’t as differentiated as you think appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-brand-isnt-as-differentiated-as-you-think/",
       "live": true
     },
     {
@@ -192,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-14",
       "title": "Google Ads Customer Match Adds IP Address Matching",
@@ -222,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-13",
       "title": "Google Tag Manager’s New Destination Tags and Optimisations",
@@ -232,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-13",
       "title": "Adobe’s September CJA Release Roundup",
@@ -282,23 +371,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-12",
       "title": "Checkout Page Tracking Scripts Disabled on Some Spotify Stores",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/checkout-page-tracking-scripts-disabled-on-some-spotify-stores-1d6c75b335e4?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-2",
-      "cat": "privacy",
-      "date": "2026-10-12",
-      "title": "Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements",
-      "summary": "Background information Date of final decision: 05/06/2026 National case Controller: Wind Tre S.p.A. Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transp",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en",
       "live": true
     },
     {
@@ -316,13 +395,13 @@
       "cat": "general",
       "date": "2026-10-09",
       "title": "October 09, 2026",
-      "summary": "BigQuery Feature The BigQuery Data Engineering Agent is now available in the asia-northeast1 (Tokyo) regional endpoint and supports the gemini-3.5-flash model. For more information, see Where Gemini in BigQuery processes your data . This fe",
+      "summary": "Access Approval Feature Database Migration Service is generally available ( GA ). Access Transparency Feature Database Migration Service is generally available ( GA ). BigQuery Feature The BigQuery Data Engineering Agent is now available in",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_09_2026",
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-2",
       "cat": "privacy",
       "date": "2026-10-09",
       "title": "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
@@ -332,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-10-09",
       "title": "Italian DPA fines security company EUR 39 000 for violations concerning employees’ data",
@@ -342,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-10-09",
       "title": "Italian DPA fines Emirates EUR 180 000 for infringements concerning passengers’ health data",
@@ -352,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-10-09",
       "title": "Italian DPA fines BBVA EUR 5 508 000 for failing to respect a customer’s objection to direct marketing",
@@ -392,13 +471,23 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-7",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-10-08",
       "title": "Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
       "summary": "Background information Date of final decision: 22/09/2026 National case Legal Reference(s): Article 32 (Security of processing) Decision: Administrative fine Key words: Cybersecurity, personal data breaches Summary of the Decision Origin of",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/swedish-dpa-fines-miljodata-i-karlskrona-approximately-eur-160-000-for-insufficient-technical_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-7",
+      "cat": "privacy",
+      "date": "2026-10-08",
+      "title": "Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs",
+      "summary": "Background information Date of final decision: 28/07/2026 National case Controller: Ministry of Social Cohesion and Family Affairs Legal Reference(s): Article 25 (Data protection by design and by default), Article 28 (Processor), Article 32",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en",
       "live": true
     },
     {
@@ -429,16 +518,6 @@
       "summary": "Anti Money Laundering AI Announcement New minor engine version released for the commercial line of business within the v004.005 version line ( aml-commercial.default.v004.005.202609-000 ). This version extends support for the major engine v",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_07_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-07",
-      "title": "How to use BigQuery’s AI Functions",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/how-to-use-bigquerys-ai-functions-87e12499da5e?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
