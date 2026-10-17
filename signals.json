@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T08:31:52.578057+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 97,
+  "generated_at": "2026-10-17T16:31:19.792704+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 105,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -139,6 +138,56 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/gemini-4-argon-released-83d3617326ee?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-16",
+      "title": "Content everywhere: Winning attention in a fragmented marketing landscape",
+      "summary": "Digital fragmentation is pushing teams to their limits. On Nov. 4, learn how to stretch content budget and capture buyer attention where it counts. The post Content everywhere: Winning attention in a fragmented marketing landscape appeared ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-16",
+      "title": "HubSpot’s Unbound 2026: The big announcements and updates",
+      "summary": "Unbound 2026 saw big product announcements on the main stage and other news that flew under the radar. Let’s break it all down for you. The post HubSpot s Unbound 2026: The big announcements and updates appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/hubspots-unbound-2026-the-big-announcements-and-updates/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-16",
+      "title": "Adding AI or headcount won’t fix a marketing skills gap",
+      "summary": "AI can increase output while creating more work for your best people. Three practical checks can help you avoid that trap. The post Adding AI or headcount won t fix a marketing skills gap appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/adding-ai-or-headcount-wont-fix-a-marketing-skills-gap/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-16",
+      "title": "Email marketing’s history can guide AI governance",
+      "summary": "Attribution, accuracy, and authenticity offer a starting point for responsible AI use — and for protecting your brand's credibility. The post Email marketing s history can guide AI governance appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/email-marketings-history-can-guide-ai-governance/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-10-16",
+      "title": "Retail media budgets are growing. Advertisers’ patience isn’t.",
+      "summary": "Advertisers plan to spend more, but slow activation and weak measurement can still cost networks money. The post Retail media budgets are growing. Advertisers patience isn’t. appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/retail-media-budgets-are-growing-advertisers-patience-isnt/",
       "live": true
     },
     {
@@ -219,6 +268,36 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/adobes-ai-assistant-can-now-audit-your-data-before-you-build-on-it-89002c816268?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-10-15",
+      "title": "HubSpot adds spending controls and flexible billing as AI usage grows",
+      "summary": "Consumption-based AI pricing makes marketing budgets unpredictable. Here is how HubSpot’s new spend limits and seat swaps give you control. The post HubSpot adds spending controls and flexible billing as AI usage grows appeared first on Mar",
+      "src": "MarTech.org",
+      "url": "https://martech.org/hubspot-adds-spending-controls-and-flexible-billing-as-ai-usage-grows/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-10-15",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Anthropic and OpenAI are reporting revenues that may or may not be supported by the facts. Here's why that matters to marketers. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-10-15",
+      "title": "The best marketing spend is the 5% you spend foolishly",
+      "summary": "Chewy and Eleven Madison Park show how memorable customer moments can turn preference into measurable referral value. The post The best marketing spend is the 5% you spend foolishly appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-best-marketing-spend-is-the-5-you-spend-foolishly/",
       "live": true
     },
     {
