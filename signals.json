@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T17:32:03.441382+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 105,
+  "generated_at": "2026-10-17T08:31:52.578057+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 97,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -121,6 +122,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-10-16",
+      "title": "October 16, 2026",
+      "summary": "BigQuery Feature Conversational analytics in BigQuery is now available in the following locations: northamerica-northeast1 (Montréal) northamerica-northeast2 (Toronto) For more information, see Locations . Dialogflow Feature gemini-3.5-flas",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_16_2026",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
       "date": "2026-10-16",
@@ -131,43 +142,23 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
       "date": "2026-10-16",
-      "title": "HubSpot’s Unbound 2026: The big announcements and updates",
-      "summary": "Unbound 2026 saw big product announcements on the main stage and other news that flew under the radar. Let’s break it all down for you. The post HubSpot s Unbound 2026: The big announcements and updates appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/hubspots-unbound-2026-the-big-announcements-and-updates/",
+      "title": "Updated App Review Guidelines are now available",
+      "summary": "The App Review Guidelines have been revised to support new features, updated policies, and to provide clarification. App Review Guidelines Before You Submit: Added links to additional documentation. 1.2: Clarified app content and app types ",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=92th7e5i",
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
+      "id": "live-Apple Developer News-1",
+      "cat": "apple",
       "date": "2026-10-16",
-      "title": "Adding AI or headcount won’t fix a marketing skills gap",
-      "summary": "AI can increase output while creating more work for your best people. Three practical checks can help you avoid that trap. The post Adding AI or headcount won t fix a marketing skills gap appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/adding-ai-or-headcount-wont-fix-a-marketing-skills-gap/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-10-16",
-      "title": "Email marketing’s history can guide AI governance",
-      "summary": "Attribution, accuracy, and authenticity offer a starting point for responsible AI use — and for protecting your brand's credibility. The post Email marketing s history can guide AI governance appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/email-marketings-history-can-guide-ai-governance/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-10-16",
-      "title": "Retail media budgets are growing. Advertisers’ patience isn’t.",
-      "summary": "Advertisers plan to spend more, but slow activation and weak measurement can still cost networks money. The post Retail media budgets are growing. Advertisers patience isn’t. appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/retail-media-budgets-are-growing-advertisers-patience-isnt/",
+      "title": "Strengthening App Review Guidelines against nonconsensual intimate imagery and bait-and-switch apps",
+      "summary": "The App Review Guidelines are a core part of the safe and trusted experience that the App Store strives to offer users around the world — and the foundation of that trust is clear standards that are consistently enforced. As outlined in our",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=vvzx6cul",
       "live": true
     },
     {
@@ -181,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-15",
       "title": "October 15, 2026",
@@ -231,47 +222,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-15",
-      "title": "HubSpot adds spending controls and flexible billing as AI usage grows",
-      "summary": "Consumption-based AI pricing makes marketing budgets unpredictable. Here is how HubSpot’s new spend limits and seat swaps give you control. The post HubSpot adds spending controls and flexible billing as AI usage grows appeared first on Mar",
-      "src": "MarTech.org",
-      "url": "https://martech.org/hubspot-adds-spending-controls-and-flexible-billing-as-ai-usage-grows/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-15",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Anthropic and OpenAI are reporting revenues that may or may not be supported by the facts. Here's why that matters to marketers. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-15",
-      "title": "The best marketing spend is the 5% you spend foolishly",
-      "summary": "Chewy and Eleven Madison Park show how memorable customer moments can turn preference into measurable referral value. The post The best marketing spend is the 5% you spend foolishly appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-best-marketing-spend-is-the-5-you-spend-foolishly/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-15",
-      "title": "Your brand isn’t as differentiated as you think",
-      "summary": "The tools meant to make marketing more effective may be making brands more alike. Here's why differentiation is becoming harder to sustain. The post Your brand isn’t as differentiated as you think appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-brand-isnt-as-differentiated-as-you-think/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-14",
       "title": "October 14, 2026",
@@ -291,7 +242,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-10-13",
       "title": "October 13, 2026",
@@ -331,7 +282,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-10-13",
       "title": "Updated Apple Developer Program License Agreement now available",
@@ -351,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-12",
       "title": "October 12, 2026",
@@ -391,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-09",
       "title": "October 09, 2026",
@@ -441,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-08",
       "title": "October 08, 2026",
@@ -511,7 +462,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-07",
       "title": "October 07, 2026",
@@ -521,7 +472,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-10-06",
       "title": "October 06, 2026",
@@ -531,7 +482,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-10-06",
       "title": "Hello Developer: October 2026",
@@ -541,7 +492,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
@@ -551,7 +502,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-10-05",
       "title": "Prepare and submit your apps for iPhone Duo",
@@ -561,7 +512,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-10-05",
       "title": "Showcase your apps with new assets on the App Store",
@@ -581,7 +532,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-10-04",
       "title": "October 04, 2026",
@@ -591,7 +542,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-02",
       "title": "October 02, 2026",
@@ -601,7 +552,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-10-02",
       "title": "Updates to Full Disk Access in macOS",
@@ -611,17 +562,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
-      "cat": "general",
-      "date": "2026-10-01",
-      "title": "October 01, 2026",
-      "summary": "BigQuery Change An updated version of the Simba JDBC driver for BigQuery is now available. Feature Chatting with graphs in conversational analytics is now generally available . You can use a combination of multiple graphs, tables, views, an",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_01_2026",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-10-01",
       "title": "Upcoming expiration of Developer ID Certification Authority (Sub-CA)",
@@ -711,16 +652,6 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
-      "cat": "apple",
-      "date": "2026-09-18",
-      "title": "Build for iPhone Duo with new resources",
-      "summary": "Get Xcode 27.1 beta. View downloads and release notes Get Figma and Sketch design kits for iPhone Duo from the Apple Design Resources. Download design kits from the Apple Design Resources Sign up for workshops around the world to learn how ",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=nyuppv9r",
-      "live": true
-    },
-    {
       "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-09-17",
@@ -748,16 +679,6 @@
       "summary": "submit page with an AI-suggested version summary The AI summarizes the changes in the workspace and automatically proposes a Version Name and Version Description",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-09-16",
-      "title": "Get ready with the latest beta releases",
-      "summary": "The beta versions of iOS 27.2, iPadOS 27.2, macOS 27.2, tvOS 27.2, visionOS 27.2, and watchOS 27.2 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 27.2",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=rfb1rooi",
       "live": true
     },
     {
