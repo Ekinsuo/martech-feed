@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T16:37:17.553052+00:00",
+  "generated_at": "2026-10-19T09:50:45.383901+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -121,7 +121,17 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-10-19",
+      "title": "How to Call Gemini 4 Argon From Your Own Code",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/how-to-call-gemini-4-argon-from-your-own-code-d1c30dba0792?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-16",
       "title": "October 16, 2026",
@@ -131,7 +141,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-10-16",
       "title": "Gemini 4 Argon Released",
@@ -221,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-15",
       "title": "October 15, 2026",
@@ -241,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-15",
       "title": "ChatGPT Stops Tagging Outbound Links",
@@ -251,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-15",
       "title": "Google’s AI Mode Checkout Live on Some Shopify Stores, Causing Some GA4 Issues",
@@ -261,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-15",
       "title": "Adobe’s AI Assistant Can Now Audit Your Data Before You Build on It",
@@ -301,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-10-14",
       "title": "October 14, 2026",
@@ -311,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-14",
       "title": "Google Ads Customer Match Adds IP Address Matching",
@@ -321,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-13",
       "title": "October 13, 2026",
@@ -341,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-13",
       "title": "Google Tag Manager’s New Destination Tags and Optimisations",
@@ -351,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-13",
       "title": "Adobe’s September CJA Release Roundup",
@@ -381,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-12",
       "title": "October 12, 2026",
@@ -401,16 +411,6 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-12",
-      "title": "Checkout Page Tracking Scripts Disabled on Some Spotify Stores",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/checkout-page-tracking-scripts-disabled-on-some-spotify-stores-1d6c75b335e4?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
       "id": "scrape-GTM / Tag Gateway — Release notes-0",
       "cat": "gtm",
       "date": "2026-10-12",
@@ -421,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-09",
       "title": "October 09, 2026",
@@ -471,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-08",
       "title": "October 08, 2026",
@@ -541,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-10-07",
       "title": "October 07, 2026",
@@ -551,7 +551,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-10-06",
       "title": "October 06, 2026",
@@ -571,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
@@ -611,7 +611,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-10-04",
       "title": "October 04, 2026",
@@ -621,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-10-02",
       "title": "October 02, 2026",
