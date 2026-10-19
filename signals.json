@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:50:45.383901+00:00",
+  "generated_at": "2026-10-19T19:22:42.739778+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -124,6 +124,16 @@
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
       "date": "2026-10-19",
+      "title": "Google Launches a User Groups Admin API for GA4 and Google Marketing Platform",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/google-launches-a-user-groups-admin-api-for-ga4-and-google-marketing-platform-bfb0d7c0508e?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-1",
+      "cat": "sgtm",
+      "date": "2026-10-19",
       "title": "How to Call Gemini 4 Argon From Your Own Code",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
@@ -131,7 +141,47 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-19",
+      "title": "The next great marketing leaders will design how work gets done",
+      "summary": "Turn faster AI output into faster campaign delivery with clearer priorities, fewer handoffs, and defined roles for people and AI. The post The next great marketing leaders will design how work gets done appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-next-great-marketing-leaders-will-design-how-work-gets-done/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-19",
+      "title": "How to evaluate composable versus packaged CDP",
+      "summary": "Evaluating data warehouse readiness, engineering capacity, and real-time execution speeds determines optimal CDP architecture. The post How to evaluate composable versus packaged CDP appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-evaluate-composable-versus-packaged-cdp/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-19",
+      "title": "The psychological advantage of incrementality testing",
+      "summary": "Cutting spend feels risky. Keeping an unprofitable tactic often feels safe. Better evidence helps you challenge that imbalance. The post The psychological advantage of incrementality testing appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-psychological-advantage-of-incrementality-testing/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-10-19",
+      "title": "Blocking Identity Resolution Infrastructure",
+      "summary": "Apple and WebKit have shipped protections against web tracking for a long time.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18438/blocking-identity-resolution-infrastructure/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-10-16",
       "title": "October 16, 2026",
@@ -141,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-16",
       "title": "Gemini 4 Argon Released",
@@ -151,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-10-16",
       "title": "Content everywhere: Winning attention in a fragmented marketing landscape",
@@ -161,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-10-16",
       "title": "HubSpot’s Unbound 2026: The big announcements and updates",
@@ -171,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-10-16",
       "title": "Adding AI or headcount won’t fix a marketing skills gap",
@@ -181,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-10-16",
       "title": "Email marketing’s history can guide AI governance",
@@ -191,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-10-16",
       "title": "Retail media budgets are growing. Advertisers’ patience isn’t.",
@@ -231,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-15",
       "title": "October 15, 2026",
@@ -251,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-15",
       "title": "ChatGPT Stops Tagging Outbound Links",
@@ -261,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-15",
       "title": "Google’s AI Mode Checkout Live on Some Shopify Stores, Causing Some GA4 Issues",
@@ -271,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-15",
       "title": "Adobe’s AI Assistant Can Now Audit Your Data Before You Build on It",
@@ -281,37 +331,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-15",
-      "title": "HubSpot adds spending controls and flexible billing as AI usage grows",
-      "summary": "Consumption-based AI pricing makes marketing budgets unpredictable. Here is how HubSpot’s new spend limits and seat swaps give you control. The post HubSpot adds spending controls and flexible billing as AI usage grows appeared first on Mar",
-      "src": "MarTech.org",
-      "url": "https://martech.org/hubspot-adds-spending-controls-and-flexible-billing-as-ai-usage-grows/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-15",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Anthropic and OpenAI are reporting revenues that may or may not be supported by the facts. Here's why that matters to marketers. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-15",
-      "title": "The best marketing spend is the 5% you spend foolishly",
-      "summary": "Chewy and Eleven Madison Park show how memorable customer moments can turn preference into measurable referral value. The post The best marketing spend is the 5% you spend foolishly appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-best-marketing-spend-is-the-5-you-spend-foolishly/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-14",
       "title": "October 14, 2026",
@@ -321,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-14",
       "title": "Google Ads Customer Match Adds IP Address Matching",
@@ -331,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-13",
       "title": "October 13, 2026",
@@ -351,23 +371,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-13",
       "title": "Google Tag Manager’s New Destination Tags and Optimisations",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/google-tag-managers-new-destination-tags-and-optimisations-6662099dbbb1?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-13",
-      "title": "Adobe’s September CJA Release Roundup",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/adobes-september-cja-release-roundup-c05b0d7aebf7?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -391,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-12",
       "title": "October 12, 2026",
@@ -421,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-10-09",
       "title": "October 09, 2026",
@@ -471,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-10-08",
       "title": "October 08, 2026",
@@ -491,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-10-08",
       "title": "Release Notes for Safari Technology Preview 254",
@@ -541,17 +551,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-10-07",
       "title": "October 07, 2026",
-      "summary": "Anti Money Laundering AI Announcement New minor engine version released for the commercial line of business within the v004.005 version line ( aml-commercial.default.v004.005.202609-000 ). This version extends support for the major engine v",
+      "summary": "API Gateway Deprecated Negative backend deadlines are deprecated A negative backend deadline in an OpenAPI 2.0 x-google-backend extension or a gRPC BackendRule uses the default deadline, the same as 0 . Negative values there are deprecated ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_07_2026",
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-10-06",
       "title": "October 06, 2026",
@@ -571,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
@@ -611,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-10-04",
       "title": "October 04, 2026",
@@ -621,7 +631,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-10-02",
       "title": "October 02, 2026",
@@ -701,7 +711,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-09-23",
       "title": "Release Notes for Safari Technology Preview 253",
@@ -741,7 +751,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-09-17",
       "title": "WebKit Features for Safari 27.0",
@@ -761,7 +771,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-09-11",
       "title": "Release Notes for Safari Technology Preview 252",
@@ -791,7 +801,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-09-03",
       "title": "Submit your ideas for Interop 2027",
@@ -811,7 +821,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-09-02",
       "title": "Fixing Top-Level Await in Safari",
@@ -851,7 +861,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-08-26",
       "title": "Release Notes for Safari Technology Preview 251",
@@ -868,16 +878,6 @@
       "summary": "Thanks to Giovani Ortolani Barbosa for reminding me about this possibility within Google Tag Manager and thus inspiring this blog post. If you&rsquo;re running server-side Google Tag Manager (SGTM), you&rsquo;re probably sending your Google",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/gtmtips/split-ga-events-between-client-side-server-side-dispatch/",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-08-13",
-      "title": "Release Notes for Safari Technology Preview 250",
-      "summary": "Safari Technology Preview Release 250 is now available for download for macOS Golden Gate and macOS Tahoe.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18191/release-notes-for-safari-technology-preview-250/",
       "live": true
     },
     {
