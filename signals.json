@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:22:42.739778+00:00",
+  "generated_at": "2026-10-20T09:23:43.153613+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -185,7 +185,7 @@
       "cat": "general",
       "date": "2026-10-16",
       "title": "October 16, 2026",
-      "summary": "BigQuery Feature Conversational analytics in BigQuery is now available in the following locations: northamerica-northeast1 (Montréal) northamerica-northeast2 (Toronto) For more information, see Locations . Dialogflow Feature gemini-3.5-flas",
+      "summary": "BigQuery Feature Conversational analytics in BigQuery is now available in the following locations: northamerica-northeast1 (Montréal) northamerica-northeast2 (Toronto) For more information, see Locations . Cloud SQL for PostgreSQL Change Cl",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_16_2026",
       "live": true
@@ -355,7 +355,7 @@
       "cat": "general",
       "date": "2026-10-13",
       "title": "October 13, 2026",
-      "summary": "BigQuery Feature The AI.AGG function is generally available (GA). You can use this function to semantically aggregate unstructured input data based on natural language instructions. Feature BigQuery generative AI functions now support the g",
+      "summary": "Agent Platform Workbench Change 20261013-2230-rc0 Release Change 20261013-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. BigQuery Feature The AI.AGG",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_13_2026",
       "live": true
