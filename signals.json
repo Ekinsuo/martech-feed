@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T09:23:43.153613+00:00",
+  "generated_at": "2026-10-20T18:01:22.613425+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -123,6 +123,66 @@
     {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
+      "date": "2026-10-20",
+      "title": "Looker Data Apps Build AI Tools on Top of Your Existing Access Controls",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/looker-data-apps-build-ai-tools-on-top-of-your-existing-access-controls-95a58c18cf64?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-2",
+      "cat": "sgtm",
+      "date": "2026-10-20",
+      "title": "Getting Started With Google Antigravity and Gemini 4 Argon",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/getting-started-with-google-antigravity-and-gemini-4-argon-8195fcb8b8f5?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-20",
+      "title": "Will Salesforce’s Braze deal bring clarity or chaos?",
+      "summary": "The $5.7 billion acquisition could tighten the link between data and activation — or leave marketers managing another overlapping layer. The post Will Salesforce’s Braze deal bring clarity or chaos? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/will-salesforces-braze-deal-bring-clarity-or-chaos/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-20",
+      "title": "How to use CRM segmentation to drive holiday repeat purchases",
+      "summary": "Use a CRM recency ladder to prioritize customer segments and coordinate holiday campaigns across email and paid media. The post How to use CRM segmentation to drive holiday repeat purchases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-use-crm-segmentation-to-drive-holiday-repeat-purchases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-20",
+      "title": "Your marketing metrics are training your team to make bad decisions",
+      "summary": "Cheaper clicks and more leads can look like wins while qualified pipeline stalls. Uncover the tradeoffs behind your performance numbers. The post Your marketing metrics are training your team to make bad decisions appeared first on MarTech ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-marketing-metrics-are-training-your-team-to-make-bad-decisions/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-20",
+      "title": "AI search is turning prompts into customer research",
+      "summary": "Longer, more personal queries reveal the needs, trade-offs, and situations behind intent — giving marketers a richer view of what customers want. The post AI search is turning prompts into customer research appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-search-is-turning-prompts-into-customer-research/",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-1",
+      "cat": "sgtm",
       "date": "2026-10-19",
       "title": "Google Launches a User Groups Admin API for GA4 and Google Marketing Platform",
       "summary": "(no summary — open source)",
@@ -131,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-19",
       "title": "How to Call Gemini 4 Argon From Your Own Code",
@@ -141,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-10-19",
       "title": "The next great marketing leaders will design how work gets done",
@@ -151,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-10-19",
       "title": "How to evaluate composable versus packaged CDP",
@@ -161,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-10-19",
       "title": "The psychological advantage of incrementality testing",
@@ -191,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-16",
       "title": "Gemini 4 Argon Released",
@@ -201,53 +261,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-10-16",
       "title": "Content everywhere: Winning attention in a fragmented marketing landscape",
       "summary": "Digital fragmentation is pushing teams to their limits. On Nov. 4, learn how to stretch content budget and capture buyer attention where it counts. The post Content everywhere: Winning attention in a fragmented marketing landscape appeared ",
       "src": "MarTech.org",
       "url": "https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-16",
-      "title": "HubSpot’s Unbound 2026: The big announcements and updates",
-      "summary": "Unbound 2026 saw big product announcements on the main stage and other news that flew under the radar. Let’s break it all down for you. The post HubSpot s Unbound 2026: The big announcements and updates appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/hubspots-unbound-2026-the-big-announcements-and-updates/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-16",
-      "title": "Adding AI or headcount won’t fix a marketing skills gap",
-      "summary": "AI can increase output while creating more work for your best people. Three practical checks can help you avoid that trap. The post Adding AI or headcount won t fix a marketing skills gap appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/adding-ai-or-headcount-wont-fix-a-marketing-skills-gap/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-16",
-      "title": "Email marketing’s history can guide AI governance",
-      "summary": "Attribution, accuracy, and authenticity offer a starting point for responsible AI use — and for protecting your brand's credibility. The post Email marketing s history can guide AI governance appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/email-marketings-history-can-guide-ai-governance/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-16",
-      "title": "Retail media budgets are growing. Advertisers’ patience isn’t.",
-      "summary": "Advertisers plan to spend more, but slow activation and weak measurement can still cost networks money. The post Retail media budgets are growing. Advertisers patience isn’t. appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/retail-media-budgets-are-growing-advertisers-patience-isnt/",
       "live": true
     },
     {
@@ -301,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-15",
       "title": "ChatGPT Stops Tagging Outbound Links",
@@ -311,23 +331,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-15",
       "title": "Google’s AI Mode Checkout Live on Some Shopify Stores, Causing Some GA4 Issues",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/googles-ai-mode-checkout-live-on-some-shopify-stores-causing-some-ga4-issues-59ecb2259bae?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-15",
-      "title": "Adobe’s AI Assistant Can Now Audit Your Data Before You Build on It",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/adobes-ai-assistant-can-now-audit-your-data-before-you-build-on-it-89002c816268?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -341,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-14",
       "title": "Google Ads Customer Match Adds IP Address Matching",
@@ -368,16 +378,6 @@
       "summary": "With a recent update, the Google Tag Manager and Google Tag technologies are finally merging. In my many posts about Google Tag, I&rsquo;ve often lamented the fact that while any given Google Tag is essentially a wrapper for an underlying G",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/analytics/optimized-tagging-experience-google-tag-manager/",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-6",
-      "cat": "sgtm",
-      "date": "2026-10-13",
-      "title": "Google Tag Manager’s New Destination Tags and Optimisations",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/google-tag-managers-new-destination-tags-and-optimisations-6662099dbbb1?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
