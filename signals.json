@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T09:20:15.722499+00:00",
+  "generated_at": "2026-10-21T18:07:57.924497+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 97,
@@ -78,7 +78,7 @@
       "cat": "general",
       "ok": false,
       "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -122,6 +122,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-10-21",
+      "title": "October 21, 2026",
+      "summary": "Cloud Billing Feature SKU attributes and granular usage units in pricing data export (Preview) SKU attributes and granular usage units are now available in Preview in the Cloud Billing pricing data export to BigQuery . SKU attributes : SKU ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_21_2026",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
       "date": "2026-10-20",
@@ -142,7 +152,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-19",
       "title": "October 19, 2026",
@@ -182,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-16",
       "title": "October 16, 2026",
@@ -232,7 +242,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-15",
       "title": "October 15, 2026",
@@ -272,7 +282,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-14",
       "title": "October 14, 2026",
@@ -292,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-13",
       "title": "October 13, 2026",
@@ -332,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-12",
       "title": "October 12, 2026",
@@ -362,7 +372,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-10-09",
       "title": "October 09, 2026",
@@ -412,7 +422,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-10-08",
       "title": "October 08, 2026",
@@ -482,7 +492,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-07",
       "title": "October 07, 2026",
@@ -492,7 +502,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-10-06",
       "title": "October 06, 2026",
@@ -512,7 +522,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
@@ -549,16 +559,6 @@
       "summary": "User Groups Admin API, allowing you to manage user group access to your Google Analytics properties and accounts at scale User groups simplify the process of managing access for large teams, and the User Groups API enables you to maintain a",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
-      "date": "2026-10-04",
-      "title": "October 04, 2026",
-      "summary": "Agent Platform Workbench Change 20261004-2230-rc0 Release Change 20261004-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Change The BigQuery Jupyter",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_04_2026",
       "live": true
     },
     {
