@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T18:01:22.613425+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 105,
+  "generated_at": "2026-10-21T09:20:15.722499+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 97,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -141,43 +142,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
-      "date": "2026-10-20",
-      "title": "Will Salesforce’s Braze deal bring clarity or chaos?",
-      "summary": "The $5.7 billion acquisition could tighten the link between data and activation — or leave marketers managing another overlapping layer. The post Will Salesforce’s Braze deal bring clarity or chaos? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/will-salesforces-braze-deal-bring-clarity-or-chaos/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-10-20",
-      "title": "How to use CRM segmentation to drive holiday repeat purchases",
-      "summary": "Use a CRM recency ladder to prioritize customer segments and coordinate holiday campaigns across email and paid media. The post How to use CRM segmentation to drive holiday repeat purchases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-use-crm-segmentation-to-drive-holiday-repeat-purchases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-10-20",
-      "title": "Your marketing metrics are training your team to make bad decisions",
-      "summary": "Cheaper clicks and more leads can look like wins while qualified pipeline stalls. Uncover the tradeoffs behind your performance numbers. The post Your marketing metrics are training your team to make bad decisions appeared first on MarTech ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-marketing-metrics-are-training-your-team-to-make-bad-decisions/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-10-20",
-      "title": "AI search is turning prompts into customer research",
-      "summary": "Longer, more personal queries reveal the needs, trade-offs, and situations behind intent — giving marketers a richer view of what customers want. The post AI search is turning prompts into customer research appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-search-is-turning-prompts-into-customer-research/",
+      "date": "2026-10-19",
+      "title": "October 19, 2026",
+      "summary": "Agent Platform Workbench Change 20261018.00_p0 Release Change Installed latest packages from upstream dependencies. Fixed Fixed an issue where Jupyter Server terminal configuration could overwrite the Dataproc plugin server extension settin",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_19_2026",
       "live": true
     },
     {
@@ -201,36 +172,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-19",
-      "title": "The next great marketing leaders will design how work gets done",
-      "summary": "Turn faster AI output into faster campaign delivery with clearer priorities, fewer handoffs, and defined roles for people and AI. The post The next great marketing leaders will design how work gets done appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-next-great-marketing-leaders-will-design-how-work-gets-done/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-19",
-      "title": "How to evaluate composable versus packaged CDP",
-      "summary": "Evaluating data warehouse readiness, engineering capacity, and real-time execution speeds determines optimal CDP architecture. The post How to evaluate composable versus packaged CDP appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-evaluate-composable-versus-packaged-cdp/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-19",
-      "title": "The psychological advantage of incrementality testing",
-      "summary": "Cutting spend feels risky. Keeping an unprofitable tactic often feels safe. Better evidence helps you challenge that imbalance. The post The psychological advantage of incrementality testing appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-psychological-advantage-of-incrementality-testing/",
-      "live": true
-    },
-    {
       "id": "live-WebKit Blog (ITP / Safari)-0",
       "cat": "privacy",
       "date": "2026-10-19",
@@ -241,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-16",
       "title": "October 16, 2026",
@@ -258,16 +199,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/gemini-4-argon-released-83d3617326ee?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-16",
-      "title": "Content everywhere: Winning attention in a fragmented marketing landscape",
-      "summary": "Digital fragmentation is pushing teams to their limits. On Nov. 4, learn how to stretch content budget and capture buyer attention where it counts. The post Content everywhere: Winning attention in a fragmented marketing landscape appeared ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape/",
       "live": true
     },
     {
@@ -301,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-15",
       "title": "October 15, 2026",
@@ -341,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-14",
       "title": "October 14, 2026",
@@ -361,7 +292,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-13",
       "title": "October 13, 2026",
@@ -401,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-12",
       "title": "October 12, 2026",
@@ -431,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-10-09",
       "title": "October 09, 2026",
@@ -481,7 +412,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-10-08",
       "title": "October 08, 2026",
@@ -551,7 +482,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-10-07",
       "title": "October 07, 2026",
@@ -561,7 +492,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-06",
       "title": "October 06, 2026",
@@ -581,7 +512,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
@@ -621,23 +552,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-10-04",
       "title": "October 04, 2026",
       "summary": "Agent Platform Workbench Change 20261004-2230-rc0 Release Change 20261004-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Change The BigQuery Jupyter",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_04_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-17",
-      "cat": "general",
-      "date": "2026-10-02",
-      "title": "October 02, 2026",
-      "summary": "Apigee X Announcement On October 2, 2026, we released an updated version of Apigee (1-18-0-apigee-6). Note: Rollouts of this release began today and can take four or more business days to complete across all Google Cloud zones. Your instanc",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_02_2026",
       "live": true
     },
     {
