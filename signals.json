@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T18:07:57.924497+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 97,
+  "generated_at": "2026-10-22T09:22:56.681145+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 104,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -122,17 +121,97 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-1",
+      "cat": "sgtm",
+      "date": "2026-10-22",
+      "title": "BigQuery Working Examples: AI.AGG",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-agg-b30d294b4d88?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-4",
+      "cat": "sgtm",
+      "date": "2026-10-22",
+      "title": "What Google Built With Gemini 4 Argon: The Showcase Apps and the Workflow Behind Them",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/what-google-built-with-gemini-4-argon-the-showcase-apps-and-the-workflow-behind-them-090beb7c73cc?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-10-21",
       "title": "October 21, 2026",
-      "summary": "Cloud Billing Feature SKU attributes and granular usage units in pricing data export (Preview) SKU attributes and granular usage units are now available in Preview in the Cloud Billing pricing data export to BigQuery . SKU attributes : SKU ",
+      "summary": "App Engine flexible environment PHP Feature Patch updates to supported PHP runtimes are available with deployments from source: 8.5.12 , 8.4.27 , 8.3.36 , and 8.2.35 . Take immediate action to protect your PHP workloads by redeploying your ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_21_2026",
       "live": true
     },
     {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-10-21",
+      "title": "Upcoming changes to image extraction in Performance Max campaigns starting December 4, 2026",
+      "summary": "Starting December 4, 2026 , image extraction ( GENERATE_IMAGE_EXTRACTION ) will be enabled by default ( OPTED_IN ) for newly created Performance Max campaigns across Google Ads interfaces, including the the Google Ads API , Google Ads UI, a",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/3760097425693016371",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-10-21",
+      "title": "BigQuery Working Examples Dataset Update",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquery-working-examples-dataset-update-261ea83e23ba?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-21",
+      "title": "It’s time to re-think voice of the customer programs",
+      "summary": "Traditional customer surveys, endless feedback requests, and Net Promoter Scores (NPS) are failing both consumers and brands. What should modern companies do instead. The post It’s time to re-think voice of the customer programs appeared fi",
+      "src": "MarTech.org",
+      "url": "https://martech.org/its-time-to-re-think-voice-of-the-customer-programs/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-21",
+      "title": "The creative cost of chasing small performance gains",
+      "summary": "Small performance gains can lead to big strategic distractions. Creative judgment and long-term business goals matter more than chasing metrics. The post The creative cost of chasing small performance gains appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-creative-cost-of-chasing-small-performance-gains/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-21",
+      "title": "When the CMO sees growth and the CFO sees a problem",
+      "summary": "Should you increase media spend, hold steady, or pull back? Look at who's buying, what's driving sales, and how much value they add. The post When the CMO sees growth and the CFO sees a problem appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/when-the-cmo-sees-growth-and-the-cfo-sees-a-problem/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-21",
+      "title": "ChatGPT has plenty of advertisers, but not much revenue",
+      "summary": "OpenAI has expanded access, lowered costs, and added targeting tools, but advertiser growth hasn’t yet translated into enough revenue. The post ChatGPT has plenty of advertisers, but not much revenue appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/chatgpt-has-plenty-of-advertisers-but-not-much-revenue/",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-20",
       "title": "Looker Data Apps Build AI Tools on Top of Your Existing Access Controls",
@@ -142,13 +221,53 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-20",
       "title": "Getting Started With Google Antigravity and Gemini 4 Argon",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/getting-started-with-google-antigravity-and-gemini-4-argon-8195fcb8b8f5?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-10-20",
+      "title": "Will Salesforce’s Braze deal bring clarity or chaos?",
+      "summary": "The $5.7 billion acquisition could tighten the link between data and activation — or leave marketers managing another overlapping layer. The post Will Salesforce’s Braze deal bring clarity or chaos? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/will-salesforces-braze-deal-bring-clarity-or-chaos/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-10-20",
+      "title": "How to use CRM segmentation to drive holiday repeat purchases",
+      "summary": "Use a CRM recency ladder to prioritize customer segments and coordinate holiday campaigns across email and paid media. The post How to use CRM segmentation to drive holiday repeat purchases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-use-crm-segmentation-to-drive-holiday-repeat-purchases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-10-20",
+      "title": "Your marketing metrics are training your team to make bad decisions",
+      "summary": "Cheaper clicks and more leads can look like wins while qualified pipeline stalls. Uncover the tradeoffs behind your performance numbers. The post Your marketing metrics are training your team to make bad decisions appeared first on MarTech ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-marketing-metrics-are-training-your-team-to-make-bad-decisions/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-10-20",
+      "title": "AI search is turning prompts into customer research",
+      "summary": "Longer, more personal queries reveal the needs, trade-offs, and situations behind intent — giving marketers a richer view of what customers want. The post AI search is turning prompts into customer research appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-search-is-turning-prompts-into-customer-research/",
       "live": true
     },
     {
@@ -162,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-19",
       "title": "Google Launches a User Groups Admin API for GA4 and Google Marketing Platform",
@@ -172,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-19",
       "title": "How to Call Gemini 4 Argon From Your Own Code",
@@ -202,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-16",
       "title": "Gemini 4 Argon Released",
@@ -252,33 +371,13 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-10-15",
       "title": "Announcing v26 of the Google Ads API",
       "summary": "Today we are announcing the release of v26 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. We've published all updated client libraries and code examples. Come join us for a live w",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6792916181324052427",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-5",
-      "cat": "sgtm",
-      "date": "2026-10-15",
-      "title": "ChatGPT Stops Tagging Outbound Links",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/chatgpt-stops-tagging-outbound-links-73fdeb44f3cf?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-6",
-      "cat": "sgtm",
-      "date": "2026-10-15",
-      "title": "Google’s AI Mode Checkout Live on Some Shopify Stores, Causing Some GA4 Issues",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/googles-ai-mode-checkout-live-on-some-shopify-stores-causing-some-ga4-issues-59ecb2259bae?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -289,16 +388,6 @@
       "summary": "Anti Money Laundering AI Announcement New minor engine version released for the commercial line of business within the v004.011 version line ( aml-commercial.default.v004.011.202610-000 ). This version extends support for the major engine v",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_14_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-14",
-      "title": "Google Ads Customer Match Adds IP Address Matching",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/google-ads-customer-match-adds-ip-address-matching-b3967389ec74?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -352,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-10-12",
       "title": "Google Ads API Release and Sunset Schedules for 2026-2027",
@@ -432,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-10-08",
       "title": "Launching Structured Data Files v11",
@@ -582,7 +671,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-09-30",
       "title": "September 30, 2026",
@@ -592,7 +681,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-09-29",
       "title": "September 29, 2026",
@@ -612,7 +701,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-09-24",
       "title": "September 24, 2026",
@@ -622,7 +711,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-09-23",
       "title": "Announcing v25.2 of the Google Ads API",
@@ -662,16 +751,6 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-09-17",
-      "title": "September 17, 2026",
-      "summary": "Deployment dates Announcement Looker 26.18 will roll out to Looker (original) instances on the following schedule: Expected deployment start: Monday, September 21, 2026 Expected final deployment and download available: Sunday, October 4, 20",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#September_17_2026",
-      "live": true
-    },
-    {
       "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-09-17",
@@ -702,7 +781,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-09-10",
       "title": "A new onboarding experience for Google Ads API developers",
@@ -732,7 +811,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-09-02",
       "title": "Google Ads API v22 sunset reminder",
@@ -752,7 +831,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-08-31",
       "title": "Making Google Ads More Secure with Updates to Developer Policies",
@@ -769,16 +848,6 @@
       "summary": "There&rsquo;s a somewhat understated feature in the Google Tag Manager Community Template Gallery , which should certainly prove useful, especially to template authors. The template status page shows a list of all the GitHub commits handled",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/gtmtips/gtm-template-status-page/",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-08-27",
-      "title": "October 2026 changes to the Display & Video 360 API and Structured Data Files",
-      "summary": "Today we’re announcing three unversioned changes to the Display & Video 360 API and Structured Data Files that will take effect in October 2026 and may impact your existing integrations. These changes will take place on the following dates ",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4570583730470730028",
       "live": true
     },
     {
