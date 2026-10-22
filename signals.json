@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:22:56.681145+00:00",
+  "generated_at": "2026-10-22T18:03:06.387734+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 104,
@@ -141,7 +141,47 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-22",
+      "title": "ChatGPT sends less than 1% of Google’s traffic",
+      "summary": "ChatGPT visitors converted at a higher rate, but Google organic still drove 27 times as many conversions as all LLMs combined. The post ChatGPT sends less than 1% of Google’s traffic appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/chatgpt-sends-less-than-1-of-googles-traffic/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-22",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Salesforce's $5.7 billion acquisition of customer engagement platform Braze brought out the sour grapes from competitors. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-22",
+      "title": "How to build a reliable source of truth for AI agents",
+      "summary": "Your AI agents may follow instructions perfectly — and still get things wrong. The problem could lie in the documents they rely on. The post How to build a reliable source of truth for AI agents appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-build-a-reliable-source-of-truth-for-ai-agents/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-22",
+      "title": "Creator content shapes AI product recommendations",
+      "summary": "AI draws on creator reviews, product experiences, and consumer sentiment to inform recommendations. Here's why that matters for brands. The post Creator content shapes AI product recommendations appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/creator-content-shapes-ai-product-recommendations/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-21",
       "title": "October 21, 2026",
@@ -171,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-10-21",
       "title": "It’s time to re-think voice of the customer programs",
@@ -181,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-10-21",
       "title": "The creative cost of chasing small performance gains",
@@ -191,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-10-21",
       "title": "When the CMO sees growth and the CFO sees a problem",
@@ -201,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-10-21",
       "title": "ChatGPT has plenty of advertisers, but not much revenue",
@@ -231,47 +271,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-20",
-      "title": "Will Salesforce’s Braze deal bring clarity or chaos?",
-      "summary": "The $5.7 billion acquisition could tighten the link between data and activation — or leave marketers managing another overlapping layer. The post Will Salesforce’s Braze deal bring clarity or chaos? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/will-salesforces-braze-deal-bring-clarity-or-chaos/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-20",
-      "title": "How to use CRM segmentation to drive holiday repeat purchases",
-      "summary": "Use a CRM recency ladder to prioritize customer segments and coordinate holiday campaigns across email and paid media. The post How to use CRM segmentation to drive holiday repeat purchases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-use-crm-segmentation-to-drive-holiday-repeat-purchases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-20",
-      "title": "Your marketing metrics are training your team to make bad decisions",
-      "summary": "Cheaper clicks and more leads can look like wins while qualified pipeline stalls. Uncover the tradeoffs behind your performance numbers. The post Your marketing metrics are training your team to make bad decisions appeared first on MarTech ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-marketing-metrics-are-training-your-team-to-make-bad-decisions/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-20",
-      "title": "AI search is turning prompts into customer research",
-      "summary": "Longer, more personal queries reveal the needs, trade-offs, and situations behind intent — giving marketers a richer view of what customers want. The post AI search is turning prompts into customer research appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-search-is-turning-prompts-into-customer-research/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-10-19",
       "title": "October 19, 2026",
@@ -311,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-16",
       "title": "October 16, 2026",
@@ -361,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-15",
       "title": "October 15, 2026",
@@ -381,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-14",
       "title": "October 14, 2026",
@@ -391,11 +391,11 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-13",
       "title": "October 13, 2026",
-      "summary": "Agent Platform Workbench Change 20261013-2230-rc0 Release Change 20261013-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. BigQuery Feature The AI.AGG",
+      "summary": "Agent Platform Workbench Change 20261013-2230-rc0 Release Change 20261013-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Application Design Center F",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_13_2026",
       "live": true
@@ -431,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-10-12",
       "title": "October 12, 2026",
@@ -461,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-10-09",
       "title": "October 09, 2026",
@@ -511,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-08",
       "title": "October 08, 2026",
@@ -581,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-10-07",
       "title": "October 07, 2026",
@@ -591,7 +591,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-10-06",
       "title": "October 06, 2026",
@@ -611,7 +611,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-10-05",
       "title": "October 05, 2026",
