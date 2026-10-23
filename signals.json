@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:18:48.886180+00:00",
+  "generated_at": "2026-10-23T17:54:23.117727+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 95,
@@ -136,7 +136,7 @@
       "cat": "general",
       "date": "2026-10-22",
       "title": "October 22, 2026",
-      "summary": "App Engine standard environment PHP Security All supported versions of PHP 8.2 and later are patched. Take immediate protective action by redeploying your resources with updated dependencies. See Responding to core PHP vulnerabilities for m",
+      "summary": "Apigee X Announcement On October 22, 2026, we released an updated version of Apigee (1-18-0-apigee-7). Note: Rollouts of this release began today and can take four or more business days to complete across all Google Cloud zones. Your instan",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_22_2026",
       "live": true
