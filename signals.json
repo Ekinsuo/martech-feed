@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T18:03:06.387734+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 104,
+  "generated_at": "2026-10-23T09:18:48.886180+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 95,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 3
+      "items": 2
     },
     {
       "name": "Looker Studio Release Notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -121,6 +122,36 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-4",
+      "cat": "sgtm",
+      "date": "2026-10-23",
+      "title": "Diving into the Antigravity Agent with the Gemini API",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/diving-into-the-antigravity-agent-with-the-gemini-api-49f015cd1406?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-10-22",
+      "title": "October 22, 2026",
+      "summary": "App Engine standard environment PHP Security All supported versions of PHP 8.2 and later are patched. Take immediate protective action by redeploying your resources with updated dependencies. See Responding to core PHP vulnerabilities for m",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_22_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-10-22",
+      "title": "Announcing beta launch of Display & Video 360 API v5",
+      "summary": "We’re pleased to announce that Display & Video 360 API v5 is available in public beta starting today. Here is a subset of changes introduced in v5: Full management of advertiser-level YouTube video and channel exclusion targeting. Support f",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/8247464079722812100",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-10-22",
@@ -131,7 +162,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-22",
       "title": "What Google Built With Gemini 4 Argon: The Showcase Apps and the Workflow Behind Them",
@@ -141,43 +172,23 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
       "date": "2026-10-22",
-      "title": "ChatGPT sends less than 1% of Google’s traffic",
-      "summary": "ChatGPT visitors converted at a higher rate, but Google organic still drove 27 times as many conversions as all LLMs combined. The post ChatGPT sends less than 1% of Google’s traffic appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/chatgpt-sends-less-than-1-of-googles-traffic/",
+      "title": "Release Notes for Safari Technology Preview 255",
+      "summary": "Safari Technology Preview Release 255 is now available for download for macOS Golden Gate and macOS Tahoe.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18482/release-notes-for-safari-technology-preview-255/",
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
       "date": "2026-10-22",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Salesforce's $5.7 billion acquisition of customer engagement platform Braze brought out the sour grapes from competitors. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-10-22",
-      "title": "How to build a reliable source of truth for AI agents",
-      "summary": "Your AI agents may follow instructions perfectly — and still get things wrong. The problem could lie in the documents they rely on. The post How to build a reliable source of truth for AI agents appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-build-a-reliable-source-of-truth-for-ai-agents/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-10-22",
-      "title": "Creator content shapes AI product recommendations",
-      "summary": "AI draws on creator reviews, product experiences, and consumer sentiment to inform recommendations. Here's why that matters for brands. The post Creator content shapes AI product recommendations appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/creator-content-shapes-ai-product-recommendations/",
+      "title": "Offer your subscriptions to businesses and schools",
+      "summary": "Starting today, organizations and educational institutions can purchase subscriptions to apps in volume with multiseat purchasing. This makes it easy for organizations that use Apple Business or Apple School Manager to discover and purchase",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=yfo21auu",
       "live": true
     },
     {
@@ -185,13 +196,13 @@
       "cat": "general",
       "date": "2026-10-21",
       "title": "October 21, 2026",
-      "summary": "App Engine flexible environment PHP Feature Patch updates to supported PHP runtimes are available with deployments from source: 8.5.12 , 8.4.27 , 8.3.36 , and 8.2.35 . Take immediate action to protect your PHP workloads by redeploying your ",
+      "summary": "Apigee X Announcement Apigee Emulator Apigee Emulator v2.0.2 On October 21, 2026, we released Apigee Emulator version 2.0.2. This release upgrades the Apigee Emulator runtime to Java 21 (Eclipse Temurin JRE 21) to align local proxy developm",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_21_2026",
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-10-21",
       "title": "Upcoming changes to image extraction in Performance Max campaigns starting December 4, 2026",
@@ -211,46 +222,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-21",
-      "title": "It’s time to re-think voice of the customer programs",
-      "summary": "Traditional customer surveys, endless feedback requests, and Net Promoter Scores (NPS) are failing both consumers and brands. What should modern companies do instead. The post It’s time to re-think voice of the customer programs appeared fi",
-      "src": "MarTech.org",
-      "url": "https://martech.org/its-time-to-re-think-voice-of-the-customer-programs/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-21",
-      "title": "The creative cost of chasing small performance gains",
-      "summary": "Small performance gains can lead to big strategic distractions. Creative judgment and long-term business goals matter more than chasing metrics. The post The creative cost of chasing small performance gains appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-creative-cost-of-chasing-small-performance-gains/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-21",
-      "title": "When the CMO sees growth and the CFO sees a problem",
-      "summary": "Should you increase media spend, hold steady, or pull back? Look at who's buying, what's driving sales, and how much value they add. The post When the CMO sees growth and the CFO sees a problem appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/when-the-cmo-sees-growth-and-the-cfo-sees-a-problem/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-21",
-      "title": "ChatGPT has plenty of advertisers, but not much revenue",
-      "summary": "OpenAI has expanded access, lowered costs, and added targeting tools, but advertiser growth hasn’t yet translated into enough revenue. The post ChatGPT has plenty of advertisers, but not much revenue appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/chatgpt-has-plenty-of-advertisers-but-not-much-revenue/",
-      "live": true
-    },
-    {
       "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-20",
@@ -261,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-20",
       "title": "Getting Started With Google Antigravity and Gemini 4 Argon",
@@ -291,7 +262,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-19",
       "title": "How to Call Gemini 4 Argon From Your Own Code",
@@ -301,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-10-19",
       "title": "Blocking Identity Resolution Infrastructure",
@@ -321,17 +292,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-16",
-      "title": "Gemini 4 Argon Released",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/gemini-4-argon-released-83d3617326ee?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-10-16",
       "title": "Updated App Review Guidelines are now available",
@@ -341,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-10-16",
       "title": "Strengthening App Review Guidelines against nonconsensual intimate imagery and bait-and-switch apps",
@@ -371,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-10-15",
       "title": "Announcing v26 of the Google Ads API",
@@ -411,7 +372,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-10-13",
       "title": "Updated Apple Developer Program License Agreement now available",
@@ -441,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-10-12",
       "title": "Google Ads API Release and Sunset Schedules for 2026-2027",
@@ -521,7 +482,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-10-08",
       "title": "Launching Structured Data Files v11",
@@ -531,7 +492,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-10-08",
       "title": "Release Notes for Safari Technology Preview 254",
@@ -601,7 +562,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-10-06",
       "title": "Hello Developer: October 2026",
@@ -611,17 +572,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
-      "cat": "general",
-      "date": "2026-10-05",
-      "title": "October 05, 2026",
-      "summary": "Agent Platform Workbench Change 20261004.00_p0 Release Change Installed latest packages from upstream dependencies. Change The BigQuery JupyterLab plugin is now enabled independently of the Dataproc plugin: it is enabled by default and can ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_05_2026",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-10-05",
       "title": "Prepare and submit your apps for iPhone Duo",
@@ -631,7 +582,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-10-05",
       "title": "Showcase your apps with new assets on the App Store",
@@ -651,7 +602,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-10-02",
       "title": "Updates to Full Disk Access in macOS",
@@ -661,17 +612,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-10-01",
-      "title": "Upcoming expiration of Developer ID Certification Authority (Sub-CA)",
-      "summary": "The original Developer ID Certification Authority (Sub-CA) expires on February 1, 2027. Certificates issued by this authority will stop working on that date. What to do: Check if you’re affected. In Certificates, Identifiers & Profiles , lo",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=w4atic4c",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-09-30",
       "title": "September 30, 2026",
@@ -681,7 +622,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-09-29",
       "title": "September 29, 2026",
@@ -701,17 +642,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-09-24",
-      "title": "September 24, 2026",
-      "summary": "Deployment dates Announcement Beginning September 21, 2026, the following features will be automatically enabled for Looker (original) instances running Looker 26.16. Feature Looker now displays an Authorize OAuth Connection dialog when use",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#September_24_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-09-23",
       "title": "Announcing v25.2 of the Google Ads API",
@@ -721,7 +652,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-09-23",
       "title": "Release Notes for Safari Technology Preview 253",
@@ -751,7 +682,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-09-17",
       "title": "WebKit Features for Safari 27.0",
@@ -771,7 +702,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-09-11",
       "title": "Release Notes for Safari Technology Preview 252",
@@ -781,7 +712,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-09-10",
       "title": "A new onboarding experience for Google Ads API developers",
@@ -801,7 +732,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-09-03",
       "title": "Submit your ideas for Interop 2027",
@@ -811,7 +742,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-09-02",
       "title": "Google Ads API v22 sunset reminder",
@@ -821,23 +752,13 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-09-02",
       "title": "Fixing Top-Level Await in Safari",
       "summary": "WebKit for Safari 27 adds full spec compliance for top-level `await`.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18227/fixing-top-level-await-in-safari/",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-08-31",
-      "title": "Making Google Ads More Secure with Updates to Developer Policies",
-      "summary": "We are updating our Google Ads Developer Policies formerly the “Google Ads API Policy”, to support developers in building robust, high-quality integrations as new AI capabilities continue to shape the advertising industry. These updates est",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1363402498929547325",
       "live": true
     },
     {
@@ -848,16 +769,6 @@
       "summary": "There&rsquo;s a somewhat understated feature in the Google Tag Manager Community Template Gallery , which should certainly prove useful, especially to template authors. The template status page shows a list of all the GitHub commits handled",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/gtmtips/gtm-template-status-page/",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-08-26",
-      "title": "Release Notes for Safari Technology Preview 251",
-      "summary": "Safari Technology Preview Release 251 is now available for download for macOS Golden Gate and macOS Tahoe.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18194/release-notes-for-safari-technology-preview-251/",
       "live": true
     },
     {
