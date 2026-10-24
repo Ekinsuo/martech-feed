@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T17:54:23.117727+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 95,
+  "generated_at": "2026-10-24T08:51:06.181120+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 102,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 2
+      "items": 1
     },
     {
       "name": "Looker Studio Release Notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -132,7 +131,57 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-23",
+      "title": "Personalization knows what customers want, not who they are",
+      "summary": "Useful offers are common. Meaningful recognition is not, and consumers are quick to walk when brands ask for too much without a clear reason. The post Personalization knows what customers want, not who they are appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/personalization-knows-what-customers-want-not-who-they-are/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-23",
+      "title": "Your CEO wants answers your dashboard can’t give",
+      "summary": "Marketing metrics show what happened in a campaign. The harder job is connecting customer behavior to growth, margin, and profit. The post Your CEO wants answers your dashboard can’t give appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-ceo-wants-answers-your-dashboard-cant-give/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-23",
+      "title": "Why organic traffic can fall while revenue stays strong",
+      "summary": "Before overhauling your SEO strategy, look at branded search, high-intent visits, and pipeline data to see whether there's actually a problem. The post Why organic traffic can fall while revenue stays strong appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-organic-traffic-can-fall-while-revenue-stays-strong/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-23",
+      "title": "Built to adapt: Why composable martech is becoming the new standard",
+      "summary": "On Nov. 4, learn how composable martech can help marketers integrate AI, reduce vendor lock-in, and modernize their technology stacks without starting from scratch. The post Built to adapt: Why composable martech is becoming the new standar",
+      "src": "MarTech.org",
+      "url": "https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-10-23",
+      "title": "WebKit Features for Safari 27.1",
+      "summary": "Today iPhone Duo arrives, and with it, Safari 27.1.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18486/webkit-features-for-safari-27-1/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-22",
       "title": "October 22, 2026",
@@ -172,7 +221,47 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-10-22",
+      "title": "ChatGPT sends less than 1% of Google’s traffic",
+      "summary": "ChatGPT visitors converted at a higher rate, but Google organic still drove 27 times as many conversions as all LLMs combined. The post ChatGPT sends less than 1% of Google’s traffic appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/chatgpt-sends-less-than-1-of-googles-traffic/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-10-22",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Salesforce's $5.7 billion acquisition of customer engagement platform Braze brought out the sour grapes from competitors. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-10-22",
+      "title": "How to build a reliable source of truth for AI agents",
+      "summary": "Your AI agents may follow instructions perfectly — and still get things wrong. The problem could lie in the documents they rely on. The post How to build a reliable source of truth for AI agents appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-build-a-reliable-source-of-truth-for-ai-agents/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-10-22",
+      "title": "Creator content shapes AI product recommendations",
+      "summary": "AI draws on creator reviews, product experiences, and consumer sentiment to inform recommendations. Here's why that matters for brands. The post Creator content shapes AI product recommendations appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/creator-content-shapes-ai-product-recommendations/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-10-22",
       "title": "Release Notes for Safari Technology Preview 255",
@@ -192,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-21",
       "title": "October 21, 2026",
@@ -222,6 +311,16 @@
       "live": true
     },
     {
+      "id": "live-Google Cloud — All release notes-3",
+      "cat": "general",
+      "date": "2026-10-20",
+      "title": "October 20, 2026",
+      "summary": "Apigee X Announcement On October 20th, 2026, we began maintenance updates of Apigee instances configured for maintenance windows . If you set a preferred window for maintenance for your instance, and your instance version is below 1-18-0-ap",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_20_2026",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-20",
@@ -242,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-19",
       "title": "October 19, 2026",
@@ -272,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-10-19",
       "title": "Blocking Identity Resolution Infrastructure",
@@ -282,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-16",
       "title": "October 16, 2026",
@@ -322,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-15",
       "title": "October 15, 2026",
@@ -342,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-14",
       "title": "October 14, 2026",
@@ -352,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-10-13",
       "title": "October 13, 2026",
@@ -392,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-10-12",
       "title": "October 12, 2026",
@@ -422,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-09",
       "title": "October 09, 2026",
@@ -472,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-10-08",
       "title": "October 08, 2026",
@@ -492,7 +591,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-10-08",
       "title": "Release Notes for Safari Technology Preview 254",
@@ -542,23 +641,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-10-07",
       "title": "October 07, 2026",
       "summary": "API Gateway Deprecated Negative backend deadlines are deprecated A negative backend deadline in an OpenAPI 2.0 x-google-backend extension or a gRPC BackendRule uses the default deadline, the same as 0 . Negative values there are deprecated ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_07_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
-      "date": "2026-10-06",
-      "title": "October 06, 2026",
-      "summary": "AI Hypercomputer Feature Generally available : When you reserve compute resources for creating GPU instances through your account team, you can include a Hyperdisk pool in the same request or in a subsequent request. This option helps ensur",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_06_2026",
       "live": true
     },
     {
@@ -612,23 +701,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-09-30",
       "title": "September 30, 2026",
       "summary": "Looker (original) only changes Feature Enhanced observability metrics, including user engagement and estimated token usage data on the Token usage tab of the Conversational Analytics System Activity dashboard , are now generally available (",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#September_30_2026",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-09-29",
-      "title": "September 29, 2026",
-      "summary": "Looker (Google Cloud core) only changes Announcement The latest versions in the Looker (Google Cloud core) release channels are beginning deployment as follows: Latest version in the Rapid channel: Looker 26.18 Latest version in the No Chan",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#September_29_2026",
       "live": true
     },
     {
@@ -652,7 +731,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-09-23",
       "title": "Release Notes for Safari Technology Preview 253",
@@ -682,7 +761,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-09-17",
       "title": "WebKit Features for Safari 27.0",
@@ -702,7 +781,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-09-11",
       "title": "Release Notes for Safari Technology Preview 252",
@@ -732,7 +811,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-09-03",
       "title": "Submit your ideas for Interop 2027",
@@ -749,16 +828,6 @@
       "summary": "Google Ads API v22 will sunset on October 7, 2026. Starting on this date, all v22 API requests will begin to fail. Migrate to a newer version prior to October 7, 2026 to ensure your API access is unaffected. Here are some resources to help ",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1518248525584001928",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-09-02",
-      "title": "Fixing Top-Level Await in Safari",
-      "summary": "WebKit for Safari 27 adds full spec compliance for top-level `await`.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18227/fixing-top-level-await-in-safari/",
       "live": true
     },
     {
