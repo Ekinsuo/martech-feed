@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:03:47.646258+00:00",
+  "generated_at": "2026-10-26T19:25:20.785207+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 102,
@@ -121,6 +121,46 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-26",
+      "title": "Restructuring martech ops for autonomous AI agents",
+      "summary": "MOps teams are shifting from task executors to AI fleet managers to run autonomous agents alongside traditional software. The post Restructuring martech ops for autonomous AI agents appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/restructuring-martech-ops-for-autonomous-ai-agents/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-26",
+      "title": "The next wave of marketing automation is taking aim at Marketo",
+      "summary": "Some of Marketo's original architects bet AI can replace the complex workflows and manual configuration marketers have relied on for decades. The post The next wave of marketing automation is taking aim at Marketo appeared first on MarTech ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-next-wave-of-marketing-automation-is-taking-aim-at-marketo/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-26",
+      "title": "Why winning AI search isn’t enough to win B2B buyers",
+      "summary": "Confusing navigation, vague claims, and missing evidence cost you buyers. See how cognitive-load testing helps identify and address these barriers. The post Why winning AI search isn t enough to win B2B buyers appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-winning-ai-search-isnt-enough-to-win-b2b-buyers/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-10-26",
+      "title": "WebKit Features for Safari 27.2",
+      "summary": "Safari 27.2 is here, refining Customizable Select, renaming a Grid Lanes property, and delivering 20 bug fixes across accessibility, media, CSS, and more.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18515/webkit-features-for-safari-27-2/",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-23",
@@ -131,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-10-23",
       "title": "Personalization knows what customers want, not who they are",
@@ -141,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-10-23",
       "title": "Your CEO wants answers your dashboard can’t give",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-10-23",
       "title": "Why organic traffic can fall while revenue stays strong",
@@ -161,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-10-23",
       "title": "Built to adapt: Why composable martech is becoming the new standard",
@@ -171,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-10-23",
       "title": "WebKit Features for Safari 27.1",
@@ -181,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-22",
       "title": "October 22, 2026",
@@ -221,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-10-22",
       "title": "ChatGPT sends less than 1% of Google’s traffic",
@@ -231,37 +271,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-22",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Salesforce's $5.7 billion acquisition of customer engagement platform Braze brought out the sour grapes from competitors. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-22",
-      "title": "How to build a reliable source of truth for AI agents",
-      "summary": "Your AI agents may follow instructions perfectly — and still get things wrong. The problem could lie in the documents they rely on. The post How to build a reliable source of truth for AI agents appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-build-a-reliable-source-of-truth-for-ai-agents/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-22",
-      "title": "Creator content shapes AI product recommendations",
-      "summary": "AI draws on creator reviews, product experiences, and consumer sentiment to inform recommendations. Here's why that matters for brands. The post Creator content shapes AI product recommendations appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/creator-content-shapes-ai-product-recommendations/",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-10-22",
       "title": "Release Notes for Safari Technology Preview 255",
@@ -281,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-21",
       "title": "October 21, 2026",
@@ -311,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-20",
       "title": "October 20, 2026",
@@ -341,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-19",
       "title": "October 19, 2026",
@@ -371,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-10-19",
       "title": "Blocking Identity Resolution Infrastructure",
@@ -381,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-10-16",
       "title": "October 16, 2026",
@@ -421,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-10-15",
       "title": "October 15, 2026",
@@ -441,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-10-14",
       "title": "October 14, 2026",
@@ -451,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-10-13",
       "title": "October 13, 2026",
@@ -491,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-12",
       "title": "October 12, 2026",
@@ -521,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-10-09",
       "title": "October 09, 2026",
@@ -571,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-10-08",
       "title": "October 08, 2026",
@@ -591,7 +601,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-10-08",
       "title": "Release Notes for Safari Technology Preview 254",
@@ -641,7 +651,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
+      "id": "live-Google Cloud — All release notes-19",
       "cat": "general",
       "date": "2026-10-07",
       "title": "October 07, 2026",
@@ -731,7 +741,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-09-23",
       "title": "Release Notes for Safari Technology Preview 253",
@@ -761,7 +771,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-09-17",
       "title": "WebKit Features for Safari 27.0",
@@ -781,7 +791,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-09-11",
       "title": "Release Notes for Safari Technology Preview 252",
@@ -808,16 +818,6 @@
       "summary": "Dashboards are a highly flexible way to help businesses view their KPIs on a single report. This launch features enhanced UI capabilities, such as intuitive data visualization creation, drag-and-drop functionality, and new report visualizat",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-09-03",
-      "title": "Submit your ideas for Interop 2027",
-      "summary": "It’s that exciting time of year again when we start considering Interop proposals for next year!",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18283/submit-your-ideas-for-interop-2027/",
       "live": true
     },
     {
