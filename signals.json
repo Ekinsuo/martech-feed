@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T09:46:57.320277+00:00",
+  "generated_at": "2026-10-27T18:46:25.276963+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 102,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -121,13 +121,63 @@
   ],
   "signals": [
     {
+      "id": "live-BigQuery Release Notes-0",
+      "cat": "bigquery",
+      "date": "2026-10-27",
+      "title": "October 27, 2026",
+      "summary": "Feature The Data Engineering Agent now integrates with Google Drive , letting you provide Google Sheets files, CSV, or JSONL files as input for your data engineering pipelines. This feature is generally available (GA).",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_27_2026",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-10-27",
+      "title": "Gemini in Google Sheets can now query your whole BigQuery dataset, not just what’s on the sheet",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/gemini-in-google-sheets-can-now-query-your-whole-bigquery-dataset-not-just-whats-on-the-sheet-e9f19f3991c0?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-10-27",
       "title": "We Built a Small Chrome Extension to Duplicate Tealium Event Specs",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/we-built-a-small-chrome-extension-to-duplicate-tealium-event-specs-438566026abd?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-27",
+      "title": "Braze gives Salesforce more speed — and more overlap",
+      "summary": "Customers could gain tighter activation and AI connections while facing tougher choices about products, pricing, and long-term lock-in. The post Braze gives Salesforce more speed — and more overlap appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/braze-gives-salesforce-more-speed-and-more-overlap/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-27",
+      "title": "Your event content needs a destination before it needs a prompt",
+      "summary": "AI makes repurposing event content easier. Here's how to prioritize what matters, get it to the right audiences, and show its value. The post Your event content needs a destination before it needs a prompt appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-event-content-needs-a-destination-before-it-needs-a-prompt/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-27",
+      "title": "7 B2B marketing shifts that will define 2027",
+      "summary": "MQLs, last-click attribution, channel silos, and generic content are losing ground as B2B marketing shifts toward trust, AI visibility, and revenue. The post 7 B2B marketing shifts that will define 2027 appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/7-b2b-marketing-shifts-that-will-define-2027/",
       "live": true
     },
     {
@@ -141,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-10-26",
       "title": "Restructuring martech ops for autonomous AI agents",
@@ -151,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-10-26",
       "title": "The next wave of marketing automation is taking aim at Marketo",
@@ -161,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-10-26",
       "title": "Why winning AI search isn’t enough to win B2B buyers",
@@ -191,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-23",
       "title": "Diving into the Antigravity Agent with the Gemini API",
@@ -201,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-10-23",
       "title": "Personalization knows what customers want, not who they are",
@@ -211,33 +261,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-10-23",
       "title": "Your CEO wants answers your dashboard can’t give",
       "summary": "Marketing metrics show what happened in a campaign. The harder job is connecting customer behavior to growth, margin, and profit. The post Your CEO wants answers your dashboard can’t give appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/your-ceo-wants-answers-your-dashboard-cant-give/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-23",
-      "title": "Why organic traffic can fall while revenue stays strong",
-      "summary": "Before overhauling your SEO strategy, look at branded search, high-intent visits, and pipeline data to see whether there's actually a problem. The post Why organic traffic can fall while revenue stays strong appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-organic-traffic-can-fall-while-revenue-stays-strong/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-23",
-      "title": "Built to adapt: Why composable martech is becoming the new standard",
-      "summary": "On Nov. 4, learn how composable martech can help marketers integrate AI, reduce vendor lock-in, and modernize their technology stacks without starting from scratch. The post Built to adapt: Why composable martech is becoming the new standar",
-      "src": "MarTech.org",
-      "url": "https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/",
       "live": true
     },
     {
@@ -271,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-22",
       "title": "BigQuery Working Examples: AI.AGG",
@@ -281,23 +311,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-22",
       "title": "What Google Built With Gemini 4 Argon: The Showcase Apps and the Workflow Behind Them",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/what-google-built-with-gemini-4-argon-the-showcase-apps-and-the-workflow-behind-them-090beb7c73cc?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-22",
-      "title": "ChatGPT sends less than 1% of Google’s traffic",
-      "summary": "ChatGPT visitors converted at a higher rate, but Google organic still drove 27 times as many conversions as all LLMs combined. The post ChatGPT sends less than 1% of Google’s traffic appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/chatgpt-sends-less-than-1-of-googles-traffic/",
       "live": true
     },
     {
@@ -341,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-21",
       "title": "BigQuery Working Examples Dataset Update",
@@ -361,23 +381,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-20",
       "title": "Looker Data Apps Build AI Tools on Top of Your Existing Access Controls",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/looker-data-apps-build-ai-tools-on-top-of-your-existing-access-controls-95a58c18cf64?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-20",
-      "title": "Getting Started With Google Antigravity and Gemini 4 Argon",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/getting-started-with-google-antigravity-and-gemini-4-argon-8195fcb8b8f5?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -391,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-19",
       "title": "Google Launches a User Groups Admin API for GA4 and Google Marketing Platform",
