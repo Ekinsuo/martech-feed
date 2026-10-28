@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-28T10:32:34.510471+00:00",
+  "generated_at": "2026-10-28T18:56:06.891446+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 102,
+  "count": 103,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "name": "Looker Studio Release Notes",
@@ -123,6 +123,76 @@
     {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
+      "date": "2026-10-28",
+      "title": "October 28, 2026",
+      "summary": "AlloyDB for PostgreSQL Announcement The following AlloyDB AI and vector search features and improvements are generally available ( GA ): The alloydb_scann extension supports four-level tree (4LT) ScaNN vector indexes on PostgreSQL 17 and la",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_28_2026",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-10-28",
+      "title": "Safari 27 Blocks Identity Resolution Vendors",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/safari-27-blocks-identity-resolution-vendors-6e161979d64d?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-28",
+      "title": "What data and AI hide about your customers",
+      "summary": "You're swimming in data and AI tools. Is any of it really helping you better understand your customers? The post What data and AI hide about your customers appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/what-data-and-ai-hide-about-your-customers/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-28",
+      "title": "More marketing spend brings more challenges and complexity",
+      "summary": "Technology and organizational challenges seem to grow with marketing spend, despite more access to tools, according to data from StackAdapt. The post More marketing spend brings more challenges and complexity appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/more-marketing-spend-brings-more-challenges-and-complexity/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-28",
+      "title": "Your best customer may never visit your website",
+      "summary": "Customers can discover, compare, and buy your products without you knowing. Your marketing organization needs to adapt. The post Your best customer may never visit your website appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-best-customer-may-never-visit-your-website/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-28",
+      "title": "Marketing automation is dead. Long live marketing automation!",
+      "summary": "Algorithm updates and endless manual workflows are draining. On Nov. 4, learn how AI transforms marketing automation into your strongest strategic partner. The post Marketing automation is dead. Long live marketing automation! appeared firs",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-10-28",
+      "title": "Say hello to Touch on Mac",
+      "summary": "Start getting ready for MacBook Pro with Touch today. Watch new developer videos, sign up for Group Labs, and check out new articles and resources. Explore now",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=i9boeiqc",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
+      "cat": "general",
       "date": "2026-10-27",
       "title": "October 27, 2026",
       "summary": "AlloyDB for PostgreSQL Announcement The following AlloyDB AI functions and improvements are available in Preview : The ai.extract function lets you extract structured data from unstructured text directly within your database queries without",
@@ -131,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-10-27",
       "title": "Gemini in Google Sheets can now query your whole BigQuery dataset, not just what’s on the sheet",
@@ -141,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-27",
       "title": "We Built a Small Chrome Extension to Duplicate Tealium Event Specs",
@@ -151,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-10-27",
       "title": "Braze gives Salesforce more speed — and more overlap",
@@ -161,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-10-27",
       "title": "Your event content needs a destination before it needs a prompt",
@@ -171,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-10-27",
       "title": "7 B2B marketing shifts that will define 2027",
@@ -181,7 +251,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-26",
       "title": "October 26, 2026",
@@ -191,33 +261,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-10-26",
       "title": "Restructuring martech ops for autonomous AI agents",
       "summary": "MOps teams are shifting from task executors to AI fleet managers to run autonomous agents alongside traditional software. The post Restructuring martech ops for autonomous AI agents appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/restructuring-martech-ops-for-autonomous-ai-agents/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-26",
-      "title": "The next wave of marketing automation is taking aim at Marketo",
-      "summary": "Some of Marketo's original architects bet AI can replace the complex workflows and manual configuration marketers have relied on for decades. The post The next wave of marketing automation is taking aim at Marketo appeared first on MarTech ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-next-wave-of-marketing-automation-is-taking-aim-at-marketo/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-26",
-      "title": "Why winning AI search isn’t enough to win B2B buyers",
-      "summary": "Confusing navigation, vague claims, and missing evidence cost you buyers. See how cognitive-load testing helps identify and address these barriers. The post Why winning AI search isn t enough to win B2B buyers appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-winning-ai-search-isnt-enough-to-win-b2b-buyers/",
       "live": true
     },
     {
@@ -231,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-10-25",
       "title": "October 25, 2026",
@@ -241,33 +291,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-23",
       "title": "Diving into the Antigravity Agent with the Gemini API",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/diving-into-the-antigravity-agent-with-the-gemini-api-49f015cd1406?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-23",
-      "title": "Personalization knows what customers want, not who they are",
-      "summary": "Useful offers are common. Meaningful recognition is not, and consumers are quick to walk when brands ask for too much without a clear reason. The post Personalization knows what customers want, not who they are appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/personalization-knows-what-customers-want-not-who-they-are/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-23",
-      "title": "Your CEO wants answers your dashboard can’t give",
-      "summary": "Marketing metrics show what happened in a campaign. The harder job is connecting customer behavior to growth, margin, and profit. The post Your CEO wants answers your dashboard can’t give appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-ceo-wants-answers-your-dashboard-cant-give/",
       "live": true
     },
     {
@@ -281,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-22",
       "title": "October 22, 2026",
@@ -301,23 +331,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-22",
       "title": "BigQuery Working Examples: AI.AGG",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-agg-b30d294b4d88?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-22",
-      "title": "What Google Built With Gemini 4 Argon: The Showcase Apps and the Workflow Behind Them",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/what-google-built-with-gemini-4-argon-the-showcase-apps-and-the-workflow-behind-them-090beb7c73cc?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -331,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-10-22",
       "title": "Offer your subscriptions to businesses and schools",
@@ -341,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-21",
       "title": "October 21, 2026",
@@ -361,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-21",
       "title": "BigQuery Working Examples Dataset Update",
@@ -371,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-20",
       "title": "October 20, 2026",
@@ -381,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-20",
       "title": "Looker Data Apps Build AI Tools on Top of Your Existing Access Controls",
@@ -391,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-19",
       "title": "October 19, 2026",
@@ -401,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-19",
       "title": "Google Launches a User Groups Admin API for GA4 and Google Marketing Platform",
@@ -421,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-10-16",
       "title": "October 16, 2026",
@@ -431,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-10-16",
       "title": "Updated App Review Guidelines are now available",
@@ -441,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-10-16",
       "title": "Strengthening App Review Guidelines against nonconsensual intimate imagery and bait-and-switch apps",
@@ -461,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-10-15",
       "title": "October 15, 2026",
@@ -481,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-14",
       "title": "October 14, 2026",
@@ -491,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-10-13",
       "title": "October 13, 2026",
@@ -511,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-10-13",
       "title": "Updated Apple Developer Program License Agreement now available",
@@ -531,13 +551,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
-      "cat": "general",
+      "id": "live-Looker Release Notes-6",
+      "cat": "looker",
       "date": "2026-10-12",
       "title": "October 12, 2026",
-      "summary": "Agent Platform Workbench Change 20261011.00_p0 Release Change Installed latest packages from upstream dependencies. Fixed Fixed an issue where gcloud and gsutil failed to load with an AttributeError in OpenSSL.crypto due to a version mismat",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_12_2026",
+      "summary": "Looker (Google Cloud core) only changes Feature Looker (Google Cloud core) now supports Workforce Identity Federation in preview for instances that use Looker 26.18 and later. Workforce Identity Federation allows users to authenticate by us",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_12_2026",
       "live": true
     },
     {
@@ -671,7 +691,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-10-06",
       "title": "Hello Developer: October 2026",
@@ -681,7 +701,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-10-05",
       "title": "Prepare and submit your apps for iPhone Duo",
@@ -691,7 +711,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-10-05",
       "title": "Showcase your apps with new assets on the App Store",
@@ -708,16 +728,6 @@
       "summary": "User Groups Admin API, allowing you to manage user group access to your Google Analytics properties and accounts at scale User groups simplify the process of managing access for large teams, and the User Groups API enables you to maintain a",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-10-02",
-      "title": "Updates to Full Disk Access in macOS",
-      "summary": "We give developers powerful APIs to build incredible capabilities into their apps for Apple products, backed by a set of controls designed to protect users’ private data. Full Disk Access largely sidesteps these controls in order to allow b",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=p6zjojqw",
       "live": true
     },
     {
