@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T18:46:25.276963+00:00",
+  "generated_at": "2026-10-28T10:32:34.510471+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 103,
+  "count": 102,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
@@ -121,13 +121,13 @@
   ],
   "signals": [
     {
-      "id": "live-BigQuery Release Notes-0",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
       "date": "2026-10-27",
       "title": "October 27, 2026",
-      "summary": "Feature The Data Engineering Agent now integrates with Google Drive , letting you provide Google Sheets files, CSV, or JSONL files as input for your data engineering pipelines. This feature is generally available (GA).",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_27_2026",
+      "summary": "AlloyDB for PostgreSQL Announcement The following AlloyDB AI functions and improvements are available in Preview : The ai.extract function lets you extract structured data from unstructured text directly within your database queries without",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_27_2026",
       "live": true
     },
     {
@@ -181,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-26",
       "title": "October 26, 2026",
@@ -231,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-25",
       "title": "October 25, 2026",
@@ -281,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-22",
       "title": "October 22, 2026",
@@ -341,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-21",
       "title": "October 21, 2026",
@@ -371,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-20",
       "title": "October 20, 2026",
@@ -391,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-19",
       "title": "October 19, 2026",
@@ -421,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-10-16",
       "title": "October 16, 2026",
@@ -461,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-10-15",
       "title": "October 15, 2026",
@@ -481,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-10-14",
       "title": "October 14, 2026",
@@ -491,7 +491,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-13",
       "title": "October 13, 2026",
@@ -531,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-10-12",
       "title": "October 12, 2026",
@@ -561,13 +561,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
-      "cat": "general",
+      "id": "live-Looker Release Notes-7",
+      "cat": "looker",
       "date": "2026-10-09",
       "title": "October 09, 2026",
-      "summary": "Access Approval Feature Database Migration Service is generally available ( GA ). Access Transparency Feature Database Migration Service is generally available ( GA ). BigQuery Feature The BigQuery Data Engineering Agent is now available in",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_09_2026",
+      "summary": "Deployment dates Announcement Beginning October 5, 2026, the following features will be automatically enabled for Looker (original) instances running Looker 26.18. Feature enablement for Looker (Google Cloud core) will be announced separate",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_09_2026",
       "live": true
     },
     {
@@ -608,16 +608,6 @@
       "summary": "Background information Date of final decision: 3 July 2026 National case Controller: Banco Bilbao Vizcaya Argentaria, S.A., Italian branch (BBVA) Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-bbva-eur-5-508-000-for-failing-to-respect-a-customers-objection-to-direct_en",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-10-08",
-      "title": "October 08, 2026",
-      "summary": "Deployment dates Announcement Looker 26.20 will roll out to Looker (original) and Looker (Google Cloud core) instances on the following schedule: Expected deployment start: Monday, October 12, 2026 Expected final deployment and download ava",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_08_2026",
       "live": true
     },
     {
