@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:52:06.601472+00:00",
+  "generated_at": "2026-10-29T19:01:14.654235+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -121,7 +121,57 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-29",
+      "title": "The risks of optimizing SEO for AI over users",
+      "summary": "Chasing AI visibility can lead to generic content, weaker differentiation, and declining trust. Here's what deserves your attention. The post The risks of optimizing SEO for AI over users appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-risks-of-optimizing-seo-for-ai-over-users/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-29",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "The cautionary tale of when Salesforce \"ingested\" Slack. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-29",
+      "title": "6 mistakes to avoid with AI-powered performance marketing",
+      "summary": "AI can make campaign metrics look better while producing less business value. The risk is optimizing faster toward the wrong goal. The post 6 mistakes to avoid with AI-powered performance marketing appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/6-mistakes-to-avoid-with-ai-powered-performance-marketing/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-10-29",
+      "title": "Adjustments to the Taiwan storefront of the App Store on iOS and iPadOS",
+      "summary": "Apple is making changes to the Taiwan storefront of the App Store, following discussions with the Taiwan Fair Trade Commission. As of October 31, 2026, the commission rate for standard Apple In-App Purchase and paid app transactions will be",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=w9mxlhek",
+      "live": true
+    },
+    {
+      "id": "scrape-sGTM — Release notes-0",
+      "cat": "sgtm",
+      "date": "2026-10-29",
+      "title": ") Updated base image version for security updates",
+      "summary": "4.5.0 (",
+      "src": "sGTM — Release notes",
+      "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-28",
       "title": "October 28, 2026",
@@ -141,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-10-28",
       "title": "What data and AI hide about your customers",
@@ -151,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-10-28",
       "title": "More marketing spend brings more challenges and complexity",
@@ -161,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-10-28",
       "title": "Your best customer may never visit your website",
@@ -171,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-10-28",
       "title": "Marketing automation is dead. Long live marketing automation!",
@@ -181,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-10-28",
       "title": "Say hello to Touch on Mac",
@@ -191,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-27",
       "title": "October 27, 2026",
@@ -221,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-10-27",
       "title": "Braze gives Salesforce more speed — and more overlap",
@@ -231,43 +281,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-27",
-      "title": "Your event content needs a destination before it needs a prompt",
-      "summary": "AI makes repurposing event content easier. Here's how to prioritize what matters, get it to the right audiences, and show its value. The post Your event content needs a destination before it needs a prompt appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-event-content-needs-a-destination-before-it-needs-a-prompt/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-27",
-      "title": "7 B2B marketing shifts that will define 2027",
-      "summary": "MQLs, last-click attribution, channel silos, and generic content are losing ground as B2B marketing shifts toward trust, AI visibility, and revenue. The post 7 B2B marketing shifts that will define 2027 appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/7-b2b-marketing-shifts-that-will-define-2027/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-10-26",
       "title": "October 26, 2026",
       "summary": "Agent Platform Workbench Change 20261025.00_p0 Release Change Installed latest packages from upstream dependencies. Security Updated certifi, pip, and conda ca-certificates to the latest versions. Change 20261025.00_p0 Release Change Instal",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_26_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-26",
-      "title": "Restructuring martech ops for autonomous AI agents",
-      "summary": "MOps teams are shifting from task executors to AI fleet managers to run autonomous agents alongside traditional software. The post Restructuring martech ops for autonomous AI agents appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/restructuring-martech-ops-for-autonomous-ai-agents/",
       "live": true
     },
     {
@@ -281,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-25",
       "title": "October 25, 2026",
@@ -311,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-22",
       "title": "October 22, 2026",
@@ -351,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-10-22",
       "title": "Offer your subscriptions to businesses and schools",
@@ -361,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-21",
       "title": "October 21, 2026",
@@ -391,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-20",
       "title": "October 20, 2026",
@@ -411,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-10-19",
       "title": "October 19, 2026",
@@ -441,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-10-16",
       "title": "October 16, 2026",
@@ -451,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-10-16",
       "title": "Updated App Review Guidelines are now available",
@@ -461,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-10-16",
       "title": "Strengthening App Review Guidelines against nonconsensual intimate imagery and bait-and-switch apps",
@@ -481,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-15",
       "title": "October 15, 2026",
@@ -501,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-10-14",
       "title": "October 14, 2026",
@@ -511,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-10-13",
       "title": "October 13, 2026",
@@ -531,7 +551,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-10-13",
       "title": "Updated Apple Developer Program License Agreement now available",
@@ -681,17 +701,7 @@
       "live": true
     },
     {
-      "id": "scrape-sGTM — Release notes-0",
-      "cat": "sgtm",
-      "date": "2026-10-08",
-      "title": ") Updated base image version for security updates",
-      "summary": "4.4.0 (",
-      "src": "sGTM — Release notes",
-      "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-10-06",
       "title": "Hello Developer: October 2026",
@@ -701,23 +711,13 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-10-05",
       "title": "Prepare and submit your apps for iPhone Duo",
       "summary": "iPhone Duo will be available to customers starting October 23, 2026. To get your apps and games ready today, you can: Build or recompile with Xcode Recompile existing apps with Xcode 27.1, which adds development support for iPhone Duo. Use ",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=kkphp5qo",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-10-05",
-      "title": "Showcase your apps with new assets on the App Store",
-      "summary": "Make your apps and games stand out with new creative assets on the App Store and asset management tools in App Store Connect. Market your app or game in new ways Use new creative assets on your product page headers and in search result asse",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=ljpl7kyn",
       "live": true
     },
     {
