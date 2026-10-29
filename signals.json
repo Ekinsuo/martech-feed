@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:56:06.891446+00:00",
+  "generated_at": "2026-10-29T10:52:06.601472+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 103,
@@ -445,7 +445,7 @@
       "cat": "general",
       "date": "2026-10-16",
       "title": "October 16, 2026",
-      "summary": "BigQuery Feature Conversational analytics in BigQuery is now available in the following locations: northamerica-northeast1 (Montréal) northamerica-northeast2 (Toronto) For more information, see Locations . Cloud SQL for PostgreSQL Change Cl",
+      "summary": "Access Approval Feature Service connectivity automation is generally available ( GA ). Access Transparency Feature Service connectivity automation is generally available ( GA ). BigQuery Feature Conversational analytics in BigQuery is now a",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_16_2026",
       "live": true
