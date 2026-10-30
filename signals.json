@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-29T19:01:14.654235+00:00",
+  "generated_at": "2026-10-30T10:50:34.806931+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 103,
+  "count": 102,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 2
+      "items": 1
     },
     {
       "name": "Looker Studio Release Notes",
@@ -101,7 +101,7 @@
       "name": "GTM / Tag Gateway — Release notes",
       "cat": "gtm",
       "ok": true,
-      "items": 8,
+      "items": 7,
       "scraped": true
     },
     {
@@ -120,6 +120,16 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-10-29",
+      "title": "October 29, 2026",
+      "summary": "AlloyDB for PostgreSQL Feature AlloyDB AI adds pre-registered support for the following Gemini models in version 1.6.5 and later of the google_ml_integration extension: gemini-3.1-flash-lite gemini-3.5-flash gemini-3.5-flash-lite gemini-3.6",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_29_2026",
+      "live": true
+    },
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
@@ -531,13 +541,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-7",
+      "cat": "bigquery",
       "date": "2026-10-13",
       "title": "October 13, 2026",
-      "summary": "Agent Platform Workbench Change 20261013-2230-rc0 Release Change 20261013-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Application Design Center F",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_13_2026",
+      "summary": "Feature The AI.AGG function is generally available (GA). You can use this function to semantically aggregate unstructured input data based on natural language instructions. Feature BigQuery generative AI functions now support the gemini-4-a",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_13_2026",
       "live": true
     },
     {
@@ -571,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-10-12",
       "title": "October 12, 2026",
@@ -598,16 +608,6 @@
       "summary": "new capability to Google Tag Manager containers to send data directly to Google measurement products This results in faster website performance, improved data collection, centralized settings management and user access directly in your GTM ",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-10-09",
-      "title": "October 09, 2026",
-      "summary": "Deployment dates Announcement Beginning October 5, 2026, the following features will be automatically enabled for Looker (original) instances running Looker 26.18. Feature enablement for Looker (Google Cloud core) will be announced separate",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_09_2026",
       "live": true
     },
     {
@@ -946,16 +946,6 @@
       "date": "2026-06-03",
       "title": "Google tag gateway for advertisers using Amazon CloudFront is…",
       "summary": "now available This release introduces a new option to configure Google tag gateway for advertisers using Amazon CloudFront as your content delivery network (CDN) via Tag Assistant This setup is facilitated by a guided workflow in Tag Assist",
-      "src": "GTM / Tag Gateway — Release notes",
-      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-GTM / Tag Gateway — Release notes-7",
-      "cat": "gtm",
-      "date": "2026-06-01",
-      "title": "Google tag gateway for advertisers via Google Cloud Platform…",
-      "summary": "is now available This release marks the general availability of the Google tag gateway for advertisers integration with Google Cloud Platform (GCP) This integration allows you to leverage Google Cloud Platform’s Global external Application ",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
       "live": true
