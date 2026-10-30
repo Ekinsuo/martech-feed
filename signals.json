@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T10:50:34.806931+00:00",
+  "generated_at": "2026-10-30T18:41:01.700123+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 102,
@@ -121,7 +121,47 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-30",
+      "title": "More paid social ads won’t fix a creative problem",
+      "summary": "20 ads may all test the same idea. Better performance comes from changing the variables that give the algorithm something new to learn. The post More paid social ads won’t fix a creative problem appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/more-paid-social-ads-wont-fix-a-creative-problem/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-30",
+      "title": "How to test incrementality before peak spending starts",
+      "summary": "Waiting until Cyber Week is too late. Run holdouts early enough to see which channels create lift, then move budget before the expensive days arrive. The post How to test incrementality before peak spending starts appeared first on MarTech ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-test-incrementality-before-peak-spending-starts/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-30",
+      "title": "Most marketers say AI works. Few can prove it.",
+      "summary": "AI can make work faster while leaving teams unable to prove the value. The problem starts before launch, with weak baselines and success metrics. The post Most marketers say AI works. Few can prove it. appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/most-marketers-say-ai-works-few-can-prove-it/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-30",
+      "title": "Meet your new teammate: Building marketing workflows around AI agents",
+      "summary": "AI agents are changing how marketing teams work. On Nov. 4, learn how to build workflows that combine AI efficiency with human judgment, quality control and governance at the free November 4 MarTech Conference. The post Meet your new teamma",
+      "src": "MarTech.org",
+      "url": "https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-10-29",
       "title": "October 29, 2026",
@@ -131,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-10-29",
       "title": "The risks of optimizing SEO for AI over users",
@@ -141,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-10-29",
       "title": "The latest AI-powered martech news and releases",
@@ -151,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-10-29",
       "title": "6 mistakes to avoid with AI-powered performance marketing",
@@ -181,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-28",
       "title": "October 28, 2026",
@@ -201,43 +241,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-10-28",
       "title": "What data and AI hide about your customers",
       "summary": "You're swimming in data and AI tools. Is any of it really helping you better understand your customers? The post What data and AI hide about your customers appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/what-data-and-ai-hide-about-your-customers/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-28",
-      "title": "More marketing spend brings more challenges and complexity",
-      "summary": "Technology and organizational challenges seem to grow with marketing spend, despite more access to tools, according to data from StackAdapt. The post More marketing spend brings more challenges and complexity appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/more-marketing-spend-brings-more-challenges-and-complexity/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-28",
-      "title": "Your best customer may never visit your website",
-      "summary": "Customers can discover, compare, and buy your products without you knowing. Your marketing organization needs to adapt. The post Your best customer may never visit your website appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-best-customer-may-never-visit-your-website/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-28",
-      "title": "Marketing automation is dead. Long live marketing automation!",
-      "summary": "Algorithm updates and endless manual workflows are draining. On Nov. 4, learn how AI transforms marketing automation into your strongest strategic partner. The post Marketing automation is dead. Long live marketing automation! appeared firs",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/",
       "live": true
     },
     {
@@ -251,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-10-27",
       "title": "October 27, 2026",
@@ -281,17 +291,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-27",
-      "title": "Braze gives Salesforce more speed — and more overlap",
-      "summary": "Customers could gain tighter activation and AI connections while facing tougher choices about products, pricing, and long-term lock-in. The post Braze gives Salesforce more speed — and more overlap appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/braze-gives-salesforce-more-speed-and-more-overlap/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-26",
       "title": "October 26, 2026",
@@ -311,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-25",
       "title": "October 25, 2026",
@@ -341,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-22",
       "title": "October 22, 2026",
@@ -391,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-21",
       "title": "October 21, 2026",
@@ -421,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-10-20",
       "title": "October 20, 2026",
@@ -441,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-10-19",
       "title": "October 19, 2026",
@@ -471,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-16",
       "title": "October 16, 2026",
@@ -511,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-10-15",
       "title": "October 15, 2026",
@@ -531,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-10-14",
       "title": "October 14, 2026",
