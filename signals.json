@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30T18:41:01.700123+00:00",
+  "generated_at": "2026-10-31T10:21:27.988674+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 102,
+  "count": 101,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "name": "Looker Studio Release Notes",
@@ -120,6 +120,16 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-10-30",
+      "title": "October 30, 2026",
+      "summary": "Agent Registry Feature Agent Registry supports cross-project management boundaries ( Preview ), letting you centrally discover, search, and govern AI agents, Model Context Protocol (MCP) servers, and tools across multiple Google Cloud proje",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#October_30_2026",
+      "live": true
+    },
     {
       "id": "live-MarTech.org-0",
       "cat": "general",
@@ -531,23 +541,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
-      "date": "2026-10-14",
-      "title": "October 14, 2026",
-      "summary": "Anti Money Laundering AI Announcement New minor engine version released for the commercial line of business within the v004.011 version line ( aml-commercial.default.v004.011.202610-000 ). This version extends support for the major engine v",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_14_2026",
-      "live": true
-    },
-    {
       "id": "live-BigQuery Release Notes-7",
       "cat": "bigquery",
-      "date": "2026-10-13",
-      "title": "October 13, 2026",
-      "summary": "Feature The AI.AGG function is generally available (GA). You can use this function to semantically aggregate unstructured input data based on natural language instructions. Feature BigQuery generative AI functions now support the gemini-4-a",
+      "date": "2026-10-14",
+      "title": "October 14, 2026",
+      "summary": "Feature The Apache Hive catalog endpoint in the Lakehouse runtime catalog is now generally available (GA). This integration lets you use the metastore as a serverless, central metadata layer, enabling seamless data sharing and unified query",
       "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_13_2026",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_14_2026",
       "live": true
     },
     {
@@ -578,16 +578,6 @@
       "summary": "Brussels, 13 October – During its latest plenary, the EDPB has adopted statement 1/2026 on smart glasses and published the report “The connected gaze. Video recording, surveillance and administering evidence in the age of smart glasses” *, ",
       "src": "EDPB — GDPR news",
       "url": "https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-10-12",
-      "title": "October 12, 2026",
-      "summary": "Looker (Google Cloud core) only changes Feature Looker (Google Cloud core) now supports Workforce Identity Federation in preview for instances that use Looker 26.18 and later. Workforce Identity Federation allows users to authenticate by us",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_12_2026",
       "live": true
     },
     {
