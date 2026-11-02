@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T12:19:22.150853+00:00",
+  "generated_at": "2026-11-02T22:22:33.695244+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 100,
@@ -121,7 +121,77 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-11-02",
+      "title": "November 02, 2026",
+      "summary": "Apigee X Announcement On November 2, 2026, we released an updated version of Apigee. Note: Rollouts of this release began today and may take four or more business days to be completed across all Google Cloud zones. Your instances may not ha",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_02_2026",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-11-02",
+      "title": "BigQuery Working Examples: AI.CHUNK_DOCUMENT",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-chunk-document-035e2c6f455d?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-02",
+      "title": "AI can find patterns, but marketers must figure out what they mean",
+      "summary": "The biggest opportunity for AI in marketing could be the questions you haven't thought to ask — and the customer behaviors they reveal. The post AI can find patterns, but marketers must figure out what they mean appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-can-find-patterns-but-marketers-must-figure-out-what-they-mean/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-11-02",
+      "title": "Evaluating martech stacks to cut underutilized tools",
+      "summary": "Use structured auditing frameworks to eliminate duplicate software, trim SaaS bloat, and align spending with core business outcomes. The post Evaluating martech stacks to cut underutilized tools appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/evaluating-martech-stacks-to-cut-underutilized-tools/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-11-02",
+      "title": "Your 2027 media plan has a channel problem",
+      "summary": "Your best-performing channel may get too much money while higher-value customer opportunities go overlooked. The post Your 2027 media plan has a channel problem appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-2027-media-plan-has-a-channel-problem/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-11-02",
+      "title": "Beyond deployment: How to lead the change and make AI adoption stick",
+      "summary": "Tool adoption stalls when teams feel unsafe. On Nov. 4, discover how to turn AI apprehension into confident, high-value execution. The post Beyond deployment: How to lead the change and make AI adoption stick appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/beyond-deployment-how-to-lead-the-change-and-make-ai-adoption-stick/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-11-02",
+      "title": "Upcoming: New age rating content descriptors in App Store Connect",
+      "summary": "Starting November 16, 2026, App Store Connect will include new content descriptors to help ensure your app’s age ratings accurately reflect its features and are in accordance with local regulations. When completing the age rating questionna",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=yxkh08us",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-10-30",
       "title": "October 30, 2026",
@@ -131,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-10-30",
       "title": "More paid social ads won’t fix a creative problem",
@@ -141,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-10-30",
       "title": "How to test incrementality before peak spending starts",
@@ -151,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-10-30",
       "title": "Most marketers say AI works. Few can prove it.",
@@ -161,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-10-30",
       "title": "Meet your new teammate: Building marketing workflows around AI agents",
@@ -171,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-29",
       "title": "October 29, 2026",
@@ -181,37 +251,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-29",
-      "title": "The risks of optimizing SEO for AI over users",
-      "summary": "Chasing AI visibility can lead to generic content, weaker differentiation, and declining trust. Here's what deserves your attention. The post The risks of optimizing SEO for AI over users appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-risks-of-optimizing-seo-for-ai-over-users/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-29",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "The cautionary tale of when Salesforce \"ingested\" Slack. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-29",
-      "title": "6 mistakes to avoid with AI-powered performance marketing",
-      "summary": "AI can make campaign metrics look better while producing less business value. The risk is optimizing faster toward the wrong goal. The post 6 mistakes to avoid with AI-powered performance marketing appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/6-mistakes-to-avoid-with-ai-powered-performance-marketing/",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-10-29",
       "title": "Adjustments to the Taiwan storefront of the App Store on iOS and iPadOS",
@@ -231,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-28",
       "title": "October 28, 2026",
@@ -241,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-10-28",
       "title": "Safari 27 Blocks Identity Resolution Vendors",
@@ -251,17 +291,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-28",
-      "title": "What data and AI hide about your customers",
-      "summary": "You're swimming in data and AI tools. Is any of it really helping you better understand your customers? The post What data and AI hide about your customers appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/what-data-and-ai-hide-about-your-customers/",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-10-28",
       "title": "Say hello to Touch on Mac",
@@ -271,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-27",
       "title": "October 27, 2026",
@@ -281,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-27",
       "title": "Gemini in Google Sheets can now query your whole BigQuery dataset, not just what’s on the sheet",
@@ -291,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-27",
       "title": "We Built a Small Chrome Extension to Duplicate Tealium Event Specs",
@@ -301,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-26",
       "title": "October 26, 2026",
@@ -321,23 +351,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-25",
       "title": "October 25, 2026",
       "summary": "Agent Platform Workbench Change 20261025-2230-rc0 Release Change 20261025-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Security Updated certifi, p",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_25_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-23",
-      "title": "Diving into the Antigravity Agent with the Gemini API",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/diving-into-the-antigravity-agent-with-the-gemini-api-49f015cd1406?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -351,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-10-22",
       "title": "October 22, 2026",
@@ -371,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-22",
       "title": "BigQuery Working Examples: AI.AGG",
@@ -391,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-10-22",
       "title": "Offer your subscriptions to businesses and schools",
@@ -401,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-10-21",
       "title": "October 21, 2026",
@@ -421,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-21",
       "title": "BigQuery Working Examples Dataset Update",
@@ -431,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-10-20",
       "title": "October 20, 2026",
@@ -441,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-20",
       "title": "Looker Data Apps Build AI Tools on Top of Your Existing Access Controls",
@@ -451,7 +471,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-19",
       "title": "October 19, 2026",
@@ -461,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-19",
       "title": "Google Launches a User Groups Admin API for GA4 and Google Marketing Platform",
@@ -481,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-10-16",
       "title": "October 16, 2026",
@@ -491,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-10-16",
       "title": "Updated App Review Guidelines are now available",
@@ -501,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-10-16",
       "title": "Strengthening App Review Guidelines against nonconsensual intimate imagery and bait-and-switch apps",
@@ -521,13 +541,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-7",
+      "cat": "bigquery",
       "date": "2026-10-15",
       "title": "October 15, 2026",
-      "summary": "Apigee Edge for Private Cloud Announcement Released Apigee Edge for Private Cloud 4.54.00. Designated Apigee Edge for Private Cloud 4.54.00.00 a long-term support (LTS) release: 18 months of full support ending April 2028, then 18 months of",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_15_2026",
+      "summary": "Feature You can copy tables across regions . This feature is now generally available (GA). Feature You can now use reusable column aliases in GoogleSQL. This feature lets you define an alias for an expression in the SELECT clause of a SQL q",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_15_2026",
       "live": true
     },
     {
@@ -541,16 +561,6 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
-      "date": "2026-10-14",
-      "title": "October 14, 2026",
-      "summary": "Feature The Apache Hive catalog endpoint in the Lakehouse runtime catalog is now generally available (GA). This integration lets you use the metastore as a serverless, central metadata layer, enabling seamless data sharing and unified query",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_14_2026",
-      "live": true
-    },
-    {
       "id": "live-Simo Ahava-0",
       "cat": "general",
       "date": "2026-10-13",
@@ -561,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-10-13",
       "title": "Updated Apple Developer Program License Agreement now available",
@@ -691,23 +701,13 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-10-06",
       "title": "Hello Developer: October 2026",
       "summary": "In this edition: Get tips on submitting your iPhone Duo app. Sign up for new iPhone Duo Group Labs. Join us for a new developer event on speed and efficiency. Explore localized documentation. Browse new App Store creative assets. Read now",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=gv788oj6",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-10-05",
-      "title": "Prepare and submit your apps for iPhone Duo",
-      "summary": "iPhone Duo will be available to customers starting October 23, 2026. To get your apps and games ready today, you can: Build or recompile with Xcode Recompile existing apps with Xcode 27.1, which adds development support for iPhone Duo. Use ",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=kkphp5qo",
       "live": true
     },
     {
