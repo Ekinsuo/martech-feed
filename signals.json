@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T18:27:34.483623+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 92,
+  "generated_at": "2026-11-02T12:19:22.150853+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 100,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -132,6 +131,46 @@
       "live": true
     },
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-10-30",
+      "title": "More paid social ads won’t fix a creative problem",
+      "summary": "20 ads may all test the same idea. Better performance comes from changing the variables that give the algorithm something new to learn. The post More paid social ads won’t fix a creative problem appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/more-paid-social-ads-wont-fix-a-creative-problem/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-10-30",
+      "title": "How to test incrementality before peak spending starts",
+      "summary": "Waiting until Cyber Week is too late. Run holdouts early enough to see which channels create lift, then move budget before the expensive days arrive. The post How to test incrementality before peak spending starts appeared first on MarTech ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-test-incrementality-before-peak-spending-starts/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-10-30",
+      "title": "Most marketers say AI works. Few can prove it.",
+      "summary": "AI can make work faster while leaving teams unable to prove the value. The problem starts before launch, with weak baselines and success metrics. The post Most marketers say AI works. Few can prove it. appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/most-marketers-say-ai-works-few-can-prove-it/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-10-30",
+      "title": "Meet your new teammate: Building marketing workflows around AI agents",
+      "summary": "AI agents are changing how marketing teams work. On Nov. 4, learn how to build workflows that combine AI efficiency with human judgment, quality control and governance at the free November 4 MarTech Conference. The post Meet your new teamma",
+      "src": "MarTech.org",
+      "url": "https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-10-29",
@@ -139,6 +178,36 @@
       "summary": "AlloyDB for PostgreSQL Feature AlloyDB AI adds pre-registered support for the following Gemini models in version 1.6.5 and later of the google_ml_integration extension: gemini-3.1-flash-lite gemini-3.5-flash gemini-3.5-flash-lite gemini-3.6",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_29_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-10-29",
+      "title": "The risks of optimizing SEO for AI over users",
+      "summary": "Chasing AI visibility can lead to generic content, weaker differentiation, and declining trust. Here's what deserves your attention. The post The risks of optimizing SEO for AI over users appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-risks-of-optimizing-seo-for-ai-over-users/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-10-29",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "The cautionary tale of when Salesforce \"ingested\" Slack. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-10-29",
+      "title": "6 mistakes to avoid with AI-powered performance marketing",
+      "summary": "AI can make campaign metrics look better while producing less business value. The risk is optimizing faster toward the wrong goal. The post 6 mistakes to avoid with AI-powered performance marketing appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/6-mistakes-to-avoid-with-ai-powered-performance-marketing/",
       "live": true
     },
     {
@@ -179,6 +248,16 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/safari-27-blocks-identity-resolution-vendors-6e161979d64d?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-10-28",
+      "title": "What data and AI hide about your customers",
+      "summary": "You're swimming in data and AI tools. Is any of it really helping you better understand your customers? The post What data and AI hide about your customers appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/what-data-and-ai-hide-about-your-customers/",
       "live": true
     },
     {
