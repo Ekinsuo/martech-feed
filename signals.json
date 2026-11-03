@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T22:22:33.695244+00:00",
+  "generated_at": "2026-11-03T11:53:37.377607+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 100,
@@ -125,7 +125,7 @@
       "cat": "general",
       "date": "2026-11-02",
       "title": "November 02, 2026",
-      "summary": "Apigee X Announcement On November 2, 2026, we released an updated version of Apigee. Note: Rollouts of this release began today and may take four or more business days to be completed across all Google Cloud zones. Your instances may not ha",
+      "summary": "Agent Platform Workbench Change 20261101.00_p0 Release Change Installed latest packages from upstream dependencies. Security Upgraded the container host to the latest Container-Optimized OS LTS release, rebasing onto the newest operating sy",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_02_2026",
       "live": true
