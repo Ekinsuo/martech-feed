@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03T11:53:37.377607+00:00",
+  "generated_at": "2026-11-03T20:09:58.707275+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 100,
+  "count": 101,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "name": "Looker Studio Release Notes",
@@ -121,7 +121,87 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-BigQuery Release Notes-0",
+      "cat": "bigquery",
+      "date": "2026-11-03",
+      "title": "November 03, 2026",
+      "summary": "Change In BigQuery Studio , the left pane has been updated with new tab names. The Classic Explorer tab has been renamed to the Data tab, and the Repository tab has been renamed to the Source control tab. The Data tab now includes the Add d",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#November_03_2026",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-03",
+      "title": "Salesforce buying AI customer support company Cresta",
+      "summary": "Salesforce is buying Cresta to bring AI voice agents into customer calls, tying conversations more closely to CRM data and its broader Agentforce push. The post Salesforce buying AI customer support company Cresta appeared first on MarTech ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/salesforce-buying-ai-customer-support-company-cresta/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-11-03",
+      "title": "AI traffic drives 83% more revenue per visit",
+      "summary": "Adobe research also found that AI traffic converted 90% better than non-AI traffic. The post AI traffic drives 83% more revenue per visit appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-traffic-drives-83-more-traffic-per-visit/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-11-03",
+      "title": "Your first-party data doesn’t reflect your customer today",
+      "summary": "Purchase history tells only part of the story. Identity resolution and consumer intelligence help brands understand what matters now. The post Your first-party data doesn’t reflect your customer today appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/your-first-party-data-doesnt-reflect-your-customer-today/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-11-03",
+      "title": "Why B2B marketers are turning to paid influencers",
+      "summary": "B2B creators are turning expertise into profitable businesses, while brands find new ways to reach buyers through trusted voices. The post Why B2B marketers are turning to paid influencers appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-b2b-marketers-are-turning-to-paid-influencers/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-11-03",
+      "title": "If you don’t define your weakness, AI will",
+      "summary": "B2B companies that avoid saying who they’re wrong for are letting buyers, competitors, and AI systems do it for them. The post If you don’t define your weakness, AI will appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/if-you-dont-define-your-weakness-ai-will/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-11-03",
+      "title": "Siri AI is now open to all developers",
+      "summary": "Starting today with the iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3 betas, a new Developer Preview enables any developer to integrate their app with Siri AI, giving businesses and developers new ways to reach and serve their custom",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=gdk2umrf",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-1",
+      "cat": "apple",
+      "date": "2026-11-03",
+      "title": "Get ready with the latest beta releases",
+      "summary": "The beta versions of iOS 27.3, iPadOS 27.3, macOS 27.3, tvOS 27.3, visionOS 27.3, and watchOS 27.3 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 27.3",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=6gpufove",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-11-02",
       "title": "November 02, 2026",
@@ -141,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-11-02",
       "title": "AI can find patterns, but marketers must figure out what they mean",
@@ -151,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-11-02",
       "title": "Evaluating martech stacks to cut underutilized tools",
@@ -161,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-11-02",
       "title": "Your 2027 media plan has a channel problem",
@@ -171,17 +251,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-11-02",
-      "title": "Beyond deployment: How to lead the change and make AI adoption stick",
-      "summary": "Tool adoption stalls when teams feel unsafe. On Nov. 4, discover how to turn AI apprehension into confident, high-value execution. The post Beyond deployment: How to lead the change and make AI adoption stick appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/beyond-deployment-how-to-lead-the-change-and-make-ai-adoption-stick/",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-11-02",
       "title": "Upcoming: New age rating content descriptors in App Store Connect",
@@ -191,7 +261,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-10-30",
       "title": "October 30, 2026",
@@ -201,47 +271,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-10-30",
-      "title": "More paid social ads won’t fix a creative problem",
-      "summary": "20 ads may all test the same idea. Better performance comes from changing the variables that give the algorithm something new to learn. The post More paid social ads won’t fix a creative problem appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/more-paid-social-ads-wont-fix-a-creative-problem/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-10-30",
-      "title": "How to test incrementality before peak spending starts",
-      "summary": "Waiting until Cyber Week is too late. Run holdouts early enough to see which channels create lift, then move budget before the expensive days arrive. The post How to test incrementality before peak spending starts appeared first on MarTech ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-test-incrementality-before-peak-spending-starts/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-10-30",
-      "title": "Most marketers say AI works. Few can prove it.",
-      "summary": "AI can make work faster while leaving teams unable to prove the value. The problem starts before launch, with weak baselines and success metrics. The post Most marketers say AI works. Few can prove it. appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/most-marketers-say-ai-works-few-can-prove-it/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-10-30",
-      "title": "Meet your new teammate: Building marketing workflows around AI agents",
-      "summary": "AI agents are changing how marketing teams work. On Nov. 4, learn how to build workflows that combine AI efficiency with human judgment, quality control and governance at the free November 4 MarTech Conference. The post Meet your new teamma",
-      "src": "MarTech.org",
-      "url": "https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-10-29",
       "title": "October 29, 2026",
@@ -251,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-10-29",
       "title": "Adjustments to the Taiwan storefront of the App Store on iOS and iPadOS",
@@ -271,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-28",
       "title": "October 28, 2026",
@@ -291,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-10-28",
       "title": "Say hello to Touch on Mac",
@@ -301,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-27",
       "title": "October 27, 2026",
@@ -331,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-26",
       "title": "October 26, 2026",
@@ -351,7 +381,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-25",
       "title": "October 25, 2026",
@@ -371,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-10-22",
       "title": "October 22, 2026",
@@ -411,7 +441,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-10-22",
       "title": "Offer your subscriptions to businesses and schools",
@@ -421,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-10-21",
       "title": "October 21, 2026",
@@ -451,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-20",
       "title": "October 20, 2026",
@@ -471,7 +501,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-10-19",
       "title": "October 19, 2026",
@@ -501,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
+      "id": "live-Google Cloud — All release notes-18",
       "cat": "general",
       "date": "2026-10-16",
       "title": "October 16, 2026",
@@ -511,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-10-16",
       "title": "Updated App Review Guidelines are now available",
@@ -521,7 +551,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-10-16",
       "title": "Strengthening App Review Guidelines against nonconsensual intimate imagery and bait-and-switch apps",
@@ -541,13 +571,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
+      "id": "live-Looker Release Notes-7",
+      "cat": "looker",
       "date": "2026-10-15",
       "title": "October 15, 2026",
-      "summary": "Feature You can copy tables across regions . This feature is now generally available (GA). Feature You can now use reusable column aliases in GoogleSQL. This feature lets you define an alias for an expression in the SELECT clause of a SQL q",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_15_2026",
+      "summary": "Looker (Google Cloud core) only changes Announcement The latest versions in the Looker (Google Cloud core) release channels are beginning deployment as follows: Latest version in the Rapid channel: Looker 26.20 Latest version in the No Chan",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_15_2026",
       "live": true
     },
     {
@@ -568,16 +598,6 @@
       "summary": "With a recent update, the Google Tag Manager and Google Tag technologies are finally merging. In my many posts about Google Tag, I&rsquo;ve often lamented the fact that while any given Google Tag is essentially a wrapper for an underlying G",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/analytics/optimized-tagging-experience-google-tag-manager/",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-6",
-      "cat": "apple",
-      "date": "2026-10-13",
-      "title": "Updated Apple Developer Program License Agreement now available",
-      "summary": "The Apple Developer Program License Agreement has been revised to support new features and updated policies, and to provide clarification. Please review the changes below and sign in to your account to accept the updated terms. Section 3.2:",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=17mwd36z",
       "live": true
     },
     {
@@ -698,16 +718,6 @@
       "summary": "is standardizing the behavior of tagging snippets to ensure consistency, reliability, and high performance across all websites that use the Google tag With this update, all Google Tag Manager (gtm.js) container snippets will initialize on c",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-10-06",
-      "title": "Hello Developer: October 2026",
-      "summary": "In this edition: Get tips on submitting your iPhone Duo app. Sign up for new iPhone Duo Group Labs. Join us for a new developer event on speed and efficiency. Explore localized documentation. Browse new App Store creative assets. Read now",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=gv788oj6",
       "live": true
     },
     {
