@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T12:04:03.087165+00:00",
+  "generated_at": "2026-11-04T20:28:00.308231+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 93,
@@ -122,6 +122,46 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-11-04",
+      "title": "Server-Side Google Tag Manager Will Pass Full IP Addresses to Google Ads Tags From January 11, 2027",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/server-side-google-tag-manager-will-pass-full-ip-addresses-to-google-ads-tags-from-january-11-2027-c59a0a3791d8?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-04",
+      "title": "How AI agents help improve your customer experience",
+      "summary": "AI agents could be the key to meeting the crazy expectations of consumers, but only if they're used wisely. The post How AI agents help improve your customer experience appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-ai-agents-help-improve-your-customer-experience/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-11-04",
+      "title": "What to do before buying a martech platform with AI context",
+      "summary": "Your team already owns the hardest part of AI context: deciding what's approved, what's off-limits, and who gets the final say. The post What to do before buying a martech platform with AI context appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/what-to-do-before-buying-a-martech-platform-with-ai-context/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-11-04",
+      "title": "How to fund full-funnel retail media across three budgets",
+      "summary": "Coordinate brand, paid media, and retail media funding while preserving each team’s goals and keeping annual retailer commitments visible. The post How to fund full-funnel retail media across three budgets appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-fund-full-funnel-retail-media-across-three-budgets/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-11-03",
@@ -132,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-11-03",
       "title": "Salesforce buying AI customer support company Cresta",
@@ -142,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-11-03",
       "title": "AI traffic drives 83% more revenue per visit",
@@ -152,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-11-03",
       "title": "Your first-party data doesn’t reflect your customer today",
@@ -162,7 +202,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-11-03",
       "title": "Why B2B marketers are turning to paid influencers",
@@ -172,7 +212,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-11-03",
       "title": "If you don’t define your weakness, AI will",
@@ -222,43 +262,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-11-02",
       "title": "BigQuery Working Examples: AI.CHUNK_DOCUMENT",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-chunk-document-035e2c6f455d?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-11-02",
-      "title": "AI can find patterns, but marketers must figure out what they mean",
-      "summary": "The biggest opportunity for AI in marketing could be the questions you haven't thought to ask — and the customer behaviors they reveal. The post AI can find patterns, but marketers must figure out what they mean appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-can-find-patterns-but-marketers-must-figure-out-what-they-mean/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-11-02",
-      "title": "Evaluating martech stacks to cut underutilized tools",
-      "summary": "Use structured auditing frameworks to eliminate duplicate software, trim SaaS bloat, and align spending with core business outcomes. The post Evaluating martech stacks to cut underutilized tools appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/evaluating-martech-stacks-to-cut-underutilized-tools/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-02",
-      "title": "Your 2027 media plan has a channel problem",
-      "summary": "Your best-performing channel may get too much money while higher-value customer opportunities go overlooked. The post Your 2027 media plan has a channel problem appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-2027-media-plan-has-a-channel-problem/",
       "live": true
     },
     {
@@ -322,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-10-28",
       "title": "Safari 27 Blocks Identity Resolution Vendors",
@@ -352,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-27",
       "title": "Gemini in Google Sheets can now query your whole BigQuery dataset, not just what’s on the sheet",
@@ -362,7 +372,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-27",
       "title": "We Built a Small Chrome Extension to Duplicate Tealium Event Specs",
@@ -432,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-22",
       "title": "BigQuery Working Examples: AI.AGG",
@@ -482,7 +492,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-21",
       "title": "BigQuery Working Examples Dataset Update",
@@ -502,7 +512,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-20",
       "title": "Looker Data Apps Build AI Tools on Top of Your Existing Access Controls",
@@ -519,16 +529,6 @@
       "summary": "Agent Platform Workbench Change 20261018.00_p0 Release Change Installed latest packages from upstream dependencies. Fixed Fixed an issue where Jupyter Server terminal configuration could overwrite the Dataproc plugin server extension settin",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#October_19_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-19",
-      "title": "Google Launches a User Groups Admin API for GA4 and Google Marketing Platform",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/google-launches-a-user-groups-admin-api-for-ga4-and-google-marketing-platform-bfb0d7c0508e?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
