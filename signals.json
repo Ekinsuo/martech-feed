@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03T20:09:58.707275+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 101,
+  "generated_at": "2026-11-04T12:04:03.087165+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 93,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -94,8 +94,9 @@
     {
       "name": "EDPB — GDPR news",
       "cat": "privacy",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "name": "GTM / Tag Gateway — Release notes",
@@ -121,13 +122,13 @@
   ],
   "signals": [
     {
-      "id": "live-BigQuery Release Notes-0",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
       "date": "2026-11-03",
       "title": "November 03, 2026",
-      "summary": "Change In BigQuery Studio , the left pane has been updated with new tab names. The Classic Explorer tab has been renamed to the Data tab, and the Repository tab has been renamed to the Source control tab. The Data tab now includes the Add d",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#November_03_2026",
+      "summary": "API Gateway Feature Call Google Cloud APIs from streaming gateways Streaming gateways can now call Google Cloud APIs such as aiplatform.googleapis.com . A gateway with an effectiveStreamingMode of EFFECTIVE_STREAMING_MODE_ENABLED authentica",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_03_2026",
       "live": true
     },
     {
@@ -178,6 +179,16 @@
       "summary": "B2B companies that avoid saying who they’re wrong for are letting buyers, competitors, and AI systems do it for them. The post If you don’t define your weakness, AI will appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/if-you-dont-define-your-weakness-ai-will/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-11-03",
+      "title": "Introducing Adaptive Dark Mode",
+      "summary": "We’re excited to announce Adaptive Dark Mode in Safari 27.3 beta.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
       "live": true
     },
     {
@@ -371,7 +382,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-10-26",
       "title": "WebKit Features for Safari 27.2",
@@ -391,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-10-23",
       "title": "WebKit Features for Safari 27.1",
@@ -431,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-10-22",
       "title": "Release Notes for Safari Technology Preview 255",
@@ -521,7 +532,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-10-19",
       "title": "Blocking Identity Resolution Infrastructure",
@@ -531,13 +542,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-18",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-7",
+      "cat": "bigquery",
       "date": "2026-10-16",
       "title": "October 16, 2026",
-      "summary": "Access Approval Feature Service connectivity automation is generally available ( GA ). Access Transparency Feature Service connectivity automation is generally available ( GA ). BigQuery Feature Conversational analytics in BigQuery is now a",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_16_2026",
+      "summary": "Feature Conversational analytics in BigQuery is now available in the following locations: northamerica-northeast1 (Montréal) northamerica-northeast2 (Toronto) For more information, see Locations .",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_16_2026",
       "live": true
     },
     {
@@ -558,16 +569,6 @@
       "summary": "The App Review Guidelines are a core part of the safe and trusted experience that the App Store strives to offer users around the world — and the foundation of that trust is clear standards that are consistently enforced. As outlined in our",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=vvzx6cul",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-0",
-      "cat": "privacy",
-      "date": "2026-10-16",
-      "title": "Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data",
-      "summary": "Background information Date of final decision: 2 October 2026 National case Controller: Xandr Inc. Legal References: Article 6 (Lawfulness of processing), Article 9 (Processing of special categories of personal data) Decision: Administrativ",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/norwegian-dpa-fines-xandr-eur-8-600-000-for-unlawful-processing-of-personal-data_en",
       "live": true
     },
     {
@@ -601,16 +602,6 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
-      "cat": "privacy",
-      "date": "2026-10-13",
-      "title": "EDPB publishes statement on the data protection challenges of smart glasses",
-      "summary": "Brussels, 13 October – During its latest plenary, the EDPB has adopted statement 1/2026 on smart glasses and published the report “The connected gaze. Video recording, surveillance and administering evidence in the age of smart glasses” *, ",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en",
-      "live": true
-    },
-    {
       "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-10-12",
@@ -631,46 +622,6 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-2",
-      "cat": "privacy",
-      "date": "2026-10-09",
-      "title": "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
-      "summary": "Background information Date of final decision: 23 September 2026 National case Controller: IQVIA Solutions Italy S.r.l Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 9 (Processing of special cate",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-iqvia-eur-7-000-000-for-unlawful-processing-of-patients-health-data_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-3",
-      "cat": "privacy",
-      "date": "2026-10-09",
-      "title": "Italian DPA fines security company EUR 39 000 for violations concerning employees’ data",
-      "summary": "Background information Date of final decision: 6 August 2026 National case Controller: La Patria S.p.A. Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-security-company-eur-39-000-for-violations-concerning-employees-data_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-4",
-      "cat": "privacy",
-      "date": "2026-10-09",
-      "title": "Italian DPA fines Emirates EUR 180 000 for infringements concerning passengers’ health data",
-      "summary": "Background information Date of final decision: 14 May 2026 National case Controller: Emirates Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalit",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-emirates-eur-180-000-for-infringements-concerning-passengers-health-data_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-5",
-      "cat": "privacy",
-      "date": "2026-10-09",
-      "title": "Italian DPA fines BBVA EUR 5 508 000 for failing to respect a customer’s objection to direct marketing",
-      "summary": "Background information Date of final decision: 3 July 2026 National case Controller: Banco Bilbao Vizcaya Argentaria, S.A., Italian branch (BBVA) Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-bbva-eur-5-508-000-for-failing-to-respect-a-customers-objection-to-direct_en",
-      "live": true
-    },
-    {
       "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-10-08",
@@ -681,33 +632,13 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-10-08",
       "title": "Release Notes for Safari Technology Preview 254",
       "summary": "Safari Technology Preview Release 254 is now available for download for macOS Golden Gate and macOS Tahoe.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18420/release-notes-for-safari-technology-preview-254/",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-6",
-      "cat": "privacy",
-      "date": "2026-10-08",
-      "title": "Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
-      "summary": "Background information Date of final decision: 22/09/2026 National case Legal Reference(s): Article 32 (Security of processing) Decision: Administrative fine Key words: Cybersecurity, personal data breaches Summary of the Decision Origin of",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/swedish-dpa-fines-miljodata-i-karlskrona-approximately-eur-160-000-for-insufficient-technical_en",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-10-08",
-      "title": "Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs",
-      "summary": "Background information Date of final decision: 28/07/2026 National case Controller: Ministry of Social Cohesion and Family Affairs Legal Reference(s): Article 25 (Data protection by design and by default), Article 28 (Processor), Article 32",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en",
       "live": true
     },
     {
@@ -751,7 +682,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-09-23",
       "title": "Release Notes for Safari Technology Preview 253",
@@ -781,7 +712,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-09-17",
       "title": "WebKit Features for Safari 27.0",
@@ -798,16 +729,6 @@
       "summary": "submit page with an AI-suggested version summary The AI summarizes the changes in the workspace and automatically proposes a Version Name and Version Description",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-09-11",
-      "title": "Release Notes for Safari Technology Preview 252",
-      "summary": "Safari Technology Preview Release 252 is now available for download for macOS Golden Gate and macOS Tahoe.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18304/release-notes-for-safari-technology-preview-252/",
       "live": true
     },
     {
