@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T12:15:41.762205+00:00",
+  "generated_at": "2026-11-05T20:43:33.141549+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 93,
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "name": "Looker Studio Release Notes",
@@ -96,7 +96,7 @@
       "cat": "privacy",
       "ok": false,
       "items": 0,
-      "error": "HTTP Error 500: Internal Server Error"
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "GTM / Tag Gateway — Release notes",
@@ -122,13 +122,73 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-11-05",
+      "title": "November 05, 2026",
+      "summary": "Apigee Edge for Public Cloud Announcement Scheduled maintenance of Management/Control Plane for the Apigee Edge for Public Cloud on November 6, 2026. Scheduled maintenance of Management/Control Plane for the Apigee Edge for Public Cloud pro",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_05_2026",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-11-05",
+      "title": "BigQuery continuous queries can now write into Apache Iceberg tables, with SQL UDFs and UNION ALL…",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquery-continuous-queries-can-now-write-into-apache-iceberg-tables-with-sql-udfs-and-union-all-fdbaddec2359?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-11-05",
       "title": "Adobe Analytics and Customer Journey Analytics Get Auto-Generated Component Descriptions",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/adobe-analytics-and-customer-journey-analytics-get-auto-generated-component-descriptions-02aae8a2f59b?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-05",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Scott Brinker says AI removes the human friction that used to catch bad decisions, making context an operations problem, not a prompt-writing problem. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-11-05",
+      "title": "Why AI is complicating marketing centralization",
+      "summary": "Shared resources offer scale and control. Local teams offer speed and flexibility. How to decide where different marketing capabilities belong. The post Why AI is complicating marketing centralization appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/why-ai-is-complicating-marketing-centralization/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-11-05",
+      "title": "Marketing on Reddit: What you need to know",
+      "summary": "What you need to know about marketing on Reddit. Updated with details on the new tests of advertising in search results. The post Marketing on Reddit: What you need to know appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/a-marketers-guide-to-reddit/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-11-05",
+      "title": "How to turn AI productivity gains into marketing ROI",
+      "summary": "Faster drafts don't mean faster campaigns. Tackle approval bottlenecks, empower teams to make decisions, and measure the gains. The post How to turn AI productivity gains into marketing ROI appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-turn-ai-productivity-gains-into-marketing-roi/",
       "live": true
     },
     {
@@ -146,7 +206,7 @@
       "cat": "general",
       "date": "2026-11-04",
       "title": "November 04, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature Direct Iceberg access in AlloyDB for PostgreSQL is available for PostgreSQL 18 and later ( in Preview ). This feature lets you query Apache Iceberg tables in Cloud Storage or Lakehouse runtime catalog and acce",
+      "summary": "API Gateway Announcement Negative backend deadlines are no longer deprecated The deprecation of negative backend deadline values announced on October 23, 2026 is withdrawn. In an OpenAPI 2.0 x-google-backend extension or a gRPC BackendRule ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_04_2026",
       "live": true
@@ -172,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-04",
       "title": "Server-Side Google Tag Manager Will Pass Full IP Addresses to Google Ads Tags From January 11, 2027",
@@ -182,7 +242,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-11-04",
       "title": "How AI agents help improve your customer experience",
@@ -192,7 +252,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-11-04",
       "title": "What to do before buying a martech platform with AI context",
@@ -202,7 +262,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-11-04",
       "title": "How to fund full-funnel retail media across three budgets",
@@ -232,53 +292,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-11-03",
       "title": "Salesforce buying AI customer support company Cresta",
       "summary": "Salesforce is buying Cresta to bring AI voice agents into customer calls, tying conversations more closely to CRM data and its broader Agentforce push. The post Salesforce buying AI customer support company Cresta appeared first on MarTech ",
       "src": "MarTech.org",
       "url": "https://martech.org/salesforce-buying-ai-customer-support-company-cresta/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-11-03",
-      "title": "AI traffic drives 83% more revenue per visit",
-      "summary": "Adobe research also found that AI traffic converted 90% better than non-AI traffic. The post AI traffic drives 83% more revenue per visit appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-traffic-drives-83-more-traffic-per-visit/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-11-03",
-      "title": "Your first-party data doesn’t reflect your customer today",
-      "summary": "Purchase history tells only part of the story. Identity resolution and consumer intelligence help brands understand what matters now. The post Your first-party data doesn’t reflect your customer today appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/your-first-party-data-doesnt-reflect-your-customer-today/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-11-03",
-      "title": "Why B2B marketers are turning to paid influencers",
-      "summary": "B2B creators are turning expertise into profitable businesses, while brands find new ways to reach buyers through trusted voices. The post Why B2B marketers are turning to paid influencers appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/why-b2b-marketers-are-turning-to-paid-influencers/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-03",
-      "title": "If you don’t define your weakness, AI will",
-      "summary": "B2B companies that avoid saying who they’re wrong for are letting buyers, competitors, and AI systems do it for them. The post If you don’t define your weakness, AI will appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/if-you-dont-define-your-weakness-ai-will/",
       "live": true
     },
     {
@@ -322,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-11-02",
       "title": "BigQuery Working Examples: AI.CHUNK_DOCUMENT",
@@ -392,7 +412,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-28",
       "title": "Safari 27 Blocks Identity Resolution Vendors",
@@ -422,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-27",
       "title": "Gemini in Google Sheets can now query your whole BigQuery dataset, not just what’s on the sheet",
@@ -432,7 +452,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-27",
       "title": "We Built a Small Chrome Extension to Duplicate Tealium Event Specs",
@@ -502,16 +522,6 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-22",
-      "title": "BigQuery Working Examples: AI.AGG",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-agg-b30d294b4d88?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
       "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-10-22",
@@ -552,7 +562,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-21",
       "title": "BigQuery Working Examples Dataset Update",
@@ -562,13 +572,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
+      "id": "live-Looker Release Notes-6",
+      "cat": "looker",
       "date": "2026-10-20",
       "title": "October 20, 2026",
-      "summary": "Agent Platform Workbench Change M154 Release Change Installed latest packages from upstream dependencies. Fixed Fixed dataset and table search in the BigQuery panel, which sometimes failed to return results. Root cause is due to Datacatalog",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_20_2026",
+      "summary": "Looker (Google Cloud core) only changes Announcement The latest versions in the Looker (Google Cloud core) release channels are beginning deployment as follows: Latest version in the Regular channel: Looker 26.18 The latest version in the R",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_20_2026",
       "live": true
     },
     {
@@ -579,16 +589,6 @@
       "summary": "Apple and WebKit have shipped protections against web tracking for a long time.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18438/blocking-identity-resolution-infrastructure/",
-      "live": true
-    },
-    {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
-      "date": "2026-10-16",
-      "title": "October 16, 2026",
-      "summary": "Feature Conversational analytics in BigQuery is now available in the following locations: northamerica-northeast1 (Montréal) northamerica-northeast2 (Toronto) For more information, see Locations .",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_16_2026",
       "live": true
     },
     {
