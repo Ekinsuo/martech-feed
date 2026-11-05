@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T20:28:00.308231+00:00",
+  "generated_at": "2026-11-05T12:15:41.762205+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 93,
@@ -124,6 +124,56 @@
     {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
+      "date": "2026-11-05",
+      "title": "Adobe Analytics and Customer Journey Analytics Get Auto-Generated Component Descriptions",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/adobe-analytics-and-customer-journey-analytics-get-auto-generated-component-descriptions-02aae8a2f59b?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-11-05",
+      "title": "Release Notes for Safari Technology Preview 256",
+      "summary": "Safari Technology Preview Release 256 is now available for download for macOS Golden Gate and macOS Tahoe.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18602/release-notes-for-safari-technology-preview-256/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
+      "cat": "general",
+      "date": "2026-11-04",
+      "title": "November 04, 2026",
+      "summary": "AlloyDB for PostgreSQL Feature Direct Iceberg access in AlloyDB for PostgreSQL is available for PostgreSQL 18 and later ( in Preview ). This feature lets you query Apache Iceberg tables in Cloud Storage or Lakehouse runtime catalog and acce",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_04_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-11-04",
+      "title": "Data Manager API now supports Google Ads call conversions and row-level diagnostics",
+      "summary": "The latest release of the Data Manager API adds support for Google Ads call conversions. It also adds row-level details to diagnostics to help you find and fix the exact records that had problems during processing. Send call conversions to ",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/7403078572029972798",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-1",
+      "cat": "gads",
+      "date": "2026-11-04",
+      "title": "Upcoming changes to multi-party approvals in the Google Ads API",
+      "summary": "Earlier this year, the Google Ads API started requiring multi-party approvals (MPA) when performing sensitive API actions. Starting the week of December 7, 2026 , we are introducing additional changes to improve the developer experience for",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/3306495049686814357",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-1",
+      "cat": "sgtm",
       "date": "2026-11-04",
       "title": "Server-Side Google Tag Manager Will Pass Full IP Addresses to Google Ads Tags From January 11, 2027",
       "summary": "(no summary — open source)",
@@ -162,7 +212,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-11-04",
+      "title": "Now available: Retention messages for subscriptions",
+      "summary": "Reduce cancellations with retention messages that remind subscribers of your subscription's value as they decide whether to cancel. Retention messages appear in the cancellation flow and can include text, images, or a special offer. In App ",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=fk9ps3gv",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-11-03",
       "title": "November 03, 2026",
@@ -222,7 +282,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-11-03",
       "title": "Introducing Adaptive Dark Mode",
@@ -232,7 +292,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-11-03",
       "title": "Siri AI is now open to all developers",
@@ -242,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-11-03",
       "title": "Get ready with the latest beta releases",
@@ -252,7 +312,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-11-02",
       "title": "November 02, 2026",
@@ -262,7 +322,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-02",
       "title": "BigQuery Working Examples: AI.CHUNK_DOCUMENT",
@@ -272,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-11-02",
       "title": "Upcoming: New age rating content descriptors in App Store Connect",
@@ -282,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-10-30",
       "title": "October 30, 2026",
@@ -292,7 +352,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-29",
       "title": "October 29, 2026",
@@ -302,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-10-29",
       "title": "Adjustments to the Taiwan storefront of the App Store on iOS and iPadOS",
@@ -322,7 +382,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-28",
       "title": "October 28, 2026",
@@ -332,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-10-28",
       "title": "Safari 27 Blocks Identity Resolution Vendors",
@@ -342,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-10-28",
       "title": "Say hello to Touch on Mac",
@@ -352,7 +412,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-27",
       "title": "October 27, 2026",
@@ -362,7 +422,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-10-27",
       "title": "Gemini in Google Sheets can now query your whole BigQuery dataset, not just what’s on the sheet",
@@ -372,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-27",
       "title": "We Built a Small Chrome Extension to Duplicate Tealium Event Specs",
@@ -382,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-10-26",
       "title": "October 26, 2026",
@@ -392,7 +452,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-10-26",
       "title": "WebKit Features for Safari 27.2",
@@ -402,7 +462,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-10-25",
       "title": "October 25, 2026",
@@ -412,7 +472,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-10-23",
       "title": "WebKit Features for Safari 27.1",
@@ -422,7 +482,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-22",
       "title": "October 22, 2026",
@@ -432,7 +492,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-10-22",
       "title": "Announcing beta launch of Display & Video 360 API v5",
@@ -442,7 +502,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-22",
       "title": "BigQuery Working Examples: AI.AGG",
@@ -452,7 +512,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-10-22",
       "title": "Release Notes for Safari Technology Preview 255",
@@ -462,7 +522,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-10-22",
       "title": "Offer your subscriptions to businesses and schools",
@@ -472,7 +532,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-10-21",
       "title": "October 21, 2026",
@@ -482,7 +542,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-10-21",
       "title": "Upcoming changes to image extraction in Performance Max campaigns starting December 4, 2026",
@@ -492,7 +552,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-21",
       "title": "BigQuery Working Examples Dataset Update",
@@ -502,7 +562,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-10-20",
       "title": "October 20, 2026",
@@ -512,27 +572,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-20",
-      "title": "Looker Data Apps Build AI Tools on Top of Your Existing Access Controls",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/looker-data-apps-build-ai-tools-on-top-of-your-existing-access-controls-95a58c18cf64?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-15",
-      "cat": "general",
-      "date": "2026-10-19",
-      "title": "October 19, 2026",
-      "summary": "Agent Platform Workbench Change 20261018.00_p0 Release Change Installed latest packages from upstream dependencies. Fixed Fixed an issue where Jupyter Server terminal configuration could overwrite the Dataproc plugin server extension settin",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_19_2026",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-10-19",
       "title": "Blocking Identity Resolution Infrastructure",
@@ -552,23 +592,13 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-10-16",
       "title": "Updated App Review Guidelines are now available",
       "summary": "The App Review Guidelines have been revised to support new features, updated policies, and to provide clarification. App Review Guidelines Before You Submit: Added links to additional documentation. 1.2: Clarified app content and app types ",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=92th7e5i",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-10-16",
-      "title": "Strengthening App Review Guidelines against nonconsensual intimate imagery and bait-and-switch apps",
-      "summary": "The App Review Guidelines are a core part of the safe and trusted experience that the App Store strives to offer users around the world — and the foundation of that trust is clear standards that are consistently enforced. As outlined in our",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=vvzx6cul",
       "live": true
     },
     {
@@ -582,7 +612,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-10-15",
       "title": "Announcing v26 of the Google Ads API",
@@ -602,7 +632,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-10-12",
       "title": "Google Ads API Release and Sunset Schedules for 2026-2027",
@@ -622,7 +652,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-10-08",
       "title": "Launching Structured Data Files v11",
@@ -632,7 +662,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-10-08",
       "title": "Release Notes for Safari Technology Preview 254",
@@ -672,7 +702,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-09-23",
       "title": "Announcing v25.2 of the Google Ads API",
@@ -682,7 +712,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-09-23",
       "title": "Release Notes for Safari Technology Preview 253",
@@ -712,16 +742,6 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-09-17",
-      "title": "WebKit Features for Safari 27.0",
-      "summary": "Our Safari release notes have never been as long as they are for this version.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18325/webkit-features-for-safari-27-0/",
-      "live": true
-    },
-    {
       "id": "scrape-GTM / Tag Gateway — Release notes-2",
       "cat": "gtm",
       "date": "2026-09-17",
@@ -732,16 +752,6 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
-      "cat": "gads",
-      "date": "2026-09-10",
-      "title": "A new onboarding experience for Google Ads API developers",
-      "summary": "To improve the developer onboarding and usage experience, we built a new homepage for the Google Ads API in the Google Cloud Console . Basic Access applications are now automated for developers who have completed brand verification . This b",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/6417612083648371848",
-      "live": true
-    },
-    {
       "id": "scrape-GA4 — What's new-20",
       "cat": "ga4",
       "date": "2026-09-09",
@@ -749,16 +759,6 @@
       "summary": "Dashboards are a highly flexible way to help businesses view their KPIs on a single report. This launch features enhanced UI capabilities, such as intuitive data visualization creation, drag-and-drop functionality, and new report visualizat",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-09-02",
-      "title": "Google Ads API v22 sunset reminder",
-      "summary": "Google Ads API v22 will sunset on October 7, 2026. Starting on this date, all v22 API requests will begin to fail. Migrate to a newer version prior to October 7, 2026 to ensure your API access is unaffected. Here are some resources to help ",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1518248525584001928",
       "live": true
     },
     {
