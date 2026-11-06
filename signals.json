@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T12:03:37.447733+00:00",
+  "generated_at": "2026-11-06T19:59:21.076780+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
-  "count": 93,
+  "count": 94,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -122,6 +122,26 @@
   ],
   "signals": [
     {
+      "id": "live-BigQuery Release Notes-0",
+      "cat": "bigquery",
+      "date": "2026-11-06",
+      "title": "November 06, 2026",
+      "summary": "Announcement You can now use BigQuery Graph and run Graph Query Language (GQL) queries when you use on-demand pricing.",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#November_06_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Ads Developer Blog-0",
+      "cat": "gads",
+      "date": "2026-11-06",
+      "title": "Prepare for CocoaPods read-only mode: Migrate your iOS apps to Swift Package Manager",
+      "summary": "On December 2, 2026 , the CocoaPods Specs repository will permanently transition to read-only mode. As a result, we will no longer publish new versions of the Google Mobile Ads SDK or mediation adapters for iOS to CocoaPods after this date.",
+      "src": "Google Ads Developer Blog",
+      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/1431969911124501503",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
       "date": "2026-11-06",
@@ -132,7 +152,57 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-06",
+      "title": "Beyond the opt-in: Engineering consent for better marketing",
+      "summary": "Compliance pressure is real, but privacy controls can power better personalization. At the November MarTech Conference, we discussed turning opt-ins into your best first-party data asset. The post Beyond the opt-in: Engineering consent for ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/beyond-the-opt-in-engineering-consent-for-better-marketing/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-11-06",
+      "title": "Better prompts start before the prompt",
+      "summary": "The fastest way to improve AI-built software is defining the user, the task, and what success looks like before generating anything. The post Better prompts start before the prompt appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/better-prompts-start-before-the-prompt/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-11-06",
+      "title": "Consumers are still buying. They’re just harder to convince.",
+      "summary": "Economic pressure hasn’t stopped online shopping, but it has made consumers more skeptical, more price-conscious, and more willing to check the offer. The post Consumers are still buying. They’re just harder to convince. appeared first on M",
+      "src": "MarTech.org",
+      "url": "https://martech.org/consumers-are-still-buying-theyre-just-harder-to-convince/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-11-06",
+      "title": "ChatGPT’s paid traffic is worth far less than Google’s",
+      "summary": "Paid ChatGPT visits generated 89 cents in revenue per session, compared with $2.45 from paid Google Search. The post ChatGPT s paid traffic is worth far less than Google s appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/chatgpts-paid-traffic-is-worth-far-less-than-googles/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-11-06",
+      "title": "Is your affiliate program showing up too late?",
+      "summary": "Coupon partners can close sales, but growth also depends on who helps new audiences discover the brand before they’re ready to buy. The post Is your affiliate program showing up too late? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/is-your-affiliate-program-showing-up-too-late/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-11-05",
       "title": "November 05, 2026",
@@ -162,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-11-05",
       "title": "The latest AI-powered martech news and releases",
@@ -172,7 +242,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-11-05",
       "title": "Why AI is complicating marketing centralization",
@@ -182,23 +252,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-11-05",
       "title": "Marketing on Reddit: What you need to know",
       "summary": "What you need to know about marketing on Reddit. Updated with details on the new tests of advertising in search results. The post Marketing on Reddit: What you need to know appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/a-marketers-guide-to-reddit/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-11-05",
-      "title": "How to turn AI productivity gains into marketing ROI",
-      "summary": "Faster drafts don't mean faster campaigns. Tackle approval bottlenecks, empower teams to make decisions, and measure the gains. The post How to turn AI productivity gains into marketing ROI appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-turn-ai-productivity-gains-into-marketing-roi/",
       "live": true
     },
     {
@@ -212,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-11-04",
       "title": "November 04, 2026",
@@ -222,7 +282,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-0",
+      "id": "live-Google Ads Developer Blog-1",
       "cat": "gads",
       "date": "2026-11-04",
       "title": "Data Manager API now supports Google Ads call conversions and row-level diagnostics",
@@ -232,7 +292,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-1",
+      "id": "live-Google Ads Developer Blog-2",
       "cat": "gads",
       "date": "2026-11-04",
       "title": "Upcoming changes to multi-party approvals in the Google Ads API",
@@ -252,36 +312,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-11-04",
-      "title": "How AI agents help improve your customer experience",
-      "summary": "AI agents could be the key to meeting the crazy expectations of consumers, but only if they're used wisely. The post How AI agents help improve your customer experience appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-ai-agents-help-improve-your-customer-experience/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-11-04",
-      "title": "What to do before buying a martech platform with AI context",
-      "summary": "Your team already owns the hardest part of AI context: deciding what's approved, what's off-limits, and who gets the final say. The post What to do before buying a martech platform with AI context appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/what-to-do-before-buying-a-martech-platform-with-ai-context/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-11-04",
-      "title": "How to fund full-funnel retail media across three budgets",
-      "summary": "Coordinate brand, paid media, and retail media funding while preserving each team’s goals and keeping annual retailer commitments visible. The post How to fund full-funnel retail media across three budgets appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-fund-full-funnel-retail-media-across-three-budgets/",
-      "live": true
-    },
-    {
       "id": "live-Apple Developer News-0",
       "cat": "apple",
       "date": "2026-11-04",
@@ -292,23 +322,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-11-03",
       "title": "November 03, 2026",
       "summary": "API Gateway Feature Call Google Cloud APIs from streaming gateways Streaming gateways can now call Google Cloud APIs such as aiplatform.googleapis.com . A gateway with an effectiveStreamingMode of EFFECTIVE_STREAMING_MODE_ENABLED authentica",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_03_2026",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-03",
-      "title": "Salesforce buying AI customer support company Cresta",
-      "summary": "Salesforce is buying Cresta to bring AI voice agents into customer calls, tying conversations more closely to CRM data and its broader Agentforce push. The post Salesforce buying AI customer support company Cresta appeared first on MarTech ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/salesforce-buying-ai-customer-support-company-cresta/",
       "live": true
     },
     {
@@ -342,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-11-02",
       "title": "November 02, 2026",
@@ -372,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-10-30",
       "title": "October 30, 2026",
@@ -382,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-10-29",
       "title": "October 29, 2026",
@@ -412,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-28",
       "title": "October 28, 2026",
@@ -442,7 +462,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-10-27",
       "title": "October 27, 2026",
@@ -472,7 +492,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-10-26",
       "title": "October 26, 2026",
@@ -492,7 +512,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-10-25",
       "title": "October 25, 2026",
@@ -512,7 +532,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-15",
       "cat": "general",
       "date": "2026-10-22",
       "title": "October 22, 2026",
@@ -522,7 +542,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-2",
+      "id": "live-Google Ads Developer Blog-3",
       "cat": "gads",
       "date": "2026-10-22",
       "title": "Announcing beta launch of Display & Video 360 API v5",
@@ -552,7 +572,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
+      "id": "live-Google Cloud — All release notes-16",
       "cat": "general",
       "date": "2026-10-21",
       "title": "October 21, 2026",
@@ -562,7 +582,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-3",
+      "id": "live-Google Ads Developer Blog-4",
       "cat": "gads",
       "date": "2026-10-21",
       "title": "Upcoming changes to image extraction in Performance Max campaigns starting December 4, 2026",
@@ -612,7 +632,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-4",
+      "id": "live-Google Ads Developer Blog-5",
       "cat": "gads",
       "date": "2026-10-15",
       "title": "Announcing v26 of the Google Ads API",
@@ -632,7 +652,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-5",
+      "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-10-12",
       "title": "Google Ads API Release and Sunset Schedules for 2026-2027",
@@ -652,7 +672,7 @@
       "live": true
     },
     {
-      "id": "live-Google Ads Developer Blog-6",
+      "id": "live-Google Ads Developer Blog-7",
       "cat": "gads",
       "date": "2026-10-08",
       "title": "Launching Structured Data Files v11",
@@ -699,16 +719,6 @@
       "summary": "Ads customers We're extending our cross-channel reporting features and conversion management tools to support app conversions App conversions are now fully supported in your conversion reports, including performance, attribution analysis, a",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Google Ads Developer Blog-7",
-      "cat": "gads",
-      "date": "2026-09-23",
-      "title": "Announcing v25.2 of the Google Ads API",
-      "summary": "Today we are announcing the release of v25.2 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us fo",
-      "src": "Google Ads Developer Blog",
-      "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/4420016533629078699",
       "live": true
     },
     {
