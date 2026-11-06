@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T20:43:33.141549+00:00",
+  "generated_at": "2026-11-06T12:03:37.447733+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 93,
@@ -122,6 +122,16 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-11-06",
+      "title": "Google Tag Manager’s Preview mode now has verbose logging",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/google-tag-managers-preview-mode-now-has-verbose-logging-2d1bbf000ea3?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-11-05",
@@ -132,7 +142,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-11-05",
       "title": "BigQuery continuous queries can now write into Apache Iceberg tables, with SQL UDFs and UNION ALL…",
@@ -142,7 +152,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-05",
       "title": "Adobe Analytics and Customer Journey Analytics Get Auto-Generated Component Descriptions",
@@ -232,7 +242,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-11-04",
       "title": "Server-Side Google Tag Manager Will Pass Full IP Addresses to Google Ads Tags From January 11, 2027",
@@ -342,7 +352,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-11-02",
       "title": "BigQuery Working Examples: AI.CHUNK_DOCUMENT",
@@ -412,7 +422,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-10-28",
       "title": "Safari 27 Blocks Identity Resolution Vendors",
@@ -442,7 +452,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-27",
       "title": "Gemini in Google Sheets can now query your whole BigQuery dataset, not just what’s on the sheet",
@@ -452,7 +462,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-27",
       "title": "We Built a Small Chrome Extension to Duplicate Tealium Event Specs",
@@ -559,16 +569,6 @@
       "summary": "Starting December 4, 2026 , image extraction ( GENERATE_IMAGE_EXTRACTION ) will be enabled by default ( OPTED_IN ) for newly created Performance Max campaigns across Google Ads interfaces, including the the Google Ads API , Google Ads UI, a",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/3760097425693016371",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-21",
-      "title": "BigQuery Working Examples Dataset Update",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/bigquery-working-examples-dataset-update-261ea83e23ba?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
