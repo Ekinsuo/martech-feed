@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T19:59:21.076780+00:00",
+  "generated_at": "2026-11-07T11:01:04.620398+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
-  "count": 94,
+  "count": 93,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
@@ -122,13 +122,13 @@
   ],
   "signals": [
     {
-      "id": "live-BigQuery Release Notes-0",
-      "cat": "bigquery",
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
       "date": "2026-11-06",
       "title": "November 06, 2026",
-      "summary": "Announcement You can now use BigQuery Graph and run Graph Query Language (GQL) queries when you use on-demand pricing.",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#November_06_2026",
+      "summary": "Agent Registry Feature Skill security scanning and governance in Agent Registry are available. You can automatically scan standalone skill revisions for security issues, review Finding resources, enforce scanning policies across your organi",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_06_2026",
       "live": true
     },
     {
@@ -199,6 +199,16 @@
       "summary": "Coupon partners can close sales, but growth also depends on who helps new audiences discover the brand before they’re ready to buy. The post Is your affiliate program showing up too late? appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/is-your-affiliate-program-showing-up-too-late/",
+      "live": true
+    },
+    {
+      "id": "scrape-GA4 — What's new-18",
+      "cat": "ga4",
+      "date": "2026-11-06",
+      "title": "Data Manager in Google Analytics (beta) We’ve launched Data…",
+      "summary": "Manager in Google Analytics, a unified hub in your admin console that enables you to seamlessly connect and control product links, data streams, and first-party data You can also use Data Manager to address diagnostic alerts and monitor con",
+      "src": "GA4 — What's new",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
     },
     {
@@ -572,13 +582,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
+      "id": "live-Looker Release Notes-6",
+      "cat": "looker",
       "date": "2026-10-21",
       "title": "October 21, 2026",
-      "summary": "Apigee X Announcement Apigee Emulator Apigee Emulator v2.0.2 On October 21, 2026, we released Apigee Emulator version 2.0.2. This release upgrades the Apigee Emulator runtime to Java 21 (Eclipse Temurin JRE 21) to align local proxy developm",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_21_2026",
+      "summary": "Looker (Google Cloud core) only changes Feature Automated cataloging and ingestion of Looker (Google Cloud core) metadata with Knowledge Catalog is now generally available (GA). This includes support for additional granular metadata (includ",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_21_2026",
       "live": true
     },
     {
@@ -592,7 +602,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-10-20",
       "title": "October 20, 2026",
@@ -619,16 +629,6 @@
       "summary": "The App Review Guidelines have been revised to support new features, updated policies, and to provide clarification. App Review Guidelines Before You Submit: Added links to additional documentation. 1.2: Clarified app content and app types ",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=92th7e5i",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-10-15",
-      "title": "October 15, 2026",
-      "summary": "Looker (Google Cloud core) only changes Announcement The latest versions in the Looker (Google Cloud core) release channels are beginning deployment as follows: Latest version in the Rapid channel: Looker 26.20 Latest version in the No Chan",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_15_2026",
       "live": true
     },
     {
@@ -702,7 +702,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-17",
+      "id": "scrape-GA4 — What's new-19",
       "cat": "ga4",
       "date": "2026-10-05",
       "title": "User Groups Admin API Google Analytics now supports a…",
@@ -712,7 +712,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-18",
+      "id": "scrape-GA4 — What's new-20",
       "cat": "ga4",
       "date": "2026-09-29",
       "title": "Improved app conversion management and reporting capabilities for Google…",
@@ -732,7 +732,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-19",
+      "id": "scrape-GA4 — What's new-21",
       "cat": "ga4",
       "date": "2026-09-21",
       "title": "Hostname filters Google Analytics now supports Include data filters…",
@@ -762,7 +762,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-20",
+      "id": "scrape-GA4 — What's new-22",
       "cat": "ga4",
       "date": "2026-09-09",
       "title": "Dashboards Dashboards are now available in Google Analytics",
@@ -792,7 +792,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-21",
+      "id": "scrape-GA4 — What's new-23",
       "cat": "ga4",
       "date": "2026-08-11",
       "title": "Updated conversion window configuration Google Analytics conversions now…",
@@ -802,7 +802,7 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-22",
+      "id": "scrape-GA4 — What's new-24",
       "cat": "ga4",
       "date": "2026-08-10",
       "title": "Campaign data import validation report We’ve launched a new…",
@@ -812,21 +812,11 @@
       "live": true
     },
     {
-      "id": "scrape-GA4 — What's new-23",
+      "id": "scrape-GA4 — What's new-25",
       "cat": "ga4",
       "date": "2026-07-30",
       "title": "New diagnostic in Google Analytics for aggregate parameter issues…",
       "summary": "We’ve launched a new diagnostic to alert users of issues with campaign data accuracy due to missing URL parameters Properties where aggregate identifiers (GBRAID and gad_) are missing from the URL will see a new diagnostic, including the pr",
-      "src": "GA4 — What's new",
-      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "scrape-GA4 — What's new-24",
-      "cat": "ga4",
-      "date": "2026-07-28",
-      "title": "Campaign data import currency update We've updated campaign data…",
-      "summary": "import to require a currency field whenever you upload cost data This ensures your campaign reporting stays accurate, even if you decide to make changes to your property's currency settings. When importing your campaign data, you can now ch",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
       "live": true
