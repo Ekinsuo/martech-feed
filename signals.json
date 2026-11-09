@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T18:24:04.030511+00:00",
+  "generated_at": "2026-11-09T12:48:19.049345+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
-  "count": 93,
+  "count": 94,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -122,7 +122,17 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-11-08",
+      "title": "November 08, 2026",
+      "summary": "Cloud Asset Inventory Feature The following resource type is publicly available through the SearchAllResources and SearchAllIamPolicies APIs. Gemini for Google Cloud cloudaicompanion.googleapis.com/Topic Google SecOps SOAR Announcement Rele",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_08_2026",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-11-06",
       "title": "November 06, 2026",
@@ -212,7 +222,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-11-05",
       "title": "November 05, 2026",
@@ -282,7 +292,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-11-04",
       "title": "November 04, 2026",
@@ -332,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-11-03",
       "title": "November 03, 2026",
@@ -372,7 +382,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-11-02",
       "title": "November 02, 2026",
@@ -402,7 +412,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-10-30",
       "title": "October 30, 2026",
@@ -412,7 +422,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-10-29",
       "title": "October 29, 2026",
@@ -442,7 +452,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-10-28",
       "title": "October 28, 2026",
@@ -472,7 +482,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-10-27",
       "title": "October 27, 2026",
@@ -502,7 +512,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-10-26",
       "title": "October 26, 2026",
@@ -522,7 +532,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-25",
       "title": "October 25, 2026",
@@ -542,13 +552,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
+      "id": "live-BigQuery Release Notes-7",
+      "cat": "bigquery",
       "date": "2026-10-22",
       "title": "October 22, 2026",
-      "summary": "Apigee X Announcement On October 22, 2026, we released an updated version of Apigee (1-18-0-apigee-7). Note: Rollouts of this release began today and can take four or more business days to complete across all Google Cloud zones. Your instan",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_22_2026",
+      "summary": "Feature The AI.TRANSLATE function lets you translate text strings between languages. AI.TRANSLATE supports standard Neural Machine Translation (NMT) workloads and Translation LLM (TLLM) capabilities. This function is generally available (GA",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_22_2026",
       "live": true
     },
     {
