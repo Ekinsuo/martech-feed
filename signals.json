@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T23:01:48.952834+00:00",
+  "generated_at": "2026-11-10T12:34:59.302436+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 95,
@@ -122,6 +122,26 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-11-10",
+      "title": "Google Tag Manager’s History Change Trigger Now Fires on Back/Forward Cache Restores",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/google-tag-managers-history-change-trigger-now-fires-on-back-forward-cache-restores-f601944c9294?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-10",
+      "title": "The drivers of local AI visibility for multi-location brands by SOCi",
+      "summary": "Growth in consumer AI usage has made visibility imperative for brands. The post The drivers of local AI visibility for multi-location brands appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-drivers-of-local-ai-visibility-for-multi-location-brands/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-11-09",
@@ -142,7 +162,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-1",
       "cat": "general",
       "date": "2026-11-09",
       "title": "Content everywhere: Winning attention in a fragmented marketing landscape",
@@ -152,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-11-09",
       "title": "Combining MMM with post-purchase survey attribution",
@@ -162,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-11-09",
       "title": "Why marketing needs different approaches to measurement",
@@ -172,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-11-09",
       "title": "B2B CTV tactics that go beyond brand awareness",
@@ -196,7 +216,7 @@
       "cat": "general",
       "date": "2026-11-08",
       "title": "November 08, 2026",
-      "summary": "Cloud Asset Inventory Feature The following resource type is publicly available through the SearchAllResources and SearchAllIamPolicies APIs. Gemini for Google Cloud cloudaicompanion.googleapis.com/Topic Cloud Run Feature Detect vulnerabili",
+      "summary": "Cloud Asset Inventory Feature The following resource type is publicly available through the SearchAllResources and SearchAllIamPolicies APIs. Gemini for Google Cloud cloudaicompanion.googleapis.com/Topic Google Cloud Marketplace Partners Fe",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_08_2026",
       "live": true
@@ -222,7 +242,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-11-06",
       "title": "Google Tag Manager’s Preview mode now has verbose logging",
@@ -232,7 +252,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-11-06",
       "title": "Beyond the opt-in: Engineering consent for better marketing",
@@ -242,7 +262,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-11-06",
       "title": "Better prompts start before the prompt",
@@ -252,23 +272,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-11-06",
       "title": "Consumers are still buying. They’re just harder to convince.",
       "summary": "Economic pressure hasn’t stopped online shopping, but it has made consumers more skeptical, more price-conscious, and more willing to check the offer. The post Consumers are still buying. They’re just harder to convince. appeared first on M",
       "src": "MarTech.org",
       "url": "https://martech.org/consumers-are-still-buying-theyre-just-harder-to-convince/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-06",
-      "title": "ChatGPT’s paid traffic is worth far less than Google’s",
-      "summary": "Paid ChatGPT visits generated 89 cents in revenue per session, compared with $2.45 from paid Google Search. The post ChatGPT s paid traffic is worth far less than Google s appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/chatgpts-paid-traffic-is-worth-far-less-than-googles/",
       "live": true
     },
     {
@@ -292,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-05",
       "title": "BigQuery continuous queries can now write into Apache Iceberg tables, with SQL UDFs and UNION ALL…",
@@ -302,7 +312,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-11-05",
       "title": "Adobe Analytics and Customer Journey Analytics Get Auto-Generated Component Descriptions",
@@ -352,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-11-04",
       "title": "Server-Side Google Tag Manager Will Pass Full IP Addresses to Google Ads Tags From January 11, 2027",
@@ -422,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-11-02",
       "title": "BigQuery Working Examples: AI.CHUNK_DOCUMENT",
@@ -492,7 +502,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-10-28",
       "title": "Safari 27 Blocks Identity Resolution Vendors",
@@ -522,23 +532,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-10-27",
       "title": "Gemini in Google Sheets can now query your whole BigQuery dataset, not just what’s on the sheet",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/gemini-in-google-sheets-can-now-query-your-whole-bigquery-dataset-not-just-whats-on-the-sheet-e9f19f3991c0?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-27",
-      "title": "We Built a Small Chrome Extension to Duplicate Tealium Event Specs",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/we-built-a-small-chrome-extension-to-duplicate-tealium-event-specs-438566026abd?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
