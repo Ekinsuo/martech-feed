@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:29:56.021559+00:00",
+  "generated_at": "2026-11-11T11:50:31.914359+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 96,
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "name": "Looker Studio Release Notes",
@@ -122,13 +122,33 @@
   ],
   "signals": [
     {
-      "id": "live-BigQuery Release Notes-0",
-      "cat": "bigquery",
+      "id": "live-sGTM Pantheon (GitHub commits)-0",
+      "cat": "pantheon",
+      "date": "2026-11-11",
+      "title": "Merge pull request #37 from JunghanYoon/fix/URL-encode",
+      "summary": "Merge pull request #37 from JunghanYoon/fix/URL-encode fix(apollo): URL-encode Sheets API range inputs",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/c6841c62abbc8c6cb37590bfc914309c33d834c6",
+      "live": true
+    },
+    {
+      "id": "live-sGTM Pantheon (GitHub commits)-1",
+      "cat": "pantheon",
+      "date": "2026-11-11",
+      "title": "fix(apollo): URL-encode Sheets API range inputs",
+      "summary": "fix(apollo): URL-encode Sheets API range inputs Encode user-supplied form fields (job, address, age) with encodeUriComponent() when building the Sheets API URL.",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/e956bec84042d0ca2eda5d01cd7bd09f7a1c52f1",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
       "date": "2026-11-10",
       "title": "November 10, 2026",
-      "summary": "Feature You can use graph measures to lock an aggregation to a key in order to perform complex aggregations without overcounting. Measure expressions can include the following: Aggregate function calls Expressions within aggregate functions",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#November_10_2026",
+      "summary": "Agent Platform Workbench Feature Antigravity CLI in Agent Platform Workbench instances Preview : The Antigravity CLI is available in Agent Platform Workbench instances that use a Debian 12 ( workbench-instances-2603 ) or later image. The An",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_10_2026",
       "live": true
     },
     {
@@ -582,13 +602,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-15",
-      "cat": "general",
+      "id": "live-Looker Release Notes-4",
+      "cat": "looker",
       "date": "2026-10-26",
       "title": "October 26, 2026",
-      "summary": "Agent Platform Workbench Change 20261025.00_p0 Release Change Installed latest packages from upstream dependencies. Security Updated certifi, pip, and conda ca-certificates to the latest versions. Change 20261025.00_p0 Release Change Instal",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_26_2026",
+      "summary": "Looker (Google Cloud core) only changes Feature Looker (Google Cloud core) data lineage is now generally available (GA). The GA launch adds end-to-end visibility for LookML dashboards and Conversational Analytics agents . Lineage enablement",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_26_2026",
       "live": true
     },
     {
@@ -912,7 +932,7 @@
       "live": true
     },
     {
-      "id": "live-sGTM Pantheon (GitHub commits)-0",
+      "id": "live-sGTM Pantheon (GitHub commits)-2",
       "cat": "pantheon",
       "date": "2025-11-03",
       "title": "Merge pull request #36 from nimrod4278/main",
@@ -922,7 +942,7 @@
       "live": true
     },
     {
-      "id": "live-sGTM Pantheon (GitHub commits)-1",
+      "id": "live-sGTM Pantheon (GitHub commits)-3",
       "cat": "pantheon",
       "date": "2025-10-26",
       "title": "fix broken link",
@@ -932,7 +952,7 @@
       "live": true
     },
     {
-      "id": "live-sGTM Pantheon (GitHub commits)-2",
+      "id": "live-sGTM Pantheon (GitHub commits)-4",
       "cat": "pantheon",
       "date": "2025-10-26",
       "title": "Fix: Address reviewer comments",
@@ -942,7 +962,7 @@
       "live": true
     },
     {
-      "id": "live-sGTM Pantheon (GitHub commits)-3",
+      "id": "live-sGTM Pantheon (GitHub commits)-5",
       "cat": "pantheon",
       "date": "2025-10-23",
       "title": "new solution to allow value bidding of dynamic values",
@@ -952,7 +972,7 @@
       "live": true
     },
     {
-      "id": "live-sGTM Pantheon (GitHub commits)-4",
+      "id": "live-sGTM Pantheon (GitHub commits)-6",
       "cat": "pantheon",
       "date": "2025-09-03",
       "title": "Merge pull request #35 from google-marketing-solutions/jamessexton-io…",
@@ -972,33 +992,13 @@
       "live": true
     },
     {
-      "id": "live-sGTM Pantheon (GitHub commits)-5",
+      "id": "live-sGTM Pantheon (GitHub commits)-7",
       "cat": "pantheon",
       "date": "2025-08-28",
       "title": "Fix table issues in README.md",
       "summary": "Fix table issues in README.md",
       "src": "sGTM Pantheon (GitHub commits)",
       "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/c2d297814581f1bbd74aa40a4a855719cc3d0764",
-      "live": true
-    },
-    {
-      "id": "live-sGTM Pantheon (GitHub commits)-6",
-      "cat": "pantheon",
-      "date": "2025-06-09",
-      "title": "Merge pull request #33 from google-marketing-solutions/update_reademe…",
-      "summary": "Merge pull request #33 from google-marketing-solutions/update_reademe_for_theia_and_zeus Update README.md to include theia and zues",
-      "src": "sGTM Pantheon (GitHub commits)",
-      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/9e8cbbd49f4625dc8d070db08addcb67f1ed02d2",
-      "live": true
-    },
-    {
-      "id": "live-sGTM Pantheon (GitHub commits)-7",
-      "cat": "pantheon",
-      "date": "2025-06-09",
-      "title": "Update README.md",
-      "summary": "Update README.md",
-      "src": "sGTM Pantheon (GitHub commits)",
-      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/435d5ea01b471181551b1d580bebe8a5043db450",
       "live": true
     },
     {
