@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T12:39:10.534250+00:00",
+  "generated_at": "2026-11-12T20:57:55.221710+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 97,
@@ -122,6 +122,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-11-12",
+      "title": "November 12, 2026",
+      "summary": "App Engine standard environment Go Feature Support for Direct VPC egress in the App Engine standard environment is in General Availability (GA) . For more information, see Configure Direct VPC egress and Best practices for App Engine networ",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_12_2026",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
       "date": "2026-11-12",
@@ -132,7 +142,67 @@
       "live": true
     },
     {
+      "id": "live-Tim Hutton-1",
+      "cat": "sgtm",
+      "date": "2026-11-12",
+      "title": "BigQuery Measures Reaches General Availability, Unifying BI Metrics and Knowledge Graphs",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquery-measures-reaches-general-availability-unifying-bi-metrics-and-knowledge-graphs-e480515d3b47?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-12",
+      "title": "Marketing automation is dead. Long live marketing automation!",
+      "summary": "Algorithm updates and endless manual workflows are draining. The November MarTech Conference discussed how AI transforms marketing automation into your strongest partner. The post Marketing automation is dead. Long live marketing automation",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-11-12",
+      "title": "IAB unveils framework for measuring AI’s part in conversions",
+      "summary": "The goal is a common way to determine who can claim credit for a sale influenced or completed by AI. The post IAB unveils framework for measuring AI s part in conversions appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/iab-unveils-framework-for-measuring-ais-part-in-conversions/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-11-12",
+      "title": "Should you invest in a loyalty program?",
+      "summary": "Loyalty programs can look successful without generating additional purchases. The key is knowing which customers need an incentive to return. The post Should you invest in a loyalty program? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/should-you-invest-in-a-loyalty-program/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-11-12",
+      "title": "Retailer data can sharpen social. It can also inflate the bill.",
+      "summary": "Retailer audiences can improve social targeting and sales measurement, but brands need to know if the added data actually adds anything. The post Retailer data can sharpen social. It can also inflate the bill. appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/retailer-data-can-sharpen-social-it-can-also-inflate-the-bill/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-11-12",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Adobe is expanding its AI stack with Google models, custom Disney models, and agentic tools to coordinate content and marketing workflows. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-11-12",
       "title": "Connecting with shoppers when the buyer Is not human by Optimove",
@@ -142,7 +212,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-11-11",
       "title": "November 11, 2026",
@@ -152,7 +222,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-11",
       "title": "Adobe’s Coworker Assistant Now Runs Inside ChatGPT, Claude, Gemini and Copilot",
@@ -182,7 +252,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-11-11",
       "title": "Built to adapt: Why composable martech is becoming the new standard",
@@ -192,7 +262,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-11-11",
       "title": "Beyond search and social: How to scale with performance TV",
@@ -202,31 +272,11 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-11-11",
-      "title": "Cheap CAC can be expensive growth",
-      "summary": "Some campaigns create demand. Others just take credit for it. Find out how to tell the difference and make better budget decisions with AI. The post Cheap CAC can be expensive growth appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/cheap-cac-can-be-expensive-growth/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-11-11",
-      "title": "Don’t pay a premium for data you can’t use",
-      "summary": "Commerce signals are worth the extra cost only when they improve a specific decision, audience, or business outcome during the campaign. The post Don’t pay a premium for data you can’t use appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/dont-pay-a-premium-for-data-you-cant-use/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-11-10",
       "title": "November 10, 2026",
-      "summary": "API Gateway Feature TLS 1.3 for connections to backends TLS 1.3 is now enabled on connections from API Gateway gateways to backend services. When a backend supports TLS 1.3, the gateway uses TLS 1.3. Agent Platform Workbench Feature Antigra",
+      "summary": "API Gateway Feature TLS 1.3 for connections to backends API Gateway is rolling out support for TLS 1.3 on connections to backend services. Once the rollout reaches a gateway, it uses TLS 1.3 with backends that support it. No configuration i",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_10_2026",
       "live": true
@@ -242,43 +292,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-11-10",
       "title": "Google Tag Manager’s History Change Trigger Now Fires on Back/Forward Cache Restores",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/google-tag-managers-history-change-trigger-now-fires-on-back-forward-cache-restores-f601944c9294?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-11-10",
-      "title": "Claritas brings live optimization to acquisition email",
-      "summary": "New product adjusts audiences and subject lines while campaigns run, then uses holdouts and attribution to measure whether those changes produce lift. The post Claritas brings live optimization to acquisition email appeared first on MarTech",
-      "src": "MarTech.org",
-      "url": "https://martech.org/claritas-brings-live-optimization-to-acquisition-email/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-11-10",
-      "title": "Balancing human and AI roles in marcom",
-      "summary": "The closer your content is to the customer relationship, the more human it should be. See where AI adds value without compromising trust. The post Balancing human and AI roles in marcom appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/balancing-human-and-ai-roles-in-marcom/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-10",
-      "title": "From journeys to decisions: The next era of customer engagement",
-      "summary": "Static journeys can’t keep up with modern buyers. At the November MarTech Conference, we discussed how real-time AI decisioning helps build high-impact experiences. The post From journeys to decisions: The next era of customer engagement ap",
-      "src": "MarTech.org",
-      "url": "https://martech.org/from-journeys-to-decisions-the-next-era-of-customer-engagement/",
       "live": true
     },
     {
@@ -302,7 +322,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-11-09",
       "title": "November 09, 2026",
@@ -332,7 +352,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-11-08",
       "title": "November 08, 2026",
@@ -342,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-11-06",
       "title": "November 06, 2026",
@@ -362,7 +382,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-11-06",
       "title": "Google Tag Manager’s Preview mode now has verbose logging",
@@ -382,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-11-05",
       "title": "November 05, 2026",
@@ -392,7 +412,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-11-05",
       "title": "BigQuery continuous queries can now write into Apache Iceberg tables, with SQL UDFs and UNION ALL…",
@@ -402,7 +422,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-11-05",
       "title": "Adobe Analytics and Customer Journey Analytics Get Auto-Generated Component Descriptions",
@@ -422,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-11-04",
       "title": "November 04, 2026",
@@ -452,7 +472,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-11-04",
       "title": "Server-Side Google Tag Manager Will Pass Full IP Addresses to Google Ads Tags From January 11, 2027",
@@ -472,7 +492,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-11-03",
       "title": "November 03, 2026",
@@ -512,23 +532,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-11-02",
       "title": "November 02, 2026",
       "summary": "Agent Platform Workbench Change 20261101.00_p0 Release Change Installed latest packages from upstream dependencies. Security Upgraded the container host to the latest Container-Optimized OS LTS release, rebasing onto the newest operating sy",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_02_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-11-02",
-      "title": "BigQuery Working Examples: AI.CHUNK_DOCUMENT",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-chunk-document-035e2c6f455d?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -542,7 +552,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-10-30",
       "title": "October 30, 2026",
@@ -552,7 +562,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-29",
       "title": "October 29, 2026",
@@ -579,16 +589,6 @@
       "summary": "4.5.0 (",
       "src": "sGTM — Release notes",
       "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-14",
-      "cat": "general",
-      "date": "2026-10-28",
-      "title": "October 28, 2026",
-      "summary": "AlloyDB for PostgreSQL Announcement The following AlloyDB AI and vector search features and improvements are generally available ( GA ): The alloydb_scann extension supports four-level tree (4LT) ScaNN vector indexes on PostgreSQL 17 and la",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_28_2026",
       "live": true
     },
     {
