@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T20:15:23.503527+00:00",
+  "generated_at": "2026-11-12T12:39:10.534250+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 97,
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "name": "Looker Studio Release Notes",
@@ -122,6 +122,26 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-11-12",
+      "title": "OpenAI Launches ChatGPT’s Business Hub, With Mentions, Clicks and Branded Business Agents",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/openai-launches-chatgpts-business-hub-with-mentions-clicks-and-branded-business-agents-99f0abf2cd07?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-12",
+      "title": "Connecting with shoppers when the buyer Is not human by Optimove",
+      "summary": "The agent gets your catalog. You keep the relationship. The post Connecting with shoppers when the buyer Is not human appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/connecting-with-shoppers-when-the-buyer-is-not-human/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-11-11",
@@ -132,7 +152,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-11-11",
       "title": "Adobe’s Coworker Assistant Now Runs Inside ChatGPT, Claude, Gemini and Copilot",
@@ -162,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-1",
       "cat": "general",
       "date": "2026-11-11",
       "title": "Built to adapt: Why composable martech is becoming the new standard",
@@ -172,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-11-11",
       "title": "Beyond search and social: How to scale with performance TV",
@@ -182,7 +202,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-11-11",
       "title": "Cheap CAC can be expensive growth",
@@ -192,7 +212,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-11-11",
       "title": "Don’t pay a premium for data you can’t use",
@@ -222,7 +242,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-10",
       "title": "Google Tag Manager’s History Change Trigger Now Fires on Back/Forward Cache Restores",
@@ -232,7 +252,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-11-10",
       "title": "Claritas brings live optimization to acquisition email",
@@ -242,7 +262,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-11-10",
       "title": "Balancing human and AI roles in marcom",
@@ -252,23 +272,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-11-10",
       "title": "From journeys to decisions: The next era of customer engagement",
       "summary": "Static journeys can’t keep up with modern buyers. At the November MarTech Conference, we discussed how real-time AI decisioning helps build high-impact experiences. The post From journeys to decisions: The next era of customer engagement ap",
       "src": "MarTech.org",
       "url": "https://martech.org/from-journeys-to-decisions-the-next-era-of-customer-engagement/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-10",
-      "title": "IAB announces support for new CTV ad formats",
-      "summary": "Expanded measurement brings consistent impression measurement to pause, menu, screensaver, and overlay ads across connected TV. The post IAB announces support for new CTV ad formats appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/iab-announces-support-for-new-ctv-ad-formats/",
       "live": true
     },
     {
@@ -352,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-11-06",
       "title": "Google Tag Manager’s Preview mode now has verbose logging",
@@ -382,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-11-05",
       "title": "BigQuery continuous queries can now write into Apache Iceberg tables, with SQL UDFs and UNION ALL…",
@@ -392,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-11-05",
       "title": "Adobe Analytics and Customer Journey Analytics Get Auto-Generated Component Descriptions",
@@ -442,7 +452,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-11-04",
       "title": "Server-Side Google Tag Manager Will Pass Full IP Addresses to Google Ads Tags From January 11, 2027",
@@ -512,7 +522,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-11-02",
       "title": "BigQuery Working Examples: AI.CHUNK_DOCUMENT",
@@ -582,16 +592,6 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-10-28",
-      "title": "Safari 27 Blocks Identity Resolution Vendors",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/safari-27-blocks-identity-resolution-vendors-6e161979d64d?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
       "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-10-28",
@@ -602,13 +602,13 @@
       "live": true
     },
     {
-      "id": "live-BigQuery Release Notes-7",
-      "cat": "bigquery",
+      "id": "live-Looker Release Notes-3",
+      "cat": "looker",
       "date": "2026-10-27",
       "title": "October 27, 2026",
-      "summary": "Feature The Data Engineering Agent now integrates with Google Drive , letting you provide Google Sheets files, CSV, or JSONL files as input for your data engineering pipelines. This feature is generally available (GA). Feature You can now u",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#October_27_2026",
+      "summary": "Looker (Google Cloud core) and Looker (original) changes Feature The latest version of the Looker-Excel Connector ODBC driver, version 1.0.7, is now available to download. See the Looker-Excel Connector documentation page for information.",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_27_2026",
       "live": true
     },
     {
