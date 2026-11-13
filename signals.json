@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T12:09:15.931861+00:00",
+  "generated_at": "2026-11-13T20:32:11.894400+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
-  "count": 95,
+  "count": 96,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "name": "Looker Studio Release Notes",
@@ -122,6 +122,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-11-13",
+      "title": "November 13, 2026",
+      "summary": "BigQuery Feature BigQuery connections to MySQL , Oracle , and PostgreSQL are now available and can be used to run MySQL federated queries , Oracle federated queries , and PostgreSQL federated queries . These features are in Preview . Bigtab",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_13_2026",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
       "date": "2026-11-13",
@@ -132,7 +142,67 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-sGTM Pantheon (GitHub commits)-0",
+      "cat": "pantheon",
+      "date": "2026-11-13",
+      "title": "Merge pull request #38 from nimrod4278/bugfix/harpocrates-auth-oracle",
+      "summary": "Merge pull request #38 from nimrod4278/bugfix/harpocrates-auth-oracle Bugfix/harpocrates auth oracle",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/88f7005c1d99dee2c14b82ad8018a4c56770165b",
+      "live": true
+    },
+    {
+      "id": "live-sGTM Pantheon (GitHub commits)-1",
+      "cat": "pantheon",
+      "date": "2026-11-13",
+      "title": "Merge pull request #39 from JunghanYoon/fix/removing-reflecting-raw-r…",
+      "summary": "Merge pull request #39 from JunghanYoon/fix/removing-reflecting-raw-response fix(apollo): Removing reflecting raw response",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/e3b45910639f7c1b50728edc9646280f3d6abd72",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-13",
+      "title": "Meet your new teammate: Building marketing workflows around AI agents",
+      "summary": "AI agents are changing how marketing works. At the November MarTech Conference, we discussed how to build workflows that combine AI efficiency with human judgment, quality control, and governance. The post Meet your new teammate: Building m",
+      "src": "MarTech.org",
+      "url": "https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-11-13",
+      "title": "Before you ask for better leads, define ‘better’",
+      "summary": "A strong ICP helps marketing and sales identify high-fit accounts, interpret buying signals, and focus their efforts where they matter most. The post Before you ask for better leads, define ‘better’ appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/before-you-ask-for-better-leads-define-better/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-11-13",
+      "title": "Marketers deploying AI agents faster than they can measure them",
+      "summary": "AI agents are spreading quickly, but most marketers still can’t connect those conversations to campaigns, conversions, and revenue. The post Marketers deploying AI agents faster than they can measure them appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketers-deploying-ai-agents-faster-than-they-can-measure-them/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-11-13",
+      "title": "Relevance has an expiration date",
+      "summary": "Old signals can keep campaigns moving long after the customer has moved on. Better personalization starts with asking what matters now. The post Relevance has an expiration date appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/relevance-has-an-expiration-date/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-11-12",
       "title": "November 12, 2026",
@@ -162,7 +232,17 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-sGTM Pantheon (GitHub commits)-2",
+      "cat": "pantheon",
+      "date": "2026-11-12",
+      "title": "fix(apollo): Removing reflecting raw response",
+      "summary": "fix(apollo): Removing reflecting raw response Removing setResponseBody/Status/Header calls so raw API responses are not reflected to the client",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/6ed42d13fe19bf9f016b306dd648c94e9a1ffd3c",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-11-12",
       "title": "Marketing automation is dead. Long live marketing automation!",
@@ -172,7 +252,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-11-12",
       "title": "IAB unveils framework for measuring AI’s part in conversions",
@@ -182,7 +262,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-11-12",
       "title": "Should you invest in a loyalty program?",
@@ -192,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-11-12",
       "title": "Retailer data can sharpen social. It can also inflate the bill.",
@@ -202,27 +282,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-11-12",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Adobe is expanding its AI stack with Google models, custom Disney models, and agentic tools to coordinate content and marketing workflows. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-11-12",
-      "title": "Connecting with shoppers when the buyer Is not human by Optimove",
-      "summary": "The agent gets your catalog. You keep the relationship. The post Connecting with shoppers when the buyer Is not human appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/connecting-with-shoppers-when-the-buyer-is-not-human/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-11-11",
       "title": "November 11, 2026",
@@ -242,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-sGTM Pantheon (GitHub commits)-0",
+      "id": "live-sGTM Pantheon (GitHub commits)-3",
       "cat": "pantheon",
       "date": "2026-11-11",
       "title": "Merge pull request #37 from JunghanYoon/fix/URL-encode",
@@ -252,7 +312,17 @@
       "live": true
     },
     {
-      "id": "live-sGTM Pantheon (GitHub commits)-1",
+      "id": "live-sGTM Pantheon (GitHub commits)-4",
+      "cat": "pantheon",
+      "date": "2026-11-11",
+      "title": "feat(harpocrates): automate sgtm service account discovery and migration",
+      "summary": "feat(harpocrates): automate sgtm service account discovery and migration Auto-detect the sGTM Cloud Run service account in deploy.sh, pre-populate DEFAULT_SERVICE_ACCOUNT_EMAIL in encryptedValue.tpl, fall back to getEventData( encryptedValu",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/f172b6268767c1a953c93e9bfc2c224e821e26c2",
+      "live": true
+    },
+    {
+      "id": "live-sGTM Pantheon (GitHub commits)-5",
       "cat": "pantheon",
       "date": "2026-11-11",
       "title": "fix(apollo): URL-encode Sheets API range inputs",
@@ -262,27 +332,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-11-11",
-      "title": "Built to adapt: Why composable martech is becoming the new standard",
-      "summary": "At the November MarTech Conference, we learned how composable martech helps marketers integrate AI, reduce vendor lock-in, and modernize their stacks without starting over. The post Built to adapt: Why composable martech is becoming the new",
-      "src": "MarTech.org",
-      "url": "https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-11",
-      "title": "Beyond search and social: How to scale with performance TV",
-      "summary": "Search and social consume the majority of digital marketing spend and rely on clicks to gauge effectiveness. Our guest this week calls that \"kindergarten math.\" The post Beyond search and social: How to scale with performance TV appeared fi",
-      "src": "MarTech.org",
-      "url": "https://martech.org/beyond-search-and-social-how-to-scale-with-performance-tv/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-11-10",
       "title": "November 10, 2026",
@@ -312,6 +362,26 @@
       "live": true
     },
     {
+      "id": "live-sGTM Pantheon (GitHub commits)-6",
+      "cat": "pantheon",
+      "date": "2026-11-10",
+      "title": "fix(harpocrates): accept lowercase bearer scheme rewritten by cloud r…",
+      "summary": "fix(harpocrates): accept lowercase bearer scheme rewritten by cloud run gfe Cloud Run / Gen 2 Cloud Functions GFE rewrites validated Authorization headers to lowercase bearer <header>.<payload>.SIGNATURE_REMOVED_BY_GOOGLE . Use a case-insen",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/a6de284db316f6b94f1b2bac30cdcf9976cd542c",
+      "live": true
+    },
+    {
+      "id": "live-sGTM Pantheon (GitHub commits)-7",
+      "cat": "pantheon",
+      "date": "2026-11-10",
+      "title": "test(harpocrates): add auth regression tests and migration guide",
+      "summary": "test(harpocrates): add auth regression tests and migration guide Add HTTP handler unit tests in test_encrypt.js for missing Authorization header (401), empty Bearer token (401), authenticated POST (200), and CORS preflight (204), and docume",
+      "src": "sGTM Pantheon (GitHub commits)",
+      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/4b522b85ad4cb2a5e89367da588baf0265226169",
+      "live": true
+    },
+    {
       "id": "live-Apple Developer News-0",
       "cat": "apple",
       "date": "2026-11-10",
@@ -332,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-11-09",
       "title": "November 09, 2026",
@@ -362,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-11-08",
       "title": "November 08, 2026",
@@ -372,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-11-06",
       "title": "November 06, 2026",
@@ -412,7 +482,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-11-05",
       "title": "November 05, 2026",
@@ -452,7 +522,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-11-04",
       "title": "November 04, 2026",
@@ -492,7 +562,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-11-03",
       "title": "November 03, 2026",
@@ -532,7 +602,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-11-02",
       "title": "November 02, 2026",
@@ -552,7 +622,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-10-30",
       "title": "October 30, 2026",
@@ -562,13 +632,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
-      "cat": "general",
+      "id": "live-Looker Release Notes-4",
+      "cat": "looker",
       "date": "2026-10-29",
       "title": "October 29, 2026",
-      "summary": "AlloyDB for PostgreSQL Feature AlloyDB AI adds pre-registered support for the following Gemini models in version 1.6.5 and later of the google_ml_integration extension: gemini-3.1-flash-lite gemini-3.5-flash gemini-3.5-flash-lite gemini-3.6",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_29_2026",
+      "summary": "Deployment dates Announcement Beginning October 26, 2026, the following features will be automatically enabled for Looker (original) and Looker (Google Cloud core) instances running Looker 26.20. Feature The ability to generate a summary of",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_29_2026",
       "live": true
     },
     {
@@ -922,56 +992,6 @@
       "live": true
     },
     {
-      "id": "live-sGTM Pantheon (GitHub commits)-2",
-      "cat": "pantheon",
-      "date": "2025-11-03",
-      "title": "Merge pull request #36 from nimrod4278/main",
-      "summary": "Merge pull request #36 from nimrod4278/main new solution to allow value based bidding of dynamic values",
-      "src": "sGTM Pantheon (GitHub commits)",
-      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/44de3ffcdce2911ac36accb35dfa5aff89b30613",
-      "live": true
-    },
-    {
-      "id": "live-sGTM Pantheon (GitHub commits)-3",
-      "cat": "pantheon",
-      "date": "2025-10-26",
-      "title": "fix broken link",
-      "summary": "fix broken link",
-      "src": "sGTM Pantheon (GitHub commits)",
-      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/b041a11506885986019a72ab392a1bb1e211ed73",
-      "live": true
-    },
-    {
-      "id": "live-sGTM Pantheon (GitHub commits)-4",
-      "cat": "pantheon",
-      "date": "2025-10-26",
-      "title": "Fix: Address reviewer comments",
-      "summary": "Fix: Address reviewer comments",
-      "src": "sGTM Pantheon (GitHub commits)",
-      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/1dabebe81bbd38efbf73c55cacb44f5481ed12a2",
-      "live": true
-    },
-    {
-      "id": "live-sGTM Pantheon (GitHub commits)-5",
-      "cat": "pantheon",
-      "date": "2025-10-23",
-      "title": "new solution to allow value bidding of dynamic values",
-      "summary": "new solution to allow value bidding of dynamic values",
-      "src": "sGTM Pantheon (GitHub commits)",
-      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/86f24c7d9561fb2e54a9223aaea741107975d04b",
-      "live": true
-    },
-    {
-      "id": "live-sGTM Pantheon (GitHub commits)-6",
-      "cat": "pantheon",
-      "date": "2025-09-03",
-      "title": "Merge pull request #35 from google-marketing-solutions/jamessexton-io…",
-      "summary": "Merge pull request #35 from google-marketing-solutions/jamessexton-io-patch-2 Fix table issues in README.md",
-      "src": "sGTM Pantheon (GitHub commits)",
-      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/ea819e2478695627620ef99b3a7035e2ea5f65f5",
-      "live": true
-    },
-    {
       "id": "live-Simo Ahava-7",
       "cat": "general",
       "date": "2025-08-29",
@@ -979,16 +999,6 @@
       "summary": "On June 30, 2025 , Google announced that they are consolidating how Google&rsquo;s script libraries for the web (e.g. gtm.js and gtag.js ) are loaded when using a server-side Google Tag Manager container. Before, you had the Web Container C",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/gtmtips/new-way-load-google-scripts-server-container/",
-      "live": true
-    },
-    {
-      "id": "live-sGTM Pantheon (GitHub commits)-7",
-      "cat": "pantheon",
-      "date": "2025-08-28",
-      "title": "Fix table issues in README.md",
-      "summary": "Fix table issues in README.md",
-      "src": "sGTM Pantheon (GitHub commits)",
-      "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/c2d297814581f1bbd74aa40a4a855719cc3d0764",
       "live": true
     },
     {
