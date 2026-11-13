@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-12T20:57:55.221710+00:00",
+  "generated_at": "2026-11-13T12:09:15.931861+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
-  "count": 97,
+  "count": 95,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 5
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -122,17 +122,27 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-11-13",
+      "title": "BigQuery Working Examples: AI.PARSE_DOCUMENT",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-parse-document-70262a5635fb?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-11-12",
       "title": "November 12, 2026",
-      "summary": "App Engine standard environment Go Feature Support for Direct VPC egress in the App Engine standard environment is in General Availability (GA) . For more information, see Configure Direct VPC egress and Best practices for App Engine networ",
+      "summary": "API Keys API Feature The API Keys remote Model Context Protocol (MCP) server is generally available (GA) . You can use the API Keys remote MCP server in your AI applications to create, inspect, restrict, and manage the lifecycle of API keys",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_12_2026",
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-11-12",
       "title": "OpenAI Launches ChatGPT’s Business Hub, With Mentions, Clicks and Branded Business Agents",
@@ -142,7 +152,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-12",
       "title": "BigQuery Measures Reaches General Availability, Unifying BI Metrics and Knowledge Graphs",
@@ -222,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-11-11",
       "title": "Adobe’s Coworker Assistant Now Runs Inside ChatGPT, Claude, Gemini and Copilot",
@@ -292,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-11-10",
       "title": "Google Tag Manager’s History Change Trigger Now Fires on Back/Forward Cache Restores",
@@ -382,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-11-06",
       "title": "Google Tag Manager’s Preview mode now has verbose logging",
@@ -412,7 +422,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-11-05",
       "title": "BigQuery continuous queries can now write into Apache Iceberg tables, with SQL UDFs and UNION ALL…",
@@ -422,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-11-05",
       "title": "Adobe Analytics and Customer Journey Analytics Get Auto-Generated Component Descriptions",
@@ -469,16 +479,6 @@
       "summary": "Earlier this year, the Google Ads API started requiring multi-party approvals (MPA) when performing sensitive API actions. Starting the week of December 7, 2026 , we are introducing additional changes to improve the developer experience for",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/3306495049686814357",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-11-04",
-      "title": "Server-Side Google Tag Manager Will Pass Full IP Addresses to Google Ads Tags From January 11, 2027",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/server-side-google-tag-manager-will-pass-full-ip-addresses-to-google-ads-tags-from-january-11-2027-c59a0a3791d8?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -602,7 +602,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-3",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-10-27",
       "title": "October 27, 2026",
@@ -612,7 +612,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-10-26",
       "title": "October 26, 2026",
@@ -642,7 +642,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-10-22",
       "title": "October 22, 2026",
@@ -672,16 +672,6 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
-      "cat": "looker",
-      "date": "2026-10-21",
-      "title": "October 21, 2026",
-      "summary": "Looker (Google Cloud core) only changes Feature Automated cataloging and ingestion of Looker (Google Cloud core) metadata with Knowledge Catalog is now generally available (GA). This includes support for additional granular metadata (includ",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_21_2026",
-      "live": true
-    },
-    {
       "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-10-21",
@@ -689,16 +679,6 @@
       "summary": "Starting December 4, 2026 , image extraction ( GENERATE_IMAGE_EXTRACTION ) will be enabled by default ( OPTED_IN ) for newly created Performance Max campaigns across Google Ads interfaces, including the the Google Ads API , Google Ads UI, a",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/3760097425693016371",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-10-20",
-      "title": "October 20, 2026",
-      "summary": "Looker (Google Cloud core) only changes Announcement The latest versions in the Looker (Google Cloud core) release channels are beginning deployment as follows: Latest version in the Regular channel: Looker 26.18 The latest version in the R",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_20_2026",
       "live": true
     },
     {
