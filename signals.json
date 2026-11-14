@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T20:32:11.894400+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 96,
+  "generated_at": "2026-11-14T11:25:49.911725+00:00",
+  "ok_sources": 13,
+  "fail_sources": 5,
+  "count": 87,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -126,7 +127,7 @@
       "cat": "general",
       "date": "2026-11-13",
       "title": "November 13, 2026",
-      "summary": "BigQuery Feature BigQuery connections to MySQL , Oracle , and PostgreSQL are now available and can be used to run MySQL federated queries , Oracle federated queries , and PostgreSQL federated queries . These features are in Preview . Bigtab",
+      "summary": "Access Approval Feature Cloud Quotas is generally available ( GA ). Access Transparency Feature Cloud Quotas is generally available ( GA ). Apigee X Announcement On November 13, 2026, we released an updated version of Apigee (1-18-0-apigee-",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_13_2026",
       "live": true
@@ -162,43 +163,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
       "date": "2026-11-13",
-      "title": "Meet your new teammate: Building marketing workflows around AI agents",
-      "summary": "AI agents are changing how marketing works. At the November MarTech Conference, we discussed how to build workflows that combine AI efficiency with human judgment, quality control, and governance. The post Meet your new teammate: Building m",
-      "src": "MarTech.org",
-      "url": "https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-11-13",
-      "title": "Before you ask for better leads, define ‘better’",
-      "summary": "A strong ICP helps marketing and sales identify high-fit accounts, interpret buying signals, and focus their efforts where they matter most. The post Before you ask for better leads, define ‘better’ appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/before-you-ask-for-better-leads-define-better/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-11-13",
-      "title": "Marketers deploying AI agents faster than they can measure them",
-      "summary": "AI agents are spreading quickly, but most marketers still can’t connect those conversations to campaigns, conversions, and revenue. The post Marketers deploying AI agents faster than they can measure them appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketers-deploying-ai-agents-faster-than-they-can-measure-them/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-11-13",
-      "title": "Relevance has an expiration date",
-      "summary": "Old signals can keep campaigns moving long after the customer has moved on. Better personalization starts with asking what matters now. The post Relevance has an expiration date appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/relevance-has-an-expiration-date/",
+      "title": "Safari on Apple HomeView",
+      "summary": "It’s not every day our browser begins a life on a whole new platform.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18608/safari-on-apple-homeview/",
       "live": true
     },
     {
@@ -239,46 +210,6 @@
       "summary": "fix(apollo): Removing reflecting raw response Removing setResponseBody/Status/Header calls so raw API responses are not reflected to the client",
       "src": "sGTM Pantheon (GitHub commits)",
       "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/6ed42d13fe19bf9f016b306dd648c94e9a1ffd3c",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-11-12",
-      "title": "Marketing automation is dead. Long live marketing automation!",
-      "summary": "Algorithm updates and endless manual workflows are draining. The November MarTech Conference discussed how AI transforms marketing automation into your strongest partner. The post Marketing automation is dead. Long live marketing automation",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-11-12",
-      "title": "IAB unveils framework for measuring AI’s part in conversions",
-      "summary": "The goal is a common way to determine who can claim credit for a sale influenced or completed by AI. The post IAB unveils framework for measuring AI s part in conversions appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/iab-unveils-framework-for-measuring-ais-part-in-conversions/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-11-12",
-      "title": "Should you invest in a loyalty program?",
-      "summary": "Loyalty programs can look successful without generating additional purchases. The key is knowing which customers need an incentive to return. The post Should you invest in a loyalty program? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/should-you-invest-in-a-loyalty-program/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-12",
-      "title": "Retailer data can sharpen social. It can also inflate the bill.",
-      "summary": "Retailer audiences can improve social targeting and sales measurement, but brands need to know if the added data actually adds anything. The post Retailer data can sharpen social. It can also inflate the bill. appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/retailer-data-can-sharpen-social-it-can-also-inflate-the-bill/",
       "live": true
     },
     {
@@ -512,7 +443,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-11-05",
       "title": "Release Notes for Safari Technology Preview 256",
@@ -572,7 +503,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-11-03",
       "title": "Introducing Adaptive Dark Mode",
@@ -632,7 +563,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-4",
+      "id": "live-Looker Release Notes-5",
       "cat": "looker",
       "date": "2026-10-29",
       "title": "October 29, 2026",
@@ -672,7 +603,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-6",
       "cat": "looker",
       "date": "2026-10-27",
       "title": "October 27, 2026",
@@ -682,7 +613,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-10-26",
       "title": "October 26, 2026",
@@ -692,7 +623,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-10-26",
       "title": "WebKit Features for Safari 27.2",
@@ -702,23 +633,13 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-10-23",
       "title": "WebKit Features for Safari 27.1",
       "summary": "Today iPhone Duo arrives, and with it, Safari 27.1.",
       "src": "WebKit Blog (ITP / Safari)",
       "url": "https://webkit.org/blog/18486/webkit-features-for-safari-27-1/",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-10-22",
-      "title": "October 22, 2026",
-      "summary": "Deployment dates Announcement Looker 26.22 will roll out to Looker (original) instances on the following schedule: Expected Looker (original) deployment start: Monday, October 26, 2026 Expected Looker (original) final deployment and downloa",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_22_2026",
       "live": true
     },
     {
@@ -732,7 +653,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-10-22",
       "title": "Release Notes for Safari Technology Preview 255",
@@ -752,7 +673,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-10-19",
       "title": "Blocking Identity Resolution Infrastructure",
@@ -792,7 +713,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-10-08",
       "title": "Release Notes for Safari Technology Preview 254",
@@ -829,16 +750,6 @@
       "summary": "Ads customers We're extending our cross-channel reporting features and conversion management tools to support app conversions App conversions are now fully supported in your conversion reports, including performance, attribution analysis, a",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-09-23",
-      "title": "Release Notes for Safari Technology Preview 253",
-      "summary": "Safari Technology Preview Release 253 is now available for download for macOS Golden Gate and macOS Tahoe.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18357/release-notes-for-safari-technology-preview-253/",
       "live": true
     },
     {
