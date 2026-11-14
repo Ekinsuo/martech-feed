@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-14T11:25:49.911725+00:00",
-  "ok_sources": 13,
-  "fail_sources": 5,
-  "count": 87,
+  "generated_at": "2026-11-14T18:46:49.064212+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 95,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -163,6 +162,46 @@
       "live": true
     },
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-13",
+      "title": "Meet your new teammate: Building marketing workflows around AI agents",
+      "summary": "AI agents are changing how marketing works. At the November MarTech Conference, we discussed how to build workflows that combine AI efficiency with human judgment, quality control, and governance. The post Meet your new teammate: Building m",
+      "src": "MarTech.org",
+      "url": "https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-11-13",
+      "title": "Before you ask for better leads, define ‘better’",
+      "summary": "A strong ICP helps marketing and sales identify high-fit accounts, interpret buying signals, and focus their efforts where they matter most. The post Before you ask for better leads, define ‘better’ appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/before-you-ask-for-better-leads-define-better/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-11-13",
+      "title": "Marketers deploying AI agents faster than they can measure them",
+      "summary": "AI agents are spreading quickly, but most marketers still can’t connect those conversations to campaigns, conversions, and revenue. The post Marketers deploying AI agents faster than they can measure them appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketers-deploying-ai-agents-faster-than-they-can-measure-them/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-11-13",
+      "title": "Relevance has an expiration date",
+      "summary": "Old signals can keep campaigns moving long after the customer has moved on. Better personalization starts with asking what matters now. The post Relevance has an expiration date appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/relevance-has-an-expiration-date/",
+      "live": true
+    },
+    {
       "id": "live-WebKit Blog (ITP / Safari)-0",
       "cat": "privacy",
       "date": "2026-11-13",
@@ -210,6 +249,46 @@
       "summary": "fix(apollo): Removing reflecting raw response Removing setResponseBody/Status/Header calls so raw API responses are not reflected to the client",
       "src": "sGTM Pantheon (GitHub commits)",
       "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/6ed42d13fe19bf9f016b306dd648c94e9a1ffd3c",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-11-12",
+      "title": "Marketing automation is dead. Long live marketing automation!",
+      "summary": "Algorithm updates and endless manual workflows are draining. The November MarTech Conference discussed how AI transforms marketing automation into your strongest partner. The post Marketing automation is dead. Long live marketing automation",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-11-12",
+      "title": "IAB unveils framework for measuring AI’s part in conversions",
+      "summary": "The goal is a common way to determine who can claim credit for a sale influenced or completed by AI. The post IAB unveils framework for measuring AI s part in conversions appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/iab-unveils-framework-for-measuring-ais-part-in-conversions/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-11-12",
+      "title": "Should you invest in a loyalty program?",
+      "summary": "Loyalty programs can look successful without generating additional purchases. The key is knowing which customers need an incentive to return. The post Should you invest in a loyalty program? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/should-you-invest-in-a-loyalty-program/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-11-12",
+      "title": "Retailer data can sharpen social. It can also inflate the bill.",
+      "summary": "Retailer audiences can improve social targeting and sales measurement, but brands need to know if the added data actually adds anything. The post Retailer data can sharpen social. It can also inflate the bill. appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/retailer-data-can-sharpen-social-it-can-also-inflate-the-bill/",
       "live": true
     },
     {
