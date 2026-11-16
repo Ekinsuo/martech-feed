@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T19:24:32.937705+00:00",
+  "generated_at": "2026-11-16T12:41:10.520356+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 95,
@@ -122,7 +122,27 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-11-16",
+      "title": "Gemini 4 Hydrogen Joins BigQuery’s AI Functions, Built for the High-Volume Work",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/gemini-4-hydrogen-joins-bigquerys-ai-functions-built-for-the-high-volume-work-d183598fbd78?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-16",
+      "title": "Before agents can write like your brand, the process has to live somewhere by Optimizely",
+      "summary": "Optimizely's Kevin Li on why vibe coding fails on brand, where content time goes, and what buyers should demand of an agentic CMS. The post Before agents can write like your brand, the process has to live somewhere appeared first on MarTech",
+      "src": "MarTech.org",
+      "url": "https://martech.org/before-agents-can-write-like-your-brand-the-process-has-to-live-somewhere/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-11-13",
       "title": "November 13, 2026",
@@ -132,7 +152,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-11-13",
       "title": "BigQuery Working Examples: AI.PARSE_DOCUMENT",
@@ -162,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-1",
       "cat": "general",
       "date": "2026-11-13",
       "title": "Meet your new teammate: Building marketing workflows around AI agents",
@@ -172,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-11-13",
       "title": "Before you ask for better leads, define ‘better’",
@@ -182,7 +202,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-11-13",
       "title": "Marketers deploying AI agents faster than they can measure them",
@@ -192,7 +212,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-11-13",
       "title": "Relevance has an expiration date",
@@ -212,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-11-12",
       "title": "November 12, 2026",
@@ -222,7 +242,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-12",
       "title": "OpenAI Launches ChatGPT’s Business Hub, With Mentions, Clicks and Branded Business Agents",
@@ -232,7 +252,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-11-12",
       "title": "BigQuery Measures Reaches General Availability, Unifying BI Metrics and Knowledge Graphs",
@@ -252,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-11-12",
       "title": "Marketing automation is dead. Long live marketing automation!",
@@ -262,7 +282,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-11-12",
       "title": "IAB unveils framework for measuring AI’s part in conversions",
@@ -272,7 +292,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-11-12",
       "title": "Should you invest in a loyalty program?",
@@ -282,17 +302,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-12",
-      "title": "Retailer data can sharpen social. It can also inflate the bill.",
-      "summary": "Retailer audiences can improve social targeting and sales measurement, but brands need to know if the added data actually adds anything. The post Retailer data can sharpen social. It can also inflate the bill. appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/retailer-data-can-sharpen-social-it-can-also-inflate-the-bill/",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-11-11",
       "title": "November 11, 2026",
@@ -302,7 +312,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-11-11",
       "title": "Adobe’s Coworker Assistant Now Runs Inside ChatGPT, Claude, Gemini and Copilot",
@@ -342,7 +352,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-11-10",
       "title": "November 10, 2026",
@@ -362,7 +372,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-11-10",
       "title": "Google Tag Manager’s History Change Trigger Now Fires on Back/Forward Cache Restores",
@@ -412,7 +422,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-11-09",
       "title": "November 09, 2026",
@@ -442,7 +452,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-11-08",
       "title": "November 08, 2026",
@@ -452,7 +462,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-11-06",
       "title": "November 06, 2026",
@@ -472,7 +482,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-11-06",
       "title": "Google Tag Manager’s Preview mode now has verbose logging",
@@ -492,7 +502,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-11-05",
       "title": "November 05, 2026",
@@ -502,23 +512,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-11-05",
       "title": "BigQuery continuous queries can now write into Apache Iceberg tables, with SQL UDFs and UNION ALL…",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/bigquery-continuous-queries-can-now-write-into-apache-iceberg-tables-with-sql-udfs-and-union-all-fdbaddec2359?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-11-05",
-      "title": "Adobe Analytics and Customer Journey Analytics Get Auto-Generated Component Descriptions",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/adobe-analytics-and-customer-journey-analytics-get-auto-generated-component-descriptions-02aae8a2f59b?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -532,7 +532,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-11-04",
       "title": "November 04, 2026",
@@ -572,7 +572,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-11-03",
       "title": "November 03, 2026",
@@ -612,7 +612,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-11-02",
       "title": "November 02, 2026",
@@ -632,7 +632,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
+      "id": "live-Google Cloud — All release notes-17",
       "cat": "general",
       "date": "2026-10-30",
       "title": "October 30, 2026",
