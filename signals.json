@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T12:41:10.520356+00:00",
+  "generated_at": "2026-11-16T22:56:22.363421+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 95,
@@ -122,6 +122,16 @@
   ],
   "signals": [
     {
+      "id": "live-Looker Release Notes-0",
+      "cat": "looker",
+      "date": "2026-11-16",
+      "title": "November 16, 2026",
+      "summary": "Looker (Google Cloud core) only changes Feature Workforce Identity Federation is generally available ( GA ) for Looker (Google Cloud core) instances that use public secure, private, or hybrid connections. You can use the Google Cloud consol",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#November_16_2026",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
       "date": "2026-11-16",
@@ -135,10 +145,90 @@
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-11-16",
+      "title": "Bloomreach goes back to its roots with AthenaHQ acquisition",
+      "summary": "Can anyone prove ROI in AI search? Bloomreach’s AthenaHQ acquisition hopes to connect conversational discovery directly to customer revenue. The post Bloomreach goes back to its roots with AthenaHQ acquisition appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/bloomreach-goes-back-to-its-roots-with-athenahq-acquisition/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-11-16",
+      "title": "Beyond deployment: How to lead the change and make AI adoption stick",
+      "summary": "Tool adoption stalls when teams feel unsafe. At the November MarTech Conference, we discussed how to turn AI apprehension into confident, high-value execution. The post Beyond deployment: How to lead the change and make AI adoption stick ap",
+      "src": "MarTech.org",
+      "url": "https://martech.org/beyond-deployment-how-to-lead-the-change-and-make-ai-adoption-stick/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-11-16",
+      "title": "How to protect brand reputation in the AI era",
+      "summary": "Your brand's story is increasingly told by others. Here's how to build a stronger reputation across search, AI, and third-party sources. The post How to protect brand reputation in the AI era appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-protect-brand-reputation-in-the-ai-era/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-11-16",
+      "title": "Marketing ops can turn AI agent readiness from a blind spot to a strength",
+      "summary": "Disconnected data leaves AI agents making promises your brand can’t keep. Here is an opportunity for marketing ops to connect the customer journey and drive real growth. The post Marketing ops can turn AI agent readiness from a blind spot t",
+      "src": "MarTech.org",
+      "url": "https://martech.org/marketing-ops-can-turn-ai-agent-readiness-from-a-blind-spot-to-a-strength/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-11-16",
+      "title": "AI agents make CX marketing’s problem",
+      "summary": "Brand messaging has limits when AI agents weigh real-world performance. Marketers must push for operational improvements that drive growth. The post AI agents make CX marketing s problem appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/ai-agents-make-cx-marketings-problem/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-11-16",
+      "title": "How to balance real-time personalization with consumer trust",
+      "summary": "Refine real-time behavioral personalization to deliver helpful context without crossing the line into intrusive tracking. The post How to balance real-time personalization with consumer trust appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-balance-real-time-personalization-with-consumer-trust/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-11-16",
       "title": "Before agents can write like your brand, the process has to live somewhere by Optimizely",
       "summary": "Optimizely's Kevin Li on why vibe coding fails on brand, where content time goes, and what buyers should demand of an agentic CMS. The post Before agents can write like your brand, the process has to live somewhere appeared first on MarTech",
       "src": "MarTech.org",
       "url": "https://martech.org/before-agents-can-write-like-your-brand-the-process-has-to-live-somewhere/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-11-16",
+      "title": "Updates to Device Control and Data Access, and Full Disk Access in macOS",
+      "summary": "For decades, Mac computers have been loved by creators and developers who build, automate, and innovate using cutting-edge technologies and tools. We want to keep empowering our community in these pursuits, while helping our users stay safe",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=oqng0zjk",
+      "live": true
+    },
+    {
+      "id": "live-Looker Release Notes-1",
+      "cat": "looker",
+      "date": "2026-11-15",
+      "title": "November 15, 2026",
+      "summary": "Deployment dates Announcement Beginning February 1, 2027, billing will be in effect for usage of Gemini-assisted features that exceeds their instance token allocation. Gemini-assisted features are a set of agentic capabilities that include ",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#November_15_2026",
       "live": true
     },
     {
@@ -182,43 +272,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-11-13",
       "title": "Meet your new teammate: Building marketing workflows around AI agents",
       "summary": "AI agents are changing how marketing works. At the November MarTech Conference, we discussed how to build workflows that combine AI efficiency with human judgment, quality control, and governance. The post Meet your new teammate: Building m",
       "src": "MarTech.org",
       "url": "https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-11-13",
-      "title": "Before you ask for better leads, define ‘better’",
-      "summary": "A strong ICP helps marketing and sales identify high-fit accounts, interpret buying signals, and focus their efforts where they matter most. The post Before you ask for better leads, define ‘better’ appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/before-you-ask-for-better-leads-define-better/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-11-13",
-      "title": "Marketers deploying AI agents faster than they can measure them",
-      "summary": "AI agents are spreading quickly, but most marketers still can’t connect those conversations to campaigns, conversions, and revenue. The post Marketers deploying AI agents faster than they can measure them appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketers-deploying-ai-agents-faster-than-they-can-measure-them/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-11-13",
-      "title": "Relevance has an expiration date",
-      "summary": "Old signals can keep campaigns moving long after the customer has moved on. Better personalization starts with asking what matters now. The post Relevance has an expiration date appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/relevance-has-an-expiration-date/",
       "live": true
     },
     {
@@ -269,36 +329,6 @@
       "summary": "fix(apollo): Removing reflecting raw response Removing setResponseBody/Status/Header calls so raw API responses are not reflected to the client",
       "src": "sGTM Pantheon (GitHub commits)",
       "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon/commit/6ed42d13fe19bf9f016b306dd648c94e9a1ffd3c",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-11-12",
-      "title": "Marketing automation is dead. Long live marketing automation!",
-      "summary": "Algorithm updates and endless manual workflows are draining. The November MarTech Conference discussed how AI transforms marketing automation into your strongest partner. The post Marketing automation is dead. Long live marketing automation",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-11-12",
-      "title": "IAB unveils framework for measuring AI’s part in conversions",
-      "summary": "The goal is a common way to determine who can claim credit for a sale influenced or completed by AI. The post IAB unveils framework for measuring AI s part in conversions appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/iab-unveils-framework-for-measuring-ais-part-in-conversions/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-12",
-      "title": "Should you invest in a loyalty program?",
-      "summary": "Loyalty programs can look successful without generating additional purchases. The key is knowing which customers need an incentive to return. The post Should you invest in a loyalty program? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/should-you-invest-in-a-loyalty-program/",
       "live": true
     },
     {
@@ -402,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-11-10",
       "title": "Announcing the Swift Student Challenge 2027",
@@ -412,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-11-10",
       "title": "Hello Developer: November 2026",
@@ -562,7 +592,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-11-04",
       "title": "Now available: Retention messages for subscriptions",
@@ -592,7 +622,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-11-03",
       "title": "Siri AI is now open to all developers",
@@ -602,7 +632,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-11-03",
       "title": "Get ready with the latest beta releases",
@@ -622,7 +652,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-11-02",
       "title": "Upcoming: New age rating content descriptors in App Store Connect",
@@ -642,7 +672,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-10-29",
       "title": "October 29, 2026",
@@ -652,7 +682,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-10-29",
       "title": "Adjustments to the Taiwan storefront of the App Store on iOS and iPadOS",
@@ -669,36 +699,6 @@
       "summary": "4.5.0 (",
       "src": "sGTM — Release notes",
       "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-10-28",
-      "title": "Say hello to Touch on Mac",
-      "summary": "Start getting ready for MacBook Pro with Touch today. Watch new developer videos, sign up for Group Labs, and check out new articles and resources. Explore now",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=i9boeiqc",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-6",
-      "cat": "looker",
-      "date": "2026-10-27",
-      "title": "October 27, 2026",
-      "summary": "Looker (Google Cloud core) and Looker (original) changes Feature The latest version of the Looker-Excel Connector ODBC driver, version 1.0.7, is now available to download. See the Looker-Excel Connector documentation page for information.",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_27_2026",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-10-26",
-      "title": "October 26, 2026",
-      "summary": "Looker (Google Cloud core) only changes Feature Looker (Google Cloud core) data lineage is now generally available (GA). The GA launch adds end-to-end visibility for LookML dashboards and Conversational Analytics agents . Lineage enablement",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_26_2026",
       "live": true
     },
     {
