@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T22:56:22.363421+00:00",
+  "generated_at": "2026-11-17T13:17:56.799565+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
-  "count": 95,
+  "count": 94,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 3
+      "items": 2
     },
     {
       "name": "Looker Studio Release Notes",
@@ -122,17 +122,37 @@
   ],
   "signals": [
     {
-      "id": "live-Looker Release Notes-0",
-      "cat": "looker",
-      "date": "2026-11-16",
-      "title": "November 16, 2026",
-      "summary": "Looker (Google Cloud core) only changes Feature Workforce Identity Federation is generally available ( GA ) for Looker (Google Cloud core) instances that use public secure, private, or hybrid connections. You can use the Google Cloud consol",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#November_16_2026",
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-11-17",
+      "title": "Table-Level Data Lineage Is Now Built Into BigQuery’s Knowledge Catalog",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/table-level-data-lineage-is-now-built-into-bigquerys-knowledge-catalog-28ae5420e049?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-17",
+      "title": "When AI agents evaluate B2B vendors, what earns consideration?",
+      "summary": "Similar B2B solutions need more than competitive features. Clear product information and credible evidence can turn AI discovery into buyer consideration. The post When AI agents evaluate B2B vendors, what earns consideration? appeared firs",
+      "src": "MarTech.org",
+      "url": "https://martech.org/when-ai-agents-evaluate-b2b-vendors-what-earns-consideration/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-11-16",
+      "title": "November 16, 2026",
+      "summary": "App Hub Feature App Hub now supports multi-regional applications in the us and eu multi-regions, letting you group multi-regional and regional resources across regions within a single geographic boundary. For more information, see Global, m",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_16_2026",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-11-16",
       "title": "Gemini 4 Hydrogen Joins BigQuery’s AI Functions, Built for the High-Volume Work",
@@ -142,7 +162,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-1",
       "cat": "general",
       "date": "2026-11-16",
       "title": "Bloomreach goes back to its roots with AthenaHQ acquisition",
@@ -152,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-11-16",
       "title": "Beyond deployment: How to lead the change and make AI adoption stick",
@@ -162,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-11-16",
       "title": "How to protect brand reputation in the AI era",
@@ -172,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-11-16",
       "title": "Marketing ops can turn AI agent readiness from a blind spot to a strength",
@@ -182,7 +202,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-11-16",
       "title": "AI agents make CX marketing’s problem",
@@ -192,7 +212,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-11-16",
       "title": "How to balance real-time personalization with consumer trust",
@@ -202,13 +222,23 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-11-16",
       "title": "Before agents can write like your brand, the process has to live somewhere by Optimizely",
       "summary": "Optimizely's Kevin Li on why vibe coding fails on brand, where content time goes, and what buyers should demand of an agentic CMS. The post Before agents can write like your brand, the process has to live somewhere appeared first on MarTech",
       "src": "MarTech.org",
       "url": "https://martech.org/before-agents-can-write-like-your-brand-the-process-has-to-live-somewhere/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-11-16",
+      "title": "Introducing spatial CSS: A developer preview",
+      "summary": "Safari on visionOS 27.3 comes with an important update: a limited feature preview of the proposed spatial CSS API, with an initial focus on working with 3D objects through the model element.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview/",
       "live": true
     },
     {
@@ -222,13 +252,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-1",
-      "cat": "looker",
+      "id": "live-Google Cloud — All release notes-1",
+      "cat": "general",
       "date": "2026-11-15",
       "title": "November 15, 2026",
-      "summary": "Deployment dates Announcement Beginning February 1, 2027, billing will be in effect for usage of Gemini-assisted features that exceeds their instance token allocation. Gemini-assisted features are a set of agentic capabilities that include ",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#November_15_2026",
+      "summary": "Google SecOps Feature Publisher Agent Version 2.7.2 Publisher Agent Version 2.7.2 is now available. This release includes the following updates and fixes for the Publisher and remote agent: Alert lazy loading for remote actions: Remote acti",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_15_2026",
       "live": true
     },
     {
@@ -242,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-13",
       "title": "BigQuery Working Examples: AI.PARSE_DOCUMENT",
@@ -272,17 +302,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-13",
-      "title": "Meet your new teammate: Building marketing workflows around AI agents",
-      "summary": "AI agents are changing how marketing works. At the November MarTech Conference, we discussed how to build workflows that combine AI efficiency with human judgment, quality control, and governance. The post Meet your new teammate: Building m",
-      "src": "MarTech.org",
-      "url": "https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-1",
       "cat": "privacy",
       "date": "2026-11-13",
       "title": "Safari on Apple HomeView",
@@ -302,7 +322,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-11-12",
       "title": "OpenAI Launches ChatGPT’s Business Hub, With Mentions, Clicks and Branded Business Agents",
@@ -312,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-11-12",
       "title": "BigQuery Measures Reaches General Availability, Unifying BI Metrics and Knowledge Graphs",
@@ -342,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-11-11",
       "title": "Adobe’s Coworker Assistant Now Runs Inside ChatGPT, Claude, Gemini and Copilot",
@@ -386,7 +406,7 @@
       "cat": "general",
       "date": "2026-11-10",
       "title": "November 10, 2026",
-      "summary": "API Gateway Feature TLS 1.3 for connections to backends API Gateway is rolling out support for TLS 1.3 on connections to backend services. Once the rollout reaches a gateway, it uses TLS 1.3 with backends that support it. No configuration i",
+      "summary": "API Gateway Feature MCP method and tool name in request logs API Gateway request logs now include the Model Context Protocol (MCP) method of each MCP request, and the tool name of each tools/call request, in the jsonPayload.mcp field. You c",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_10_2026",
       "live": true
@@ -402,7 +422,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-11-10",
       "title": "Google Tag Manager’s History Change Trigger Now Fires on Back/Forward Cache Restores",
@@ -512,7 +532,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-11-06",
       "title": "Google Tag Manager’s Preview mode now has verbose logging",
@@ -542,17 +562,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-11-05",
-      "title": "BigQuery continuous queries can now write into Apache Iceberg tables, with SQL UDFs and UNION ALL…",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/bigquery-continuous-queries-can-now-write-into-apache-iceberg-tables-with-sql-udfs-and-union-all-fdbaddec2359?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-11-05",
       "title": "Release Notes for Safari Technology Preview 256",
@@ -612,7 +622,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-11-03",
       "title": "Introducing Adaptive Dark Mode",
@@ -642,16 +652,6 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
-      "cat": "general",
-      "date": "2026-11-02",
-      "title": "November 02, 2026",
-      "summary": "Agent Platform Workbench Change 20261101.00_p0 Release Change Installed latest packages from upstream dependencies. Security Upgraded the container host to the latest Container-Optimized OS LTS release, rebasing onto the newest operating sy",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#November_02_2026",
-      "live": true
-    },
-    {
       "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-11-02",
@@ -662,13 +662,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-17",
-      "cat": "general",
+      "id": "live-Looker Release Notes-6",
+      "cat": "looker",
       "date": "2026-10-30",
       "title": "October 30, 2026",
-      "summary": "Agent Registry Feature Agent Registry supports cross-project management boundaries ( Preview ), letting you centrally discover, search, and govern AI agents, Model Context Protocol (MCP) servers, and tools across multiple Google Cloud proje",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#October_30_2026",
+      "summary": "Looker (Google Cloud core) and Looker (original) changes Announcement On November 1, 2026, several Canadian provinces and territories—Manitoba, Alberta, British Columbia, and parts of the Northwest Territories—transition to permanent daylig",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_30_2026",
       "live": true
     },
     {
@@ -702,7 +702,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-10-26",
       "title": "WebKit Features for Safari 27.2",
@@ -712,7 +712,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-10-23",
       "title": "WebKit Features for Safari 27.1",
@@ -732,7 +732,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-10-22",
       "title": "Release Notes for Safari Technology Preview 255",
@@ -752,7 +752,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-10-19",
       "title": "Blocking Identity Resolution Infrastructure",
@@ -789,16 +789,6 @@
       "summary": "new capability to Google Tag Manager containers to send data directly to Google measurement products This results in faster website performance, improved data collection, centralized settings management and user access directly in your GTM ",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-10-08",
-      "title": "Release Notes for Safari Technology Preview 254",
-      "summary": "Safari Technology Preview Release 254 is now available for download for macOS Golden Gate and macOS Tahoe.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18420/release-notes-for-safari-technology-preview-254/",
       "live": true
     },
     {
