@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T12:59:36.086570+00:00",
+  "generated_at": "2026-11-18T21:28:30.346823+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
-  "count": 95,
+  "count": 99,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "name": "BigQuery ML Revision History",
@@ -116,11 +116,21 @@
       "name": "sGTM — Release notes",
       "cat": "sgtm",
       "ok": true,
-      "items": 1,
+      "items": 4,
       "scraped": true
     }
   ],
   "signals": [
+    {
+      "id": "live-BigQuery Release Notes-0",
+      "cat": "bigquery",
+      "date": "2026-11-18",
+      "title": "November 18, 2026",
+      "summary": "Feature Lakehouse supports BigQuery row-level security and column-level security with dynamic data masking on Apache Iceberg tables in the Lakehouse runtime catalog ( GA ). You can restrict which rows principals can see and mask sensitive c",
+      "src": "BigQuery Release Notes",
+      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#November_18_2026",
+      "live": true
+    },
     {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
@@ -172,7 +182,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-11-18",
+      "title": "App Store Award finalists announced",
+      "summary": "Every year, the App Store Awards celebrate the very best and most impactful apps and games on the App Store, and the developers behind them. Meet the finalists",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=vb753j92",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-11-17",
       "title": "November 17, 2026",
@@ -212,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-11-17",
       "title": "Tax and price updates for apps, In-App Purchases, and subscriptions",
@@ -235,14 +255,14 @@
       "id": "scrape-sGTM — Release notes-0",
       "cat": "sgtm",
       "date": "2026-11-17",
-      "title": ") Updated base image version for security updates",
+      "title": ") Node.js version: 24.22.3 Updated base image version for security updates",
       "summary": "4.6.0 (",
       "src": "sGTM — Release notes",
       "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-11-16",
       "title": "November 16, 2026",
@@ -302,7 +322,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-11-16",
       "title": "Updates to Device Control and Data Access, and Full Disk Access in macOS",
@@ -312,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-11-15",
       "title": "November 15, 2026",
@@ -322,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-11-13",
       "title": "November 13, 2026",
@@ -372,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-11-12",
       "title": "November 12, 2026",
@@ -412,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-11-11",
       "title": "November 11, 2026",
@@ -462,7 +482,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-11-10",
       "title": "November 10, 2026",
@@ -502,7 +522,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-11-10",
       "title": "Announcing the Swift Student Challenge 2027",
@@ -512,7 +532,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-11-10",
       "title": "Hello Developer: November 2026",
@@ -522,7 +542,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-11-09",
       "title": "November 09, 2026",
@@ -552,7 +572,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-11-08",
       "title": "November 08, 2026",
@@ -562,7 +582,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-11-06",
       "title": "November 06, 2026",
@@ -592,7 +612,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-11-05",
       "title": "November 05, 2026",
@@ -612,7 +632,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-11-04",
       "title": "November 04, 2026",
@@ -642,7 +662,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-11-04",
       "title": "Now available: Retention messages for subscriptions",
@@ -662,7 +682,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-11-03",
       "title": "Siri AI is now open to all developers",
@@ -672,23 +692,13 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-11-03",
       "title": "Get ready with the latest beta releases",
       "summary": "The beta versions of iOS 27.3, iPadOS 27.3, macOS 27.3, tvOS 27.3, visionOS 27.3, and watchOS 27.3 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 27.3",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=6gpufove",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-11-02",
-      "title": "Upcoming: New age rating content descriptors in App Store Connect",
-      "summary": "Starting November 16, 2026, App Store Connect will include new content descriptors to help ensure your app’s age ratings accurately reflect its features and are in accordance with local regulations. When completing the age rating questionna",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=yxkh08us",
       "live": true
     },
     {
@@ -709,6 +719,16 @@
       "summary": "Deployment dates Announcement Beginning October 26, 2026, the following features will be automatically enabled for Looker (original) and Looker (Google Cloud core) instances running Looker 26.20. Feature The ability to generate a summary of",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_29_2026",
+      "live": true
+    },
+    {
+      "id": "scrape-sGTM — Release notes-1",
+      "cat": "sgtm",
+      "date": "2026-10-29",
+      "title": ") Node.js version: 24.22.1 Updated base image version for security updates",
+      "summary": "4.5.0 (",
+      "src": "sGTM — Release notes",
+      "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
       "live": true
     },
     {
@@ -809,6 +829,16 @@
       "summary": "is standardizing the behavior of tagging snippets to ensure consistency, reliability, and high performance across all websites that use the Google tag With this update, all Google Tag Manager (gtm.js) container snippets will initialize on c",
       "src": "GTM / Tag Gateway — Release notes",
       "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
+      "live": true
+    },
+    {
+      "id": "scrape-sGTM — Release notes-2",
+      "cat": "sgtm",
+      "date": "2026-10-08",
+      "title": ") Node.js version: 24.21.0 Updated base image version for security updates",
+      "summary": "4.4.0 (",
+      "src": "sGTM — Release notes",
+      "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
       "live": true
     },
     {
@@ -919,6 +949,16 @@
       "summary": "We’ve launched a new diagnostic to alert users of issues with campaign data accuracy due to missing URL parameters Properties where aggregate identifiers (GBRAID and gad_) are missing from the URL will see a new diagnostic, including the pr",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+      "live": true
+    },
+    {
+      "id": "scrape-sGTM — Release notes-3",
+      "cat": "sgtm",
+      "date": "2026-07-22",
+      "title": ") Node.js version: 24.18.0 Updated base image version for security updates",
+      "summary": "4.3.0 (",
+      "src": "sGTM — Release notes",
+      "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
       "live": true
     },
     {
