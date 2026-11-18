@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:49:29.367963+00:00",
+  "generated_at": "2026-11-18T12:59:36.086570+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 95,
@@ -122,6 +122,56 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-11-18",
+      "title": "BigQuery Working Examples: AI.SCORE",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-score-9815ba599185?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-1",
+      "cat": "sgtm",
+      "date": "2026-11-18",
+      "title": "BigQuery’s Conversation Logging for AI Agents Reached General Availability",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquerys-conversation-logging-for-ai-agents-reached-general-availability-0529ac5682bb?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-18",
+      "title": "Enterprise AI governance alone can’t protect your brand",
+      "summary": "Your next brand crisis could start with AI-generated content. Marketing-specific guardrails can keep off-brand content from going public. The post Enterprise AI governance alone can t protect your brand appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/enterprise-ai-governance-alone-cant-protect-your-brand/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-11-18",
+      "title": "Even the smartest AI needs your business knowledge",
+      "summary": "Valuable customer insights are often buried in company files. Here's how AI can help you put that knowledge to work and make better decisions. The post Even the smartest AI needs your business knowledge appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/even-the-smartest-ai-needs-your-business-knowledge/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-11-18",
+      "title": "Doing more work won’t make you a more valuable marketer",
+      "summary": "AI is making execution cheap. Knowing which problems to solve, making good decisions, and owning the results set you apart. The post Doing more work won t make you a more valuable marketer appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/doing-more-work-wont-make-you-a-more-valuable-marketer/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-11-17",
@@ -132,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-17",
       "title": "Table-Level Data Lineage Is Now Built Into BigQuery’s Knowledge Catalog",
@@ -142,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-11-17",
       "title": "Marketing on Reddit: What you need to know",
@@ -152,13 +202,23 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-11-17",
       "title": "When AI agents evaluate B2B vendors, what earns consideration?",
       "summary": "Similar B2B solutions need more than competitive features. Clear product information and credible evidence can turn AI discovery into buyer consideration. The post When AI agents evaluate B2B vendors, what earns consideration? appeared firs",
       "src": "MarTech.org",
       "url": "https://martech.org/when-ai-agents-evaluate-b2b-vendors-what-earns-consideration/",
+      "live": true
+    },
+    {
+      "id": "live-Apple Developer News-0",
+      "cat": "apple",
+      "date": "2026-11-17",
+      "title": "Tax and price updates for apps, In-App Purchases, and subscriptions",
+      "summary": "The App Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts. From time to time, we may need to adjust prices or your proceeds due to changes in tax regula",
+      "src": "Apple Developer News",
+      "url": "https://developer.apple.com/news/?id=4o5ie73a",
       "live": true
     },
     {
@@ -172,6 +232,16 @@
       "live": true
     },
     {
+      "id": "scrape-sGTM — Release notes-0",
+      "cat": "sgtm",
+      "date": "2026-11-17",
+      "title": ") Updated base image version for security updates",
+      "summary": "4.6.0 (",
+      "src": "sGTM — Release notes",
+      "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-11-16",
@@ -182,7 +252,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-11-16",
       "title": "Gemini 4 Hydrogen Joins BigQuery’s AI Functions, Built for the High-Volume Work",
@@ -192,7 +262,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-11-16",
       "title": "Bloomreach goes back to its roots with AthenaHQ acquisition",
@@ -202,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-11-16",
       "title": "Beyond deployment: How to lead the change and make AI adoption stick",
@@ -212,43 +282,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-11-16",
       "title": "How to protect brand reputation in the AI era",
       "summary": "Your brand's story is increasingly told by others. Here's how to build a stronger reputation across search, AI, and third-party sources. The post How to protect brand reputation in the AI era appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/how-to-protect-brand-reputation-in-the-ai-era/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-11-16",
-      "title": "Marketing ops can turn AI agent readiness from a blind spot to a strength",
-      "summary": "Disconnected data leaves AI agents making promises your brand can’t keep. Here is an opportunity for marketing ops to connect the customer journey and drive real growth. The post Marketing ops can turn AI agent readiness from a blind spot t",
-      "src": "MarTech.org",
-      "url": "https://martech.org/marketing-ops-can-turn-ai-agent-readiness-from-a-blind-spot-to-a-strength/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-11-16",
-      "title": "AI agents make CX marketing’s problem",
-      "summary": "Brand messaging has limits when AI agents weigh real-world performance. Marketers must push for operational improvements that drive growth. The post AI agents make CX marketing s problem appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/ai-agents-make-cx-marketings-problem/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-16",
-      "title": "How to balance real-time personalization with consumer trust",
-      "summary": "Refine real-time behavioral personalization to deliver helpful context without crossing the line into intrusive tracking. The post How to balance real-time personalization with consumer trust appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-balance-real-time-personalization-with-consumer-trust/",
       "live": true
     },
     {
@@ -262,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-0",
+      "id": "live-Apple Developer News-1",
       "cat": "apple",
       "date": "2026-11-16",
       "title": "Updates to Device Control and Data Access, and Full Disk Access in macOS",
@@ -292,7 +332,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-11-13",
       "title": "BigQuery Working Examples: AI.PARSE_DOCUMENT",
@@ -342,7 +382,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-11-12",
       "title": "OpenAI Launches ChatGPT’s Business Hub, With Mentions, Clicks and Branded Business Agents",
@@ -352,7 +392,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-11-12",
       "title": "BigQuery Measures Reaches General Availability, Unifying BI Metrics and Knowledge Graphs",
@@ -382,7 +422,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-11-11",
       "title": "Adobe’s Coworker Assistant Now Runs Inside ChatGPT, Claude, Gemini and Copilot",
@@ -442,16 +482,6 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
-      "cat": "sgtm",
-      "date": "2026-11-10",
-      "title": "Google Tag Manager’s History Change Trigger Now Fires on Back/Forward Cache Restores",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/google-tag-managers-history-change-trigger-now-fires-on-back-forward-cache-restores-f601944c9294?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
       "id": "live-sGTM Pantheon (GitHub commits)-6",
       "cat": "pantheon",
       "date": "2026-11-10",
@@ -472,7 +502,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-1",
+      "id": "live-Apple Developer News-2",
       "cat": "apple",
       "date": "2026-11-10",
       "title": "Announcing the Swift Student Challenge 2027",
@@ -482,7 +512,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-2",
+      "id": "live-Apple Developer News-3",
       "cat": "apple",
       "date": "2026-11-10",
       "title": "Hello Developer: November 2026",
@@ -552,16 +582,6 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-11-06",
-      "title": "Google Tag Manager’s Preview mode now has verbose logging",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/google-tag-managers-preview-mode-now-has-verbose-logging-2d1bbf000ea3?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
       "id": "scrape-GA4 — What's new-18",
       "cat": "ga4",
       "date": "2026-11-06",
@@ -622,7 +642,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-3",
+      "id": "live-Apple Developer News-4",
       "cat": "apple",
       "date": "2026-11-04",
       "title": "Now available: Retention messages for subscriptions",
@@ -642,7 +662,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-4",
+      "id": "live-Apple Developer News-5",
       "cat": "apple",
       "date": "2026-11-03",
       "title": "Siri AI is now open to all developers",
@@ -652,7 +672,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-5",
+      "id": "live-Apple Developer News-6",
       "cat": "apple",
       "date": "2026-11-03",
       "title": "Get ready with the latest beta releases",
@@ -662,7 +682,7 @@
       "live": true
     },
     {
-      "id": "live-Apple Developer News-6",
+      "id": "live-Apple Developer News-7",
       "cat": "apple",
       "date": "2026-11-02",
       "title": "Upcoming: New age rating content descriptors in App Store Connect",
@@ -689,26 +709,6 @@
       "summary": "Deployment dates Announcement Beginning October 26, 2026, the following features will be automatically enabled for Looker (original) and Looker (Google Cloud core) instances running Looker 26.20. Feature The ability to generate a summary of",
       "src": "Looker Release Notes",
       "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_29_2026",
-      "live": true
-    },
-    {
-      "id": "live-Apple Developer News-7",
-      "cat": "apple",
-      "date": "2026-10-29",
-      "title": "Adjustments to the Taiwan storefront of the App Store on iOS and iPadOS",
-      "summary": "Apple is making changes to the Taiwan storefront of the App Store, following discussions with the Taiwan Fair Trade Commission. As of October 31, 2026, the commission rate for standard Apple In-App Purchase and paid app transactions will be",
-      "src": "Apple Developer News",
-      "url": "https://developer.apple.com/news/?id=w9mxlhek",
-      "live": true
-    },
-    {
-      "id": "scrape-sGTM — Release notes-0",
-      "cat": "sgtm",
-      "date": "2026-10-29",
-      "title": ") Updated base image version for security updates",
-      "summary": "4.5.0 (",
-      "src": "sGTM — Release notes",
-      "url": "https://developers.google.com/tag-platform/tag-manager/server-side/release-notes",
       "live": true
     },
     {
