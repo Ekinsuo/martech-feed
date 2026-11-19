@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:28:30.346823+00:00",
+  "generated_at": "2026-11-19T12:58:43.687337+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 99,
@@ -14,7 +14,7 @@
       "name": "BigQuery Release Notes",
       "cat": "bigquery",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "name": "BigQuery ML Revision History",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "name": "Looker Studio Release Notes",
@@ -122,13 +122,23 @@
   ],
   "signals": [
     {
-      "id": "live-BigQuery Release Notes-0",
-      "cat": "bigquery",
+      "id": "live-Tim Hutton-1",
+      "cat": "sgtm",
+      "date": "2026-11-19",
+      "title": "How to Connect BigQuery to Knowledge Catalog: Automatic Sync From Pipelines, Plus Adding Business…",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/how-to-connect-bigquery-to-knowledge-catalog-automatic-sync-from-pipelines-plus-adding-business-b2d07e55a6ce?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
       "date": "2026-11-18",
       "title": "November 18, 2026",
-      "summary": "Feature Lakehouse supports BigQuery row-level security and column-level security with dynamic data masking on Apache Iceberg tables in the Lakehouse runtime catalog ( GA ). You can restrict which rows principals can see and mask sensitive c",
-      "src": "BigQuery Release Notes",
-      "url": "https://docs.cloud.google.com/bigquery/docs/release-notes#November_18_2026",
+      "summary": "Apigee Edge for Private Cloud Announcement Released Apigee Edge for Private Cloud 4.53.01.03. For the list of updated RPM packages and the patch update procedure, see 4.53.01.03 - Edge for Private Cloud release notes . Security Fixed multip",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_18_2026",
       "live": true
     },
     {
@@ -142,7 +152,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-18",
       "title": "BigQuery’s Conversation Logging for AI Agents Reached General Availability",
@@ -182,6 +192,26 @@
       "live": true
     },
     {
+      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "cat": "privacy",
+      "date": "2026-11-18",
+      "title": "Global Privacy Control (GPC) WebKit API",
+      "summary": "As of iOS, iPadOS, visionOS, and macOS 27, there is now a WebKit API to enable Global Privacy Control (GPC), an emerging web standard.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18646/global-privacy-control-gpc-webkit-api/",
+      "live": true
+    },
+    {
+      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "cat": "privacy",
+      "date": "2026-11-18",
+      "title": "Release Notes for Safari Technology Preview 257",
+      "summary": "Safari Technology Preview Release 257 is now available for download for macOS Golden Gate and macOS Tahoe.",
+      "src": "WebKit Blog (ITP / Safari)",
+      "url": "https://webkit.org/blog/18652/release-notes-for-safari-technology-preview-257/",
+      "live": true
+    },
+    {
       "id": "live-Apple Developer News-0",
       "cat": "apple",
       "date": "2026-11-18",
@@ -202,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-11-17",
       "title": "Table-Level Data Lineage Is Now Built Into BigQuery’s Knowledge Catalog",
@@ -272,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-11-16",
       "title": "Gemini 4 Hydrogen Joins BigQuery’s AI Functions, Built for the High-Volume Work",
@@ -312,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-0",
+      "id": "live-WebKit Blog (ITP / Safari)-2",
       "cat": "privacy",
       "date": "2026-11-16",
       "title": "Introducing spatial CSS: A developer preview",
@@ -352,7 +382,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-11-13",
       "title": "BigQuery Working Examples: AI.PARSE_DOCUMENT",
@@ -382,7 +412,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-1",
+      "id": "live-WebKit Blog (ITP / Safari)-3",
       "cat": "privacy",
       "date": "2026-11-13",
       "title": "Safari on Apple HomeView",
@@ -402,7 +432,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-11-12",
       "title": "OpenAI Launches ChatGPT’s Business Hub, With Mentions, Clicks and Branded Business Agents",
@@ -412,7 +442,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-11-12",
       "title": "BigQuery Measures Reaches General Availability, Unifying BI Metrics and Knowledge Graphs",
@@ -439,16 +469,6 @@
       "summary": "Apigee Edge for Public Cloud Announcement On November 11, 2026, we began releasing Edge UI updates for Apigee Edge for Public Cloud. Fixed Bug ID Component Description 392653797, 399185014 Edge UI Fixed an issue where navigating to the App ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_11_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-11-11",
-      "title": "Adobe’s Coworker Assistant Now Runs Inside ChatGPT, Claude, Gemini and Copilot",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/adobes-coworker-assistant-now-runs-inside-chatgpt-claude-gemini-and-copilot-f7d58e0a560b?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -622,7 +642,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-2",
+      "id": "live-WebKit Blog (ITP / Safari)-4",
       "cat": "privacy",
       "date": "2026-11-05",
       "title": "Release Notes for Safari Technology Preview 256",
@@ -632,13 +652,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
-      "cat": "general",
+      "id": "live-Looker Release Notes-5",
+      "cat": "looker",
       "date": "2026-11-04",
       "title": "November 04, 2026",
-      "summary": "API Gateway Announcement Negative backend deadlines are no longer deprecated The deprecation of negative backend deadline values announced on October 23, 2026 is withdrawn. In an OpenAPI 2.0 x-google-backend extension or a gRPC BackendRule ",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#November_04_2026",
+      "summary": "Looker (Google Cloud core) only changes Announcement The latest versions in the Looker (Google Cloud core) release channels are beginning deployment as follows: Latest version in the Regular channel: Looker 26.20 The latest version in the R",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#November_04_2026",
       "live": true
     },
     {
@@ -672,7 +692,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-3",
+      "id": "live-WebKit Blog (ITP / Safari)-5",
       "cat": "privacy",
       "date": "2026-11-03",
       "title": "Introducing Adaptive Dark Mode",
@@ -732,7 +752,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-4",
+      "id": "live-WebKit Blog (ITP / Safari)-6",
       "cat": "privacy",
       "date": "2026-10-26",
       "title": "WebKit Features for Safari 27.2",
@@ -742,7 +762,7 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-5",
+      "id": "live-WebKit Blog (ITP / Safari)-7",
       "cat": "privacy",
       "date": "2026-10-23",
       "title": "WebKit Features for Safari 27.1",
@@ -762,16 +782,6 @@
       "live": true
     },
     {
-      "id": "live-WebKit Blog (ITP / Safari)-6",
-      "cat": "privacy",
-      "date": "2026-10-22",
-      "title": "Release Notes for Safari Technology Preview 255",
-      "summary": "Safari Technology Preview Release 255 is now available for download for macOS Golden Gate and macOS Tahoe.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18482/release-notes-for-safari-technology-preview-255/",
-      "live": true
-    },
-    {
       "id": "live-Google Ads Developer Blog-6",
       "cat": "gads",
       "date": "2026-10-21",
@@ -779,16 +789,6 @@
       "summary": "Starting December 4, 2026 , image extraction ( GENERATE_IMAGE_EXTRACTION ) will be enabled by default ( OPTED_IN ) for newly created Performance Max campaigns across Google Ads interfaces, including the the Google Ads API , Google Ads UI, a",
       "src": "Google Ads Developer Blog",
       "url": "http://www.blogger.com/feeds/7815614485808579332/posts/default/3760097425693016371",
-      "live": true
-    },
-    {
-      "id": "live-WebKit Blog (ITP / Safari)-7",
-      "cat": "privacy",
-      "date": "2026-10-19",
-      "title": "Blocking Identity Resolution Infrastructure",
-      "summary": "Apple and WebKit have shipped protections against web tracking for a long time.",
-      "src": "WebKit Blog (ITP / Safari)",
-      "url": "https://webkit.org/blog/18438/blocking-identity-resolution-infrastructure/",
       "live": true
     },
     {
