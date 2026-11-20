@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19T21:40:56.816428+00:00",
+  "generated_at": "2026-11-20T12:50:03.541298+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
-  "count": 99,
+  "count": 98,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -102,7 +102,7 @@
       "name": "GTM / Tag Gateway — Release notes",
       "cat": "gtm",
       "ok": true,
-      "items": 8,
+      "items": 7,
       "scraped": true
     },
     {
@@ -122,17 +122,37 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-11-20",
+      "title": "Apache Iceberg’s REST Catalog Just Got a Standard Way to Express Row and Column Security",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/apache-icebergs-rest-catalog-just-got-a-standard-way-to-express-row-and-column-security-3beafb994574?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-20",
+      "title": "Intuit finds a buyer for Mailchimp in Bending Spoons",
+      "summary": "Intuit’s bet on marketing automation ends with a whimper, as Mailchimp finds a home with once-mighty tech brands like AOL, Evernote, and Airtable. The post Intuit finds a buyer for Mailchimp in Bending Spoons appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-11-19",
       "title": "November 19, 2026",
-      "summary": "BigQuery Feature You can now enable agent observability with the Data Engineering Agent to monitor the agent's token consumption, request volume, and model latency in Cloud Monitoring and inspect execution traces and tool calls in Cloud Tra",
+      "summary": "Agent Registry Feature Agent Registry supports Model Context Protocol (MCP) tool protocol-level metadata, including Identity-Aware Proxy (IAP) policy hints for tool enablement and human-in-the-loop (HITL) controls, as well as provider metad",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_19_2026",
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-19",
       "title": "How to Connect BigQuery to Knowledge Catalog: Automatic Sync From Pipelines, Plus Adding Business…",
@@ -142,7 +162,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-1",
       "cat": "general",
       "date": "2026-11-19",
       "title": "How psychology can make AI-powered customer personas more useful",
@@ -162,7 +182,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-11-18",
       "title": "BigQuery Working Examples: AI.SCORE",
@@ -172,7 +192,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-11-18",
       "title": "BigQuery’s Conversation Logging for AI Agents Reached General Availability",
@@ -182,7 +202,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-2",
       "cat": "general",
       "date": "2026-11-18",
       "title": "Enterprise AI governance alone can’t protect your brand",
@@ -192,7 +212,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-11-18",
       "title": "Even the smartest AI needs your business knowledge",
@@ -202,7 +222,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-11-18",
       "title": "Doing more work won’t make you a more valuable marketer",
@@ -252,7 +272,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-11-17",
       "title": "Table-Level Data Lineage Is Now Built Into BigQuery’s Knowledge Catalog",
@@ -262,7 +282,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-11-17",
       "title": "Marketing on Reddit: What you need to know",
@@ -272,7 +292,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-5",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-11-17",
       "title": "When AI agents evaluate B2B vendors, what earns consideration?",
@@ -322,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-11-16",
       "title": "Gemini 4 Hydrogen Joins BigQuery’s AI Functions, Built for the High-Volume Work",
@@ -332,23 +352,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-6",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-11-16",
       "title": "Bloomreach goes back to its roots with AthenaHQ acquisition",
       "summary": "Can anyone prove ROI in AI search? Bloomreach’s AthenaHQ acquisition hopes to connect conversational discovery directly to customer revenue. The post Bloomreach goes back to its roots with AthenaHQ acquisition appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/bloomreach-goes-back-to-its-roots-with-athenahq-acquisition/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-16",
-      "title": "Beyond deployment: How to lead the change and make AI adoption stick",
-      "summary": "Tool adoption stalls when teams feel unsafe. At the November MarTech Conference, we discussed how to turn AI apprehension into confident, high-value execution. The post Beyond deployment: How to lead the change and make AI adoption stick ap",
-      "src": "MarTech.org",
-      "url": "https://martech.org/beyond-deployment-how-to-lead-the-change-and-make-ai-adoption-stick/",
       "live": true
     },
     {
@@ -392,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-11-13",
       "title": "BigQuery Working Examples: AI.PARSE_DOCUMENT",
@@ -442,23 +452,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-11-12",
       "title": "OpenAI Launches ChatGPT’s Business Hub, With Mentions, Clicks and Branded Business Agents",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/openai-launches-chatgpts-business-hub-with-mentions-clicks-and-branded-business-agents-99f0abf2cd07?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-11-12",
-      "title": "BigQuery Measures Reaches General Availability, Unifying BI Metrics and Knowledge Graphs",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/bigquery-measures-reaches-general-availability-unifying-bi-metrics-and-knowledge-graphs-e480515d3b47?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -989,16 +989,6 @@
       "summary": "In preparation for the upcoming major integration between Google Tag and Google Tag Manager , Google has rolled out some user interface changes to your GTM containers. The changes simplify the UI quite a bit, with the biggest changes landin",
       "src": "Simo Ahava",
       "url": "https://www.simoahava.com/analytics/google-tag-manager-ui-updates/",
-      "live": true
-    },
-    {
-      "id": "scrape-GTM / Tag Gateway — Release notes-7",
-      "cat": "gtm",
-      "date": "2026-06-22",
-      "title": "Improved measurement of server-to-server conversions This release recovers…",
-      "summary": "that were previously undercounted in server-to-server setups due to a lack of browser cookie context Server-side data is intelligently joined with parallel browser signals, such as cookies, when a GCLID is present so that Floodlight can mor",
-      "src": "GTM / Tag Gateway — Release notes",
-      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
       "live": true
     },
     {
