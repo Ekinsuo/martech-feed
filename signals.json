@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T20:09:30.380278+00:00",
+  "generated_at": "2026-11-22T12:32:21.840922+00:00",
   "ok_sources": 14,
   "fail_sources": 4,
   "count": 98,
@@ -122,11 +122,11 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-11-20",
       "title": "November 20, 2026",
-      "summary": "App Engine flexible environment Java Security The following runtime language contains important security updates: Java 17 and later : 17.0.21.1+2 , 21.0.13.1+2 , 25.0.5.1+2 Take immediate action by rebuilding and redeploying your applicatio",
+      "summary": "Apigee hybrid Announcement v1.17.5 On November 20, 2026 we released an updated version of the Apigee hybrid software, v1.17.5. For information about upgrading, see Upgrading Apigee hybrid to v1.17.5 . For information about new installations",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_20_2026",
       "live": true
@@ -172,7 +172,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-11-19",
       "title": "November 19, 2026",
@@ -202,7 +202,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-11-18",
       "title": "November 18, 2026",
@@ -302,7 +302,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-11-17",
       "title": "November 17, 2026",
@@ -362,7 +362,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-11-16",
       "title": "November 16, 2026",
@@ -402,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-11-15",
       "title": "November 15, 2026",
@@ -412,7 +412,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-11-13",
       "title": "November 13, 2026",
@@ -462,7 +462,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-11-12",
       "title": "November 12, 2026",
@@ -492,7 +492,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-11-11",
       "title": "November 11, 2026",
@@ -542,7 +542,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-11-10",
       "title": "November 10, 2026",
@@ -602,7 +602,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-11-09",
       "title": "November 09, 2026",
@@ -632,7 +632,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-11-08",
       "title": "November 08, 2026",
