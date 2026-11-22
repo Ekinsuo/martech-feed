@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T12:32:21.840922+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 98,
+  "generated_at": "2026-11-22T20:24:29.417449+00:00",
+  "ok_sources": 13,
+  "fail_sources": 5,
+  "count": 90,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -142,36 +143,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
-      "date": "2026-11-20",
-      "title": "B2B events have an ROI problem before the show starts",
-      "summary": "Most teams know which accounts they want to reach, but weak meeting goals, CRM tagging, and follow-up make event ROI harder to prove. The post B2B events have an ROI problem before the show starts appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/b2b-events-have-an-roi-problem-before-the-show-starts/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-11-20",
-      "title": "Give holiday shoppers more value without relying on discounts",
-      "summary": "From the first promotional email to the moment a package arrives, every interaction is a chance to make a purchase feel worth the price. The post Give holiday shoppers more value without relying on discounts appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/give-holiday-shoppers-more-value-without-relying-on-discounts/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-11-20",
-      "title": "Intuit finds a buyer for Mailchimp in Bending Spoons",
-      "summary": "Intuit’s bet on marketing automation ends with a whimper, as Mailchimp finds a home with once-mighty tech brands like AOL, Evernote, and Airtable. The post Intuit finds a buyer for Mailchimp in Bending Spoons appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/",
-      "live": true
-    },
-    {
       "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-11-19",
@@ -189,16 +160,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/how-to-connect-bigquery-to-knowledge-catalog-automatic-sync-from-pipelines-plus-adding-business-b2d07e55a6ce?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-11-19",
-      "title": "How psychology can make AI-powered customer personas more useful",
-      "summary": "Chatting with a virtual customer is one thing. Anticipating how they'd act in unfamiliar situations requires a deeper understanding of human behavior. The post How psychology can make AI-powered customer personas more useful appeared first ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-psychology-can-make-ai-powered-customer-personas-more-useful/",
       "live": true
     },
     {
@@ -229,36 +190,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/bigquerys-conversation-logging-for-ai-agents-reached-general-availability-0529ac5682bb?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-11-18",
-      "title": "Enterprise AI governance alone can’t protect your brand",
-      "summary": "Your next brand crisis could start with AI-generated content. Marketing-specific guardrails can keep off-brand content from going public. The post Enterprise AI governance alone can t protect your brand appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/enterprise-ai-governance-alone-cant-protect-your-brand/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-11-18",
-      "title": "Even the smartest AI needs your business knowledge",
-      "summary": "Valuable customer insights are often buried in company files. Here's how AI can help you put that knowledge to work and make better decisions. The post Even the smartest AI needs your business knowledge appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/even-the-smartest-ai-needs-your-business-knowledge/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-11-18",
-      "title": "Doing more work won’t make you a more valuable marketer",
-      "summary": "AI is making execution cheap. Knowing which problems to solve, making good decisions, and owning the results set you apart. The post Doing more work won t make you a more valuable marketer appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/doing-more-work-wont-make-you-a-more-valuable-marketer/",
       "live": true
     },
     {
@@ -319,16 +250,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/table-level-data-lineage-is-now-built-into-bigquerys-knowledge-catalog-28ae5420e049?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-17",
-      "title": "Marketing on Reddit: What you need to know",
-      "summary": "What you need to know about marketing on Reddit. Updated with details on the new Reddit Reviews feature. The post Marketing on Reddit: What you need to know appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/a-marketers-guide-to-reddit/",
       "live": true
     },
     {
