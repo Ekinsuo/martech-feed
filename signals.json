@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T20:24:29.417449+00:00",
-  "ok_sources": 13,
-  "fail_sources": 5,
-  "count": 90,
+  "generated_at": "2026-11-23T14:32:14.900406+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 106,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -95,9 +94,8 @@
     {
       "name": "EDPB — GDPR news",
       "cat": "privacy",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "GTM / Tag Gateway — Release notes",
@@ -123,7 +121,57 @@
   ],
   "signals": [
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-11-23",
+      "title": "BigQuery Working Examples: AI.RANK",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-rank-1f199867bdbb?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-23",
+      "title": "How AI is re-shaping mid-market marketing",
+      "summary": "AI should give mid-market teams a boost as a force multiplier and eliminator of busywork. But is it? The post How AI is re-shaping mid-market marketing appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-ai-is-re-shaping-mid-market-marketing/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-11-23",
+      "title": "How to vet AI capabilities during martech RFPs",
+      "summary": "Six questions can tell you whether a vendor’s “AI” is genuinely new or just old automation with a fresh label. The post How to vet AI capabilities during martech RFPs appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-vet-ai-capabilities-during-martech-rfps/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-11-23",
+      "title": "What’s missing from your 2027 marketing AI budget?",
+      "summary": "Buying AI tools is easy. Getting teams to use them is harder. Here's how to fund the people and processes that turn AI spending into results. The post What s missing from your 2027 marketing AI budget? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/whats-missing-from-your-2027-marketing-ai-budget/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-11-23",
+      "title": "How to build reliable client reporting with AI by AgencyAnalytics",
+      "summary": "Give AI the right client data, and it’ll give you answers you can trust. The post How to build reliable client reporting with AI appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-build-reliable-client-reporting-with-ai/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-11-20",
       "title": "November 20, 2026",
@@ -133,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-11-20",
       "title": "Apache Iceberg’s REST Catalog Just Got a Standard Way to Express Row and Column Security",
@@ -143,7 +191,37 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-11-20",
+      "title": "B2B events have an ROI problem before the show starts",
+      "summary": "Most teams know which accounts they want to reach, but weak meeting goals, CRM tagging, and follow-up make event ROI harder to prove. The post B2B events have an ROI problem before the show starts appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/b2b-events-have-an-roi-problem-before-the-show-starts/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-11-20",
+      "title": "Give holiday shoppers more value without relying on discounts",
+      "summary": "From the first promotional email to the moment a package arrives, every interaction is a chance to make a purchase feel worth the price. The post Give holiday shoppers more value without relying on discounts appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/give-holiday-shoppers-more-value-without-relying-on-discounts/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-11-20",
+      "title": "Intuit finds a buyer for Mailchimp in Bending Spoons",
+      "summary": "Intuit’s bet on marketing automation ends with a whimper, as Mailchimp finds a home with once-mighty tech brands like AOL, Evernote, and Airtable. The post Intuit finds a buyer for Mailchimp in Bending Spoons appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-11-19",
       "title": "November 19, 2026",
@@ -153,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-11-19",
       "title": "How to Connect BigQuery to Knowledge Catalog: Automatic Sync From Pipelines, Plus Adding Business…",
@@ -163,7 +241,47 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-11-19",
+      "title": "How psychology can make AI-powered customer personas more useful",
+      "summary": "Chatting with a virtual customer is one thing. Anticipating how they'd act in unfamiliar situations requires a deeper understanding of human behavior. The post How psychology can make AI-powered customer personas more useful appeared first ",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-psychology-can-make-ai-powered-customer-personas-more-useful/",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-11-19",
+      "title": "Norwegian DPA fines private individual for credit check and publication of personal data without a lawful basis",
+      "summary": "Background information Date of final decision: 16/10/2026 National case Controller: Private individual Legal References: Article 6(1) (Lawfulness of processing) Decision: Administrative fine Key words: Legal basis, Fines, GDPR enforcement, ",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/norwegian-dpa-fines-private-individual-for-credit-check-and-publication-of-personal-data_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-1",
+      "cat": "privacy",
+      "date": "2026-11-19",
+      "title": "EDPB and DPAs from countries and organisation with EU adequacy decision take stock of progress and set 2027 priorities",
+      "summary": "Brussels, 19 November - The EDPB met on 17 November with Commissioners and representatives of the Data Protection Authorities (DPAs) from the countries and the international organisation with an EU adequacy decision. This gathering marked t",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/edpb-and-dpas-from-countries-and-organisation-with-eu-adequacy-decision-take-stock-of-progress_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-2",
+      "cat": "privacy",
+      "date": "2026-11-19",
+      "title": "The Norwegian Data Protection Authority fines Social Garden AS for publishing personal data without a lawful basis",
+      "summary": "Background information Date of final decision: 13/11/2026 Cross-border case One-Stop-Shop Procedure: the decision was taken by national supervisory authorities following the One-Stop-Shop cooperation procedure (OSS) If cross-border, LSA: No",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/the-norwegian-data-protection-authority-fines-social-garden-as-for-publishing-personal-data_en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-11-18",
       "title": "November 18, 2026",
@@ -173,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-18",
       "title": "BigQuery Working Examples: AI.SCORE",
@@ -183,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-11-18",
       "title": "BigQuery’s Conversation Logging for AI Agents Reached General Availability",
@@ -223,6 +341,46 @@
       "live": true
     },
     {
+      "id": "live-EDPB — GDPR news-3",
+      "cat": "privacy",
+      "date": "2026-11-18",
+      "title": "Italian DPA fines a company EUR 25 500 over employee access rights and corporate email accounts",
+      "summary": "Background information Date of final decision: 20/10/2026 National case Controller: Techpartner S.r.l. Legal References: Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and ",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-a-company-eur-25-500-over-employee-access-rights-and-corporate-email_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-4",
+      "cat": "privacy",
+      "date": "2026-11-18",
+      "title": "Italian DPA fines Meta EUR 805 million for unlawful access to Facebook users’ photo galleries",
+      "summary": "Background information Date of final decision: 13/11/2026 National case Controller: Meta Platforms Ireland Limited Decision: Administrative fine, Compliance order Key words: Fines, Online platforms Summary of the Decision Origin of the case",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-meta-eur-805-million-for-unlawful-access-to-facebook-users-photo-galleries_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-5",
+      "cat": "privacy",
+      "date": "2026-11-18",
+      "title": "Italian DPA fines radiology centre and IT provider a combined EUR 28 000 for exposing patient health data",
+      "summary": "Background information Date of final decision: 07/10/2026 National case Controller: Centro Radiologico Madonna della Bruna S.r.l. Processor: MedStore Saronno S.r.l. Legal References: Article 5 (Principles relating to processing of personal ",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-radiology-centre-and-it-provider-a-combined-eur-28-000-for-exposing-patient_en",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-6",
+      "cat": "privacy",
+      "date": "2026-11-18",
+      "title": "Italian DPA fines Business School EUR 8 000 for unlawful telemarketing and failure to handle data subject request",
+      "summary": "Background information Date of final decision: 23/09/2026 Controller: Business School S.r.l. Legal References: Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalities",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-business-school-eur-8-000-for-unlawful-telemarketing-and-failure-to-handle_en",
+      "live": true
+    },
+    {
       "id": "scrape-GA4 — What's new-20",
       "cat": "ga4",
       "date": "2026-11-18",
@@ -233,7 +391,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-11-17",
       "title": "November 17, 2026",
@@ -243,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-11-17",
       "title": "Table-Level Data Lineage Is Now Built Into BigQuery’s Knowledge Catalog",
@@ -260,6 +418,16 @@
       "summary": "The App Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts. From time to time, we may need to adjust prices or your proceeds due to changes in tax regula",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=4o5ie73a",
+      "live": true
+    },
+    {
+      "id": "live-EDPB — GDPR news-7",
+      "cat": "privacy",
+      "date": "2026-11-17",
+      "title": "Irish Data Protection Commission fines MTCH EUR 11 million following Inquiry into Tinder users’ personal data requests",
+      "summary": "Background information Date of final decision: 13/11/2026 National case Controller: MTCH Technology Services Limited (“MTCH”) Legal References: Article 15 (Right to access by the data subject) Decision: Administrative fine, Compliance order",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/irish-data-protection-commission-fines-mtch-eur-11-million-following-inquiry-into-tinder-users_en",
       "live": true
     },
     {
@@ -283,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-11-16",
       "title": "November 16, 2026",
@@ -293,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-11-16",
       "title": "Gemini 4 Hydrogen Joins BigQuery’s AI Functions, Built for the High-Volume Work",
@@ -323,17 +491,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
-      "cat": "general",
+      "id": "live-Looker Release Notes-2",
+      "cat": "looker",
       "date": "2026-11-15",
       "title": "November 15, 2026",
-      "summary": "Agent Platform Workbench Change 20261115-2230-rc0 Release Change 20261115-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Change JupyterLab extension",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#November_15_2026",
+      "summary": "Deployment dates Announcement Beginning February 1, 2027, billing will be in effect for usage of Gemini-assisted features that exceeds their instance token allocation. Gemini-assisted features are a set of agentic capabilities that include ",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#November_15_2026",
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-11-13",
       "title": "November 13, 2026",
@@ -343,7 +511,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-11-13",
       "title": "BigQuery Working Examples: AI.PARSE_DOCUMENT",
@@ -383,23 +551,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-11-12",
       "title": "November 12, 2026",
       "summary": "API Keys API Feature The API Keys remote Model Context Protocol (MCP) server is generally available (GA) . You can use the API Keys remote MCP server in your AI applications to create, inspect, restrict, and manage the lifecycle of API keys",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_12_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-11-12",
-      "title": "OpenAI Launches ChatGPT’s Business Hub, With Mentions, Clicks and Branded Business Agents",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/openai-launches-chatgpts-business-hub-with-mentions-clicks-and-branded-business-agents-99f0abf2cd07?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -413,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-11-11",
       "title": "November 11, 2026",
@@ -463,7 +621,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-11-10",
       "title": "November 10, 2026",
@@ -523,7 +681,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-11-09",
       "title": "November 09, 2026",
@@ -553,7 +711,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-13",
+      "id": "live-Google Cloud — All release notes-14",
       "cat": "general",
       "date": "2026-11-08",
       "title": "November 08, 2026",
@@ -563,13 +721,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-5",
-      "cat": "looker",
+      "id": "live-Google Cloud — All release notes-16",
+      "cat": "general",
       "date": "2026-11-06",
       "title": "November 06, 2026",
-      "summary": "Deployment dates Announcement Looker 26.24 will roll out to Looker (original) instances on the following schedule: Expected deployment start: Sunday, November 8, 2026 Expected final deployment and download available: Tuesday, December 8, 20",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#November_06_2026",
+      "summary": "Agent Registry Feature Skill security scanning and governance in Agent Registry are available. You can automatically scan standalone skill revisions for security issues, review Finding resources, enforce scanning policies across your organi",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_06_2026",
       "live": true
     },
     {
