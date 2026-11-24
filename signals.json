@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T14:49:13.580665+00:00",
-  "ok_sources": 14,
-  "fail_sources": 4,
-  "count": 97,
+  "generated_at": "2026-11-24T23:07:30.624429+00:00",
+  "ok_sources": 15,
+  "fail_sources": 3,
+  "count": 105,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,9 +76,8 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 8
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -122,6 +121,16 @@
   ],
   "signals": [
     {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-11-24",
+      "title": "November 24, 2026",
+      "summary": "BigQuery Feature The following table-valued functions are now generally available (GA) in the query editor and as part of conversational analytics to help you analyze your data: ML.TREND : identify the directional trajectory of your data. M",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_24_2026",
+      "live": true
+    },
+    {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
       "date": "2026-11-24",
@@ -132,11 +141,31 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-24",
+      "title": "What you need to know about ChatGPT ads vs. Google Ads",
+      "summary": "B2B tests show comparable CPCs to Google but weaker engagement, limited conversions, and less control of targeting and optimization. The post What you need to know about ChatGPT ads vs. Google Ads appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/what-you-need-to-know-about-chatgpt-ads-vs-google-ads/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-11-24",
+      "title": "3 ways neglecting your brand undermines sales",
+      "summary": "Skipping brand building doesn't save money. It creates marketing debt that makes generating sales harder and costlier when you need them most. The post 3 ways neglecting your brand undermines sales appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/3-ways-neglecting-your-brand-undermines-sales/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-11-23",
       "title": "November 23, 2026",
-      "summary": "App Engine flexible environment Node.js Feature Support for the Node.js 26 runtime is in General Availability (GA) . App Engine flexible environment Python Feature Support for the Python 3.15 runtime is in General Availability (GA) . App En",
+      "summary": "Apigee Edge for Public Cloud Announcement Released Edge Microgateway 3.3.13. Component Version microgateway 3.3.13 plugins 3.3.9 edgeauth 3.2.2 To upgrade, install edgemicro@3.3.13 from npm or pull gcr.io/apigee-microgateway/edgemicro:3.3.1",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_23_2026",
       "live": true
@@ -152,7 +181,47 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-2",
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-11-23",
+      "title": "How AI is re-shaping mid-market marketing",
+      "summary": "AI should give mid-market teams a boost as a force multiplier and eliminator of busywork. But is it? The post How AI is re-shaping mid-market marketing appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-ai-is-re-shaping-mid-market-marketing/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-3",
+      "cat": "general",
+      "date": "2026-11-23",
+      "title": "How to vet AI capabilities during martech RFPs",
+      "summary": "Six questions can tell you whether a vendor’s “AI” is genuinely new or just old automation with a fresh label. The post How to vet AI capabilities during martech RFPs appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-vet-ai-capabilities-during-martech-rfps/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-4",
+      "cat": "general",
+      "date": "2026-11-23",
+      "title": "What’s missing from your 2027 marketing AI budget?",
+      "summary": "Buying AI tools is easy. Getting teams to use them is harder. Here's how to fund the people and processes that turn AI spending into results. The post What s missing from your 2027 marketing AI budget? appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/whats-missing-from-your-2027-marketing-ai-budget/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-5",
+      "cat": "general",
+      "date": "2026-11-23",
+      "title": "How to build reliable client reporting with AI by AgencyAnalytics",
+      "summary": "Give AI the right client data, and it’ll give you answers you can trust. The post How to build reliable client reporting with AI appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-build-reliable-client-reporting-with-ai/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-3",
       "cat": "general",
       "date": "2026-11-20",
       "title": "November 20, 2026",
@@ -172,7 +241,27 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-MarTech.org-6",
+      "cat": "general",
+      "date": "2026-11-20",
+      "title": "B2B events have an ROI problem before the show starts",
+      "summary": "Most teams know which accounts they want to reach, but weak meeting goals, CRM tagging, and follow-up make event ROI harder to prove. The post B2B events have an ROI problem before the show starts appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/b2b-events-have-an-roi-problem-before-the-show-starts/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-7",
+      "cat": "general",
+      "date": "2026-11-20",
+      "title": "Give holiday shoppers more value without relying on discounts",
+      "summary": "From the first promotional email to the moment a package arrives, every interaction is a chance to make a purchase feel worth the price. The post Give holiday shoppers more value without relying on discounts appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/give-holiday-shoppers-more-value-without-relying-on-discounts/",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-11-19",
       "title": "November 19, 2026",
@@ -222,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-11-18",
       "title": "November 18, 2026",
@@ -332,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-11-17",
       "title": "November 17, 2026",
@@ -392,7 +481,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-11-16",
       "title": "November 16, 2026",
@@ -432,7 +521,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-11-15",
       "title": "November 15, 2026",
@@ -442,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-9",
+      "id": "live-Google Cloud — All release notes-10",
       "cat": "general",
       "date": "2026-11-13",
       "title": "November 13, 2026",
@@ -482,7 +571,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-11-12",
       "title": "November 12, 2026",
@@ -502,7 +591,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-11-11",
       "title": "November 11, 2026",
@@ -552,7 +641,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-11-10",
       "title": "November 10, 2026",
@@ -609,16 +698,6 @@
       "summary": "In this supersized edition: Join us at Europe’s first Apple Developer Center. Say hello to Touch on Mac. Learn about the Swift Student Challenge 2027. Browse new App Review help articles. Explore new subscription features. Read now",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=ow0j45ny",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-13",
-      "cat": "general",
-      "date": "2026-11-09",
-      "title": "November 09, 2026",
-      "summary": "AI Hypercomputer Feature Generally available : Pathways on Cloud is now generally available on Google Kubernetes Engine (GKE). Major features include the following: Single-controller execution model : Coordinate multi-slice and multi-host C",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#November_09_2026",
       "live": true
     },
     {
