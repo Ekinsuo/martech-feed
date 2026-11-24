@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T01:01:38.239851+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 105,
+  "generated_at": "2026-11-24T14:49:13.580665+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 97,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -121,6 +122,16 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-11-24",
+      "title": "Adobe’s AI Features Keep Landing",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/adobes-ai-features-keep-landing-59d7bbe63bb1?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-11-23",
@@ -131,53 +142,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-11-23",
       "title": "BigQuery Working Examples: AI.RANK",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-rank-1f199867bdbb?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
-      "date": "2026-11-23",
-      "title": "How AI is re-shaping mid-market marketing",
-      "summary": "AI should give mid-market teams a boost as a force multiplier and eliminator of busywork. But is it? The post How AI is re-shaping mid-market marketing appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-ai-is-re-shaping-mid-market-marketing/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-11-23",
-      "title": "How to vet AI capabilities during martech RFPs",
-      "summary": "Six questions can tell you whether a vendor’s “AI” is genuinely new or just old automation with a fresh label. The post How to vet AI capabilities during martech RFPs appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-vet-ai-capabilities-during-martech-rfps/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-11-23",
-      "title": "What’s missing from your 2027 marketing AI budget?",
-      "summary": "Buying AI tools is easy. Getting teams to use them is harder. Here's how to fund the people and processes that turn AI spending into results. The post What s missing from your 2027 marketing AI budget? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/whats-missing-from-your-2027-marketing-ai-budget/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-11-23",
-      "title": "How to build reliable client reporting with AI by AgencyAnalytics",
-      "summary": "Give AI the right client data, and it’ll give you answers you can trust. The post How to build reliable client reporting with AI appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-build-reliable-client-reporting-with-ai/",
       "live": true
     },
     {
@@ -191,43 +162,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-20",
       "title": "Apache Iceberg’s REST Catalog Just Got a Standard Way to Express Row and Column Security",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/apache-icebergs-rest-catalog-just-got-a-standard-way-to-express-row-and-column-security-3beafb994574?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-11-20",
-      "title": "B2B events have an ROI problem before the show starts",
-      "summary": "Most teams know which accounts they want to reach, but weak meeting goals, CRM tagging, and follow-up make event ROI harder to prove. The post B2B events have an ROI problem before the show starts appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/b2b-events-have-an-roi-problem-before-the-show-starts/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-11-20",
-      "title": "Give holiday shoppers more value without relying on discounts",
-      "summary": "From the first promotional email to the moment a package arrives, every interaction is a chance to make a purchase feel worth the price. The post Give holiday shoppers more value without relying on discounts appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/give-holiday-shoppers-more-value-without-relying-on-discounts/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-11-20",
-      "title": "Intuit finds a buyer for Mailchimp in Bending Spoons",
-      "summary": "Intuit’s bet on marketing automation ends with a whimper, as Mailchimp finds a home with once-mighty tech brands like AOL, Evernote, and Airtable. The post Intuit finds a buyer for Mailchimp in Bending Spoons appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/",
       "live": true
     },
     {
@@ -241,23 +182,13 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-11-19",
       "title": "How to Connect BigQuery to Knowledge Catalog: Automatic Sync From Pipelines, Plus Adding Business…",
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/how-to-connect-bigquery-to-knowledge-catalog-automatic-sync-from-pipelines-plus-adding-business-b2d07e55a6ce?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-19",
-      "title": "How psychology can make AI-powered customer personas more useful",
-      "summary": "Chatting with a virtual customer is one thing. Anticipating how they'd act in unfamiliar situations requires a deeper understanding of human behavior. The post How psychology can make AI-powered customer personas more useful appeared first ",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-psychology-can-make-ai-powered-customer-personas-more-useful/",
       "live": true
     },
     {
@@ -301,7 +232,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-11-18",
       "title": "BigQuery Working Examples: AI.SCORE",
@@ -311,7 +242,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-11-18",
       "title": "BigQuery’s Conversation Logging for AI Agents Reached General Availability",
@@ -411,7 +342,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-11-17",
       "title": "Table-Level Data Lineage Is Now Built Into BigQuery’s Knowledge Catalog",
@@ -471,7 +402,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-11-16",
       "title": "Gemini 4 Hydrogen Joins BigQuery’s AI Functions, Built for the High-Volume Work",
@@ -518,16 +449,6 @@
       "summary": "Access Approval Feature Cloud Quotas is generally available ( GA ). Access Transparency Feature Cloud Quotas is generally available ( GA ). Apigee X Announcement On November 13, 2026, we released an updated version of Apigee (1-18-0-apigee-",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_13_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-11-13",
-      "title": "BigQuery Working Examples: AI.PARSE_DOCUMENT",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-parse-document-70262a5635fb?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
