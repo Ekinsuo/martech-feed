@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T14:32:14.900406+00:00",
+  "generated_at": "2026-11-24T01:01:38.239851+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
-  "count": 106,
+  "count": 105,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -26,7 +26,7 @@
       "name": "Looker Release Notes",
       "cat": "looker",
       "ok": true,
-      "items": 3
+      "items": 2
     },
     {
       "name": "Looker Studio Release Notes",
@@ -120,6 +120,16 @@
     }
   ],
   "signals": [
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-11-23",
+      "title": "November 23, 2026",
+      "summary": "App Engine flexible environment Node.js Feature Support for the Node.js 26 runtime is in General Availability (GA) . App Engine flexible environment Python Feature Support for the Python 3.15 runtime is in General Availability (GA) . App En",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_23_2026",
+      "live": true
+    },
     {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
@@ -491,13 +501,13 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-2",
-      "cat": "looker",
+      "id": "live-Google Cloud — All release notes-7",
+      "cat": "general",
       "date": "2026-11-15",
       "title": "November 15, 2026",
-      "summary": "Deployment dates Announcement Beginning February 1, 2027, billing will be in effect for usage of Gemini-assisted features that exceeds their instance token allocation. Gemini-assisted features are a set of agentic capabilities that include ",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#November_15_2026",
+      "summary": "Agent Platform Workbench Change 20261115-2230-rc0 Release Change 20261115-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from upstream dependencies. Change JupyterLab extension",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_15_2026",
       "live": true
     },
     {
@@ -711,23 +721,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-14",
-      "cat": "general",
-      "date": "2026-11-08",
-      "title": "November 08, 2026",
-      "summary": "Cloud Asset Inventory Feature The following resource type is publicly available through the SearchAllResources and SearchAllIamPolicies APIs. Gemini for Google Cloud cloudaicompanion.googleapis.com/Topic Google Cloud Marketplace Partners Fe",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#November_08_2026",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-16",
-      "cat": "general",
+      "id": "live-Looker Release Notes-6",
+      "cat": "looker",
       "date": "2026-11-06",
       "title": "November 06, 2026",
-      "summary": "Agent Registry Feature Skill security scanning and governance in Agent Registry are available. You can automatically scan standalone skill revisions for security issues, review Finding resources, enforce scanning policies across your organi",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#November_06_2026",
+      "summary": "Deployment dates Announcement Looker 26.24 will roll out to Looker (original) instances on the following schedule: Expected deployment start: Sunday, November 8, 2026 Expected final deployment and download available: Tuesday, December 8, 20",
+      "src": "Looker Release Notes",
+      "url": "https://docs.cloud.google.com/looker/docs/release-notes#November_06_2026",
       "live": true
     },
     {
@@ -761,7 +761,7 @@
       "live": true
     },
     {
-      "id": "live-Looker Release Notes-6",
+      "id": "live-Looker Release Notes-7",
       "cat": "looker",
       "date": "2026-11-04",
       "title": "November 04, 2026",
@@ -828,16 +828,6 @@
       "summary": "The beta versions of iOS 27.3, iPadOS 27.3, macOS 27.3, tvOS 27.3, visionOS 27.3, and watchOS 27.3 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 27.3",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=6gpufove",
-      "live": true
-    },
-    {
-      "id": "live-Looker Release Notes-7",
-      "cat": "looker",
-      "date": "2026-10-30",
-      "title": "October 30, 2026",
-      "summary": "Looker (Google Cloud core) and Looker (original) changes Announcement On November 1, 2026, several Canadian provinces and territories—Manitoba, Alberta, British Columbia, and parts of the Northwest Territories—transition to permanent daylig",
-      "src": "Looker Release Notes",
-      "url": "https://docs.cloud.google.com/looker/docs/release-notes#October_30_2026",
       "live": true
     },
     {
