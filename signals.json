@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:07:30.624429+00:00",
+  "generated_at": "2026-11-25T14:15:56.261071+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -121,11 +121,41 @@
   ],
   "signals": [
     {
+      "id": "live-MarTech.org-0",
+      "cat": "general",
+      "date": "2026-11-25",
+      "title": "The more AI can do, the more marketers need to know",
+      "summary": "Faster execution comes with new risks. Here's why marketers need strategic thinking, AI guardrails, and technical knowledge to make better decisions. The post The more AI can do, the more marketers need to know appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-more-ai-can-do-the-more-marketers-need-to-know/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-1",
+      "cat": "general",
+      "date": "2026-11-25",
+      "title": "How to create expert content your competitors can’t copy",
+      "summary": "Use video interviews to capture the professional judgment, real customer stories, and personal perspectives that AI cannot provide. The post How to create expert content your competitors can’t copy appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/how-to-create-expert-content-your-competitors-cant-copy/",
+      "live": true
+    },
+    {
+      "id": "live-MarTech.org-2",
+      "cat": "general",
+      "date": "2026-11-25",
+      "title": "The latest AI-powered martech news and releases",
+      "summary": "Does anyone like the chatbots on B2B websites? They're nothing more than over-powered search bars, but somehow nowhere near as useful. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+      "src": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "live": true
+    },
+    {
       "id": "live-Google Cloud — All release notes-0",
       "cat": "general",
       "date": "2026-11-24",
       "title": "November 24, 2026",
-      "summary": "BigQuery Feature The following table-valued functions are now generally available (GA) in the query editor and as part of conversational analytics to help you analyze your data: ML.TREND : identify the directional trajectory of your data. M",
+      "summary": "Apigee hybrid Announcement v1.15.11 On November 24, 2026, we released an updated version of the Apigee hybrid software, v1.15.11. For information about upgrading, see Upgrading Apigee hybrid to v1.15.11 . For information about new installat",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_24_2026",
       "live": true
@@ -141,7 +171,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
+      "id": "live-MarTech.org-3",
       "cat": "general",
       "date": "2026-11-24",
       "title": "What you need to know about ChatGPT ads vs. Google Ads",
@@ -151,7 +181,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-1",
+      "id": "live-MarTech.org-4",
       "cat": "general",
       "date": "2026-11-24",
       "title": "3 ways neglecting your brand undermines sales",
@@ -181,7 +211,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-2",
+      "id": "live-MarTech.org-5",
       "cat": "general",
       "date": "2026-11-23",
       "title": "How AI is re-shaping mid-market marketing",
@@ -191,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
+      "id": "live-MarTech.org-6",
       "cat": "general",
       "date": "2026-11-23",
       "title": "How to vet AI capabilities during martech RFPs",
@@ -201,23 +231,13 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-4",
+      "id": "live-MarTech.org-7",
       "cat": "general",
       "date": "2026-11-23",
       "title": "What’s missing from your 2027 marketing AI budget?",
       "summary": "Buying AI tools is easy. Getting teams to use them is harder. Here's how to fund the people and processes that turn AI spending into results. The post What s missing from your 2027 marketing AI budget? appeared first on MarTech .",
       "src": "MarTech.org",
       "url": "https://martech.org/whats-missing-from-your-2027-marketing-ai-budget/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-11-23",
-      "title": "How to build reliable client reporting with AI by AgencyAnalytics",
-      "summary": "Give AI the right client data, and it’ll give you answers you can trust. The post How to build reliable client reporting with AI appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-build-reliable-client-reporting-with-ai/",
       "live": true
     },
     {
@@ -238,26 +258,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/apache-icebergs-rest-catalog-just-got-a-standard-way-to-express-row-and-column-security-3beafb994574?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-11-20",
-      "title": "B2B events have an ROI problem before the show starts",
-      "summary": "Most teams know which accounts they want to reach, but weak meeting goals, CRM tagging, and follow-up make event ROI harder to prove. The post B2B events have an ROI problem before the show starts appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/b2b-events-have-an-roi-problem-before-the-show-starts/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-20",
-      "title": "Give holiday shoppers more value without relying on discounts",
-      "summary": "From the first promotional email to the moment a package arrives, every interaction is a chance to make a purchase feel worth the price. The post Give holiday shoppers more value without relying on discounts appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/give-holiday-shoppers-more-value-without-relying-on-discounts/",
       "live": true
     },
     {
