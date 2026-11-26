@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:37:27.478544+00:00",
+  "generated_at": "2026-11-26T13:51:00.720905+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -121,6 +121,26 @@
   ],
   "signals": [
     {
+      "id": "live-Tim Hutton-0",
+      "cat": "sgtm",
+      "date": "2026-11-26",
+      "title": "Firebase Agent Skills Let Coding Agents Edit GA4 App Tracking",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/firebase-agent-skills-let-coding-agents-edit-ga4-app-tracking-99ae40941fb3?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-0",
+      "cat": "general",
+      "date": "2026-11-25",
+      "title": "November 25, 2026",
+      "summary": "BigQuery Feature You can use cross-cloud connections to query data in AWS, Azure, and Salesforce Data 360 from all BigQuery regions with more feature availability than standard connections that use BigQuery Omni. This feature is generally a",
+      "src": "Google Cloud — All release notes",
+      "url": "https://docs.cloud.google.com/release-notes#November_25_2026",
+      "live": true
+    },
+    {
       "id": "live-MarTech.org-0",
       "cat": "general",
       "date": "2026-11-25",
@@ -151,7 +171,17 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-0",
+      "id": "live-EDPB — GDPR news-0",
+      "cat": "privacy",
+      "date": "2026-11-25",
+      "title": "Hellenic DPA fines Teleperformance Greece EUR 100 000 for GDPR breaches",
+      "summary": "Background information Date of final decision: 05/10/2026 National case Controller: TELEPERFORMANCE GREECE Legal References: Articles 5 (Principles relating to processing of personal data), 12 (Transparent information, communication and mod",
+      "src": "EDPB — GDPR news",
+      "url": "https://www.edpb.europa.eu/news/hellenic-dpa-fines-teleperformance-greece-eur-100-000-for-gdpr-breaches_en",
+      "live": true
+    },
+    {
+      "id": "live-Google Cloud — All release notes-1",
       "cat": "general",
       "date": "2026-11-24",
       "title": "November 24, 2026",
@@ -161,7 +191,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-0",
+      "id": "live-Tim Hutton-1",
       "cat": "sgtm",
       "date": "2026-11-24",
       "title": "Adobe’s AI Features Keep Landing",
@@ -191,7 +221,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-1",
+      "id": "live-Google Cloud — All release notes-2",
       "cat": "general",
       "date": "2026-11-23",
       "title": "November 23, 2026",
@@ -201,7 +231,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-23",
       "title": "BigQuery Working Examples: AI.RANK",
@@ -241,7 +271,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-3",
+      "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-11-20",
       "title": "November 20, 2026",
@@ -251,7 +281,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-11-20",
       "title": "Apache Iceberg’s REST Catalog Just Got a Standard Way to Express Row and Column Security",
@@ -261,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-4",
+      "id": "live-Google Cloud — All release notes-5",
       "cat": "general",
       "date": "2026-11-19",
       "title": "November 19, 2026",
@@ -271,7 +301,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-11-19",
       "title": "How to Connect BigQuery to Knowledge Catalog: Automatic Sync From Pipelines, Plus Adding Business…",
@@ -281,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-0",
+      "id": "live-EDPB — GDPR news-1",
       "cat": "privacy",
       "date": "2026-11-19",
       "title": "Norwegian DPA fines private individual for credit check and publication of personal data without a lawful basis",
@@ -291,7 +321,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-1",
+      "id": "live-EDPB — GDPR news-2",
       "cat": "privacy",
       "date": "2026-11-19",
       "title": "EDPB and DPAs from countries and organisation with EU adequacy decision take stock of progress and set 2027 priorities",
@@ -301,7 +331,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-2",
+      "id": "live-EDPB — GDPR news-3",
       "cat": "privacy",
       "date": "2026-11-19",
       "title": "The Norwegian Data Protection Authority fines Social Garden AS for publishing personal data without a lawful basis",
@@ -311,7 +341,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-5",
+      "id": "live-Google Cloud — All release notes-6",
       "cat": "general",
       "date": "2026-11-18",
       "title": "November 18, 2026",
@@ -321,7 +351,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-11-18",
       "title": "BigQuery Working Examples: AI.SCORE",
@@ -331,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-11-18",
       "title": "BigQuery’s Conversation Logging for AI Agents Reached General Availability",
@@ -371,7 +401,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-3",
+      "id": "live-EDPB — GDPR news-4",
       "cat": "privacy",
       "date": "2026-11-18",
       "title": "Italian DPA fines a company EUR 25 500 over employee access rights and corporate email accounts",
@@ -381,7 +411,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-4",
+      "id": "live-EDPB — GDPR news-5",
       "cat": "privacy",
       "date": "2026-11-18",
       "title": "Italian DPA fines Meta EUR 805 million for unlawful access to Facebook users’ photo galleries",
@@ -391,7 +421,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-5",
+      "id": "live-EDPB — GDPR news-6",
       "cat": "privacy",
       "date": "2026-11-18",
       "title": "Italian DPA fines radiology centre and IT provider a combined EUR 28 000 for exposing patient health data",
@@ -401,7 +431,7 @@
       "live": true
     },
     {
-      "id": "live-EDPB — GDPR news-6",
+      "id": "live-EDPB — GDPR news-7",
       "cat": "privacy",
       "date": "2026-11-18",
       "title": "Italian DPA fines Business School EUR 8 000 for unlawful telemarketing and failure to handle data subject request",
@@ -421,7 +451,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-6",
+      "id": "live-Google Cloud — All release notes-7",
       "cat": "general",
       "date": "2026-11-17",
       "title": "November 17, 2026",
@@ -431,7 +461,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-11-17",
       "title": "Table-Level Data Lineage Is Now Built Into BigQuery’s Knowledge Catalog",
@@ -448,16 +478,6 @@
       "summary": "The App Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts. From time to time, we may need to adjust prices or your proceeds due to changes in tax regula",
       "src": "Apple Developer News",
       "url": "https://developer.apple.com/news/?id=4o5ie73a",
-      "live": true
-    },
-    {
-      "id": "live-EDPB — GDPR news-7",
-      "cat": "privacy",
-      "date": "2026-11-17",
-      "title": "Irish Data Protection Commission fines MTCH EUR 11 million following Inquiry into Tinder users’ personal data requests",
-      "summary": "Background information Date of final decision: 13/11/2026 National case Controller: MTCH Technology Services Limited (“MTCH”) Legal References: Article 15 (Right to access by the data subject) Decision: Administrative fine, Compliance order",
-      "src": "EDPB — GDPR news",
-      "url": "https://www.edpb.europa.eu/news/irish-data-protection-commission-fines-mtch-eur-11-million-following-inquiry-into-tinder-users_en",
       "live": true
     },
     {
@@ -481,23 +501,13 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-7",
+      "id": "live-Google Cloud — All release notes-8",
       "cat": "general",
       "date": "2026-11-16",
       "title": "November 16, 2026",
       "summary": "Agent Platform Workbench Change 20261115.00_p0 Release Change Installed latest packages from upstream dependencies. Change JupyterLab extension settings are now prepared when the image is built, so Workbench instances that use an unmodified",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_16_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-11-16",
-      "title": "Gemini 4 Hydrogen Joins BigQuery’s AI Functions, Built for the High-Volume Work",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/gemini-4-hydrogen-joins-bigquerys-ai-functions-built-for-the-high-volume-work-d183598fbd78?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
@@ -521,7 +531,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-8",
+      "id": "live-Google Cloud — All release notes-9",
       "cat": "general",
       "date": "2026-11-15",
       "title": "November 15, 2026",
@@ -531,7 +541,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-10",
+      "id": "live-Google Cloud — All release notes-11",
       "cat": "general",
       "date": "2026-11-13",
       "title": "November 13, 2026",
@@ -571,7 +581,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-11",
+      "id": "live-Google Cloud — All release notes-12",
       "cat": "general",
       "date": "2026-11-12",
       "title": "November 12, 2026",
@@ -591,7 +601,7 @@
       "live": true
     },
     {
-      "id": "live-Google Cloud — All release notes-12",
+      "id": "live-Google Cloud — All release notes-13",
       "cat": "general",
       "date": "2026-11-11",
       "title": "November 11, 2026",
@@ -638,16 +648,6 @@
       "summary": "We’ve launched a new diagnostic to alert users of issues with user-provided data (UPD) implementation If your property fails to receive data or encounters quality issues, diagnostics appear in Google Analytics Admin and Data streams panels.",
       "src": "GA4 — What's new",
       "url": "https://support.google.com/analytics/answer/9164320?hl=en",
-      "live": true
-    },
-    {
-      "id": "live-Google Cloud — All release notes-13",
-      "cat": "general",
-      "date": "2026-11-10",
-      "title": "November 10, 2026",
-      "summary": "API Gateway Feature MCP method and tool name in request logs API Gateway request logs now include the Model Context Protocol (MCP) method of each MCP request, and the tool name of each tools/call request, in the jsonPayload.mcp field. You c",
-      "src": "Google Cloud — All release notes",
-      "url": "https://docs.cloud.google.com/release-notes#November_10_2026",
       "live": true
     },
     {
