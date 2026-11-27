@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T22:27:07.888073+00:00",
+  "generated_at": "2026-11-27T13:48:33.840242+00:00",
   "ok_sources": 15,
   "fail_sources": 3,
   "count": 105,
@@ -123,6 +123,16 @@
     {
       "id": "live-Tim Hutton-0",
       "cat": "sgtm",
+      "date": "2026-11-27",
+      "title": "How to Give Users Access to Only Certain Tables in BigQuery",
+      "summary": "(no summary — open source)",
+      "src": "Tim Hutton",
+      "url": "https://timhuttonco.medium.com/how-to-give-users-access-to-only-certain-tables-in-bigquery-64bc251e87d2?source=rss-dee55f7031b6------2",
+      "live": true
+    },
+    {
+      "id": "live-Tim Hutton-1",
+      "cat": "sgtm",
       "date": "2026-11-26",
       "title": "Firebase Agent Skills Let Coding Agents Edit GA4 App Tracking",
       "summary": "(no summary — open source)",
@@ -191,7 +201,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-1",
+      "id": "live-Tim Hutton-2",
       "cat": "sgtm",
       "date": "2026-11-24",
       "title": "Adobe’s AI Features Keep Landing",
@@ -231,7 +241,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-2",
+      "id": "live-Tim Hutton-3",
       "cat": "sgtm",
       "date": "2026-11-23",
       "title": "BigQuery Working Examples: AI.RANK",
@@ -281,7 +291,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-3",
+      "id": "live-Tim Hutton-4",
       "cat": "sgtm",
       "date": "2026-11-20",
       "title": "Apache Iceberg’s REST Catalog Just Got a Standard Way to Express Row and Column Security",
@@ -301,7 +311,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-5",
+      "id": "live-Tim Hutton-6",
       "cat": "sgtm",
       "date": "2026-11-19",
       "title": "How to Connect BigQuery to Knowledge Catalog: Automatic Sync From Pipelines, Plus Adding Business…",
@@ -351,7 +361,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-4",
+      "id": "live-Tim Hutton-5",
       "cat": "sgtm",
       "date": "2026-11-18",
       "title": "BigQuery Working Examples: AI.SCORE",
@@ -361,7 +371,7 @@
       "live": true
     },
     {
-      "id": "live-Tim Hutton-6",
+      "id": "live-Tim Hutton-7",
       "cat": "sgtm",
       "date": "2026-11-18",
       "title": "BigQuery’s Conversation Logging for AI Agents Reached General Availability",
@@ -458,16 +468,6 @@
       "summary": "Access Context Manager Feature Extended session length for Workforce Identity Federation is generally available (GA) for OAuth apps owned by Google Cloud projects. You can configure sessions that last up to 90 days by using project scopes. ",
       "src": "Google Cloud — All release notes",
       "url": "https://docs.cloud.google.com/release-notes#November_17_2026",
-      "live": true
-    },
-    {
-      "id": "live-Tim Hutton-7",
-      "cat": "sgtm",
-      "date": "2026-11-17",
-      "title": "Table-Level Data Lineage Is Now Built Into BigQuery’s Knowledge Catalog",
-      "summary": "(no summary — open source)",
-      "src": "Tim Hutton",
-      "url": "https://timhuttonco.medium.com/table-level-data-lineage-is-now-built-into-bigquerys-knowledge-catalog-28ae5420e049?source=rss-dee55f7031b6------2",
       "live": true
     },
     {
