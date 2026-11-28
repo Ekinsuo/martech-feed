@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-27T22:08:37.800988+00:00",
-  "ok_sources": 15,
-  "fail_sources": 3,
-  "count": 105,
+  "generated_at": "2026-11-28T12:56:20.513366+00:00",
+  "ok_sources": 14,
+  "fail_sources": 4,
+  "count": 97,
   "sources": [
     {
       "name": "Google Cloud — All release notes",
@@ -76,8 +76,9 @@
     {
       "name": "MarTech.org",
       "cat": "general",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "WebKit Blog (ITP / Safari)",
@@ -151,36 +152,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-0",
-      "cat": "general",
-      "date": "2026-11-25",
-      "title": "The more AI can do, the more marketers need to know",
-      "summary": "Faster execution comes with new risks. Here's why marketers need strategic thinking, AI guardrails, and technical knowledge to make better decisions. The post The more AI can do, the more marketers need to know appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-more-ai-can-do-the-more-marketers-need-to-know/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-1",
-      "cat": "general",
-      "date": "2026-11-25",
-      "title": "How to create expert content your competitors can’t copy",
-      "summary": "Use video interviews to capture the professional judgment, real customer stories, and personal perspectives that AI cannot provide. The post How to create expert content your competitors can’t copy appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-create-expert-content-your-competitors-cant-copy/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-2",
-      "cat": "general",
-      "date": "2026-11-25",
-      "title": "The latest AI-powered martech news and releases",
-      "summary": "Does anyone like the chatbots on B2B websites? They're nothing more than over-powered search bars, but somehow nowhere near as useful. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "live": true
-    },
-    {
       "id": "live-EDPB — GDPR news-0",
       "cat": "privacy",
       "date": "2026-11-25",
@@ -211,26 +182,6 @@
       "live": true
     },
     {
-      "id": "live-MarTech.org-3",
-      "cat": "general",
-      "date": "2026-11-24",
-      "title": "What you need to know about ChatGPT ads vs. Google Ads",
-      "summary": "B2B tests show comparable CPCs to Google but weaker engagement, limited conversions, and less control of targeting and optimization. The post What you need to know about ChatGPT ads vs. Google Ads appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/what-you-need-to-know-about-chatgpt-ads-vs-google-ads/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-4",
-      "cat": "general",
-      "date": "2026-11-24",
-      "title": "3 ways neglecting your brand undermines sales",
-      "summary": "Skipping brand building doesn't save money. It creates marketing debt that makes generating sales harder and costlier when you need them most. The post 3 ways neglecting your brand undermines sales appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/3-ways-neglecting-your-brand-undermines-sales/",
-      "live": true
-    },
-    {
       "id": "live-Google Cloud — All release notes-4",
       "cat": "general",
       "date": "2026-11-23",
@@ -248,36 +199,6 @@
       "summary": "(no summary — open source)",
       "src": "Tim Hutton",
       "url": "https://timhuttonco.medium.com/bigquery-working-examples-ai-rank-1f199867bdbb?source=rss-dee55f7031b6------2",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-5",
-      "cat": "general",
-      "date": "2026-11-23",
-      "title": "How AI is re-shaping mid-market marketing",
-      "summary": "AI should give mid-market teams a boost as a force multiplier and eliminator of busywork. But is it? The post How AI is re-shaping mid-market marketing appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-ai-is-re-shaping-mid-market-marketing/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-6",
-      "cat": "general",
-      "date": "2026-11-23",
-      "title": "How to vet AI capabilities during martech RFPs",
-      "summary": "Six questions can tell you whether a vendor’s “AI” is genuinely new or just old automation with a fresh label. The post How to vet AI capabilities during martech RFPs appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/how-to-vet-ai-capabilities-during-martech-rfps/",
-      "live": true
-    },
-    {
-      "id": "live-MarTech.org-7",
-      "cat": "general",
-      "date": "2026-11-23",
-      "title": "What’s missing from your 2027 marketing AI budget?",
-      "summary": "Buying AI tools is easy. Getting teams to use them is harder. Here's how to fund the people and processes that turn AI spending into results. The post What s missing from your 2027 marketing AI budget? appeared first on MarTech .",
-      "src": "MarTech.org",
-      "url": "https://martech.org/whats-missing-from-your-2027-marketing-ai-budget/",
       "live": true
     },
     {
